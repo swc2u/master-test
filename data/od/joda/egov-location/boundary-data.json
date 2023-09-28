@@ -1,0 +1,262 @@
+{
+  "tenantId": "od.joda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Joda",
+        "localname": "Joda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.joda",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Baneikala",
+            "localname": "Baneikala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Joda",
+            "localname": "Joda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kamarjoda",
+            "localname": "Kamarjoda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Banspani",
+            "localname": "Banspani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Bichakundi",
+            "localname": "Bichakundi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+		  {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Balada",
+            "localname": "Balada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JOD1",
+            "children": []
+        },
+        {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Birikala",
+            "localname": "Birikala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JOD2",
+            "children": []
+        },
+        {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Deojhar",
+            "localname": "Deojhar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JOD3",
+            "children": []
+        },
+        {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Jajang",
+            "localname": "Jajang",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JOD4",
+            "children": []
+        },
+        {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Jalahari",
+            "localname": "Jalahari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JOD5",
+            "children": []
+        },
+        {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Jurudi",
+            "localname": "Jurudi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JOD6",
+            "children": []
+        },
+        {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Kandra",
+            "localname": "Kandra",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JOD7",
+            "children": []
+        },
+        {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Loidapada",
+            "localname": "Loidapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JOD8",
+            "children": []
+        },
+        {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Palasa ",
+            "localname": "Palasa ",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JOD9",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JOD10",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Joda",
+        "localname": "Joda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.joda",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Baneikala",
+            "localname": "Baneikala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Joda",
+            "localname": "Joda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kamarjoda",
+            "localname": "Kamarjoda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Banspani",
+            "localname": "Banspani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Bichakundi",
+            "localname": "Bichakundi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          }
+        ]
+      }
+    }
+  ]
+}

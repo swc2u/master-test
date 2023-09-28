@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.bhawanipatna",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

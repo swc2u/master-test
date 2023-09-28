@@ -1,0 +1,35 @@
+{
+  "tenantId": "od.gopalpur",
+  "moduleName": "TradeLicense",
+  "TemporaryTradeType": [
+    {
+      "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST264",
+      "name": "Cabin",
+      "uom": "NUMBEROFDAYS",
+      "uomDescription": "Number of Days",
+      "applicationDocument": [
+        {
+          "applicationType": "NEW",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO"
+          ]
+        },
+        {
+          "applicationType": "RENEWAL",
+          "documentList": [
+            "OWNERIDPROOF",
+            "OWNERSHIPPROOF",
+            "OWNERPHOTO",
+            "OLDLICENCENO"
+          ]
+        }
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    }
+  ]
+}

@@ -1,0 +1,860 @@
+{
+  "tenantId": "od",
+  "moduleName": "common-masters",
+  "DocumentType": [
+    {
+      "code": "APPL.IDENTITYPROOF.AADHAAR",
+      "active": false
+    },
+    {
+      "code": "APPL.IDENTITYPROOF.PASSPORT",
+      "active": true
+    },
+    {
+      "code": "APPL.IDENTITYPROOF.DRIVINGLICENSE",
+      "active": true
+    },
+    {
+      "code": "APPL.IDENTITYPROOF.OTHER",
+      "active": true
+    },
+    {
+      "code": "APPL.OWNERIDPROOF.AADHAAR",
+      "active": false
+    },
+    {
+      "code": "APPL.OWNERIDPROOF.PASSPORT",
+      "active": true
+    },
+    {
+      "code": "APPL.OWNERIDPROOF.DRIVINGLICENSE",
+      "active": true
+    },
+    {
+      "code": "APPL.OWNERIDPROOF.OTHER",
+      "active": true
+    },	
+    {
+      "code": "APPL.ADDRESSPROOF.ELECTRICITYBILL",
+      "active": true
+    },
+    {
+      "code": "APPL.ADDRESSPROOF.PASSPORT",
+      "active": true
+    },
+    {
+      "code": "APPL.LTR.LTR",
+      "active": true
+    },
+    {
+      "code": "APPL.TDP.TDP",
+      "active": true
+    },
+    {
+      "code": "APPL.LAC.LAC",
+      "active": true
+    },
+    {
+      "code": "APPL.SSC.SSC",
+      "active": true
+    },
+    {
+      "code": "APPL.LSVS.LSVS",
+      "active": true
+    },
+    {
+      "code": "APPL.ROR.ROR",
+      "active": true
+    },
+	{
+      "code": "APPL.SALEGIFTDEED.SALEGIFTDEED",
+      "active": true
+    },
+	{
+      "code": "APPL.REVSITEPLAN.REVSITEPLAN",
+      "active": true
+    },	
+	{
+      "code": "APPL.LANDPOSSAFFI.LANDPOSSAFFI",
+      "active": true
+    },
+    {
+      "code": "APPL.OTHERDOCUMENT",
+      "active": true
+    },
+    {
+      "code": "APPL.TEMPSTRUCTUREPHOTO",
+      "active": true
+    },
+    {
+      "code": "APPL.ROADWIDENINGCERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "APPL.APPROVEDPLANFOREXISTINGCONSTRUCTION",
+      "active": true
+    },
+    {
+      "code": "APPL.APPROVALLETTERFOREXISTINGCONSTRUCTION",
+      "active": true
+    },
+    {
+      "code": "APPL.REVISION_OLDPERMITLETTER",
+      "active": true
+    },
+    {
+      "code": "APPL.REVISION_OLDBUILDINGPLANLAYOUT",
+      "active": true
+    },
+    {
+      "code": "APPL.REVISION_OTHERDOCUMENT",
+      "active": true
+    },
+    {
+      "code": "BPD.BPL.BPL",
+      "active": true
+    },	
+    {
+      "code": "BPD.SP.SP",
+      "active": true
+    },
+    {
+      "code": "BPD.LP.LP",
+      "active": true
+    },	
+    {
+      "code": "BPD.MATSPEC.MATSPEC",
+      "active": true
+    },
+    {
+      "code": "BPD.SITEPHOTO.SITEPHOTO",
+      "active": true
+    },	
+    {
+      "code": "BPD.SSUPCERT.SSUPCERT",
+      "active": true
+    },	
+    {
+      "code": "BPD.SSTABCERT.SSTABCERT",
+      "active": true
+    },
+    {
+      "code": "BPD.3RDPARTYSTRUCCERT.3RDPARTYSTRUCCERT",
+      "active": true
+    },
+    {
+      "code": "BPD.LIFTCOUNTRELAXATIONCERT.LIFTCOUNTRELAXATIONCERT",
+      "active": true
+    },	
+    {
+      "code": "BPD.RP.RP",
+      "active": true
+    },
+    {
+      "code": "BPD.FP.FP",
+      "active": true
+    },
+    {
+      "code": "BPD.SCP.SCP",
+      "active": true
+    },
+    {
+      "code": "BPD.EP.EP",
+      "active": true
+    },
+    {
+      "code": "BPD.SECP.SECP",
+      "active": true
+    },
+    {
+      "code": "BPD.PP.PP",
+      "active": true
+    },
+    {
+      "code": "NOC.FIRE.CERTIFICATE",
+      "active": true
+    },
+	
+    {
+      "code": "NOC.FIRE.PlainApplication",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.ApplicantSignature",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.ApplicantPhoto",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.OwnershipDoc",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.IdentityProofDoc",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.FIRE.BuildingPlan",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.UNDERTAKING1A",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.SITEELEVATION",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.SITECORDINATES",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.AUTHORIZATION",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.PERMISSION",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.CERTIFICATE",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AGRICULTURE.LANDUSE",
+      "active": true
+    },
+    {
+      "code": "NOC.AGRICULTURE_WATERBODY.FTL",
+      "active": true
+    },
+    {
+      "code": "FI.FIR.FIR",
+      "active": true
+    },
+
+    {
+      "code": "FI.SIPU.SIPU",
+      "active": true
+    },
+	
+    {
+      "code": "FI.CINS.CINS",
+      "active": true
+    },
+    {
+      "code": "FI.CISS.CISS",
+      "active": true
+    },
+    {
+      "code": "FI.CIES.CIES",
+      "active": true
+    },
+    {
+      "code": "FI.CIWS.CIWS",
+      "active": true
+    },
+	{
+      "code": "FI.SIDE_DRAIN.SIDE_DRAIN",
+      "active": true
+    },
+	{
+      "code": "FI.WATERSUPPLY.WATERSUPPLY",
+      "active": true
+    },
+	
+	{
+      "code": "FI.ELECTRICITYSUPPLY.ELECTRICITYSUPPLY",
+      "active": true
+    },
+	{
+      "code": "FI.SEWERAGEDISPOSAL.SEWERAGEDISPOSAL",
+      "active": true
+    },
+	{
+      "code": "FI.DRAINAGE.DRAINAGE",
+      "active": true
+    },
+	{
+      "code": "FI.TREES.TREES",
+      "active": true
+    },
+	{
+      "code": "FI.RECHARGING_PITS.RECHARGING_PITS",
+      "active": true
+    },
+	{
+      "code": "FI.RAINWATER_HARVESTING.RAINWATER_HARVESTING",
+      "active": true
+    },
+	{
+      "code": "FI.STAIRCASES.STAIRCASES",
+      "active": true
+    },
+	{
+      "code": "FI.LIFTS.LIFTS",
+      "active": true
+    },
+	{
+      "code": "FI.PHOTOGRAPHS.PHOTOGRAPHS",
+      "active": true
+    },
+	
+    {
+      "code": "NOC.AIRPORT.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "APPL.BUILDING_DIAGRAM.SECTION_PLAN",
+      "active": true
+    },
+    {
+      "code": "APPL.BUILDING_DIAGRAM.ELEVATION_PLAN",
+      "active": true
+    },
+    {
+      "code": "APPL.BUILDING_DIAGRAM.FLOOR_PLAN",
+      "active": true
+    },
+    {
+      "code": "APPL.LOCALBODY.MUNCIPAL_APPROVAL",
+      "active": true
+    },
+    {
+      "code": "APPL.LOCALBODY.PANCHAYAT_APPROVAL",
+      "active": true
+    },
+    {
+      "code": "APPL.LOCALBODY.DTCP_APPROVAL",
+      "active": true
+    },
+
+    {
+      "code": "OWNERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "OWNERSHIPPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "OWNERPHOTO",
+      "allowedFormat": [
+        "image/*",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 3000
+    },
+    {
+      "code": "OLDLICENCENO",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "ADDL.ALLOTMENTLETTER.ALLOTMENTLETTER",
+      "active": true
+    },
+    {
+      "code": "ADDL.SKETCHMAP.SKETCHMAP",
+      "active": true
+    },
+    {
+      "code": "ADDL.POSSESSIONLETTER.POSSESSIONLETTER",
+      "active": true
+    },
+    {
+      "code": "ADDL.APPROVEDLAYOUT.APPROVEDLAYOUT",
+      "active": true
+    },
+    {
+      "code": "ADDL.RERACERTIFICATE.RERACERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "ADDL.BENCHMARKCERTIFICATE.BENCHMARKCERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "ADDL.REGULARISATIONANNEXUREI.REGULARISATIONANNEXUREI",
+      "active": true
+    },
+    {
+      "code": "ADDL.EIDPFEERECEIPT.EIDPFEERECEIPT",
+      "active": true
+    },
+    {
+      "code": "ADDL.PHEDNOC.PHEDNOC",
+      "active": true
+    },
+    {
+      "code": "ADDL.EXTERNALINFRAPLAN.EXTERNALINFRAPLAN",
+      "active": true
+    },
+    {
+      "code": "ADDL.INFRADEVAFFIDAVIT.INFRADEVAFFIDAVIT",
+      "active": true
+    },
+    {
+      "code": "ADDL.PLANDEVIATIONAFFIDAVIT.PLANDEVIATIONAFFIDAVIT",
+      "active": true
+    },
+    {
+      "code": "ADDL.ONEPERCENTFEERECEIPT.ONEPERCENTFEERECEIPT",
+      "active": true
+    },
+    {
+      "code": "ADDL.DRAINAFFIDAVIT.DRAINAFFIDAVIT",
+      "active": true
+    },
+    {
+      "code": "ADDL.WASTEMANAGMENTPLAN.WASTEMANAGMENTPLAN",
+      "active": true
+    },
+    {
+      "code": "NOC.NOCDEPUTYFORESTOFFICER.NOC",
+      "active": true
+    },
+    {
+      "code": "NOC.ENVCLEARANCE.NOC",
+      "active": true
+    },
+    {
+      "code": "NOC.NOCULBHUD.NOC",
+      "active": true
+    },
+    {
+      "code": "NOC.NOCPUBHLTHENGGORG.NOC",
+      "active": true
+    },
+    {
+      "code": "NOC.NOCELECTRICDISCOMP.NOC",
+      "active": true
+    },
+    {
+      "code": "NOC.NOCPOLUNHOMEDEPT.NOC",
+      "active": true
+    },
+    {
+      "code": "NOC.NOCWATERRESDEPT.NOC",
+      "active": true
+    },
+    {
+      "code": "NOC.NOCODSPCB.NOC",
+      "active": true
+    },
+    {
+      "code": "NOC.NOCTEHREVDISASMANG.NOC",
+      "active": true
+    },
+    {
+      "code": "NOC.NOCNHAI.NOC",
+      "active": true
+    },
+    {
+      "code": "APPL.CONSTCOMPTCERT.CERT",
+      "active": true
+    },
+    {
+      "code": "APPL.OTHERDOC.DOC",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Elevation",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.InCaseOfRepairs",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Signature",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Other",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.Section",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.FirmFiles",
+      "active": true
+    },
+    {
+      "code": "NOC.NMA.GoogleEarthImage",
+      "active": true
+    },
+    {
+      "code": "NOC.HBDA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.DFO.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.SA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.EC.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.HUDULB.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.PHEO.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.CGWA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.EDC.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.HDPOLICE.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.WRD.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.PCB.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.RDMTEHSILDAR.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.NHAI.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "NOC.COASTALREG.CERTIFICATE",
+      "active": true
+    },
+	{
+      "code": "PAP.PREAPPROVED_ALLOTMENTLETTER",
+      "active": true
+    },
+
+    {
+      "code": "PAP.PREAPPROVED_SCHEMEDRAWING",
+      "active": true
+    },
+
+    {
+      "code": "PAP.PREAPPROVED_LAYOUTAPPROVELLETTER",
+      "active": true
+    },
+
+    {
+      "code": "PAP.PREAPPROVED_APPROVEDLAYOUTDRAWING",
+      "active": true
+    },
+	{
+      "code": "PAP.PREAPPROVED_GIFTDEEDDOCUMENT",
+      "active": true
+    },
+	{
+      "code": "PAP.PREAPPROVED_OTHERS",
+      "active": true
+    },
+	{
+      "code": "AAS.APPROVED_PLAN_FOR_EXISTING_CONSTRUCTION",
+      "active": true
+    },
+	{
+      "code": "AAS.APPROVAL_LETTER_FOR_EXISTING_CONSTRUCTION",
+      "active": true
+    },
+    {
+      "code": "ADDNOC.NOCSJTA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "ADDNOC.NOCTSDR.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "ADDNOC.NOCOSCZMA.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "ADDNOC.NOCSPCB.CERTIFICATE",
+      "active": true
+    },
+    {
+      "code": "MR.BRIDEIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEFATHERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEMOTHERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEGUARDIANIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEWITNESSIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEINVITATIONCARD",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDERESIDENTIALPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.BRIDEDIVYANGPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMFATHERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMMOTHERIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMGUARDIANIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMWITNESSIDPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMINVITATIONCARD",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMRESIDENTIALPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.GROOMDIVYANGPROOF",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "MR.JOINTPHOTO",
+      "allowedFormat": [
+        "image/*",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 3000
+    },
+    {
+      "code": "MR.JOINTAFFIDAVIT",
+      "allowedFormat": [
+        "image/*",
+        ".pdf",
+        ".png",
+        ".jpeg"
+      ],
+      "maxFileSize": 6000
+    },
+    {
+      "code": "RVL.SITE_PHOTOGRAPH",
+      "active": true
+    },
+    {
+      "code": "RVL.OTHER_DOCUMENTS",
+      "active": true
+    },
+    {
+      "code": "RVL.APPROVAL_LETTER",
+      "active": true
+    },
+    {
+      "code": "RVL.BUILDING_PERMIT_LAYOUTDRAWING",
+      "active": true
+    }
+  ]
+}

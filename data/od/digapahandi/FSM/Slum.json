@@ -1,0 +1,18 @@
+{
+    "tenantId": "od.digapahandi",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Medri Adrasa Colony",
+            "active": true,
+            "code": "DIGA001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nimapali Adarsa Colony",
+            "active": true,
+            "code": "DIGA002",
+            "locality": "VIL1"
+        }
+    ]
+}

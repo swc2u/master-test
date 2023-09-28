@@ -1,0 +1,608 @@
+{
+  "tenantId": "od.khariarroad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khariarroad",
+        "localname": "Khariarroad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khariarroad",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 3, Banka",
+            "localname": "Khariar Road Town, Unit No. 3, Banka",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 2, Mundagaon",
+            "localname": "Khariar Road Town, Unit No. 2, Mundagaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 4, Bazar Pada",
+            "localname": "Khariar Road Town, Unit No. 4, Bazar Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town,Unit No. 5, Bazar Pada .",
+            "localname": "Khariar Road Town,Unit No. 5, Bazar Pada .",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town  Unit No. 7, Daga Chowk Pada",
+            "localname": "Khariar Road Town  Unit No. 7, Daga Chowk Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 6, Limaidabri Pada.",
+            "localname": "Khariar Road Town, Unit No. 6, Limaidabri Pada.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Khariar Road  Town,Unit No. 1, Kurumunda.",
+            "localname": "Khariar Road  Town,Unit No. 1, Kurumunda.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town,Unit No 8 ,Mandir Pada",
+            "localname": "Khariar Road Town,Unit No 8 ,Mandir Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 9, Sankar Mandir Pada",
+            "localname": "Khariar Road Town, Unit No. 9, Sankar Mandir Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Khariar Road  Town Unit No. 14, Mahalaxmi Pada.",
+            "localname": "Khariar Road  Town Unit No. 14, Mahalaxmi Pada.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Khariar Road  Town,Unit No. 15, Guru Nanak Nagar.",
+            "localname": "Khariar Road  Town,Unit No. 15, Guru Nanak Nagar.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 16, Chalmunda.",
+            "localname": "Khariar Road Town, Unit No. 16, Chalmunda.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 17,Khopetara",
+            "localname": "Khariar Road Town, Unit No. 17,Khopetara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 12, Nuadihi",
+            "localname": "Khariar Road Town, Unit No. 12, Nuadihi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 13, Patel Nagar",
+            "localname": "Khariar Road Town, Unit No. 13, Patel Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 11, Dumerdihi Village.",
+            "localname": "Khariar Road Town, Unit No. 11, Dumerdihi Village.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Khariar Road  Town,Unit No. 10, Mongrapali .",
+            "localname": "Khariar Road  Town,Unit No. 10, Mongrapali .",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL17"
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 4, Bazar Pada",
+            "localname": "Khariar Road Town, Unit No. 4, Bazar Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL18"
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 16, Chalmunda.",
+            "localname": "Khariar Road Town, Unit No. 16, Chalmunda.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL19"
+          },
+		  {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL20"
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Amersena",
+            "localname": "Amersena",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR1",
+            "children": []
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Bhaisatal",
+            "localname": "Bhaisatal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR2",
+            "children": []
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Saliha",
+            "localname": "Saliha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR3",
+            "children": []
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "dumerpani",
+            "localname": "dumerpani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR4",
+            "children": []
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Budhipali",
+            "localname": "Budhipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR5",
+            "children": []
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Parkod",
+            "localname": "Parkod",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR6",
+            "children": []
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Bisora",
+            "localname": "Bisora",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR7",
+            "children": []
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Borinhadi",
+            "localname": "Borinhadi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR8",
+            "children": []
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Birmol",
+            "localname": "Birmol",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR9",
+            "children": []
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Beltukri",
+            "localname": "Beltukri",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR10",
+            "children": []
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Kadomberi",
+            "localname": "Kadomberi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR11",
+            "children": []
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Bhaleswar",
+            "localname": "Bhaleswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR12",
+            "children": []
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Kuliabandha",
+            "localname": "Kuliabandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR13",
+            "children": []
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "Jampani",
+            "localname": "Jampani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR14",
+            "children": []
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "Kodomeri",
+            "localname": "Kodomeri",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR15",
+            "children": []
+          },
+          {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KRR16",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khariarroad",
+        "localname": "Khariarroad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khariarroad",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 3, Banka",
+            "localname": "Khariar Road Town, Unit No. 3, Banka",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 2, Mundagaon",
+            "localname": "Khariar Road Town, Unit No. 2, Mundagaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 4, Bazar Pada",
+            "localname": "Khariar Road Town, Unit No. 4, Bazar Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town,Unit No. 5, Bazar Pada .",
+            "localname": "Khariar Road Town,Unit No. 5, Bazar Pada .",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town  Unit No. 7, Daga Chowk Pada",
+            "localname": "Khariar Road Town  Unit No. 7, Daga Chowk Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 6, Limaidabri Pada.",
+            "localname": "Khariar Road Town, Unit No. 6, Limaidabri Pada.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Khariar Road  Town,Unit No. 1, Kurumunda.",
+            "localname": "Khariar Road  Town,Unit No. 1, Kurumunda.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town,Unit No 8 ,Mandir Pada",
+            "localname": "Khariar Road Town,Unit No 8 ,Mandir Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 9, Sankar Mandir Pada",
+            "localname": "Khariar Road Town, Unit No. 9, Sankar Mandir Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Khariar Road  Town Unit No. 14, Mahalaxmi Pada.",
+            "localname": "Khariar Road  Town Unit No. 14, Mahalaxmi Pada.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Khariar Road  Town,Unit No. 15, Guru Nanak Nagar.",
+            "localname": "Khariar Road  Town,Unit No. 15, Guru Nanak Nagar.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 16, Chalmunda.",
+            "localname": "Khariar Road Town, Unit No. 16, Chalmunda.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 17,Khopetara",
+            "localname": "Khariar Road Town, Unit No. 17,Khopetara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 12, Nuadihi",
+            "localname": "Khariar Road Town, Unit No. 12, Nuadihi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 13, Patel Nagar",
+            "localname": "Khariar Road Town, Unit No. 13, Patel Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 11, Dumerdihi Village.",
+            "localname": "Khariar Road Town, Unit No. 11, Dumerdihi Village.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Khariar Road  Town,Unit No. 10, Mongrapali .",
+            "localname": "Khariar Road  Town,Unit No. 10, Mongrapali .",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL17"
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 4, Bazar Pada",
+            "localname": "Khariar Road Town, Unit No. 4, Bazar Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL18"
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Khariar Road Town, Unit No. 16, Chalmunda.",
+            "localname": "Khariar Road Town, Unit No. 16, Chalmunda.",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL19"
+          }
+        ]
+      }
+    }
+  ]
+}

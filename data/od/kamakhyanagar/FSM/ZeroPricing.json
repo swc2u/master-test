@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.kamakhyanagar",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

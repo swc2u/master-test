@@ -1,0 +1,108 @@
+{
+    "tenantId": "od.attabira",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Mahultikra",
+            "active": true,
+            "code": "ATTA001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bartaltikra",
+            "active": true,
+            "code": "ATTA002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jharbudentikra",
+            "active": true,
+            "code": "ATTA003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Canalpada",
+            "active": true,
+            "code": "ATTA004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kudapada",
+            "active": true,
+            "code": "ATTA005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Milpada",
+            "active": true,
+            "code": "ATTA006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Durga Nagar",
+            "active": true,
+            "code": "ATTA007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Rugudipada",
+            "active": true,
+            "code": "ATTA008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Durgamandirpada",
+            "active": true,
+            "code": "ATTA009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Banpada",
+            "active": true,
+            "code": "ATTA010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Shantipada",
+            "active": true,
+            "code": "ATTA011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Samarupada",
+            "active": true,
+            "code": "ATTA012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bajrangpada",
+            "active": true,
+            "code": "ATTA013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Butubandpada",
+            "active": true,
+            "code": "ATTA014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tangarpada",
+            "active": true,
+            "code": "ATTA015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Minarbandpada",
+            "active": true,
+            "code": "ATTA016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tahasilpada",
+            "active": true,
+            "code": "ATTA017",
+            "locality": "VIL1"
+        }
+    ]
+}

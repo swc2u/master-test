@@ -1,0 +1,41 @@
+{
+    "tenantId": "od.talcher",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Remua Nuasahi Slum",
+        "active": true,
+        "code": "TASL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Singhsahi Slum",
+        "active": true,
+        "code": "TASL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Leprosy Colony Slum",
+        "active": true,
+        "code": "TASL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Baghuabol Harijan Sahi Slum",
+        "active": true,
+        "code": "TASL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dimargudi Sahi Slum",
+        "active": true,
+        "code": "TASL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Munda Hating Slum",
+        "active": true,
+        "code": "TASL006",
+        "locality": "VIL1"
+    }]
+}

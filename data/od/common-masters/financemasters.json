@@ -1,0 +1,12 @@
+{
+  "tenantId": "od",
+  "moduleName": "common-masters",
+ 
+ "mapping": [
+   {
+       "departments": "DEPT_3,DEPT_25,DEPT_52,DEPT_53,DEPT_54,DEPT_55,DEPT_56,DEPT_57,DEPT_58,DEPT_59,DEPT_60,DEPT_61,DEPT_62,DEPT_63,DEPT_64,DEPT_65,DEPT_66,DEPT_67,DEPT_68,DEPT_69,DEPT_70",
+       "designation": "DESIG_1001,DESIG_58,DESIG_24,DESIG_47,JE_PWSSB,DESIG_15,DESIG_13" 
+   }
+   ]
+}
+

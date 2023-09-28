@@ -1,0 +1,114 @@
+{
+    "tenantId": "od.bargarh",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Nilibandh Pada",
+            "active": true,
+            "code": "BARG001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Banji Jhupudi",
+            "active": true,
+            "code": "BARG002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nuapada",
+            "active": true,
+            "code": "BARG003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mangala Pada",
+            "active": true,
+            "code": "BARG004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Harijan Pada",
+            "active": true,
+            "code": "BARG005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gandhinagar",
+            "active": true,
+            "code": "BARG006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ambedkar Nagar",
+            "active": true,
+            "code": "BARG007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Benudhar Pada",
+            "active": true,
+            "code": "BARG008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Santi Pada",
+            "active": true,
+            "code": "BARG009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ranibandh Pada",
+            "active": true,
+            "code": "BARG010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Udaynagar",
+            "active": true,
+            "code": "BARG011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Zeera Colony",
+            "active": true,
+            "code": "BARG012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Manabandha Pada",
+            "active": true,
+            "code": "BARG013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dorabandha Pada",
+            "active": true,
+            "code": "BARG014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Canal colony",
+            "active": true,
+            "code": "BARG015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Stationpada",
+            "active": true,
+            "code": "BARG016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bandhpada",
+            "active": true,
+            "code": "BARG017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sweeperpada",
+            "active": true,
+            "code": "BARG018",
+            "locality": "VIL1"
+        }
+    ]
+}

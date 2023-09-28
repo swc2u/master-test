@@ -1,0 +1,22 @@
+{
+  "tenantId": "od",
+  "moduleName": "MarriageRegistration",
+  "RegistrationFee": [
+    {
+      "treasuryCharge": {
+        "withinOneMonthOfMarriage": "7",
+        "afterOneMonthOfMarriage": "32"
+      },
+      "establishmentCost": [
+        {
+          "tenantId": "od.cuttack",
+          "cost": "1500"
+        },
+        {
+          "tenantId": "od.angul",
+          "cost": "1500"
+        }
+      ]
+    }
+  ]
+}

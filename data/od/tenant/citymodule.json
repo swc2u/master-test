@@ -1,0 +1,4632 @@
+{
+  "tenantId": "od",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.gopalpur"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.athmallik"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.balimela"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.balugaon"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.banpur"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.baripada"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.basudevpur"
+        },
+        {
+          "code": "od.bellaguntha"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bhanjanagar"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.bhuban"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.binka"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.buguda"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chandbali"
+        },
+        {
+          "code": "od.chikiti"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.dharamgarh"
+        },
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.ganjam"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hindol"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jajpur"
+        },
+        {
+          "code": "od.jaleswar"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.junagarh"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.kantabanji"
+        },
+        {
+          "code": "od.karanjia"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.kabisuryanagar"
+        },
+        {
+          "code": "od.kendrapara"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khallikote"
+        },
+        {
+          "code": "od.khandapada"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.kodala"
+        },
+        {
+          "code": "od.koraput"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.malkangiri"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nuapada"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.pattamundai"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.polasara"
+        },
+        {
+          "code": "od.purushottampur"
+        },
+        {
+          "code": "od.rairangpur"
+        },
+        {
+          "code": "od.rambha"
+        },
+        {
+          "code": "od.ranpur"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.soro"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.tusura"
+        },
+        {
+          "code": "od.udala"
+        },
+        {
+          "code": "od.umerkote"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.gopalpur"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.athmallik"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.balimela"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.balugaon"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.banpur"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.baripada"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.basudevpur"
+        },
+        {
+          "code": "od.bellaguntha"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bhanjanagar"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.bhuban"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.binka"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.buguda"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chandbali"
+        },
+        {
+          "code": "od.chikiti"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.dharamgarh"
+        },
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.ganjam"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hindol"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jajpur"
+        },
+        {
+          "code": "od.jaleswar"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.junagarh"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.kantabanji"
+        },
+        {
+          "code": "od.karanjia"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.kabisuryanagar"
+        },
+        {
+          "code": "od.kendrapara"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khallikote"
+        },
+        {
+          "code": "od.khandapada"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.kodala"
+        },
+        {
+          "code": "od.koraput"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.malkangiri"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nuapada"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.pattamundai"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.polasara"
+        },
+        {
+          "code": "od.purushottampur"
+        },
+        {
+          "code": "od.rairangpur"
+        },
+        {
+          "code": "od.rambha"
+        },
+        {
+          "code": "od.ranpur"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.soro"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.tusura"
+        },
+        {
+          "code": "od.udala"
+        },
+        {
+          "code": "od.umerkote"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "Finance",
+      "code": "Finance",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.gopalpur"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.athmallik"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.balimela"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.balugaon"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.banpur"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.baripada"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.basudevpur"
+        },
+        {
+          "code": "od.bellaguntha"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bhanjanagar"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.bhuban"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.binka"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.buguda"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chandbali"
+        },
+        {
+          "code": "od.chikiti"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.dharamgarh"
+        },
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.ganjam"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hindol"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jajpur"
+        },
+        {
+          "code": "od.jaleswar"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.junagarh"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.kantabanji"
+        },
+        {
+          "code": "od.karanjia"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.kabisuryanagar"
+        },
+        {
+          "code": "od.kendrapara"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khallikote"
+        },
+        {
+          "code": "od.khandapada"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.kodala"
+        },
+        {
+          "code": "od.koraput"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.malkangiri"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nuapada"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.pattamundai"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.polasara"
+        },
+        {
+          "code": "od.purushottampur"
+        },
+        {
+          "code": "od.rairangpur"
+        },
+        {
+          "code": "od.rambha"
+        },
+        {
+          "code": "od.ranpur"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.soro"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.tusura"
+        },
+        {
+          "code": "od.udala"
+        },
+        {
+          "code": "od.umerkote"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.gopalpur"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.athmallik"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.balimela"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.balugaon"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.banpur"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.baripada"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.basudevpur"
+        },
+        {
+          "code": "od.bellaguntha"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bhanjanagar"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.bhuban"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.binka"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.buguda"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chandbali"
+        },
+        {
+          "code": "od.chikiti"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.dharamgarh"
+        },
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.ganjam"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hindol"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jajpur"
+        },
+        {
+          "code": "od.jaleswar"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.junagarh"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.kantabanji"
+        },
+        {
+          "code": "od.karanjia"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.kabisuryanagar"
+        },
+        {
+          "code": "od.kendrapara"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khallikote"
+        },
+        {
+          "code": "od.khandapada"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.kodala"
+        },
+        {
+          "code": "od.koraput"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.malkangiri"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nuapada"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.pattamundai"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.polasara"
+        },
+        {
+          "code": "od.purushottampur"
+        },
+        {
+          "code": "od.rairangpur"
+        },
+        {
+          "code": "od.rambha"
+        },
+        {
+          "code": "od.ranpur"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.soro"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.tusura"
+        },
+        {
+          "code": "od.udala"
+        },
+        {
+          "code": "od.umerkote"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "MR",
+      "code": "MR",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.gopalpur"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.athmallik"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.balimela"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.balugaon"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.banpur"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.baripada"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.basudevpur"
+        },
+        {
+          "code": "od.bellaguntha"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bhanjanagar"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.bhuban"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.binka"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.buguda"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chandbali"
+        },
+        {
+          "code": "od.chikiti"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.dharamgarh"
+        },
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.ganjam"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hindol"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jajpur"
+        },
+        {
+          "code": "od.jaleswar"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.junagarh"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.kantabanji"
+        },
+        {
+          "code": "od.karanjia"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.kabisuryanagar"
+        },
+        {
+          "code": "od.kendrapara"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khallikote"
+        },
+        {
+          "code": "od.khandapada"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.kodala"
+        },
+        {
+          "code": "od.koraput"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.malkangiri"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nuapada"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.pattamundai"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.polasara"
+        },
+        {
+          "code": "od.purushottampur"
+        },
+        {
+          "code": "od.rairangpur"
+        },
+        {
+          "code": "od.rambha"
+        },
+        {
+          "code": "od.ranpur"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.soro"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.tusura"
+        },
+        {
+          "code": "od.udala"
+        },
+        {
+          "code": "od.umerkote"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.gopalpur"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.athmallik"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.balimela"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.balugaon"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.banpur"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.baripada"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.basudevpur"
+        },
+        {
+          "code": "od.bellaguntha"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bhanjanagar"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.bhuban"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.binka"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.buguda"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chandbali"
+        },
+        {
+          "code": "od.chikiti"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.dharamgarh"
+        },
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.ganjam"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hindol"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jajpur"
+        },
+        {
+          "code": "od.jaleswar"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.junagarh"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.kantabanji"
+        },
+        {
+          "code": "od.karanjia"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.kabisuryanagar"
+        },
+        {
+          "code": "od.kendrapara"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khallikote"
+        },
+        {
+          "code": "od.khandapada"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.kodala"
+        },
+        {
+          "code": "od.koraput"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.malkangiri"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nuapada"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.pattamundai"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.polasara"
+        },
+        {
+          "code": "od.purushottampur"
+        },
+        {
+          "code": "od.rairangpur"
+        },
+        {
+          "code": "od.rambha"
+        },
+        {
+          "code": "od.ranpur"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.soro"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.tusura"
+        },
+        {
+          "code": "od.udala"
+        },
+        {
+          "code": "od.umerkote"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.berhampurdevelopmentauthority"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackdevelopmentauthority"
+        },
+        {
+          "code": "od.gopalpur"
+        },
+        {
+          "code": "od.kalinganagardevelopmentauthority"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.paradipdevelopmentauthority"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.purikonarkdevelopmentauthority"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkeladevelopmentauthority"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurdevelopmentauthority"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.talcherangulmeramandalidevelopmentauthority"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.athmallik"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.balimela"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.balugaon"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.banpur"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.baripada"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.basudevpur"
+        },
+        {
+          "code": "od.bellaguntha"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bhanjanagar"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.bhuban"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.binka"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.buguda"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chandbali"
+        },
+        {
+          "code": "od.chikiti"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.dharamgarh"
+        },
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.ganjam"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hindol"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jajpur"
+        },
+        {
+          "code": "od.jaleswar"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.junagarh"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.kantabanji"
+        },
+        {
+          "code": "od.karanjia"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.kabisuryanagar"
+        },
+        {
+          "code": "od.kendrapara"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khallikote"
+        },
+        {
+          "code": "od.khandapada"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.kodala"
+        },
+        {
+          "code": "od.koraput"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.malkangiri"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nuapada"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.pattamundai"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.polasara"
+        },
+        {
+          "code": "od.purushottampur"
+        },
+        {
+          "code": "od.rairangpur"
+        },
+        {
+          "code": "od.rambha"
+        },
+        {
+          "code": "od.ranpur"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.soro"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.tusura"
+        },
+        {
+          "code": "od.udala"
+        },
+        {
+          "code": "od.umerkote"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.berhampurdevelopmentauthority"
+        },
+        {
+          "code": "od.bhubaneswardevelopmentauthority"
+        },
+        {
+          "code": "od.bhubaneswar"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackdevelopmentauthority"
+        },
+        {
+          "code": "od.gopalpur"
+        },
+        {
+          "code": "od.kalinganagardevelopmentauthority"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.paradipdevelopmentauthority"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.purikonarkdevelopmentauthority"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkeladevelopmentauthority"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurdevelopmentauthority"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.talcherangulmeramandalidevelopmentauthority"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.athmallik"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.balimela"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.balugaon"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.banpur"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.baripada"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.basudevpur"
+        },
+        {
+          "code": "od.bellaguntha"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bhanjanagar"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.bhuban"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.binka"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.buguda"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chandbali"
+        },
+        {
+          "code": "od.chikiti"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.dharamgarh"
+        },
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.ganjam"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hindol"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jajpur"
+        },
+        {
+          "code": "od.jaleswar"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.junagarh"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.kantabanji"
+        },
+        {
+          "code": "od.karanjia"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.kabisuryanagar"
+        },
+        {
+          "code": "od.kendrapara"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khallikote"
+        },
+        {
+          "code": "od.khandapada"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.kodala"
+        },
+        {
+          "code": "od.koraput"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.malkangiri"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nuapada"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.pattamundai"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.polasara"
+        },
+        {
+          "code": "od.purushottampur"
+        },
+        {
+          "code": "od.rairangpur"
+        },
+        {
+          "code": "od.rambha"
+        },
+        {
+          "code": "od.ranpur"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.soro"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.tusura"
+        },
+        {
+          "code": "od.udala"
+        },
+        {
+          "code": "od.umerkote"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.berhampurdevelopmentauthority"
+        },
+        {
+          "code": "od.bhubaneswardevelopmentauthority"
+        },
+        {
+          "code": "od.bhubaneswar"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.cuttackdevelopmentauthority"
+        },
+        {
+          "code": "od.gopalpur"
+        },
+        {
+          "code": "od.kalinganagardevelopmentauthority"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.paradipdevelopmentauthority"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.purikonarkdevelopmentauthority"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.rourkeladevelopmentauthority"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sambalpurdevelopmentauthority"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.talcherangulmeramandalidevelopmentauthority"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.athmallik"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.balimela"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.balugaon"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.banpur"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.baripada"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.basudevpur"
+        },
+        {
+          "code": "od.bellaguntha"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bhanjanagar"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.bhuban"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.binka"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.buguda"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chandbali"
+        },
+        {
+          "code": "od.chikiti"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.dharamgarh"
+        },
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.ganjam"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hindol"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jajpur"
+        },
+        {
+          "code": "od.jaleswar"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.junagarh"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.kantabanji"
+        },
+        {
+          "code": "od.karanjia"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.kabisuryanagar"
+        },
+        {
+          "code": "od.kendrapara"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khallikote"
+        },
+        {
+          "code": "od.khandapada"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.kodala"
+        },
+        {
+          "code": "od.koraput"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.malkangiri"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nuapada"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.pattamundai"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.polasara"
+        },
+        {
+          "code": "od.purushottampur"
+        },
+        {
+          "code": "od.rairangpur"
+        },
+        {
+          "code": "od.rambha"
+        },
+        {
+          "code": "od.ranpur"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.soro"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.tusura"
+        },
+        {
+          "code": "od.udala"
+        },
+        {
+          "code": "od.umerkote"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        }
+      ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "active": true,
+      "tenants": [
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        }
+      ]
+    },
+    {
+      "module": "WNS",
+      "code": "WNS",
+      "tenants": [
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.gopalpur"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.konark"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.athmallik"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.balimela"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.balugaon"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.banpur"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.baripada"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.basudevpur"
+        },
+        {
+          "code": "od.bellaguntha"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bhanjanagar"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.bhuban"
+        },
+        {
+          "code": "od.bhubaneswar"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.binka"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.buguda"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chandbali"
+        },
+        {
+          "code": "od.chikiti"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.dharamgarh"
+        },
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.ganjam"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hindol"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jajpur"
+        },
+        {
+          "code": "od.jaleswar"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.junagarh"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.kantabanji"
+        },
+        {
+          "code": "od.karanjia"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.kabisuryanagar"
+        },
+        {
+          "code": "od.kendrapara"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khallikote"
+        },
+        {
+          "code": "od.khandapada"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.kodala"
+        },
+        {
+          "code": "od.koraput"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.malkangiri"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nuapada"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.pattamundai"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.polasara"
+        },
+        {
+          "code": "od.purushottampur"
+        },
+        {
+          "code": "od.rairangpur"
+        },
+        {
+          "code": "od.rambha"
+        },
+        {
+          "code": "od.ranpur"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.soro"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.tusura"
+        },
+        {
+          "code": "od.udala"
+        },
+        {
+          "code": "od.umerkote"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+         {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.remuna"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.remuna"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.talcher"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+       {
+          "code": "od.dhenkanal"
+        },
+        {
+          "code": "od.balasore"
+        },
+        {
+          "code": "od.berhampur"
+        },
+        {
+          "code": "od.testing"
+        },
+        {
+          "code": "od.angul"
+        },
+        {
+          "code": "od.aska"
+        },
+        {
+          "code": "od.balangir"
+        },
+        {
+          "code": "od.belpahar"
+        },
+        {
+          "code": "od.bhadrak"
+        },
+        {
+          "code": "od.bijepur"
+        },
+        {
+          "code": "od.brajrajnagar"
+        },
+        {
+          "code": "od.choudwar"
+        },
+        {
+          "code": "od.cuttack"
+        },
+        {
+          "code": "od.gunupur"
+        },
+        {
+          "code": "od.hinjilicut"
+        },
+        {
+          "code": "od.jagatsinghpur"
+        },
+        {
+          "code": "od.jatni"
+        },
+        {
+          "code": "od.jharsuguda"
+        },
+        {
+          "code": "od.joda"
+        },
+        {
+          "code": "od.kashinagar"
+        },
+        {
+          "code": "od.khariarroad"
+        },
+        {
+          "code": "od.khordha"
+        },
+        {
+          "code": "od.kuchinda"
+        },
+        {
+          "code": "od.barpali"
+        },
+        {
+          "code": "od.nilgiri"
+        },
+        {
+          "code": "od.nimapara"
+        },
+        {
+          "code": "od.paralakhemundi"
+        },
+        {
+          "code": "od.patnagarh"
+        },
+        {
+          "code": "od.rayagada"
+        },
+        {
+          "code": "od.rourkela"
+        },
+        {
+          "code": "od.paradeep"
+        },
+        {
+          "code": "od.puri"
+        },
+        {
+          "code": "od.sambalpur"
+        },
+        {
+          "code": "od.sonepur"
+        },
+        {
+          "code": "od.sundargarh"
+        },
+        {
+          "code": "od.surada"
+        },
+        {
+          "code": "od.talcher"
+        },
+        {
+          "code": "od.anandapur"
+        },
+        {
+          "code": "od.athagarh"
+        },
+        {
+          "code": "od.attabira"
+        },
+        {
+          "code": "od.balliguda"
+        },
+        {
+          "code": "od.banki"
+        },
+        {
+          "code": "od.barbil"
+        },
+        {
+          "code": "od.bargarh"
+        },
+        {
+          "code": "od.bhawanipatna"
+        },
+        {
+          "code": "od.birmitrapur"
+        },
+        {
+          "code": "od.boudhgarh"
+        },
+        {
+          "code": "od.champua"
+        },
+        {
+          "code": "od.chatrapur"
+        },
+        {
+          "code": "od.daspalla"
+        },
+        {
+          "code": "od.deogarh"
+        },
+        {
+          "code": "od.dhamnagar"
+        },
+        {
+          "code": "od.digapahandi"
+        },
+        {
+          "code": "od.gudayagiri"
+        },
+        {
+          "code": "od.gudari"
+        },
+        {
+          "code": "od.jeypore"
+        },
+        {
+          "code": "od.kamakhyanagar"
+        },
+        {
+          "code": "od.keonjhargarh"
+        },
+        {
+          "code": "od.kesinga"
+        },
+        {
+          "code": "od.khariar"
+        },
+        {
+          "code": "od.kotpad"
+        },
+        {
+          "code": "od.nabarangpur"
+        },
+        {
+          "code": "od.nayagarh"
+        },
+        {
+          "code": "od.odagaon"
+        },
+        {
+          "code": "od.padampur"
+        },
+        {
+          "code": "od.phulbani"
+        },
+        {
+          "code": "od.pipli"
+        },
+        {
+          "code": "od.rajgangpur"
+        },
+        {
+          "code": "od.redhakhol"
+        },
+        {
+          "code": "od.sunabeda"
+        },
+        {
+          "code": "od.tarbha"
+        },
+        {
+          "code": "od.titilagarh"
+        },
+        {
+          "code": "od.vyasanagar"
+        },
+        {
+          "code": "od.remuna"
+        }
+      ]
+    }
+  ]
+}

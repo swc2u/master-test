@@ -1,0 +1,227 @@
+{
+    "tenantId": "od.joda",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Tarini Hutting ",
+        "active": true,
+        "code": "JOSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nepali Hutting",
+        "active": true,
+        "code": "JOSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sastri Nagar",
+        "active": true,
+        "code": "JOSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Talak Hutting",
+        "active": true,
+        "code": "JOSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Baneikala Kudur Sahi",
+        "active": true,
+        "code": "JOSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Baneikala Munda Sahi",
+        "active": true,
+        "code": "JOSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Baneikala Block Hutting",
+        "active": true,
+        "code": "JOSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mukharjee Hutting",
+        "active": true,
+        "code": "JOSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kundurnala Basti",
+        "active": true,
+        "code": "JOSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hudi Sahi",
+        "active": true,
+        "code": "JOSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Muslim Basti Ward 4",
+        "active": true,
+        "code": "JOSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Balwant Singh Hutting",
+        "active": true,
+        "code": "JOSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jhumpudi Hutting",
+        "active": true,
+        "code": "JOSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhunda Hutting",
+        "active": true,
+        "code": "JOSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Azad Basti",
+        "active": true,
+        "code": "JOSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bachu Hutting",
+        "active": true,
+        "code": "JOSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ramjan Hutting",
+        "active": true,
+        "code": "JOSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ulli Hutting",
+        "active": true,
+        "code": "JOSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dipu Hutting",
+        "active": true,
+        "code": "JOSL019",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Madras Hutting",
+        "active": true,
+        "code": "JOSL020",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Patra Sahi",
+        "active": true,
+        "code": "JOSL021",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gopa Mohanty Hutting",
+        "active": true,
+        "code": "JOSL022",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Munda Sahi WARD 9",
+        "active": true,
+        "code": "JOSL023",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kamar Sahi",
+        "active": true,
+        "code": "JOSL024",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hanuman Hutting",
+        "active": true,
+        "code": "JOSL025",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Geological Hutting",
+        "active": true,
+        "code": "JOSL026",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mati Hutting",
+        "active": true,
+        "code": "JOSL027",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bodra Hutting",
+        "active": true,
+        "code": "JOSL028",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Munda Sahi",
+        "active": true,
+        "code": "JOSL029",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Murteja Hutting",
+        "active": true,
+        "code": "JOSL030",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pagala Hutting",
+        "active": true,
+        "code": "JOSL031",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Radha Hutting",
+        "active": true,
+        "code": "JOSL032",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Banspani Behera Hutting",
+        "active": true,
+        "code": "JOSL033",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Toll Gate",
+        "active": true,
+        "code": "JOSL034",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Behera Hutting",
+        "active": true,
+        "code": "JOSL035",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dadhia Hutting",
+        "active": true,
+        "code": "JOSL036",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dolpahad",
+        "active": true,
+        "code": "JOSL037",
+        "locality": "VIL1"
+    }]
+}

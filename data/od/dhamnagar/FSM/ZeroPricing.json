@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.dhamnagar",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

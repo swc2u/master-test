@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.khariar",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

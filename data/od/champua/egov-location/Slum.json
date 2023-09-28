@@ -1,0 +1,181 @@
+{
+    "tenantId": "od.champua",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Valiadhipa-1",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Valiadhipa-2",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Uparsahi",
+            "ward": "01",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Mundasahi",
+            "ward": "02",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Sankarpur",
+            "ward": "02",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Sirapur",
+            "ward": "02",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Hudisahi",
+            "ward": "02",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Iqura Nagar",
+            "ward": "03",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Allinagar",
+            "ward": "03",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Damad Mahal",
+            "ward": "04",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Allinagar",
+            "ward": "04",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Allinagar",
+            "ward": "05",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Dama Sahi",
+            "ward": "05",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Lic Colony-1",
+            "ward": "06",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Lic Colony-2",
+            "ward": "06",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Block Colony",
+            "ward": "06",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Dhaladihi(Dh)",
+            "ward": "07",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Dhaladihi(Dd)",
+            "ward": "08",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Barik Sahi",
+            "ward": "09",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Kalandi Sahi",
+            "ward": "09",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Debata Sala",
+            "ward": "10",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Sahar Sahi",
+            "ward": "11",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Bachha Basti",
+            "ward": "12",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Bajaya Nagar",
+            "ward": "12",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Kabaragutu",
+            "ward": "13",
+            "code": "SLM25",
+            "isActive": true
+        }
+    ]
+}

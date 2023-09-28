@@ -1,0 +1,90 @@
+{
+    "tenantId": "od.deogarh",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "SDA Khaparsahi",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "SDA Jagatipali",
+            "ward": "05",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "SDA Rangiaguda",
+            "ward": "06",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "SDA Hatisal Bhaliaburi",
+            "ward": "06",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "SDA Govindpur",
+            "ward": "07",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "SDA Mohinipur",
+            "ward": "07",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "SDA Sartala",
+            "ward": "07",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "SDA Ct School Purunagad",
+            "ward": "07",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "SDA Rathadandisahi",
+            "ward": "08",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "SDA Benjatinali",
+            "ward": "10",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "SDA Kolhasahi",
+            "ward": "10",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "SDA Mahuldhipa Pudheikata",
+            "ward": "11",
+            "code": "SLM12",
+            "isActive": true
+        }
+    ]
+}

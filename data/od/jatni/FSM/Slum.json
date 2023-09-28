@@ -1,0 +1,131 @@
+{
+    "tenantId": "od.jatni",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Raghunath Nagar",
+        "active": true,
+        "code": "JTSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Paikarapur",
+        "active": true,
+        "code": "JTSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gopabandhu Nagar",
+        "active": true,
+        "code": "JTSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sri Hari Bihar",
+        "active": true,
+        "code": "JTSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sandhapur",
+        "active": true,
+        "code": "JTSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Godadharmasagar",
+        "active": true,
+        "code": "JTSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Church Gali",
+        "active": true,
+        "code": "JTSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mausi Maa Basti",
+        "active": true,
+        "code": "JTSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hata Bazar",
+        "active": true,
+        "code": "JTSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sweeper Colony",
+        "active": true,
+        "code": "JTSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khali Pokhari",
+        "active": true,
+        "code": "JTSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bangali Colony",
+        "active": true,
+        "code": "JTSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jagannath Basti",
+        "active": true,
+        "code": "JTSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Balichhak Mundia Sahi",
+        "active": true,
+        "code": "JTSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Balichhak Sahi",
+        "active": true,
+        "code": "JTSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Melana Padia",
+        "active": true,
+        "code": "JTSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mahatab Nagar",
+        "active": true,
+        "code": "JTSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Accounts Colony",
+        "active": true,
+        "code": "JTSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Traffic Colony",
+        "active": true,
+        "code": "JTSL019",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Loco Colony",
+        "active": true,
+        "code": "JTSL020",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bapuji Colony",
+        "active": true,
+        "code": "JTSL021",
+        "locality": "VIL1"
+    }]
+}

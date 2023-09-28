@@ -1,0 +1,440 @@
+{
+  "tenantId": "od.kamakhyanagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kamakhyanagar",
+        "localname": "Kamakhyanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.kamakhyanagar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "INDIPUR",
+            "localname": "INDIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "KAMAKHYANAGAR",
+            "localname": "KAMAKHYANAGAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "MUNDIDEULI",
+            "localname": "MUNDIDEULI",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "ALATUMA",
+            "localname": "ALATUMA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "REKULA",
+            "localname": "REKULA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+		  {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Kanapura",
+            "localname": "Kanapura",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK1",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Baisingha",
+            "localname": "Baisingha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK2",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Baligorada",
+            "localname": "Baligorada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK3",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Badasuanlo",
+            "localname": "Badasuanlo",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK4",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Baunspala",
+            "localname": "Baunspala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK5",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Kadua",
+            "localname": "Kadua",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK6",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Mahulpala",
+            "localname": "Mahulpala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK7",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Saruali",
+            "localname": "Saruali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK8",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "JagannathPur",
+            "localname": "JagannathPur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK9",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Kusumojodi",
+            "localname": "Kusumojodi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK10",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Anlabereni",
+            "localname": "Anlabereni",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK11",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Arakhpal",
+            "localname": "Arakhpal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK12",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Mathakargola",
+            "localname": "Mathakargola",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK13",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Batagaon",
+            "localname": "Batagaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK14",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Makuakateni",
+            "localname": "Makuakateni",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK15",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Bankual",
+            "localname": "Bankual",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK16",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "jiral",
+            "localname": "jiral",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK17",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Dighi",
+            "localname": "Dighi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK18",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Marthapur",
+            "localname": "Marthapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK19",
+            "children": [
+            ]
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Badajhara",
+            "localname": "Badajhara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK20",
+            "children": [
+            ]
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Muktapasi",
+            "localname": "Muktapasi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK21",
+            "children": [
+            ]
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Patharkhamba",
+            "localname": "Patharkhamba",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK22",
+            "children": [
+            ]
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Balikuma",
+            "localname": "Balikuma",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK23",
+            "children": [
+            ]
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KMK24",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kamakhyanagar",
+        "localname": "Kamakhyanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.kamakhyanagar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "INDIPUR",
+            "localname": "INDIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "KAMAKHYANAGAR",
+            "localname": "KAMAKHYANAGAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "MUNDIDEULI",
+            "localname": "MUNDIDEULI",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "ALATUMA",
+            "localname": "ALATUMA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "REKULA",
+            "localname": "REKULA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          }
+        ]
+      }
+    }
+  ]
+}

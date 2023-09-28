@@ -1,0 +1,744 @@
+{
+  "tenantId": "od.khariar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khariar",
+        "localname": "Khariar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khariar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Muktaput",
+            "localname": "Muktaput",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Satnami Pada, Shantinagar Pada, Maruti Nagar",
+            "localname": "Satnami Pada, Shantinagar Pada, Maruti Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bangtipad, Hospital Pada, Dalpada",
+            "localname": "Bangtipad, Hospital Pada, Dalpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chheliapada",
+            "localname": "Chheliapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Sahupada, Musalman Pada",
+            "localname": "Sahupada, Musalman Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Annapurna Dhabapada",
+            "localname": "Annapurna Dhabapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Lalsahebpada, Ramswami marg",
+            "localname": "Lalsahebpada, Ramswami marg",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Rajapada, Nilgibandh Pada",
+            "localname": "Rajapada, Nilgibandh Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Dhobapada, Gokulnagar",
+            "localname": "Dhobapada, Gokulnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Sabar pada, Kasari pada",
+            "localname": "Sabar pada, Kasari pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Putupada, Nakapada",
+            "localname": "Putupada, Nakapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Bramhinpada, Baidehi road",
+            "localname": "Bramhinpada, Baidehi road",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Gandhinagar, Duriapada",
+            "localname": "Gandhinagar, Duriapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+		  {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "BADDOHEL",
+            "localname": "BADDOHEL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR1",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "BADI",
+            "localname": "BADI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR2",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "SARDHAPUR",
+            "localname": "SARDHAPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR3",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "BHULIASIKUAN",
+            "localname": "BHULIASIKUAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR4",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "BHOJPUR",
+            "localname": "BHOJPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR5",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "CHANABEDA",
+            "localname": "CHANABEDA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR6",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "BARGAON",
+            "localname": "BARGAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR7",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "KHUDPEJ",
+            "localname": "KHUDPEJ",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR8",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "GARDAMUNDA",
+            "localname": "GARDAMUNDA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR9",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "CHINDAGUDA",
+            "localname": "CHINDAGUDA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR10",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "AREDA",
+            "localname": "AREDA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR11",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "MANDOSIL",
+            "localname": "MANDOSIL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR12",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "DUAJHAR",
+            "localname": "DUAJHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR13",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "NEHENA",
+            "localname": "NEHENA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR14",
+            "children": [
+            ]
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "TUKLA",
+            "localname": "TUKLA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR15",
+            "children": [
+            ]
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "RANIMUNDA",
+            "localname": "RANIMUNDA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR16",
+            "children": [
+            ]
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "RISIGAON",
+            "localname": "RISIGAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR17",
+            "children": [
+            ]
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "PNENDRAWAN",
+            "localname": "PNENDRAWAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR18",
+            "children": [
+            ]
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "PALSAPADA",
+            "localname": "PALSAPADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR19",
+            "children": [
+            ]
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "KENDUPATI",
+            "localname": "KENDUPATI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR20",
+            "children": [
+            ]
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "LANJI",
+            "localname": "LANJI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR21",
+            "children": [
+            ]
+          },
+          {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "DABRI",
+            "localname": "DABRI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR22",
+            "children": [
+            ]
+          },
+          {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "SANMAHESWAR",
+            "localname": "SANMAHESWAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR23",
+            "children": [
+            ]
+          },
+          {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "DABRI",
+            "localname": "DABRI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR24",
+            "children": [
+            ]
+          },
+          {
+            "id": "40",
+            "boundaryNum": 1,
+            "name": "DAMJHAR",
+            "localname": "DAMJHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR25",
+            "children": [
+            ]
+          },
+          {
+            "id": "41",
+            "boundaryNum": 1,
+            "name": "SUNARI SIKUAN",
+            "localname": "SUNARI SIKUAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR26",
+            "children": [
+            ]
+          },
+          {
+            "id": "42",
+            "boundaryNum": 1,
+            "name": "KONABIRA",
+            "localname": "KONABIRA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR27",
+            "children": [
+            ]
+          },
+          {
+            "id": "43",
+            "boundaryNum": 1,
+            "name": "GANDABAHALI",
+            "localname": "GANDABAHALI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR28",
+            "children": [
+            ]
+          },
+          {
+            "id": "44",
+            "boundaryNum": 1,
+            "name": "BARGAON",
+            "localname": "BARGAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR29",
+            "children": [
+            ]
+          },
+          {
+            "id": "45",
+            "boundaryNum": 1,
+            "name": "ROKAL",
+            "localname": "ROKAL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR30",
+            "children": [
+            ]
+          },
+          {
+            "id": "46",
+            "boundaryNum": 1,
+            "name": "LARKA",
+            "localname": "LARKA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR31",
+            "children": [
+            ]
+          },
+          {
+            "id": "47",
+            "boundaryNum": 1,
+            "name": "SUNAPUR",
+            "localname": "SUNAPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR32",
+            "children": [
+            ]
+          },
+          {
+            "id": "48",
+            "boundaryNum": 1,
+            "name": "KHAIRA",
+            "localname": "KHAIRA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR33",
+            "children": [
+            ]
+          },
+          {
+            "id": "49",
+            "boundaryNum": 1,
+            "name": "KARLAKOTE",
+            "localname": "KARLAKOTE",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR34",
+            "children": [
+            ]
+          },
+          {
+            "id": "50",
+            "boundaryNum": 1,
+            "name": "NAGPADA",
+            "localname": "NAGPADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR35",
+            "children": [
+            ]
+          },
+          {
+            "id": "51",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KAR36",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khariar",
+        "localname": "Khariar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khariar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Muktaput",
+            "localname": "Muktaput",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Satnami Pada, Shantinagar Pada, Maruti Nagar",
+            "localname": "Satnami Pada, Shantinagar Pada, Maruti Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bangtipad, Hospital Pada, Dalpada",
+            "localname": "Bangtipad, Hospital Pada, Dalpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chheliapada",
+            "localname": "Chheliapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Sahupada, Musalman Pada",
+            "localname": "Sahupada, Musalman Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Annapurna Dhabapada",
+            "localname": "Annapurna Dhabapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Lalsahebpada, Ramswami marg",
+            "localname": "Lalsahebpada, Ramswami marg",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Rajapada, Nilgibandh Pada",
+            "localname": "Rajapada, Nilgibandh Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Dhobapada, Gokulnagar",
+            "localname": "Dhobapada, Gokulnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Sabar pada, Kasari pada",
+            "localname": "Sabar pada, Kasari pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Putupada, Nakapada",
+            "localname": "Putupada, Nakapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Bramhinpada, Baidehi road",
+            "localname": "Bramhinpada, Baidehi road",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Gandhinagar, Duriapada",
+            "localname": "Gandhinagar, Duriapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          }
+        ]
+      }
+    }
+  ]
+}

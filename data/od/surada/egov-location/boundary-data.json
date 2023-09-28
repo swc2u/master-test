@@ -1,0 +1,389 @@
+{
+  "tenantId": "od.surada",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Soroda",
+        "localname": "Soroda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.surada",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Surada",
+            "localname": "Surada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Baradi",
+            "localname": "Baradi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+		  {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Amrutulu",
+            "localname": "Amrutulu",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR1",
+            "children": []
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Asurabandha",
+            "localname": "Asurabandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR2",
+            "children": []
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Badabadangi",
+            "localname": "Badabadangi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR3",
+            "children": []
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Badagada",
+            "localname": "Badagada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR4",
+            "children": []
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Badagochha",
+            "localname": "Badagochha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR5",
+            "children": []
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Borada",
+            "localname": "Borada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR6",
+            "children": []
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Borasingi",
+            "localname": "Borasingi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR7",
+            "children": []
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Ekalapur",
+            "localname": "Ekalapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR8",
+            "children": []
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "G. P Sasan",
+            "localname": "G. P Sasan",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR9",
+            "children": []
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Gajalabadi",
+            "localname": "Gajalabadi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR10",
+            "children": []
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Gangapur",
+            "localname": "Gangapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR11",
+            "children": []
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Genja",
+            "localname": "Genja",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR12",
+            "children": []
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Gochha",
+            "localname": "Gochha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR13",
+            "children": []
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Goudagotha",
+            "localname": "Goudagotha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR14",
+            "children": []
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Hinjalakuda",
+            "localname": "Hinjalakuda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR15",
+            "children": []
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Hukuma",
+            "localname": "Hukuma",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR16",
+            "children": []
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Kullangi",
+            "localname": "Kullangi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR17",
+            "children": []
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Lathipada",
+            "localname": "Lathipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR18",
+            "children": []
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Merikote",
+            "localname": "Merikote",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR19",
+            "children": []
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Nuagada",
+            "localname": "Nuagada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR20",
+            "children": []
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Palakatu",
+            "localname": "Palakatu",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR21",
+            "children": []
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Raibandha",
+            "localname": "Raibandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR22",
+            "children": []
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Sarabadi",
+            "localname": "Sarabadi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR23",
+            "children": []
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Sidhapur",
+            "localname": "Sidhapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR24",
+            "children": []
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Suramani",
+            "localname": "Suramani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR25",
+            "children": []
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Bhagabanpur",
+            "localname": "Bhagabanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR26",
+            "children": []
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SUR27",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Soroda",
+        "localname": "Soroda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.surada",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Surada",
+            "localname": "Surada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Baradi",
+            "localname": "Baradi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          }
+        ]
+      }
+    }
+  ]
+}

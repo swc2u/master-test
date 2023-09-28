@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.jatni",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

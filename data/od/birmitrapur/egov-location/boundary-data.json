@@ -1,0 +1,308 @@
+{
+  "tenantId": "od.birmitrapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Biramitrapur",
+        "localname": "Biramitrapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.birmitrapur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Raipura",
+            "localname": "Raipura",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Banmunda",
+            "localname": "Banmunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Brahmanmara",
+            "localname": "Brahmanmara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Talsera",
+            "localname": "Talsera",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Kansbahal",
+            "localname": "Kansbahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+		  {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Andhari",
+            "localname": "Andhari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT1",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Kumjharia",
+            "localname": "Kumjharia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT2",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Kokerama",
+            "localname": "Kokerama",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT3",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Kalosoria",
+            "localname": "Kalosoria",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT4",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Putrikhaman",
+            "localname": "Putrikhaman",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT5",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Kardega",
+            "localname": "Kardega",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT6",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Khukundbahal",
+            "localname": "Khukundbahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT7",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Kadobahal",
+            "localname": "Kadobahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT8",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Raiboga",
+            "localname": "Raiboga",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT9",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Padampur",
+            "localname": "Padampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT10",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Hatibari",
+            "localname": "Hatibari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT11",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Purnapani",
+            "localname": "Purnapani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT12",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BMT13",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Biramitrapur",
+        "localname": "Biramitrapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.birmitrapur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Raipura",
+            "localname": "Raipura",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Banmunda",
+            "localname": "Banmunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Brahmanmara",
+            "localname": "Brahmanmara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Talsera",
+            "localname": "Talsera",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Kansbahal",
+            "localname": "Kansbahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          }
+        ]
+      }
+    }
+  ]
+}

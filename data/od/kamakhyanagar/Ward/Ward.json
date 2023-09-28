@@ -1,0 +1,66 @@
+{
+  "tenantId": "od.kamakhyanagar",
+  "moduleName": "Ward",
+  "Ward": [
+    {
+      "code": "01",
+      "active": true
+    },
+    {
+      "code": "02",
+      "active": true
+    },
+    {
+      "code": "03",
+      "active": true
+    },
+    {
+      "code": "04",
+      "active": true
+    },
+    {
+      "code": "05",
+      "active": true
+    },
+    {
+      "code": "06",
+      "active": true
+    },
+    {
+      "code": "07",
+      "active": true
+    },
+    {
+      "code": "08",
+      "active": true
+    },
+    {
+      "code": "09",
+      "active": true
+    },
+    {
+      "code": "10",
+      "active": true
+    },
+    {
+      "code": "11",
+      "active": true
+    },
+    {
+      "code": "12",
+      "active": true
+    },
+    {
+      "code": "13",
+      "active": true
+    },
+    {
+      "code": "14",
+      "active": true
+    },
+    {
+      "code": "15",
+      "active": true
+    }
+  ]
+}

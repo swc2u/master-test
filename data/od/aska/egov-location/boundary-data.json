@@ -1,0 +1,461 @@
+{
+  "tenantId": "od.aska",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Aska",
+        "localname": "Aska",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.aska",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Narasinghapur",
+            "localname": "Narasinghapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Khambeswari Patna",
+            "localname": "Khambeswari Patna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Aska",
+            "localname": "Aska",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Sunamba",
+            "localname": "Sunamba",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Old Debabhumi",
+            "localname": "Old Debabhumi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+		  {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Allipur",
+            "localname": "Allipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK1",
+            "children": []
+        },
+        {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Babanpur",
+            "localname": "Babanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK2",
+            "children": []
+        },
+        {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Badakholi",
+            "localname": "Badakholi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK3",
+            "children": []
+        },
+        {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Balichhai",
+            "localname": "Balichhai",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK4",
+            "children": []
+        },
+        {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Balisira",
+            "localname": "Balisira",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK5",
+            "children": []
+        },
+        {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Bangarada",
+            "localname": "Bangarada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK6",
+            "children": []
+        },
+        {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Baragam",
+            "localname": "Baragam",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK7",
+            "children": []
+        },
+        {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Benapat",
+            "localname": "Benapat",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK8",
+            "children": []
+        },
+        {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Bhetanai",
+            "localname": "Bhetanai",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK9",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Chadiapalli",
+            "localname": "Chadiapalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK10",
+            "children": []
+        },
+        {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Debabhumi",
+            "localname": "Debabhumi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK11",
+            "children": []
+        },
+        {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Gahangu",
+            "localname": "Gahangu",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK12",
+            "children": []
+        },
+        {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Gangapur",
+            "localname": "Gangapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK13",
+            "children": []
+        },
+        {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Gunthapada",
+            "localname": "Gunthapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK14",
+            "children": []
+        },
+        {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Haridapadar",
+            "localname": "Haridapadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK15",
+            "children": []
+        },
+        {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Jaypur",
+            "localname": "Jaypur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK16",
+            "children": []
+        },
+        {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Kalasandhapur",
+            "localname": "Kalasandhapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK17",
+            "children": []
+        },
+        {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Kamagada",
+            "localname": "Kamagada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK18",
+            "children": []
+        },
+        {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Kendupadar",
+            "localname": "Kendupadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK19",
+            "children": []
+        },
+        {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Khandadeuli",
+            "localname": "Khandadeuli",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK20",
+            "children": []
+        },
+        {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Kharia",
+            "localname": "Kharia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK21",
+            "children": []
+        },
+        {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Mangalpur",
+            "localname": "Mangalpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK22",
+            "children": []
+        },
+        {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Munigadi",
+            "localname": "Munigadi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK23",
+            "children": []
+        },
+        {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Nalabanta",
+            "localname": "Nalabanta",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK24",
+            "children": []
+        },
+        {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Nimina",
+            "localname": "Nimina",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK25",
+            "children": []
+        },
+        {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Pandiapathar",
+            "localname": "Pandiapathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK26",
+            "children": []
+        },
+        {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Sidhanai",
+            "localname": "Sidhanai",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK27",
+            "children": []
+        },
+        {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ASK28",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Aska",
+        "localname": "Aska",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.aska",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Narasinghapur",
+            "localname": "Narasinghapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Khambeswari Patna",
+            "localname": "Khambeswari Patna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Aska",
+            "localname": "Aska",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Sunamba",
+            "localname": "Sunamba",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Old Debabhumi",
+            "localname": "Old Debabhumi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          }
+        ]
+      }
+        
+    }
+  ]
+}

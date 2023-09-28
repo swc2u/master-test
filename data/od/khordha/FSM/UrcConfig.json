@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.khordha",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

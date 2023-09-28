@@ -1,0 +1,209 @@
+{
+    "tenantId": "od.malkangiri",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Mundaguda",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Indira Colony",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Madlaguda",
+            "ward": "01",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Pradhaniguda",
+            "ward": "01",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Teakguda",
+            "ward": "02",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Dandasena Guda",
+            "ward": "02",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Hatapada Sahi",
+            "ward": "07",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Bhairab Colony",
+            "ward": "08",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Sweepar Colony",
+            "ward": "11",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Balisagar Sahi",
+            "ward": "11",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Vatishal Guda",
+            "ward": "12",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Nuaguda",
+            "ward": "18",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Jhatimati Colony",
+            "ward": "14",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Near R.I Office",
+            "ward": "06",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Pakhanaguda",
+            "ward": "08",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Satyam Guda",
+            "ward": "08",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Patraguda",
+            "ward": "08",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Ashirbad Colony",
+            "ward": "08",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Bangalaguda",
+            "ward": "09",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Kumutiguda",
+            "ward": "10",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "119 Colony",
+            "ward": "10",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Sai Nagar",
+            "ward": "10",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Vetenary Sahi",
+            "ward": "11",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Kalahandi Sahi",
+            "ward": "15",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Tina Garage",
+            "ward": "15",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Reclamation Colony",
+            "ward": "15",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Gundriguda",
+            "ward": "16",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Lathiaguda",
+            "ward": "16",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Gandiaguda",
+            "ward": "18",
+            "code": "SLM29",
+            "isActive": true
+        }
+    ]
+}

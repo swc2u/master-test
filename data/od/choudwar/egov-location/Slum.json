@@ -1,0 +1,104 @@
+{
+    "tenantId": "od.choudwar",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Sweeper Colony",
+            "ward": "17",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Jagannathpada + Church Lane merged",
+            "ward": "10",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Labour Tenment Basti Anchala",
+            "ward": "10",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Gundicha Vihar",
+            "ward": "10",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Kedareswar",
+            "ward": "19",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Mundamal Matha Sahi",
+            "ward": "07",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Budhalinga",
+            "ward": "12",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Chudanga Sahi",
+            "ward": "18",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Gouda Sahi",
+            "ward": "18",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Tarini Sahi",
+            "ward": "18",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Munda Sahi",
+            "ward": "18",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Charigharia Munda Sahi",
+            "ward": "16",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Telgu Basti",
+            "ward": "18",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Sweeper Colony",
+            "ward": "13",
+            "code": "SLM14",
+            "isActive": true
+        }
+    ]
+}

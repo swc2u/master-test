@@ -1,0 +1,34 @@
+{
+    "tenantId": "od.kodala",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Ranger Bangala",
+            "ward": "02",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Harijana  Sahi",
+            "ward": "11",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "I Belapada",
+            "ward": "08",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Gouradeipur",
+            "ward": "13",
+            "code": "SLM4",
+            "isActive": true
+        }
+    ]
+}

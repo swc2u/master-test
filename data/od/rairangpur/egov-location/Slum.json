@@ -1,0 +1,139 @@
+{
+    "tenantId": "od.rairangpur",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Bad Mohuldiha",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Dungurisahi",
+            "ward": "02",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Indira Colony",
+            "ward": "02",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "leprocy colony",
+            "ward": "02",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Kucheibudi Talasahi",
+            "ward": "04",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Purunaghaty Harijansahi",
+            "ward": "08",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Matha Sahi",
+            "ward": "10",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Kolha Sahi",
+            "ward": "10",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Kanda Behera Sahi",
+            "ward": "10",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Thakuranibeda Talasahi",
+            "ward": "11",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Chamdagodam",
+            "ward": "13",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Banasahi",
+            "ward": "13",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Panta sahi",
+            "ward": "13",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Jahira Station Sahi",
+            "ward": "14",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Link Road",
+            "ward": "15",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Old Dharmasala",
+            "ward": "09",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Panchayat Industry",
+            "ward": "14",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Signal Sahi",
+            "ward": "13",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Gour Colony",
+            "ward": "05",
+            "code": "SLM19",
+            "isActive": true
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "tenantId": "od.angul",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Bharat Nagar",
+            "ward": "17",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Soubhagya Nagar",
+            "ward": "16",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Hakimpada Happy Bandha Sahi",
+            "ward": "12",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Womens College Backside",
+            "ward": "23",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Radharaman  Pada",
+            "ward": "15",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Rajkishorepada",
+            "ward": "29",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Jabardasti Pada",
+            "ward": "20",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Nakhara Sahi",
+            "ward": "03",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Sweeper Colony",
+            "ward": "19",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Harijan Sahi,Hemsurpada",
+            "ward": "19",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Dolamandap Sahi",
+            "ward": "09",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Muslim Sahi ,Amalapada",
+            "ward": "01",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Jayanand Marg",
+            "ward": "11",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Ghasi Sahi",
+            "ward": "06",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Hulurshinga Kamar Sahi",
+            "ward": "08",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Hulurshinga Hadi Sahi",
+            "ward": "08",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Hulurshinga Pan Sahi",
+            "ward": "09",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Hakimpada Ladies  Hostel Side",
+            "ward": "13",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Hulurshinga Barik Sahi",
+            "ward": "07",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Infront Of Guru Govinda Dham At Gandhimarga",
+            "ward": "18",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Backside Of Industrial Estate(Carbon Factory), Hakimpada",
+            "ward": "12",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Infront Of Truck Owner Association Slum",
+            "ward": "21",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Hulurshinga Nuhura Sahi",
+            "ward": "07",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Hulurshinga Tiara Sahi",
+            "ward": "07",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Hulurshinga Kandha Sahi",
+            "ward": "08",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Hulurshinga Harijan Sahi",
+            "ward": "08",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Hemsurpada Mochi Sahi",
+            "ward": "19",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Matia Sahi",
+            "ward": "11",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Radhamadhab Pada",
+            "ward": "15",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Baidyanatha sagar Bandha side slum",
+            "ward": "23",
+            "code": "SLM30",
+            "isActive": true
+        }
+    ]
+}

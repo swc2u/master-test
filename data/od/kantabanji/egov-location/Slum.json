@@ -1,0 +1,125 @@
+{
+    "tenantId": "od.kantabanji",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Gaudapada",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Dhubapada",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Gopabandhu Nagar",
+            "ward": "02",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Kado Pada ",
+            "ward": "05",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Muda Pada",
+            "ward": "06",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Laxmi Nagar ",
+            "ward": "07",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Ananda Nagar ",
+            "ward": "08",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Mada Bhati Pada",
+            "ward": "09",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Ram Nagar",
+            "ward": "11",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Bandhapada",
+            "ward": "11",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Pudapadar",
+            "ward": "11",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Salepada",
+            "ward": "11",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Darlipada",
+            "ward": "12",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Mali Pada",
+            "ward": "12",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Singal Pada",
+            "ward": "13",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Ashram Pada",
+            "ward": "14",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Satanami Pada",
+            "ward": "15",
+            "code": "SLM17",
+            "isActive": true
+        }
+    ]
+}

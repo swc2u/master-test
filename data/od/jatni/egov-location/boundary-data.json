@@ -1,0 +1,448 @@
+{
+  "tenantId": "od.jatni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jatni",
+        "localname": "Jatni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.jatni",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bachharapatana",
+            "localname": "Bachharapatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Chhanaghara",
+            "localname": "Chhanaghara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Gopinathpur Jatani",
+            "localname": "Gopinathpur Jatani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Goradharmasagar",
+            "localname": "Goradharmasagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Jaganathpur patna",
+            "localname": "Jaganathpur patna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Jatanitown Khasmahal",
+            "localname": "Jatanitown Khasmahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Jatani",
+            "localname": "Jatani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Kudiari",
+            "localname": "Kudiari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Kusumati",
+            "localname": "Kusumati",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Ramchandrapur",
+            "localname": "Ramchandrapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Sandhapur",
+            "localname": "Sandhapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+		  {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Angarapada",
+            "localname": "Angarapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN1",
+            "children": []
+        },
+        {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Benapanjari",
+            "localname": "Benapanjari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN2",
+            "children": []
+        },
+        {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Chhanaghara",
+            "localname": "Chhanaghara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN3",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Chhatabara",
+            "localname": "Chhatabara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN4",
+            "children": []
+        },
+        {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Gangapada",
+            "localname": "Gangapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN5",
+            "children": []
+        },
+        {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Haripur",
+            "localname": "Haripur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN6",
+            "children": []
+        },
+        {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Jamukoli",
+            "localname": "Jamukoli",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN7",
+            "children": []
+        },
+        {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Janla",
+            "localname": "Janla",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN8",
+            "children": []
+        },
+        {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Kantia",
+            "localname": "Kantia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN9",
+            "children": []
+        },
+        {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Madanpur",
+            "localname": "Madanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN10",
+            "children": []
+        },
+        {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Padanpur",
+            "localname": "Padanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN11",
+            "children": []
+        },
+        {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Padhanasahi",
+            "localname": "Padhanasahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN12",
+            "children": []
+        },
+        {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Panchupali",
+            "localname": "Panchupali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN13",
+            "children": []
+        },
+        {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Taraboi",
+            "localname": "Taraboi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN14",
+            "children": []
+        },
+        {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Tirimal",
+            "localname": "Tirimal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN15",
+            "children": []
+        },
+        {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JTN16",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jatni",
+        "localname": "Jatni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.jatni",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bachharapatana",
+            "localname": "Bachharapatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Chhanaghara",
+            "localname": "Chhanaghara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Gopinathpur Jatani",
+            "localname": "Gopinathpur Jatani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Goradharmasagar",
+            "localname": "Goradharmasagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Jaganathpur patna",
+            "localname": "Jaganathpur patna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Jatanitown Khasmahal",
+            "localname": "Jatanitown Khasmahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Jatani",
+            "localname": "Jatani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Kudiari",
+            "localname": "Kudiari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Kusumati",
+            "localname": "Kusumati",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Ramchandrapur",
+            "localname": "Ramchandrapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Sandhapur",
+            "localname": "Sandhapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          }
+        ]
+      }
+    }
+  ]
+}

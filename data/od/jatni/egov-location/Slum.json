@@ -1,0 +1,153 @@
+{
+    "tenantId": "od.jatni",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Gopabandhu Nagar",
+            "ward": "07",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Sweeper Colony",
+            "ward": "08",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Sri Hari Vihar",
+            "ward": "08",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Sandhapur",
+            "ward": "09",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Raghunath Nagar",
+            "ward": "10",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Paikarapur",
+            "ward": "10",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Bengali Colony",
+            "ward": "11",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Godadharma Sagar",
+            "ward": "12",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Mausi Maa Basti",
+            "ward": "14",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Church Gali",
+            "ward": "14",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Khali Pokhari",
+            "ward": "14",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Jaganath Basti",
+            "ward": "14",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Hata Bazar",
+            "ward": "15",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Accounts Colony",
+            "ward": "16",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Traffic Colony",
+            "ward": "17,18",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Loco Colony",
+            "ward": "19, 20",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Bapuji Colony",
+            "ward": "22",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Balichhak Sahi",
+            "ward": "06",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Balichhak Mundia Sahi",
+            "ward": "07",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Mahatab Nagar",
+            "ward": "23",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Kudiary Melan Padia",
+            "ward": "22",
+            "code": "SLM21",
+            "isActive": true
+        }
+    ]
+}

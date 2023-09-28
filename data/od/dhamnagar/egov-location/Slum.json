@@ -1,0 +1,41 @@
+{
+    "tenantId": "od.dhamnagar",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Habibnagar-1",
+            "ward": "03",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Habibnagar-2",
+            "ward": "03",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Harijana Colony",
+            "ward": "03",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Alasua Pada",
+            "ward": "03",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Banua Adibasi Sahi",
+            "ward": "05",
+            "code": "SLM5",
+            "isActive": true
+        }
+    ]
+}

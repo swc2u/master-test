@@ -1,0 +1,172 @@
+{
+  "tenantId": "od.malkangiri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Malkangiri",
+        "localname": "Malkangiri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.malkangiri",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Malkangiri Mouza",
+            "localname": "Malkangiri Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Basantapur Mouza (MV - 43)",
+            "localname": "Basantapur Mouza (MV - 43)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Charkiguda Mouza",
+            "localname": "Charkiguda Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Gandiaguda Mouza",
+            "localname": "Gandiaguda Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Jayanagar Mouza (MV - 42)",
+            "localname": "Jayanagar Mouza (MV - 42)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Madhapur Mouza (MV - 02)",
+            "localname": "Madhapur Mouza (MV - 02)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+		  {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Malkangiri",
+        "localname": "Malkangiri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.malkangiri",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Malkangiri Mouza",
+            "localname": "Malkangiri Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Basantapur Mouza (MV - 43)",
+            "localname": "Basantapur Mouza (MV - 43)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Charkiguda Mouza",
+            "localname": "Charkiguda Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Gandiaguda Mouza",
+            "localname": "Gandiaguda Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Jayanagar Mouza (MV - 42)",
+            "localname": "Jayanagar Mouza (MV - 42)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Madhapur Mouza (MV - 02)",
+            "localname": "Madhapur Mouza (MV - 02)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          }
+        ]
+      }
+    }
+  ]
+}

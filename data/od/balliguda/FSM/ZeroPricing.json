@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.balliguda",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

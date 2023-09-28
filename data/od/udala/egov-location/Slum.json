@@ -1,0 +1,76 @@
+{
+    "tenantId": "od.udala",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Bathudi Sahi",
+            "ward": "04",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Demcha Sahi Majhi Sahi",
+            "ward": "06",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Electric Structure Sahi Harisahi",
+            "ward": "12",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Jagannathi School Sahi",
+            "ward": "11",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Telisahi",
+            "ward": "11",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Jahira Sahi Majhi Sahi Dalei Sahi",
+            "ward": "02,03,",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Jirida Sahi Godi Pokhoriadi",
+            "ward": "09",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Kumbhara Sahi Patra Sahi",
+            "ward": "07,08,",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Matha Sahi Daradha Sahi",
+            "ward": "10",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Muslim Basti",
+            "ward": "05",
+            "code": "SLM10",
+            "isActive": true
+        }
+    ]
+}

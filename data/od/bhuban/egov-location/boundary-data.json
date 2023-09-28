@@ -1,0 +1,552 @@
+{
+  "tenantId": "od.bhuban",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhuban",
+        "localname": "Bhuban",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.bhuban",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bhuban Bandalo",
+            "localname": "Bhuban Bandalo",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Bhuban Gopalpur",
+            "localname": "Bhuban Gopalpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bhuban Mirigichira",
+            "localname": "Bhuban Mirigichira",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Bhuban Basudeipur",
+            "localname": "Bhuban Basudeipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Bhuban Bhitardigapatana",
+            "localname": "Bhuban Bhitardigapatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Gopalpur Patna",
+            "localname": "Gopalpur Patna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Bhuban Prustypatana",
+            "localname": "Bhuban Prustypatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Bhuban Sahoogharpatana",
+            "localname": "Bhuban Sahoogharpatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Bhuban Ganda Bhuban",
+            "localname": "Bhuban Ganda Bhuban",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Bhuban Godipatana",
+            "localname": "Bhuban Godipatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Bhuban Bhadaliapasi",
+            "localname": "Bhuban Bhadaliapasi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Bhuban Tolanka Bereni",
+            "localname": "Bhuban Tolanka Bereni",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Bhuban Bethiapal",
+            "localname": "Bhuban Bethiapal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Bhuban Muktapasi",
+            "localname": "Bhuban Muktapasi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Haridanali",
+            "localname": "Haridanali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Talagadia",
+            "localname": "Talagadia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Bhartipahada",
+            "localname": "Bhartipahada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL17"
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Bhuban Natakata",
+            "localname": "Bhuban Natakata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL18"
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Bhuban Bhuban Pasi",
+            "localname": "Bhuban Bhuban Pasi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Alasupasi",
+            "localname": "Alasupasi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL20"
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Barijanga",
+            "localname": "Barijanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL21"
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Gajendrakateni",
+            "localname": "Gajendrakateni",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL22"
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Suleipal Kuda",
+            "localname": "Suleipal Kuda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL23"
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Bhuban Suleipal",
+            "localname": "Bhuban Suleipal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL24"
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Hariharpurpatana",
+            "localname": "Hariharpurpatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL25"
+          },
+		  {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL26"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhuban",
+        "localname": "Bhuban",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.bhuban",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bhuban Bandalo",
+            "localname": "Bhuban Bandalo",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Bhuban Gopalpur",
+            "localname": "Bhuban Gopalpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bhuban Mirigichira",
+            "localname": "Bhuban Mirigichira",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Bhuban Basudeipur",
+            "localname": "Bhuban Basudeipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Bhuban Bhitardigapatana",
+            "localname": "Bhuban Bhitardigapatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Gopalpur Patna",
+            "localname": "Gopalpur Patna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Bhuban Prustypatana",
+            "localname": "Bhuban Prustypatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Bhuban Sahoogharpatana",
+            "localname": "Bhuban Sahoogharpatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Bhuban Ganda Bhuban",
+            "localname": "Bhuban Ganda Bhuban",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Bhuban Godipatana",
+            "localname": "Bhuban Godipatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Bhuban Bhadaliapasi",
+            "localname": "Bhuban Bhadaliapasi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Bhuban Tolanka Bereni",
+            "localname": "Bhuban Tolanka Bereni",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Bhuban Bethiapal",
+            "localname": "Bhuban Bethiapal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Bhuban Muktapasi",
+            "localname": "Bhuban Muktapasi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Haridanali",
+            "localname": "Haridanali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Talagadia",
+            "localname": "Talagadia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Bhartipahada",
+            "localname": "Bhartipahada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL17"
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Bhuban Natakata",
+            "localname": "Bhuban Natakata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL18"
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Bhuban Bhuban Pasi",
+            "localname": "Bhuban Bhuban Pasi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Alasupasi",
+            "localname": "Alasupasi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL20"
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Barijanga",
+            "localname": "Barijanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL21"
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Gajendrakateni",
+            "localname": "Gajendrakateni",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL22"
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Suleipal Kuda",
+            "localname": "Suleipal Kuda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL23"
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Bhuban Suleipal",
+            "localname": "Bhuban Suleipal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL24"
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Hariharpurpatana",
+            "localname": "Hariharpurpatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL25"
+          }
+        ]
+      }
+    }
+  ]
+}

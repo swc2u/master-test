@@ -1,0 +1,252 @@
+{
+    "tenantId": "od.keonjhargarh",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Atopur",
+            "active": true,
+            "code": "KEON001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Badadhangarpada",
+            "active": true,
+            "code": "KEON002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Badahal",
+            "active": true,
+            "code": "KEON003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Baniapat",
+            "active": true,
+            "code": "KEON004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Buladwarasahi",
+            "active": true,
+            "code": "KEON005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bhumija sahi",
+            "active": true,
+            "code": "KEON006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Birabarpur Patna",
+            "active": true,
+            "code": "KEON007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bramhanigan",
+            "active": true,
+            "code": "KEON008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dhankunia Sahi",
+            "active": true,
+            "code": "KEON009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dhanurjaypur",
+            "active": true,
+            "code": "KEON010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dhipasahi",
+            "active": true,
+            "code": "KEON011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dhurpada",
+            "active": true,
+            "code": "KEON012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Galisahi",
+            "active": true,
+            "code": "KEON013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gambharia Part 1",
+            "active": true,
+            "code": "KEON014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gambharia Part 2",
+            "active": true,
+            "code": "KEON015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gouratota Sahi",
+            "active": true,
+            "code": "KEON016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gundiha Sahi",
+            "active": true,
+            "code": "KEON017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Hundadwara Sahi",
+            "active": true,
+            "code": "KEON018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Indkuli Sahi",
+            "active": true,
+            "code": "KEON019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Janardanpur",
+            "active": true,
+            "code": "KEON020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jharasahi",
+            "active": true,
+            "code": "KEON021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kamargda",
+            "active": true,
+            "code": "KEON022",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kashipur",
+            "active": true,
+            "code": "KEON023",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Keuta Sahi",
+            "active": true,
+            "code": "KEON024",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kuladera Badadera",
+            "active": true,
+            "code": "KEON025",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Laxminarayanpur",
+            "active": true,
+            "code": "KEON026",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Madhapur Bhairabpur",
+            "active": true,
+            "code": "KEON027",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Maghu Sahi",
+            "active": true,
+            "code": "KEON028",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mahadeipur Patna",
+            "active": true,
+            "code": "KEON029",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mukundapur",
+            "active": true,
+            "code": "KEON030",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Munda Sahi",
+            "active": true,
+            "code": "KEON031",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Pabitradiha",
+            "active": true,
+            "code": "KEON032",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Podauasa",
+            "active": true,
+            "code": "KEON033",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Radhikadeipur",
+            "active": true,
+            "code": "KEON034",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Samadhi Sahi",
+            "active": true,
+            "code": "KEON035",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Samantraypur Sethi Sahi",
+            "active": true,
+            "code": "KEON036",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sathighar Sahi",
+            "active": true,
+            "code": "KEON037",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Satsingha",
+            "active": true,
+            "code": "KEON038",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Siluan",
+            "active": true,
+            "code": "KEON039",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Suleikhamar",
+            "active": true,
+            "code": "KEON040",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tulasipur",
+            "active": true,
+            "code": "KEON041",
+            "locality": "VIL1"
+        }
+    ]
+}

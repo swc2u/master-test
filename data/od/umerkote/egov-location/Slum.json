@@ -1,0 +1,195 @@
+{
+    "tenantId": "od.umerkote",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Kenal Sahi",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Dhepaguda",
+            "ward": "02",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Kenal Para",
+            "ward": "02",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Panaka Sahi",
+            "ward": "03",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Nuaguda",
+            "ward": "06",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Kusumguda",
+            "ward": "07",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Canal Sahi",
+            "ward": "08",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Gulipatna",
+            "ward": "10",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Near Medical Colony",
+            "ward": "11",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Chadheiguda",
+            "ward": "11",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Dongriguda",
+            "ward": "12",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Bhagabati Nagar",
+            "ward": "14",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Baskside Of Block Office Colony",
+            "ward": "14",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Santoshi Nagar",
+            "ward": "09",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Harijan Sahi ",
+            "ward": "02",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Malipara",
+            "ward": "01",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Jani Sahi",
+            "ward": "02",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Tdcc Colony",
+            "ward": "13",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": " Buchia Street",
+            "ward": "01",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Kallar Street",
+            "ward": "01",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": " Harijan Sahi, Near Jail ",
+            "ward": "01",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Rajamunda",
+            "ward": "06",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Dongrisahi",
+            "ward": "08",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Sibaji Nagar",
+            "ward": "09",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Harijan Sahi Near Phd Office",
+            "ward": "12",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Trinath Mandira Street",
+            "ward": "13",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Ekataguda",
+            "ward": "13",
+            "code": "SLM27",
+            "isActive": true
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.rayagada",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

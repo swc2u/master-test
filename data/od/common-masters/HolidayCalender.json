@@ -1,0 +1,533 @@
+{
+	"tenantId": "od",
+	"moduleName": "common-masters",
+	"HolidayCalender": [
+		{
+			"holidayName": "Subhash Chandra Bose Jayanti/Vir Surendra Sai Jayanti",
+			"date": "23/01/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Republic Day/Basant Panchami",
+			"date": "26/01/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Maha Shivaratri",
+			"date": "18/02/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Dola Purnima",
+			"date": "07/03/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Holi",
+			"date": "08/03/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Ram Navami",
+			"date": "30/03/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Utkal Divas",
+			"date": "01/04/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Good Friday",
+			"date": "07/04/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Maha Vishuva Sankranti/Dr.B.R Ambedkar Jayanti",
+			"date": "14/04/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Budha Purnima/Birthday of Pandit Raghunath Murmu",
+			"date": "05/05/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Sabitri Amabasya",
+			"date": "19/05/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Pahili Raja",
+			"date": "14/06/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Raja Sankranti",
+			"date": "15/06/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Ratha Yatra",
+			"date": "20/06/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "ID-ul-Zuha",
+			"date": "30/06/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Muharram",
+			"date": "28/07/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Independence Day",
+			"date": "15/08/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Jhulana Purnima",
+			"date": "30/08/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Janmastami",
+			"date": "06/09/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Ganesh Puja",
+			"date": "19/09/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Nuakhai",
+			"date": "20/09/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Birthday of Prophet Muhammad",
+			"date": "29/09/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Gandhi Jayanti",
+			"date": "02/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Maha Saptami",
+			"date": "21/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Maha Navami",
+			"date": "23/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Vijaya Dashami",
+			"date": "24/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "Rahasa Purnima",
+			"date": "27/11/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "X-Mas Day",
+			"date": "25/12/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday January",
+			"date": "14/01/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday January",
+			"date": "28/01/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday February",
+			"date": "11/02/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday February",
+			"date": "25/02/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday March",
+			"date": "11/03/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday March",
+			"date": "25/03/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday April",
+			"date": "08/04/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday April",
+			"date": "22/04/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday May",
+			"date": "13/05/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday May",
+			"date": "27/05/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday June",
+			"date": "10/06/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday June",
+			"date": "24/06/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday July",
+			"date": "08/07/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday July",
+			"date": "22/07/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday August",
+			"date": "12/08/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday August",
+			"date": "26/08/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday September",
+			"date": "09/09/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday September",
+			"date": "23/09/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday October",
+			"date": "14/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday October",
+			"date": "28/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday November",
+			"date": "11/11/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday November",
+			"date": "25/11/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Saturday December",
+			"date": "09/12/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Saturday December",
+			"date": "23/12/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday January",
+			"date": "01/01/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday January",
+			"date": "08/01/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday January",
+			"date": "15/01/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday January",
+			"date": "22/01/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "5th Sunday January",
+			"date": "29/01/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday February",
+			"date": "05/02/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday February",
+			"date": "12/02/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday February",
+			"date": "19/02/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday February",
+			"date": "26/02/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday March",
+			"date": "05/03/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday March",
+			"date": "12/03/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday March",
+			"date": "19/03/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday March",
+			"date": "26/03/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday April",
+			"date": "02/04/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday April",
+			"date": "09/04/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday April",
+			"date": "16/04/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday April",
+			"date": "23/04/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "5th Sunday April",
+			"date": "30/04/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday May",
+			"date": "07/05/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday May",
+			"date": "14/05/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday May",
+			"date": "21/05/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday May",
+			"date": "28/05/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday June",
+			"date": "04/06/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday June",
+			"date": "11/06/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday June",
+			"date": "18/06/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday June",
+			"date": "25/06/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday July",
+			"date": "02/07/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday July",
+			"date": "09/07/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday July",
+			"date": "16/07/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday July",
+			"date": "23/07/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "5th Sunday July",
+			"date": "30/07/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday August",
+			"date": "06/08/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday August",
+			"date": "13/08/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday August",
+			"date": "20/08/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday August",
+			"date": "27/08/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday September",
+			"date": "03/09/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday September",
+			"date": "10/09/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday September",
+			"date": "17/09/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday September",
+			"date": "24/09/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday October",
+			"date": "01/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday October",
+			"date": "08/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday October",
+			"date": "15/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday October",
+			"date": "22/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "5th Sunday October",
+			"date": "29/10/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday November",
+			"date": "05/11/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday November",
+			"date": "12/11/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday November",
+			"date": "19/11/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday November",
+			"date": "26/11/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "1st Sunday December",
+			"date": "03/12/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "2nd Sunday December",
+			"date": "10/12/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "3rd Sunday December",
+			"date": "17/12/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "4th Sunday December",
+			"date": "24/12/2023",
+			"active": "true"
+		},
+		{
+			"holidayName": "5th Sunday December",
+			"date": "31/12/2023",
+			"active": "true"
+		}
+
+
+	]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.paralakhemundi",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

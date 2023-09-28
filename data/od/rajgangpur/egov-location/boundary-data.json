@@ -1,0 +1,400 @@
+{
+  "tenantId": "od.rajgangpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rajgangpur",
+        "localname": "Rajgangpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.rajgangpur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Ranibandha",
+            "localname": "Ranibandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Liploi",
+            "localname": "Liploi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Rajgangpur (ka)",
+            "localname": "Rajgangpur (ka)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Rajgangpur (kha)",
+            "localname": "Rajgangpur (kha)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Rajgangpur",
+            "localname": "Rajgangpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Kumarkela",
+            "localname": "Kumarkela",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+		  {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Garvana",
+            "localname": "Garvana",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP1",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Jhagarpur",
+            "localname": "Jhagarpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP2",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Jeruamal",
+            "localname": "Jeruamal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP3",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Kunmur",
+            "localname": "Kunmur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP4",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Alanda",
+            "localname": "Alanda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP5",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Buchkupara",
+            "localname": "Buchkupara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP6",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Kesharmal",
+            "localname": "Kesharmal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP7",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Laing",
+            "localname": "Laing",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP8",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Jharbeda",
+            "localname": "Jharbeda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP9",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Chungimati",
+            "localname": "Chungimati",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP10",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Dhelua",
+            "localname": "Dhelua",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP11",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Khutunia",
+            "localname": "Khutunia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP12",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Kukuda",
+            "localname": "Kukuda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP13",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Kukudamunda",
+            "localname": "Kukudamunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP14",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Panposh",
+            "localname": "Panposh",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP15",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Raikachhar",
+            "localname": "Raikachhar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP16",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Kutra",
+            "localname": "Kutra",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP17",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Tunmura",
+            "localname": "Tunmura",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP18",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "RGP19",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Rajgangpur",
+        "localname": "Rajgangpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.rajgangpur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Ranibandha",
+            "localname": "Ranibandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Liploi",
+            "localname": "Liploi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Rajgangpur (ka)",
+            "localname": "Rajgangpur (ka)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Rajgangpur (kha)",
+            "localname": "Rajgangpur (kha)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Rajgangpur",
+            "localname": "Rajgangpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Kumarkela",
+            "localname": "Kumarkela",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          }
+        ]
+      }
+    }
+  ]
+}

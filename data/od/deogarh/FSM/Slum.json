@@ -1,0 +1,78 @@
+{
+    "tenantId": "od.deogarh",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "KHAPARSAHI",
+            "active": true,
+            "code": "DEOG001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "JAGATIPALI",
+            "active": true,
+            "code": "DEOG002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "RANGIAGUDA",
+            "active": true,
+            "code": "DEOG003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "HATISAL BHALIABURI",
+            "active": true,
+            "code": "DEOG004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "GOVINDPUR",
+            "active": true,
+            "code": "DEOG005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "MOHINIPUR",
+            "active": true,
+            "code": "DEOG006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "SARTALA",
+            "active": true,
+            "code": "DEOG007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "CT SCHOOL PURUNAGAD",
+            "active": true,
+            "code": "DEOG008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "RATHADANDISAHI",
+            "active": true,
+            "code": "DEOG009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "BENJATINALI",
+            "active": true,
+            "code": "DEOG010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "KOLHASAHI",
+            "active": true,
+            "code": "DEOG011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "MAHULDHIPA PUDHEIKATA",
+            "active": true,
+            "code": "DEOG012",
+            "locality": "VIL1"
+        }
+    ]
+}

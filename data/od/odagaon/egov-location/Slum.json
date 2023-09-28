@@ -1,0 +1,34 @@
+{
+    "tenantId": "od.odagaon",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Dalak Kalyanisahi",
+            "ward": "13",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Jaringi Kalyanisahi",
+            "ward": "15",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Jaringi Nuasahi",
+            "ward": "15",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Puruna Jaringi",
+            "ward": "15",
+            "code": "SLM4",
+            "isActive": true
+        }
+    ]
+}

@@ -1,0 +1,477 @@
+{
+  "tenantId": "od.nilgiri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nilagiri",
+        "localname": "Nilagiri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.nilgiri",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Baligohiri",
+            "localname": "Baligohiri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Baniatikar",
+            "localname": "Baniatikar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bhudarcahndi",
+            "localname": "Bhudarcahndi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Barisahi",
+            "localname": "Barisahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Fulahata",
+            "localname": "Fulahata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Gopinathpur",
+            "localname": "Gopinathpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Kahalia",
+            "localname": "Kahalia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Mirigini",
+            "localname": "Mirigini",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Nizgarh",
+            "localname": "Nizgarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Puhuni",
+            "localname": "Puhuni",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Raigan",
+            "localname": "Raigan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Simulia",
+            "localname": "Simulia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Sanatta",
+            "localname": "Sanatta",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+		  {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Ajodhya",
+            "localname": "Ajodhya",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG1",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Arabandh",
+            "localname": "Arabandh",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG2",
+            "children": []
+        },
+        {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Baunsabania",
+            "localname": "Baunsabania",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG3",
+            "children": []
+        },
+        {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Berhampur",
+            "localname": "Berhampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG4",
+            "children": []
+        },
+        {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Chhatrapur",
+            "localname": "Chhatrapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG5",
+            "children": []
+        },
+        {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Dobasila",
+            "localname": "Dobasila",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG6",
+            "children": []
+        },
+        {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Gadiamal",
+            "localname": "Gadiamal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG7",
+            "children": []
+        },
+        {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Garadihi",
+            "localname": "Garadihi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG8",
+            "children": []
+        },
+        {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Jadida",
+            "localname": "Jadida",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG9",
+            "children": []
+        },
+        {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "K.P Lakhraj",
+            "localname": "K.P Lakhraj",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG10",
+            "children": []
+        },
+        {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Naranpur",
+            "localname": "Naranpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG11",
+            "children": []
+        },
+        {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Sajnagarh",
+            "localname": "Sajnagarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG12",
+            "children": []
+        },
+        {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Santa",
+            "localname": "Santa",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG13",
+            "children": []
+        },
+        {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Shyamsundarpur",
+            "localname": "Shyamsundarpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG14",
+            "children": []
+        },
+        {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NLG15",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nilagiri",
+        "localname": "Nilagiri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.nilgiri",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Baligohiri",
+            "localname": "Baligohiri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Baniatikar",
+            "localname": "Baniatikar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bhudarcahndi",
+            "localname": "Bhudarcahndi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Barisahi",
+            "localname": "Barisahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Fulahata",
+            "localname": "Fulahata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Gopinathpur",
+            "localname": "Gopinathpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Kahalia",
+            "localname": "Kahalia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Mirigini",
+            "localname": "Mirigini",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Nizgarh",
+            "localname": "Nizgarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Puhuni",
+            "localname": "Puhuni",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Raigan",
+            "localname": "Raigan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Simulia",
+            "localname": "Simulia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Sanatta",
+            "localname": "Sanatta",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          }
+        ]
+      }
+    }
+  ]
+}

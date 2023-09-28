@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.aska",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

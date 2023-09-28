@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.birmitrapur",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

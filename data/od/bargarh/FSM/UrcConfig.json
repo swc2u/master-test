@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.bargarh",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

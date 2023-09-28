@@ -1,0 +1,377 @@
+{
+    "tenantId": "od.paradeep",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Bangalipad",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Market Pada",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Madelipada",
+            "ward": "01",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Fishery Colony",
+            "ward": "01",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Mundapada",
+            "ward": "01",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Rajiv Nagar",
+            "ward": "02",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Bijay Nagar",
+            "ward": "02",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Gopinath Colony",
+            "ward": "02",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Jardaripada",
+            "ward": "03",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Lockpada",
+            "ward": "03",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Talapada",
+            "ward": "03",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Sukhuakhala",
+            "ward": "03",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Bhitargarh Colony",
+            "ward": "04",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Rice Mill",
+            "ward": "05",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Giridhari Chhak",
+            "ward": "05",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Bauriapalanda",
+            "ward": "06",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Port Colony",
+            "ward": "06",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Trainlinepada",
+            "ward": "06",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Railway Colony",
+            "ward": "06",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Prananath Colony",
+            "ward": "06",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Satsang Colony",
+            "ward": "07",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Fandi Colony",
+            "ward": "07",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Sarala Colony",
+            "ward": "07",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Brundaban Colony",
+            "ward": "08",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Lokanath Colony",
+            "ward": "08",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Mundapada",
+            "ward": "08",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Brundaban Colony",
+            "ward": "09",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Gjai Colony",
+            "ward": "10",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Clr Plot",
+            "ward": "10",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Cabin Market",
+            "ward": "11",
+            "code": "SLM30",
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "Gopaljew Colony",
+            "ward": "11",
+            "code": "SLM31",
+            "isActive": true
+        },
+        {
+            "id": 32,
+            "name": "Bhimabhoi Colony",
+            "ward": "13",
+            "code": "SLM32",
+            "isActive": true
+        },
+        {
+            "id": 33,
+            "name": "Jagannath Colony",
+            "ward": "13",
+            "code": "SLM33",
+            "isActive": true
+        },
+        {
+            "id": 34,
+            "name": "Mundapada",
+            "ward": "13",
+            "code": "SLM34",
+            "isActive": true
+        },
+        {
+            "id": 35,
+            "name": "Haribolia Matha",
+            "ward": "14",
+            "code": "SLM35",
+            "isActive": true
+        },
+        {
+            "id": 36,
+            "name": "Mundapada",
+            "ward": "14",
+            "code": "SLM36",
+            "isActive": true
+        },
+        {
+            "id": 37,
+            "name": "Nuabazar",
+            "ward": "14",
+            "code": "SLM37",
+            "isActive": true
+        },
+        {
+            "id": 38,
+            "name": "Sanjay Gandhi Pada",
+            "ward": "14",
+            "code": "SLM38",
+            "isActive": true
+        },
+        {
+            "id": 39,
+            "name": "Kamal Cinema Hall Basti",
+            "ward": "15",
+            "code": "SLM39",
+            "isActive": true
+        },
+        {
+            "id": 40,
+            "name": "Market Back Side Basti",
+            "ward": "15",
+            "code": "SLM40",
+            "isActive": true
+        },
+        {
+            "id": 41,
+            "name": "Telugupada Basti",
+            "ward": "16",
+            "code": "SLM41",
+            "isActive": true
+        },
+        {
+            "id": 42,
+            "name": "Mukteswarpada (Odiapada)",
+            "ward": "16",
+            "code": "SLM42",
+            "isActive": true
+        },
+        {
+            "id": 43,
+            "name": "Telephone Colony",
+            "ward": "16",
+            "code": "SLM43",
+            "isActive": true
+        },
+        {
+            "id": 44,
+            "name": "Nolia Sahi",
+            "ward": "17",
+            "code": "SLM44",
+            "isActive": true
+        },
+        {
+            "id": 45,
+            "name": "Jadabpada",
+            "ward": "18",
+            "code": "SLM45",
+            "isActive": true
+        },
+        {
+            "id": 46,
+            "name": "Basudev Colony",
+            "ward": "18",
+            "code": "SLM46",
+            "isActive": true
+        },
+        {
+            "id": 47,
+            "name": "Rama Mandir Pada",
+            "ward": "18",
+            "code": "SLM47",
+            "isActive": true
+        },
+        {
+            "id": 48,
+            "name": "Reddy Pada",
+            "ward": "18",
+            "code": "SLM48",
+            "isActive": true
+        },
+        {
+            "id": 49,
+            "name": "Bangalipada",
+            "ward": "19",
+            "code": "SLM49",
+            "isActive": true
+        },
+        {
+            "id": 50,
+            "name": "Ganga Mandirpada",
+            "ward": "19",
+            "code": "SLM50",
+            "isActive": true
+        },
+        {
+            "id": 51,
+            "name": "Keuta Pada",
+            "ward": "19",
+            "code": "SLM51",
+            "isActive": true
+        },
+        {
+            "id": 52,
+            "name": "Trinath Colony",
+            "ward": "19",
+            "code": "SLM52",
+            "isActive": true
+        },
+        {
+            "id": 53,
+            "name": "Sitalata Mandirpada",
+            "ward": "19",
+            "code": "SLM53",
+            "isActive": true
+        }
+    ]
+}

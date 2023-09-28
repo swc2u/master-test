@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.champua",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

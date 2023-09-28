@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.bhadrak",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

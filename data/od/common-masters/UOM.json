@@ -1,0 +1,86 @@
+{
+  "tenantId": "od",
+  "moduleName": "common-masters",
+  "UOM": [
+    {
+      "code": "GALLONS",
+      "active": true
+    },
+    {
+      "code": "GROSSUNITS",
+      "active": true
+    },
+    {
+      "code": "HP",
+      "active": true
+    },
+	{
+      "code": "SQFT",
+      "active": true
+    },
+	{
+      "code": "YEAR",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFBEDS",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFDAYS",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFROOMS",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFMONTHS",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFSCREENS",
+      "active": true
+    },
+	{
+      "code": "TURNOVER",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFWHEELS",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFCONSUMERS",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFSTUDENTS",
+      "active": true
+    },
+	{
+      "code": "NUMBEROFBABMBOO",
+      "active": true
+    },
+    {
+      "code": "KVA",
+      "active": true
+    },
+    {
+      "code": "NOOFMACHINES",
+      "active": true
+    },
+    {
+      "code": "NUMBEROFBARS",
+      "active": true
+    },
+    {
+      "code": "NUMBEROFRESTUARANTS",
+      "active": true
+    },
+    {
+      "code": "NUMBEROFHALLS",
+      "active": true
+    }
+  ]
+}

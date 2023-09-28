@@ -1,0 +1,150 @@
+{
+    "tenantId": "od.sunabeda",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Bapuji Colony",
+            "active": true,
+            "code": "SUNA001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mali Guda",
+            "active": true,
+            "code": "SUNA002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Churuch Colony",
+            "active": true,
+            "code": "SUNA003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jadaguda",
+            "active": true,
+            "code": "SUNA004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kalahandi Colony",
+            "active": true,
+            "code": "SUNA005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ganjam Colony",
+            "active": true,
+            "code": "SUNA006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Hanuman Market",
+            "active": true,
+            "code": "SUNA007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "AEF Market",
+            "active": true,
+            "code": "SUNA008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "AEF Sahi",
+            "active": true,
+            "code": "SUNA009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Rajiv Colony",
+            "active": true,
+            "code": "SUNA010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Driver Colony",
+            "active": true,
+            "code": "SUNA011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Old Sunabeda",
+            "active": true,
+            "code": "SUNA012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chikapar-1",
+            "active": true,
+            "code": "SUNA013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chikapar-2",
+            "active": true,
+            "code": "SUNA014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Biju Colony",
+            "active": true,
+            "code": "SUNA015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gopabandhu Nagar",
+            "active": true,
+            "code": "SUNA016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Minarao Comp",
+            "active": true,
+            "code": "SUNA017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Janiguda",
+            "active": true,
+            "code": "SUNA018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Petkona",
+            "active": true,
+            "code": "SUNA019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tala Gadaba Sahi",
+            "active": true,
+            "code": "SUNA020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Relisahi",
+            "active": true,
+            "code": "SUNA021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Harijan Sahi",
+            "active": true,
+            "code": "SUNA022",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Alamguda",
+            "active": true,
+            "code": "SUNA023",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kakigaon",
+            "active": true,
+            "code": "SUNA024",
+            "locality": "VIL1"
+        }
+    ]
+}

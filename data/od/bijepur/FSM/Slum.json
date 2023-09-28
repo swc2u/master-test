@@ -1,0 +1,11 @@
+{
+    "tenantId": "od.bijepur",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "No Slum",
+        "active": true,
+        "code": "BISL001",
+        "locality": "VIL1"
+    }]
+}

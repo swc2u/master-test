@@ -1,0 +1,69 @@
+{
+  "tenantId": "od",
+  "moduleName": "PropertyTax",
+  "Penalty": [
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "1970-80",
+      "startingDay": "1/04/1970"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "1980-90",
+      "startingDay": "1/04/1980"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "1990-00",
+      "startingDay": "1/04/1990"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2000-10",
+      "startingDay": "1/04/2000"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2010-20",
+      "startingDay": "1/04/2010"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2020-21",
+      "startingDay": "1/01/2020"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "startingDay": "01/04/2021"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "01/04/2022"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "01/04/2023"
+    }
+  ]
+}

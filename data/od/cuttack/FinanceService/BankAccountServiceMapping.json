@@ -1,0 +1,30 @@
+{
+   "tenantId":"od.cuttack",
+   "moduleName":"FinanceModule",
+   "BankAccountServiceMapping":[
+      {
+         "businessDetails":"DISP_FIXED_ASSET.BUILDING",
+         "bankAccount":"50442525218",
+         "bank":"Allahabad Bank",
+         "bankBranch":"210058"
+      },
+      {
+         "businessDetails":"DISP_FIXED_ASSET.LAND",
+         "bankAccount":"50442525218",
+         "bank":"Allahabad Bank",
+         "bankBranch":"210058"
+      },
+      {
+         "businessDetails":"DISP_FIXED_ASSET.MOTOR_VEHICLE",
+         "bankAccount":"50442525218",
+         "bank":"Allahabad Bank",
+         "bankBranch":"210058"
+      },
+      {
+         "businessDetails":"REV_GRANTS",
+         "bankAccount":"50442525218",
+         "bank":"Allahabad Bank",
+         "bankBranch":"210058"
+      }
+   ]
+}

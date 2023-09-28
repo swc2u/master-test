@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.barbil",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

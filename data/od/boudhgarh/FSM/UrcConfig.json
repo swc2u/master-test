@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.boudhgarh",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

@@ -1,0 +1,244 @@
+{
+  "tenantId": "od.gudari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Gudari",
+        "localname": "Gudari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.gudari",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Gudari",
+            "localname": "Gudari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Bhikariguda",
+            "localname": "Bhikariguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Batia Billa",
+            "localname": "Batia Billa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+		  {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Siriguda",
+            "localname": "Siriguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD1",
+            "children": [
+            ]
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Asada",
+            "localname": "Asada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD2",
+            "children": [
+            ]
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Naira",
+            "localname": "Naira",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD3",
+            "children": [
+            ]
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD4",
+            "children": [
+            ]
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Kodama",
+            "localname": "Kodama",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD5",
+            "children": [
+            ]
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "M K Rai",
+            "localname": "M K Rai",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD6",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Madhubana",
+            "localname": "Madhubana",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD7",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Sanahuma",
+            "localname": "Sanahuma",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD8",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Khariguda",
+            "localname": "Khariguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD9",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Derigan",
+            "localname": "Derigan",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD10",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Pendili",
+            "localname": "Pendili",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "GUD11",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Gudari",
+        "localname": "Gudari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.gudari",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Gudari",
+            "localname": "Gudari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Bhikariguda",
+            "localname": "Bhikariguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Batia Billa",
+            "localname": "Batia Billa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          }
+        ]
+      }
+    }
+  ]
+}

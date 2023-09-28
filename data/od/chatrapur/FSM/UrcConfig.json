@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.chatrapur",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

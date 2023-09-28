@@ -1,0 +1,46 @@
+{
+    "tenantId": "od",
+    "moduleName": "sr-services-master",
+    "Service": [
+        {
+            "name": "Online Building Permit",
+            "code": "OBPAS",
+            "active": true
+        },
+        {
+            "name": "Public Grievance",
+            "code": "PGR",
+            "active": true
+        },
+        {
+            "name": "Trade Licence",
+            "code": "TL",
+            "active": true
+        },
+        {
+            "name": "Property Tax",
+            "code": "PT",
+            "active": true
+        },
+        {
+            "name": "Water and Sewerage connection",
+            "code": "WS",
+            "active": true
+        },
+        {
+            "name": "Marriage registration",
+            "code": "MR",
+            "active": true
+        },
+        {
+            "name": "Digital Signature",
+            "code": "DS",
+            "active": true
+        },
+        {
+            "name": "Finance and Accounts",
+            "code": "FIN",
+            "active": true
+        }
+    ]
+}

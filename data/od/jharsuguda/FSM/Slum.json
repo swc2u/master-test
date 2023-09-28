@@ -1,0 +1,233 @@
+{
+    "tenantId": "od.jharsuguda",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Sarasmal Colony Pada",
+        "active": true,
+        "code": "JHSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ektali",
+        "active": true,
+        "code": "JHSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Suldia Harijan Pada",
+        "active": true,
+        "code": "JHSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Panchpada-Gudupada-Sarvarla",
+        "active": true,
+        "code": "JHSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jharianair",
+        "active": true,
+        "code": "JHSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Amlipali Panchpada",
+        "active": true,
+        "code": "JHSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Backside Jagyaseni",
+        "active": true,
+        "code": "JHSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Millan Market Sahi",
+        "active": true,
+        "code": "JHSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Leprosy Colony",
+        "active": true,
+        "code": "JHSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhuliatikra",
+        "active": true,
+        "code": "JHSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ghosh Colony",
+        "active": true,
+        "code": "JHSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Shivrampur Chituapada",
+        "active": true,
+        "code": "JHSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Panchapada Bidyanagar",
+        "active": true,
+        "code": "JHSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Panchapada Talibandha",
+        "active": true,
+        "code": "JHSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Panchapada Harijanapada",
+        "active": true,
+        "code": "JHSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kapumal",
+        "active": true,
+        "code": "JHSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Fatamal",
+        "active": true,
+        "code": "JHSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pahadimandir",
+        "active": true,
+        "code": "JHSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuapada",
+        "active": true,
+        "code": "JHSL019",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mangal Bazar",
+        "active": true,
+        "code": "JHSL020",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Malimunda(Bandharpada)",
+        "active": true,
+        "code": "JHSL021",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nepalipada",
+        "active": true,
+        "code": "JHSL022",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tihadidhap",
+        "active": true,
+        "code": "JHSL023",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sarbena Phd Back Side",
+        "active": true,
+        "code": "JHSL024",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kurabaga Orampada",
+        "active": true,
+        "code": "JHSL025",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ghasipada (Near Old Daru Bhati)",
+        "active": true,
+        "code": "JHSL026",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Munga Pada",
+        "active": true,
+        "code": "JHSL027",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Narahari Colony",
+        "active": true,
+        "code": "JHSL028",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Over Bridge Down Side",
+        "active": true,
+        "code": "JHSL029",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Old Rpf Barrack Bridge",
+        "active": true,
+        "code": "JHSL030",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Satamani Pada",
+        "active": true,
+        "code": "JHSL031",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Goshala Level Crossing To Choukipada Level Crossing ",
+        "active": true,
+        "code": "JHSL032",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Choukipada Talibandha Road",
+        "active": true,
+        "code": "JHSL033",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Talibhata Road",
+        "active": true,
+        "code": "JHSL034",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Btm Colony",
+        "active": true,
+        "code": "JHSL035",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Krishna Bagicha",
+        "active": true,
+        "code": "JHSL036",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sweeper Colony",
+        "active": true,
+        "code": "JHSL037",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Majhapatra",
+        "active": true,
+        "code": "JHSL038",
+        "locality": "VIL1"
+    }]
+}

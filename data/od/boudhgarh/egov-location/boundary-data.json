@@ -1,0 +1,328 @@
+{
+  "tenantId": "od.boudhgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Boudhgarh",
+        "localname": "Boudhgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.boudhgarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Boudhgarh",
+            "localname": "Boudhgarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Boudhgarh Nazul",
+            "localname": "Boudhgarh Nazul",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Marjakud",
+            "localname": "Marjakud",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+		  {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Mrusundhi",
+            "localname": "Mrusundhi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG1",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Badhigaon",
+            "localname": "Badhigaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG2",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Laxmiprasad",
+            "localname": "Laxmiprasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG3",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Padmanpur",
+            "localname": "Padmanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG4",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Khuntabandh",
+            "localname": "Khuntabandh",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG5",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Sarasara",
+            "localname": "Sarasara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG6",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Bandhapathar",
+            "localname": "Bandhapathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG7",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Bamanda",
+            "localname": "Bamanda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG8",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Radhanagar",
+            "localname": "Radhanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG9",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Mathura",
+            "localname": "Mathura",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG10",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Mundapada",
+            "localname": "Mundapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG11",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Telibandha",
+            "localname": "Telibandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG12",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Biranarasinghpur",
+            "localname": "Biranarasinghpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG13",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Sampoch",
+            "localname": "Sampoch",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG14",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Mundipadar",
+            "localname": "Mundipadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG15",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Talasarada",
+            "localname": "Talasarada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG16",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Baghiapada",
+            "localname": "Baghiapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG17",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BDG18",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Boudhgarh",
+        "localname": "Boudhgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.boudhgarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Boudhgarh",
+            "localname": "Boudhgarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Boudhgarh Nazul",
+            "localname": "Boudhgarh Nazul",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Marjakud",
+            "localname": "Marjakud",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          }
+        ]
+      }
+    }
+  ]
+}

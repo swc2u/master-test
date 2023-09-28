@@ -1,0 +1,62 @@
+{
+    "tenantId": "od.bhuban",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Bhadalapasi Kolhasahi",
+            "ward": "02",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Natakata Colony",
+            "ward": "02",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Tolankabereni",
+            "ward": "02",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Godipatna",
+            "ward": "03",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Sahugharpatna Harijan Basti",
+            "ward": "04",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Penthasahi Harijan Basti",
+            "ward": "12",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Mochigadia",
+            "ward": "14",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Basudeipur Matha",
+            "ward": "15",
+            "code": "SLM8",
+            "isActive": true
+        }
+    ]
+}

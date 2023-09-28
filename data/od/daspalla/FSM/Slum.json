@@ -1,0 +1,60 @@
+{
+    "tenantId": "od.daspalla",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "MOHANTY SAHI",
+            "active": true,
+            "code": "DASP001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "NAHAKAPADA",
+            "active": true,
+            "code": "DASP002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "DEULAMALI SAHI",
+            "active": true,
+            "code": "DASP003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "AMALAPADA",
+            "active": true,
+            "code": "DASP004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "ANDHARKUT",
+            "active": true,
+            "code": "DASP005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "HARIDABADI",
+            "active": true,
+            "code": "DASP006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "K.C PATNA",
+            "active": true,
+            "code": "DASP007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "PATAPURPATNA",
+            "active": true,
+            "code": "DASP008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "KHANDAPADA TOTA SAHI",
+            "active": true,
+            "code": "DASP009",
+            "locality": "VIL1"
+        }
+    ]
+}

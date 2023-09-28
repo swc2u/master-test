@@ -1,0 +1,17 @@
+{
+    "tenantId": "od.nimapara",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Muslim Basti",
+        "active": true,
+        "code": "NPSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sweeper Colony",
+        "active": true,
+        "code": "NPSL002",
+        "locality": "VIL1"
+    }]
+}

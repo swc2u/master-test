@@ -1,0 +1,35 @@
+{
+    "tenantId": "od.surada",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Badaharijana Sahi Ward No-05",
+        "active": true,
+        "code": "SRSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bandhahuda Netaji Sahi Ward No-06",
+        "active": true,
+        "code": "SRSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Duma Sahi Ward No-02",
+        "active": true,
+        "code": "SRSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bada pana sahi Ward No-02",
+        "active": true,
+        "code": "SRSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Marathi Sahi Ward No-10",
+        "active": true,
+        "code": "SRSL005",
+        "locality": "VIL1"
+    }]
+}

@@ -1,0 +1,9 @@
+{
+ "tenantId": "od",
+ "moduleName": "RAINMAKER-PGR",
+ "UIConstants": [
+   {
+     "REOPENSLA": 432000000
+   }
+ ]
+}

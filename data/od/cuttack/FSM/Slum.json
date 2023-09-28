@@ -1,0 +1,1517 @@
+{
+    "tenantId": "od.cuttack",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Bidanasi Dhoba Sahi",
+        "active": true,
+        "code": "CTSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Radhakishorepur",
+        "active": true,
+        "code": "CTSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidanasi Bandha Tala Sahi",
+        "active": true,
+        "code": "CTSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidanasi Kumbhar Sahi",
+        "active": true,
+        "code": "CTSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidanasi Bauri Sahi",
+        "active": true,
+        "code": "CTSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Satabdi Nagar",
+        "active": true,
+        "code": "CTSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidanasi Munda Sahi",
+        "active": true,
+        "code": "CTSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidanasi Gopal Sahi",
+        "active": true,
+        "code": "CTSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidanasi Municipal Colony, Nuasahi",
+        "active": true,
+        "code": "CTSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kaibartasahi (Sandhapur)",
+        "active": true,
+        "code": "CTSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Puruna Adibasi Sahi",
+        "active": true,
+        "code": "CTSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "New Adibasi Sahi",
+        "active": true,
+        "code": "CTSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mundasahi CDA, Sec- 13",
+        "active": true,
+        "code": "CTSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Brajabiharipur",
+        "active": true,
+        "code": "CTSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dhabaleswargada Harijan Sahi",
+        "active": true,
+        "code": "CTSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Judge Patha CDA Sec- 12",
+        "active": true,
+        "code": "CTSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kathajodi Vihar- (B)",
+        "active": true,
+        "code": "CTSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kathajodi Vihar - (A)",
+        "active": true,
+        "code": "CTSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Petanala",
+        "active": true,
+        "code": "CTSL019",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidanasi Hairanpur",
+        "active": true,
+        "code": "CTSL020",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Satichaurabandha Tala Sahi",
+        "active": true,
+        "code": "CTSL021",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Krusak Bazar",
+        "active": true,
+        "code": "CTSL022",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gopabandhu Sahi",
+        "active": true,
+        "code": "CTSL023",
+        "locality": "VIL1"
+    },
+    {
+        "name": " Sati Gumpha",
+        "active": true,
+        "code": "CTSL024",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dobandha",
+        "active": true,
+        "code": "CTSL025",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mahatab Nagar",
+        "active": true,
+        "code": "CTSL026",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Idga Refugee Colony",
+        "active": true,
+        "code": "CTSL027",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Idga Muslim Sahi",
+        "active": true,
+        "code": "CTSL028",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Deula Sahi Dhoba Sahi",
+        "active": true,
+        "code": "CTSL029",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ringroadbandha Talasahi Behind Tulasipur Dispensary",
+        "active": true,
+        "code": "CTSL030",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tulasipur Bauri Sahi and Tinigharia Sahi",
+        "active": true,
+        "code": "CTSL031",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tulasipur, Hadisahi",
+        "active": true,
+        "code": "CTSL032",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tulasipur ,Hatua Sahi",
+        "active": true,
+        "code": "CTSL033",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tulasipur, Tanlasahi",
+        "active": true,
+        "code": "CTSL034",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nima Basti (Tulasipur)",
+        "active": true,
+        "code": "CTSL035",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Christiansahi, Tulasipur",
+        "active": true,
+        "code": "CTSL036",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tulasipur, Balisahi",
+        "active": true,
+        "code": "CTSL037",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Stewartpatana Tanlasahi",
+        "active": true,
+        "code": "CTSL038",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sidheswar Sahi Pana Sahi",
+        "active": true,
+        "code": "CTSL039",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Harihar Ghat",
+        "active": true,
+        "code": "CTSL040",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dagarpada",
+        "active": true,
+        "code": "CTSL041",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mansinghpatana Muslim Sahi",
+        "active": true,
+        "code": "CTSL042",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Alisha Bazar Hadi Sahi",
+        "active": true,
+        "code": "CTSL043",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Lalban Sahi Alisha Bazar",
+        "active": true,
+        "code": "CTSL044",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhandari Sahi (Immam Badi)",
+        "active": true,
+        "code": "CTSL045",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sati Chaura Harijan Sahi",
+        "active": true,
+        "code": "CTSL046",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Matha Gali Antaryami",
+        "active": true,
+        "code": "CTSL047",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mehendipur Sunadei Gali",
+        "active": true,
+        "code": "CTSL048",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mehendipur ",
+        "active": true,
+        "code": "CTSL049",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Telugusahi River Street",
+        "active": true,
+        "code": "CTSL050",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khatbinsahi- Fakirlane Muslimsahi",
+        "active": true,
+        "code": "CTSL051",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mehendipur Refugee Colony",
+        "active": true,
+        "code": "CTSL052",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gadagadia Patha Adibasi Sahi",
+        "active": true,
+        "code": "CTSL053",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pattapola Muslim Sahi",
+        "active": true,
+        "code": "CTSL054",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Telugu Basti Opp. Narisevasadan",
+        "active": true,
+        "code": "CTSL055",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gorakabar Muslim Sahi",
+        "active": true,
+        "code": "CTSL056",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Fasidia Pana Sahi",
+        "active": true,
+        "code": "CTSL057",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Berhampuria Basti Inside Gada Khai",
+        "active": true,
+        "code": "CTSL058",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Godam Gali Pottapola",
+        "active": true,
+        "code": "CTSL059",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sutahat Tanti Sahi",
+        "active": true,
+        "code": "CTSL060",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pottapola Colony",
+        "active": true,
+        "code": "CTSL061",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dagbar Sahi Sutahat",
+        "active": true,
+        "code": "CTSL062",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pottapola Tanti Sahi",
+        "active": true,
+        "code": "CTSL063",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sutahat Hadi Sahi",
+        "active": true,
+        "code": "CTSL064",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Baunsagali Part (Kansei Gali)",
+        "active": true,
+        "code": "CTSL065",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Odiabazar Tanti Sahi (Telugu Basti)",
+        "active": true,
+        "code": "CTSL066",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Odia Bazar Goudasahi",
+        "active": true,
+        "code": "CTSL067",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kazi Bazar DhobiSahi",
+        "active": true,
+        "code": "CTSL068",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Deewan Bazar Tanti Sahi",
+        "active": true,
+        "code": "CTSL069",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Deewan Bazar Muslim Sahi",
+        "active": true,
+        "code": "CTSL070",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sutahat Pana Sahi Gali",
+        "active": true,
+        "code": "CTSL071",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Oriya Bazar Chamar Sahi",
+        "active": true,
+        "code": "CTSL072",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Oriya Bazar Muslim Sahi",
+        "active": true,
+        "code": "CTSL073",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Oriya Bazar Kutakhai Gali",
+        "active": true,
+        "code": "CTSL074",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ganeshghat Panasahi (Harijan Sahi)",
+        "active": true,
+        "code": "CTSL075",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dhuanpatria Lane",
+        "active": true,
+        "code": "CTSL076",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ganeshghat Bhandari Sahi (Manik Ghose Bazar)",
+        "active": true,
+        "code": "CTSL077",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sahebzada Bazar",
+        "active": true,
+        "code": "CTSL078",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gopaljew Matha Sahi, Harijan Sahi",
+        "active": true,
+        "code": "CTSL079",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Purighat Bauri Sahi",
+        "active": true,
+        "code": "CTSL080",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Meria Bazar",
+        "active": true,
+        "code": "CTSL081",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kesharpur",
+        "active": true,
+        "code": "CTSL082",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Makarbag Sahi (Dhobi Lane)",
+        "active": true,
+        "code": "CTSL083",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Makarbag Sahi Telugu Muslim Sahi",
+        "active": true,
+        "code": "CTSL084",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tinikonia Bagicha",
+        "active": true,
+        "code": "CTSL085",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kadam Rasool",
+        "active": true,
+        "code": "CTSL086",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Telugu Basti (Infront of Asha Apartment)",
+        "active": true,
+        "code": "CTSL087",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Haripur",
+        "active": true,
+        "code": "CTSL088",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Samanta Sahi",
+        "active": true,
+        "code": "CTSL089",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bepari Sahi Muslim Sahi",
+        "active": true,
+        "code": "CTSL090",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Thoria Sahi Harijan Sahi",
+        "active": true,
+        "code": "CTSL091",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Akhadagali",
+        "active": true,
+        "code": "CTSL092",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Badheisahi Buxi Bazar",
+        "active": true,
+        "code": "CTSL093",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nima Sahi Tanti Sahi Dhoba Sahi",
+        "active": true,
+        "code": "CTSL094",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nima Sahi Kumbhar Sahi",
+        "active": true,
+        "code": "CTSL095",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hatipokhari",
+        "active": true,
+        "code": "CTSL096",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tinigharia Gamma Gali (Jhola Sahi)",
+        "active": true,
+        "code": "CTSL097",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nima Sahi Pana Sahi",
+        "active": true,
+        "code": "CTSL098",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pithapur  Pana Sahi",
+        "active": true,
+        "code": "CTSL099",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jholasahi  Bauri Sahi",
+        "active": true,
+        "code": "CTSL100",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Muslim Sahi Tinapita Sahi Tala Telenga Bazar",
+        "active": true,
+        "code": "CTSL101",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Purighat Pana Sahi",
+        "active": true,
+        "code": "CTSL102",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Rajabagicha puruna Hadi Sahi",
+        "active": true,
+        "code": "CTSL103",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Rajabagicha Hadi Sahi",
+        "active": true,
+        "code": "CTSL104",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Labour Colony Sweeper Sahi",
+        "active": true,
+        "code": "CTSL105",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dolamundei Baurisahi",
+        "active": true,
+        "code": "CTSL106",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jhanjirmangala Harijan Sahi",
+        "active": true,
+        "code": "CTSL107",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jhanjirmangala Pana Sahi (Lunia Sahi)",
+        "active": true,
+        "code": "CTSL108",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sarbodayapur",
+        "active": true,
+        "code": "CTSL109",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Rajabagicha Kusunpur",
+        "active": true,
+        "code": "CTSL110",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Narayan Mishra Lane Bauri Sahi",
+        "active": true,
+        "code": "CTSL111",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Professerpada",
+        "active": true,
+        "code": "CTSL112",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sagadia Sahi",
+        "active": true,
+        "code": "CTSL113",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sikari Sahi",
+        "active": true,
+        "code": "CTSL114",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gamhadia",
+        "active": true,
+        "code": "CTSL115",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Thoria Sahi Nayak Sahi",
+        "active": true,
+        "code": "CTSL116",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Thoria Sahi Main Basti",
+        "active": true,
+        "code": "CTSL117",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Thoria Sahi Ghasia Sahi ",
+        "active": true,
+        "code": "CTSL118",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Machhua Bazar",
+        "active": true,
+        "code": "CTSL119",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Thoria Sahi Malha Sahi",
+        "active": true,
+        "code": "CTSL120",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Balabhadrapur",
+        "active": true,
+        "code": "CTSL121",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mahatab Road New Colony",
+        "active": true,
+        "code": "CTSL122",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mahatab Road ",
+        "active": true,
+        "code": "CTSL123",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bisinabar",
+        "active": true,
+        "code": "CTSL124",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sankarpur Main Basti",
+        "active": true,
+        "code": "CTSL125",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gurkha Colony",
+        "active": true,
+        "code": "CTSL126",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Santala Sahi Gorkha Lane",
+        "active": true,
+        "code": "CTSL127",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Malgodwn Koila Depot Basti",
+        "active": true,
+        "code": "CTSL128",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Surya Nagar Sahi (Pilgrim Road)",
+        "active": true,
+        "code": "CTSL129",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kulibasa Lane near Railway Station",
+        "active": true,
+        "code": "CTSL130",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Canal Road Basti",
+        "active": true,
+        "code": "CTSL131",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pareswar Sahi",
+        "active": true,
+        "code": "CTSL132",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pareswar Sahi Mir Sahi",
+        "active": true,
+        "code": "CTSL133",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Station Bazar Matha Sahi",
+        "active": true,
+        "code": "CTSL134",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Junuspatna Harijan sahi Canal road Chunabhati Basti",
+        "active": true,
+        "code": "CTSL135",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Murdkhan patna, Samal Sahi",
+        "active": true,
+        "code": "CTSL136",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jobra Nadikula Sahi",
+        "active": true,
+        "code": "CTSL137",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Charigharia",
+        "active": true,
+        "code": "CTSL138",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jamal Basti Bhoi Sahi Bhandari Sahi",
+        "active": true,
+        "code": "CTSL139",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Koila Basti Jobra near Over Bridge",
+        "active": true,
+        "code": "CTSL140",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jobra Nua Sahi",
+        "active": true,
+        "code": "CTSL141",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Samadhipatana (North side)",
+        "active": true,
+        "code": "CTSL142",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Muradhakhanpatana, Samadhi patana",
+        "active": true,
+        "code": "CTSL143",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jobra Tinapati Sahi",
+        "active": true,
+        "code": "CTSL144",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Chauliaganj Matha Sahi",
+        "active": true,
+        "code": "CTSL145",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nua Nima Sahi",
+        "active": true,
+        "code": "CTSL146",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Chauliaganj Dhoba Sahi",
+        "active": true,
+        "code": "CTSL147",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nilakantheswar Basti Chauliaganj",
+        "active": true,
+        "code": "CTSL148",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Chauliaganj Muslim Sahi (Santi vihar)",
+        "active": true,
+        "code": "CTSL149",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kalivihar Nadikula Sahi",
+        "active": true,
+        "code": "CTSL150",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khannagar Bauri sahi (Saharsahi)",
+        "active": true,
+        "code": "CTSL151",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Manimatha Sahi",
+        "active": true,
+        "code": "CTSL152",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khannagar Guru Sahi Keuta Sahi",
+        "active": true,
+        "code": "CTSL153",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nua Gauda Sahi",
+        "active": true,
+        "code": "CTSL154",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Korapokhari Harijan Sahi",
+        "active": true,
+        "code": "CTSL155",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sikharpur Nadikula Sahi",
+        "active": true,
+        "code": "CTSL156",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sikharpur Uppar Sahi",
+        "active": true,
+        "code": "CTSL157",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Chauliaganj Saharsahi",
+        "active": true,
+        "code": "CTSL158",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gandarpur Sahar Sahi",
+        "active": true,
+        "code": "CTSL159",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Malha sahi Nadikula Sahi",
+        "active": true,
+        "code": "CTSL160",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ranihat Canal Road (Shifted from ward no. - 35)",
+        "active": true,
+        "code": "CTSL161",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jay Maa Mangala Sahi (Shifted from ward no. -35)",
+        "active": true,
+        "code": "CTSL162",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Medical Behera Sahi (Shifted from ward no. -35)",
+        "active": true,
+        "code": "CTSL163",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Barrage Colony (Shifted from ward no. - 40)",
+        "active": true,
+        "code": "CTSL164",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bateswar Sahi Sikharpur",
+        "active": true,
+        "code": "CTSL165",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nazarpur Behera Sahi (Keuta Sahi)",
+        "active": true,
+        "code": "CTSL166",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Old Industrial Estate , Jagatpur (Bhubanpur)",
+        "active": true,
+        "code": "CTSL167",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Laxmanpur Harijan Sahi",
+        "active": true,
+        "code": "CTSL168",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jagatpur Harijan Sahi (Andheri)",
+        "active": true,
+        "code": "CTSL169",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nazarpur (Bauri Sahi)",
+        "active": true,
+        "code": "CTSL170",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhubanpur Hadi Sahi",
+        "active": true,
+        "code": "CTSL171",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Laxmanpur Muslim Sahi",
+        "active": true,
+        "code": "CTSL172",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nimpur Sabar Sahi",
+        "active": true,
+        "code": "CTSL173",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nankar Dhoba sahi Behera sahi",
+        "active": true,
+        "code": "CTSL174",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Immam Nagar Muslim Sahi",
+        "active": true,
+        "code": "CTSL175",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Najarpur Munda sahi",
+        "active": true,
+        "code": "CTSL176",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Immam Nagar Bariksahi",
+        "active": true,
+        "code": "CTSL177",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Industrial Estate Jagatpur Balisahi",
+        "active": true,
+        "code": "CTSL178",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Station Bazar Jagatpur",
+        "active": true,
+        "code": "CTSL179",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Podabara",
+        "active": true,
+        "code": "CTSL180",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tarala Saharsahi Adibasi Sahi",
+        "active": true,
+        "code": "CTSL181",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Immam Nagar Dama Sahi",
+        "active": true,
+        "code": "CTSL182",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Immam Nagar Harijan Sahi",
+        "active": true,
+        "code": "CTSL183",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Immam Nagar Mallick Sahi",
+        "active": true,
+        "code": "CTSL184",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jagatpur Harijan sahi Nuasahi",
+        "active": true,
+        "code": "CTSL185",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jagannath Colony",
+        "active": true,
+        "code": "CTSL186",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Santoshi Nagar",
+        "active": true,
+        "code": "CTSL187",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gujurati Basti near Ghatakula",
+        "active": true,
+        "code": "CTSL188",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Press chhak Slum",
+        "active": true,
+        "code": "CTSL189",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pilgrim Road Das Sahi (Shifted from ward no.- 38)",
+        "active": true,
+        "code": "CTSL190",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nua Sahi, Malgodwn (Shifted from ward no. - 38)",
+        "active": true,
+        "code": "CTSL191",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hukeswar Temple  , Piligrim Road (Shifted from ward no. - 38)",
+        "active": true,
+        "code": "CTSL192",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Chhatra Bazar Behera Sahi (Shifted from ward no. -38)",
+        "active": true,
+        "code": "CTSL193",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Malgodwn Behera Sahi (Shifted from ward no. - 38)",
+        "active": true,
+        "code": "CTSL194",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bose Engg. School (back side near Ring Road)",
+        "active": true,
+        "code": "CTSL195",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mangala Sahi",
+        "active": true,
+        "code": "CTSL196",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Munda sahi near poparada",
+        "active": true,
+        "code": "CTSL197",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sartol Mallick Sahi",
+        "active": true,
+        "code": "CTSL198",
+        "locality": "VIL1"
+    },
+    {
+        "name": " Sartol Bauri Sahi",
+        "active": true,
+        "code": "CTSL199",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuapada Bali",
+        "active": true,
+        "code": "CTSL200",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuapada",
+        "active": true,
+        "code": "CTSL201",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tinigharia Canal Road",
+        "active": true,
+        "code": "CTSL202",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tinigharia Nua Sahi",
+        "active": true,
+        "code": "CTSL203",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Poparada",
+        "active": true,
+        "code": "CTSL204",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bisalyakarani Lane Bauri Sahi",
+        "active": true,
+        "code": "CTSL205",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Rajendra Nagar Sabar Sahi",
+        "active": true,
+        "code": "CTSL206",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kazidiha",
+        "active": true,
+        "code": "CTSL207",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dargha Patna",
+        "active": true,
+        "code": "CTSL208",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Andarpur",
+        "active": true,
+        "code": "CTSL209",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Potapokhari Sahi",
+        "active": true,
+        "code": "CTSL210",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Potapokhari Teli Sahi &amp; Sastrinagar (Nua Pokhari)",
+        "active": true,
+        "code": "CTSL211",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jagannath Road Near Leporsy Colony",
+        "active": true,
+        "code": "CTSL212",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mahima Nagar",
+        "active": true,
+        "code": "CTSL213",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gandhipalli",
+        "active": true,
+        "code": "CTSL214",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Neherupalli",
+        "active": true,
+        "code": "CTSL215",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidyadharpur Mallick Sahi Bhoi Sahi",
+        "active": true,
+        "code": "CTSL216",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidyadharpur Barik Sahi",
+        "active": true,
+        "code": "CTSL217",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Keshpur",
+        "active": true,
+        "code": "CTSL218",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kanheipur Bauri Sahi",
+        "active": true,
+        "code": "CTSL219",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhadimula",
+        "active": true,
+        "code": "CTSL220",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidyadharpur Pana Sahi",
+        "active": true,
+        "code": "CTSL221",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhadimula Nadia Bagicha",
+        "active": true,
+        "code": "CTSL222",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Debendra Nagar",
+        "active": true,
+        "code": "CTSL223",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Canal Bandha Basti (Infront of CRRI gate)",
+        "active": true,
+        "code": "CTSL224",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bidyadharpur Gopinath Bazar (Berhampuria Basti)",
+        "active": true,
+        "code": "CTSL225",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Balikuda Samal Sahi",
+        "active": true,
+        "code": "CTSL226",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kajipatana Muslim Sahi",
+        "active": true,
+        "code": "CTSL227",
+        "locality": "VIL1"
+    },
+    {
+        "name": " Amaniapatana Bhoi Sahi",
+        "active": true,
+        "code": "CTSL228",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kajipatana Indira Colony",
+        "active": true,
+        "code": "CTSL229",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mukameswar Kaibarta Sahi",
+        "active": true,
+        "code": "CTSL230",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tota Sahi",
+        "active": true,
+        "code": "CTSL231",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Shyampur Harijan Sahi",
+        "active": true,
+        "code": "CTSL232",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Subhadrapur Harijan Sahi",
+        "active": true,
+        "code": "CTSL233",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Paika sahi Gopalpur",
+        "active": true,
+        "code": "CTSL234",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Srikoruan Bauri sahi",
+        "active": true,
+        "code": "CTSL235",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Srikoruan Gurubari Sahi",
+        "active": true,
+        "code": "CTSL236",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gopalpur Samal Sahi Gopalpur Harijan Sahi",
+        "active": true,
+        "code": "CTSL237",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gopalpur Deuri Sahi",
+        "active": true,
+        "code": "CTSL238",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ananta BaliaCollege Behera Sahi Nuagada",
+        "active": true,
+        "code": "CTSL239",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuagada Ostakuda Sahi",
+        "active": true,
+        "code": "CTSL240",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuagada Kuda sahi and Barik Sahi",
+        "active": true,
+        "code": "CTSL241",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pratap Nagari Kaibartya sahi",
+        "active": true,
+        "code": "CTSL242",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Puruna Nuagada Barik Sahi",
+        "active": true,
+        "code": "CTSL243",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhanpur Samal Sahi",
+        "active": true,
+        "code": "CTSL244",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhanpur Dhoba Sahi",
+        "active": true,
+        "code": "CTSL245",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuagada Dandakulala  Sahi",
+        "active": true,
+        "code": "CTSL246",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pira Bazar Muslim Sahi Bhanpur",
+        "active": true,
+        "code": "CTSL247",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mugabhanga Muslim Sahi",
+        "active": true,
+        "code": "CTSL248",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kacharamala Harijan Sahi (New)",
+        "active": true,
+        "code": "CTSL249",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Old Kacharamala Harijan Sahi",
+        "active": true,
+        "code": "CTSL250",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Adhanga Diha Mallick Sahi and Bhoi Sahi",
+        "active": true,
+        "code": "CTSL251",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuapatana Indira Gandhi Colony",
+        "active": true,
+        "code": "CTSL252",
+        "locality": "VIL1"
+    }]
+}

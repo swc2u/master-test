@@ -1,0 +1,376 @@
+{
+  "tenantId": "od.barpali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Barpalli",
+        "localname": "Barpalli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.barpali",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Pudapali",
+            "localname": "Pudapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Barpali",
+            "localname": "Barpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kendpali",
+            "localname": "Kendpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+		  {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Agalpur",
+            "localname": "Agalpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP1",
+            "children": []
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Barguda",
+            "localname": "Barguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP2",
+            "children": []
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Bhatigoan",
+            "localname": "Bhatigoan",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP3",
+            "children": []
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "khemesara",
+            "localname": "khemesara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP4",
+            "children": []
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "mahada",
+            "localname": "mahada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP5",
+            "children": []
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Roxa",
+            "localname": "Roxa",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP6",
+            "children": []
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Tileimal",
+            "localname": "Tileimal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP7",
+            "children": []
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Tinkani",
+            "localname": "Tinkani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP8",
+            "children": []
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Bagbadi",
+            "localname": "Bagbadi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP9",
+            "children": []
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Bandhpali",
+            "localname": "Bandhpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP10",
+            "children": []
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Baramkela",
+            "localname": "Baramkela",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP11",
+            "children": []
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Gopeipali",
+            "localname": "Gopeipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP12",
+            "children": []
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Kainsir",
+            "localname": "Kainsir",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP13",
+            "children": []
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Kanbar",
+            "localname": "Kanbar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP14",
+            "children": []
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "kumbhari",
+            "localname": "kumbhari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP15",
+            "children": []
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "katapali ",
+            "localname": "katapali ",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP16",
+            "children": []
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "kusanpuri",
+            "localname": "kusanpuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP17",
+            "children": []
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Lenda",
+            "localname": "Lenda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP18",
+            "children": []
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Mahulpali",
+            "localname": "Mahulpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP19",
+            "children": []
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Patakulunda",
+            "localname": "Patakulunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP20",
+            "children": []
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Remta",
+            "localname": "Remta",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP21",
+            "children": []
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Satalama",
+            "localname": "Satalama",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP22",
+            "children": []
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Tulandi",
+            "localname": "Tulandi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP23",
+            "children": []
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRP24",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Barpalli",
+        "localname": "Barpalli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.barpali",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Pudapali",
+            "localname": "Pudapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Barpali",
+            "localname": "Barpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kendpali",
+            "localname": "Kendpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          }
+        ]
+      }
+    }
+  ]
+}

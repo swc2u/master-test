@@ -1,0 +1,101 @@
+{
+    "tenantId": "od.paralakhemundi",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Sabara Sahi, Ram Nagar",
+        "active": true,
+        "code": "PASL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kampo Street, Ram nagar",
+        "active": true,
+        "code": "PASL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Relli Papudi Street",
+        "active": true,
+        "code": "PASL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ghasi Street",
+        "active": true,
+        "code": "PASL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pano Street",
+        "active": true,
+        "code": "PASL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Railway Station Road",
+        "active": true,
+        "code": "PASL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hatapada Street",
+        "active": true,
+        "code": "PASL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jagam Street",
+        "active": true,
+        "code": "PASL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Seri Jagilli Sahi",
+        "active": true,
+        "code": "PASL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dandumala Sahi",
+        "active": true,
+        "code": "PASL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Telugu Kumbara Sahi",
+        "active": true,
+        "code": "PASL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kandra Sahi",
+        "active": true,
+        "code": "PASL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "BPL Colony",
+        "active": true,
+        "code": "PASL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Relli Sahi",
+        "active": true,
+        "code": "PASL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kaitha Sahi",
+        "active": true,
+        "code": "PASL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sanjay Gandhi Colony",
+        "active": true,
+        "code": "PASL016",
+        "locality": "VIL1"
+    }]
+}

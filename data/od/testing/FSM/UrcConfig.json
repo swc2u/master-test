@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.testing",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

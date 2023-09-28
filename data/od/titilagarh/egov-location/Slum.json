@@ -1,0 +1,272 @@
+{
+    "tenantId": "od.titilagarh",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Titidunguri",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Teneri Silpada",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "New Teneri Silpada",
+            "ward": "01",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Silpada",
+            "ward": "01",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Madanojal Chaowk",
+            "ward": "01",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Chamar Pada",
+            "ward": "02",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Ashok Nagar",
+            "ward": "02",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Swadhin Pada",
+            "ward": "03",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Neheru Nagar",
+            "ward": "04",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Harijan Pada",
+            "ward": "04",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Adibashi Pada",
+            "ward": "04",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "T.T. Dunoguri Pada",
+            "ward": "04",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Kindan Gali",
+            "ward": "05",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Maushi Maa Mandir",
+            "ward": "06",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Jagannatah Pada",
+            "ward": "07",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Thikadar Pada",
+            "ward": "07",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Nilachakra Nagar",
+            "ward": "08",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "High School Pada",
+            "ward": "09",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Girls Highschool Ppada",
+            "ward": "09",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Wirehouse Pada",
+            "ward": "10",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Sirbhata Pada",
+            "ward": "10",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Sirbhata Pada",
+            "ward": "11",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Block Pada",
+            "ward": "11",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Old Tenerry Pada",
+            "ward": "11",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Gouda Pada",
+            "ward": "12",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Jhankar Pada",
+            "ward": "12",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Padasmanabha Pada",
+            "ward": "12",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Masjit Pada",
+            "ward": "12",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Rammandir Pada",
+            "ward": "12",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Sweeper Pada",
+            "ward": "13",
+            "code": "SLM30",
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "Deobandha Pada",
+            "ward": "13",
+            "code": "SLM31",
+            "isActive": true
+        },
+        {
+            "id": 32,
+            "name": "Deobbandha Pada 2",
+            "ward": "13",
+            "code": "SLM32",
+            "isActive": true
+        },
+        {
+            "id": 33,
+            "name": "Tangar Pada",
+            "ward": "13",
+            "code": "SLM33",
+            "isActive": true
+        },
+        {
+            "id": 34,
+            "name": "Tangar Pada",
+            "ward": "14",
+            "code": "SLM34",
+            "isActive": true
+        },
+        {
+            "id": 35,
+            "name": "Ambandha Aspada",
+            "ward": "14",
+            "code": "SLM35",
+            "isActive": true
+        },
+        {
+            "id": 36,
+            "name": "Deobandha Pada",
+            "ward": "14",
+            "code": "SLM36",
+            "isActive": true
+        },
+        {
+            "id": 37,
+            "name": "Check Gate Pada",
+            "ward": "15",
+            "code": "SLM37",
+            "isActive": true
+        },
+        {
+            "id": 38,
+            "name": "Bahidar Pada",
+            "ward": "15",
+            "code": "SLM38",
+            "isActive": true
+        }
+    ]
+}

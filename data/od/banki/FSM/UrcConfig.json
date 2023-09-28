@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.banki",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

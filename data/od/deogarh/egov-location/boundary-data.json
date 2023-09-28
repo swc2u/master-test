@@ -1,0 +1,1104 @@
+{
+  "tenantId": "od.deogarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Deogarh",
+        "localname": "Deogarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.deogarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-01 (Saratala)",
+            "localname": "Deogarh Town Unit No-01 (Saratala)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-02 (Sanbaliposi)",
+            "localname": "Deogarh Town Unit No-02 (Sanbaliposi)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-03 (Bhitiria Sahi)",
+            "localname": "Deogarh Town Unit No-03 (Bhitiria Sahi)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-04 (Purunagarh)",
+            "localname": "Deogarh Town Unit No-04 (Purunagarh)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-05 Mohinimohanpur",
+            "localname": "Deogarh Town Unit No-05 Mohinimohanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-06 Patrapali",
+            "localname": "Deogarh Town Unit No-06 Patrapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-07 Mirgidia Sahi",
+            "localname": "Deogarh Town Unit No-07 Mirgidia Sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-08 Kacheri Sahi",
+            "localname": "Deogarh Town Unit No-08 Kacheri Sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-09 Rajamunda",
+            "localname": "Deogarh Town Unit No-09 Rajamunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-10 Janglikadam",
+            "localname": "Deogarh Town Unit No-10 Janglikadam",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+		  {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Balam",
+            "localname": "Balam",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG1",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Balanda",
+            "localname": "Balanda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG2",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Bamparda",
+            "localname": "Bamparda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG3",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG4",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Basalai",
+            "localname": "Basalai",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG5",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Bijayanagar",
+            "localname": "Bijayanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG6",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Dandasingha",
+            "localname": "Dandasingha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG7",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Danra",
+            "localname": "Danra",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG8",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Dantaribahal",
+            "localname": "Dantaribahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG9",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Golabandha",
+            "localname": "Golabandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG10",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Gurusang",
+            "localname": "Gurusang",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG11",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Jharakhandhal",
+            "localname": "Jharakhandhal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG12",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Kadopada",
+            "localname": "Kadopada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG13",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Kaliapal",
+            "localname": "Kaliapal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG14",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Kalla",
+            "localname": "Kalla",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG15",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Kandhal",
+            "localname": "Kandhal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG16",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Kantapali",
+            "localname": "Kantapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG17",
+            "children": [
+            ]
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Kaunsibahal",
+            "localname": "Kaunsibahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG18",
+            "children": [
+            ]
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Kelda",
+            "localname": "Kelda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG19",
+            "children": [
+            ]
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Mandhyapur",
+            "localname": "Mandhyapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG20",
+            "children": [
+            ]
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Rambhei",
+            "localname": "Rambhei",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG21",
+            "children": [
+            ]
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Ratiabahal",
+            "localname": "Ratiabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG22",
+            "children": [
+            ]
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "Saida",
+            "localname": "Saida",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG23",
+            "children": [
+            ]
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "Saruali",
+            "localname": "Saruali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG24",
+            "children": [
+            ]
+          },
+          {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "Singhsal",
+            "localname": "Singhsal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG25",
+            "children": [
+            ]
+          },
+          {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "Adas",
+            "localname": "Adas",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG26",
+            "children": [
+            ]
+          },
+          {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "Baghabar",
+            "localname": "Baghabar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG27",
+            "children": [
+            ]
+          },
+          {
+            "id": "40",
+            "boundaryNum": 1,
+            "name": "Budhapal",
+            "localname": "Budhapal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG28",
+            "children": [
+            ]
+          },
+          {
+            "id": "41",
+            "boundaryNum": 1,
+            "name": "Budido",
+            "localname": "Budido",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG29",
+            "children": [
+            ]
+          },
+          {
+            "id": "42",
+            "boundaryNum": 1,
+            "name": "Chadheimara",
+            "localname": "Chadheimara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG30",
+            "children": [
+            ]
+          },
+          {
+            "id": "43",
+            "boundaryNum": 1,
+            "name": "Gundiapali",
+            "localname": "Gundiapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG31",
+            "children": [
+            ]
+          },
+          {
+            "id": "44",
+            "boundaryNum": 1,
+            "name": "Kantabahal",
+            "localname": "Kantabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG32",
+            "children": [
+            ]
+          },
+          {
+            "id": "45",
+            "boundaryNum": 1,
+            "name": "Karlaga",
+            "localname": "Karlaga",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG33",
+            "children": [
+            ]
+          },
+          {
+            "id": "46",
+            "boundaryNum": 1,
+            "name": "Khilei",
+            "localname": "Khilei",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG34",
+            "children": [
+            ]
+          },
+          {
+            "id": "47",
+            "boundaryNum": 1,
+            "name": "Kolabasa",
+            "localname": "Kolabasa",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG35",
+            "children": [
+            ]
+          },
+          {
+            "id": "48",
+            "boundaryNum": 1,
+            "name": "Kundheigola",
+            "localname": "Kundheigola",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG36",
+            "children": [
+            ]
+          },
+          {
+            "id": "49",
+            "boundaryNum": 1,
+            "name": "Lulung",
+            "localname": "Lulung",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG37",
+            "children": [
+            ]
+          },
+          {
+            "id": "50",
+            "boundaryNum": 1,
+            "name": "Malehipada",
+            "localname": "Malehipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG38",
+            "children": [
+            ]
+          },
+          {
+            "id": "51",
+            "boundaryNum": 1,
+            "name": "Naulipada",
+            "localname": "Naulipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG39",
+            "children": [
+            ]
+          },
+          {
+            "id": "52",
+            "boundaryNum": 1,
+            "name": "Nuadihi",
+            "localname": "Nuadihi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG40",
+            "children": [
+            ]
+          },
+          {
+            "id": "53",
+            "boundaryNum": 1,
+            "name": "Nuapada",
+            "localname": "Nuapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG41",
+            "children": [
+            ]
+          },
+          {
+            "id": "54",
+            "boundaryNum": 1,
+            "name": "Palsama",
+            "localname": "Palsama",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG42",
+            "children": [
+            ]
+          },
+          {
+            "id": "55",
+            "boundaryNum": 1,
+            "name": "Para",
+            "localname": "Para",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG43",
+            "children": [
+            ]
+          },
+          {
+            "id": "56",
+            "boundaryNum": 1,
+            "name": "Reamal",
+            "localname": "Reamal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG44",
+            "children": [
+            ]
+          },
+          {
+            "id": "57",
+            "boundaryNum": 1,
+            "name": "Tabada",
+            "localname": "Tabada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG45",
+            "children": [
+            ]
+          },
+          {
+            "id": "58",
+            "boundaryNum": 1,
+            "name": "Tarang",
+            "localname": "Tarang",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG46",
+            "children": [
+            ]
+          },
+          {
+            "id": "59",
+            "boundaryNum": 1,
+            "name": "Tentalabahal",
+            "localname": "Tentalabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG47",
+            "children": [
+            ]
+          },
+          {
+            "id": "60",
+            "boundaryNum": 1,
+            "name": "Tinkbir",
+            "localname": "Tinkbir",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG48",
+            "children": [
+            ]
+          },
+          {
+            "id": "61",
+            "boundaryNum": 1,
+            "name": "Tuhilmal",
+            "localname": "Tuhilmal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG49",
+            "children": [
+            ]
+          },
+          {
+            "id": "62",
+            "boundaryNum": 1,
+            "name": "Tungamal",
+            "localname": "Tungamal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG50",
+            "children": [
+            ]
+          },
+          {
+            "id": "63",
+            "boundaryNum": 1,
+            "name": "Utunia",
+            "localname": "Utunia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG51",
+            "children": [
+            ]
+          },
+          {
+            "id": "64",
+            "boundaryNum": 1,
+            "name": "Badchhapal",
+            "localname": "Badchhapal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG52",
+            "children": [
+            ]
+          },
+          {
+            "id": "65",
+            "boundaryNum": 1,
+            "name": "Baniakilinda",
+            "localname": "Baniakilinda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG53",
+            "children": [
+            ]
+          },
+          {
+            "id": "66",
+            "boundaryNum": 1,
+            "name": "Chheplipali",
+            "localname": "Chheplipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG54",
+            "children": [
+            ]
+          },
+          {
+            "id": "67",
+            "boundaryNum": 1,
+            "name": "Dholpada",
+            "localname": "Dholpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG55",
+            "children": [
+            ]
+          },
+          {
+            "id": "68",
+            "boundaryNum": 1,
+            "name": "Dimirikuda",
+            "localname": "Dimirikuda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG56",
+            "children": [
+            ]
+          },
+          {
+            "id": "69",
+            "boundaryNum": 1,
+            "name": "Dudhianali",
+            "localname": "Dudhianali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG57",
+            "children": [
+            ]
+          },
+          {
+            "id": "70",
+            "boundaryNum": 1,
+            "name": "Gandam",
+            "localname": "Gandam",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG58",
+            "children": [
+            ]
+          },
+          {
+            "id": "71",
+            "boundaryNum": 1,
+            "name": "Jharagogua",
+            "localname": "Jharagogua",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG59",
+            "children": [
+            ]
+          },
+          {
+            "id": "72",
+            "boundaryNum": 1,
+            "name": "Jharamunda",
+            "localname": "Jharamunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG60",
+            "children": [
+            ]
+          },
+          {
+            "id": "73",
+            "boundaryNum": 1,
+            "name": "Kalanda",
+            "localname": "Kalanda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG61",
+            "children": [
+            ]
+          },
+          {
+            "id": "74",
+            "boundaryNum": 1,
+            "name": "Kansar",
+            "localname": "Kansar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG62",
+            "children": [
+            ]
+          },
+          {
+            "id": "75",
+            "boundaryNum": 1,
+            "name": "Kerndeijuri",
+            "localname": "Kerndeijuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG63",
+            "children": [
+            ]
+          },
+          {
+            "id": "76",
+            "boundaryNum": 1,
+            "name": "Laimura",
+            "localname": "Laimura",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG64",
+            "children": [
+            ]
+          },
+          {
+            "id": "77",
+            "boundaryNum": 1,
+            "name": "Palkudar",
+            "localname": "Palkudar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG65",
+            "children": [
+            ]
+          },
+          {
+            "id": "78",
+            "boundaryNum": 1,
+            "name": "Parposi",
+            "localname": "Parposi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG66",
+            "children": [
+            ]
+          },
+          {
+            "id": "79",
+            "boundaryNum": 1,
+            "name": "Sodo",
+            "localname": "Sodo",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG67",
+            "children": [
+            ]
+          },
+          {
+            "id": "80",
+            "boundaryNum": 1,
+            "name": "Suguda",
+            "localname": "Suguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG68",
+            "children": [
+            ]
+          },
+          {
+            "id": "81",
+            "boundaryNum": 1,
+            "name": "Tainsar",
+            "localname": "Tainsar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG69",
+            "children": [
+            ]
+          },
+          {
+            "id": "82",
+            "boundaryNum": 1,
+            "name": "Talkundi",
+            "localname": "Talkundi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG70",
+            "children": [
+            ]
+          },
+          {
+            "id": "83",
+            "boundaryNum": 1,
+            "name": "Tileibani",
+            "localname": "Tileibani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DOG71",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Deogarh",
+        "localname": "Deogarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.deogarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-01 (Saratala)",
+            "localname": "Deogarh Town Unit No-01 (Saratala)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-02 (Sanbaliposi)",
+            "localname": "Deogarh Town Unit No-02 (Sanbaliposi)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-03 (Bhitiria Sahi)",
+            "localname": "Deogarh Town Unit No-03 (Bhitiria Sahi)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-04 (Purunagarh)",
+            "localname": "Deogarh Town Unit No-04 (Purunagarh)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-05 Mohinimohanpur",
+            "localname": "Deogarh Town Unit No-05 Mohinimohanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-06 Patrapali",
+            "localname": "Deogarh Town Unit No-06 Patrapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-07 Mirgidia Sahi",
+            "localname": "Deogarh Town Unit No-07 Mirgidia Sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-08 Kacheri Sahi",
+            "localname": "Deogarh Town Unit No-08 Kacheri Sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-09 Rajamunda",
+            "localname": "Deogarh Town Unit No-09 Rajamunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Deogarh Town Unit No-10 Janglikadam",
+            "localname": "Deogarh Town Unit No-10 Janglikadam",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          }
+        ]
+      }
+    }
+  ]
+}

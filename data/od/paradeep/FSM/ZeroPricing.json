@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.paradeep",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

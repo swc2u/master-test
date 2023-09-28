@@ -1,0 +1,180 @@
+{
+    "tenantId": "od.bhawanipatna",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Tarinimandir Pada",
+            "active": true,
+            "code": "BHAW001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nuapada",
+            "active": true,
+            "code": "BHAW002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Telugumashani Pada",
+            "active": true,
+            "code": "BHAW003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chamarpada",
+            "active": true,
+            "code": "BHAW004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Satnamipada",
+            "active": true,
+            "code": "BHAW005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sitabardipada",
+            "active": true,
+            "code": "BHAW006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chinimillpada",
+            "active": true,
+            "code": "BHAW007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Iti Pada",
+            "active": true,
+            "code": "BHAW008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ramnagar Pada",
+            "active": true,
+            "code": "BHAW009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Shantinagarpada",
+            "active": true,
+            "code": "BHAW010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jorepada",
+            "active": true,
+            "code": "BHAW011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ramsagar Pada",
+            "active": true,
+            "code": "BHAW012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bbc Pada",
+            "active": true,
+            "code": "BHAW013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sweeper Colony",
+            "active": true,
+            "code": "BHAW014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gosal Pada",
+            "active": true,
+            "code": "BHAW015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Arkhabali Pada",
+            "active": true,
+            "code": "BHAW016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Odiabangti Pada",
+            "active": true,
+            "code": "BHAW017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kalimandir Pada",
+            "active": true,
+            "code": "BHAW018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jenakhal Pada",
+            "active": true,
+            "code": "BHAW019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ashasagar Pada",
+            "active": true,
+            "code": "BHAW020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tv Centre Pada",
+            "active": true,
+            "code": "BHAW021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Naktiguda",
+            "active": true,
+            "code": "BHAW022",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kumbhar Pada",
+            "active": true,
+            "code": "BHAW023",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ambagacha Pada",
+            "active": true,
+            "code": "BHAW024",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Purunapada(Harijan/Sabarpada)",
+            "active": true,
+            "code": "BHAW025",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Pataiatbangla Pada",
+            "active": true,
+            "code": "BHAW026",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dewansaheb Pada",
+            "active": true,
+            "code": "BHAW027",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dhoba Pada",
+            "active": true,
+            "code": "BHAW028",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chanchara Pada",
+            "active": true,
+            "code": "BHAW029",
+            "locality": "VIL1"
+        }
+    ]
+}

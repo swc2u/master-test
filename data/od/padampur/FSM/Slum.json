@@ -1,0 +1,90 @@
+{
+    "tenantId": "od.padampur",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Pragati",
+            "active": true,
+            "code": "PADA001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Betrapada",
+            "active": true,
+            "code": "PADA002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Maharpada",
+            "active": true,
+            "code": "PADA003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Amlipali",
+            "active": true,
+            "code": "PADA004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kharrapada",
+            "active": true,
+            "code": "PADA005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Harijanpada",
+            "active": true,
+            "code": "PADA006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ghasipada",
+            "active": true,
+            "code": "PADA007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kusunapali",
+            "active": true,
+            "code": "PADA008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kenalpada",
+            "active": true,
+            "code": "PADA009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Meherpada",
+            "active": true,
+            "code": "PADA010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kapsila",
+            "active": true,
+            "code": "PADA011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kantapada",
+            "active": true,
+            "code": "PADA012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jhankarpada",
+            "active": true,
+            "code": "PADA013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Malpada",
+            "active": true,
+            "code": "PADA014",
+            "locality": "VIL1"
+        }
+    ]
+}

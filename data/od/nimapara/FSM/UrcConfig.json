@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.nimapara",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

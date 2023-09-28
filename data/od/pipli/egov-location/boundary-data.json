@@ -1,0 +1,636 @@
+{
+  "tenantId": "od.pipli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pipili",
+        "localname": "Pipili",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.pipli",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Piplisasan",
+            "localname": "Piplisasan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Narasinghpur",
+            "localname": "Narasinghpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bhabanipur",
+            "localname": "Bhabanipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Madhiali",
+            "localname": "Madhiali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Jayapurkilla",
+            "localname": "Jayapurkilla",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Nuahat",
+            "localname": "Nuahat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Nuahat Bharasapur",
+            "localname": "Nuahat Bharasapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Surusura",
+            "localname": "Surusura",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Siriapur",
+            "localname": "Siriapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Jaypursasan",
+            "localname": "Jaypursasan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Bejapur",
+            "localname": "Bejapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Jaypurhata",
+            "localname": "Jaypurhata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Khandiagiri",
+            "localname": "Khandiagiri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+		  {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "BHARATIPUR",
+            "localname": "BHARATIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP1",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "DHANDAMAKUNDAPUR",
+            "localname": "DHANDAMAKUNDAPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP2",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "DURGADASPUR",
+            "localname": "DURGADASPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP3",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "GOBINDAPUR",
+            "localname": "GOBINDAPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP4",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "HATASAHI",
+            "localname": "HATASAHI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP5",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "JAGANNATHPUR",
+            "localname": "JAGANNATHPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP6",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "KANTI",
+            "localname": "KANTI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP7",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "KULASEKHARAPATANA",
+            "localname": "KULASEKHARAPATANA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP8",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "LAXMINARAYANPUR",
+            "localname": "LAXMINARAYANPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP9",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "MANGALPUR",
+            "localname": "MANGALPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP10",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "NUASASAN",
+            "localname": "NUASASAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP11",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "ORKAL",
+            "localname": "ORKAL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP12",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "PAMASARA",
+            "localname": "PAMASARA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP13",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "PANIDOLA",
+            "localname": "PANIDOLA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP14",
+            "children": [
+            ]
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "POPORANGA",
+            "localname": "POPORANGA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP15",
+            "children": [
+            ]
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "PUBASASAN",
+            "localname": "PUBASASAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP16",
+            "children": [
+            ]
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "RATHAPURUSOTAMPUR",
+            "localname": "RATHAPURUSOTAMPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP17",
+            "children": [
+            ]
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "SAHAJPUR",
+            "localname": "SAHAJPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP18",
+            "children": [
+            ]
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "SAMPUR",
+            "localname": "SAMPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP19",
+            "children": [
+            ]
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "TEISIPUR",
+            "localname": "TEISIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP20",
+            "children": [
+            ]
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "Arisal",
+            "localname": "Arisal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP21",
+            "children": [
+            ]
+          },
+          {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "BIRAPURUSOTAMPUR",
+            "localname": "BIRAPURUSOTAMPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP22",
+            "children": [
+            ]
+          },
+          {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "CHANDRADEIPUR",
+            "localname": "CHANDRADEIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP23",
+            "children": [
+            ]
+          },
+          {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "JASUAPUR",
+            "localname": "JASUAPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP24",
+            "children": [
+            ]
+          },
+          {
+            "id": "40",
+            "boundaryNum": 1,
+            "name": "RUPADEIPUR",
+            "localname": "RUPADEIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP25",
+            "children": [
+            ]
+          },
+          {
+            "id": "41",
+            "boundaryNum": 1,
+            "name": "SARASWATIPUR",
+            "localname": "SARASWATIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP26",
+            "children": [
+            ]
+          },
+          {
+            "id": "42",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PIP27",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Pipili",
+        "localname": "Pipili",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.pipli",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Piplisasan",
+            "localname": "Piplisasan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Narasinghpur",
+            "localname": "Narasinghpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Bhabanipur",
+            "localname": "Bhabanipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Madhiali",
+            "localname": "Madhiali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Jayapurkilla",
+            "localname": "Jayapurkilla",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Nuahat",
+            "localname": "Nuahat",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Nuahat Bharasapur",
+            "localname": "Nuahat Bharasapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Surusura",
+            "localname": "Surusura",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Siriapur",
+            "localname": "Siriapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Jaypursasan",
+            "localname": "Jaypursasan",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Bejapur",
+            "localname": "Bejapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Jaypurhata",
+            "localname": "Jaypurhata",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Khandiagiri",
+            "localname": "Khandiagiri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          }
+        ]
+      }
+    }
+  ]
+}

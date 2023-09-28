@@ -1,0 +1,14 @@
+{
+    "tenantId": "od",
+    "moduleName": "common-masters",
+    "MID": [
+        {
+            "tenantId": "od.cuttack",
+            "mID": "LAkHfIoWPaUeHf"
+        },
+        {
+            "tenantId": "od.testing",
+            "mID": "LAkHfIoWPaUeHf"
+        }
+    ]
+}

@@ -1,0 +1,424 @@
+{
+  "tenantId": "od.tarbha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Tarva",
+        "localname": "Tarva",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.tarbha",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 1",
+            "localname": "Tarbha Town Unit No. 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 2",
+            "localname": "Tarbha Town Unit No. 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 3",
+            "localname": "Tarbha Town Unit No. 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 4",
+            "localname": "Tarbha Town Unit No. 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 5",
+            "localname": "Tarbha Town Unit No. 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 6",
+            "localname": "Tarbha Town Unit No. 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+		  {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Badbhairo",
+            "localname": "Badbhairo",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB1",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Jarajaring",
+            "localname": "Jarajaring",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB2",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Jhartarbha",
+            "localname": "Jhartarbha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB3",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Katapali",
+            "localname": "Katapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB4",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Sargaj",
+            "localname": "Sargaj",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB5",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Sibtula",
+            "localname": "Sibtula",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB6",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Khari",
+            "localname": "Khari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB7",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Brahmani",
+            "localname": "Brahmani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB8",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Dubla",
+            "localname": "Dubla",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB9",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Kamsara",
+            "localname": "Kamsara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB10",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Maraduguchha",
+            "localname": "Maraduguchha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB11",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Pua",
+            "localname": "Pua",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB12",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Tulunda",
+            "localname": "Tulunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB13",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Baladi",
+            "localname": "Baladi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB14",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Baghia",
+            "localname": "Baghia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB15",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Deulpadar",
+            "localname": "Deulpadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB16",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Kumarmunda",
+            "localname": "Kumarmunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB17",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Menda",
+            "localname": "Menda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB18",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Singari",
+            "localname": "Singari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB19",
+            "children": [
+            ]
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Narayanpur",
+            "localname": "Narayanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB20",
+            "children": [
+            ]
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TRB21",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Tarva",
+        "localname": "Tarva",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.tarbha",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 1",
+            "localname": "Tarbha Town Unit No. 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 2",
+            "localname": "Tarbha Town Unit No. 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 3",
+            "localname": "Tarbha Town Unit No. 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 4",
+            "localname": "Tarbha Town Unit No. 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 5",
+            "localname": "Tarbha Town Unit No. 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Tarbha Town Unit No. 6",
+            "localname": "Tarbha Town Unit No. 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          }
+        ]
+      }
+    }
+  ]
+}

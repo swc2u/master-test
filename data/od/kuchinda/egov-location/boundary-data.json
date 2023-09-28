@@ -1,0 +1,491 @@
+{
+  "tenantId": "od.kuchinda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kuchinda",
+        "localname": "Kuchinda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.kuchinda",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Mahuldihi",
+            "localname": "Mahuldihi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Kuchinda",
+            "localname": "Kuchinda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kuchinda Town",
+            "localname": "Kuchinda Town",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Ghosa",
+            "localname": "Ghosa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Kundaposhi",
+            "localname": "Kundaposhi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Saida",
+            "localname": "Saida",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+		  {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Ardabahal",
+            "localname": "Ardabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC1",
+            "children": []
+        },
+        {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Bankey",
+            "localname": "Bankey",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC2",
+            "children": []
+        },
+        {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Bauriguda",
+            "localname": "Bauriguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC3",
+            "children": []
+        },
+        {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Boxma",
+            "localname": "Boxma",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC4",
+            "children": []
+        },
+        {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Gochhara",
+            "localname": "Gochhara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC5",
+            "children": []
+        },
+        {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Hadipali",
+            "localname": "Hadipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC6",
+            "children": []
+        },
+        {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Khandokata",
+            "localname": "Khandokata",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC7",
+            "children": []
+        },
+        {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "K.Jamankira",
+            "localname": "K.Jamankira",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC8",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Kuleigarh",
+            "localname": "Kuleigarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC9",
+            "children": []
+        },
+        {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Kuntara",
+            "localname": "Kuntara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC10",
+            "children": []
+        },
+        {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Kusumi",
+            "localname": "Kusumi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC11",
+            "children": []
+        },
+        {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Kuturachuan",
+            "localname": "Kuturachuan",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC12",
+            "children": []
+        },
+        {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Paruabhadi",
+            "localname": "Paruabhadi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC13",
+            "children": []
+        },
+        {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Salebhadi",
+            "localname": "Salebhadi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC14",
+            "children": []
+        },
+        {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Tainsar",
+            "localname": "Tainsar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC15",
+            "children": []
+        },
+        {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Telitileimal",
+            "localname": "Telitileimal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC16",
+            "children": []
+        },
+        {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Lad",
+            "localname": "Lad",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC17",
+            "children": []
+        },
+        {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Laida",
+            "localname": "Laida",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC18",
+            "children": []
+        },
+        {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Kelda",
+            "localname": "Kelda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC19",
+            "children": []
+        },
+        {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Badbahal",
+            "localname": "Badbahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC20",
+            "children": []
+        },
+        {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Kindra",
+            "localname": "Kindra",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC21",
+            "children": []
+        },
+        {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Dhudipali",
+            "localname": "Dhudipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC22",
+            "children": []
+        },
+        {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Rengalbeda",
+            "localname": "Rengalbeda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC23",
+            "children": []
+        },
+        {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Kabribahal",
+            "localname": "Kabribahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC24",
+            "children": []
+        },
+        {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Satkama",
+            "localname": "Satkama",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC25",
+            "children": []
+        },
+        {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Purunapani",
+            "localname": "Purunapani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC26",
+            "children": []
+        },
+        {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "Malidihi",
+            "localname": "Malidihi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC27",
+            "children": []
+        },
+        {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "Bhojpur",
+            "localname": "Bhojpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC28",
+            "children": []
+        },
+        {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KUC29",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kuchinda",
+        "localname": "Kuchinda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.kuchinda",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Mahuldihi",
+            "localname": "Mahuldihi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Kuchinda",
+            "localname": "Kuchinda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kuchinda Town",
+            "localname": "Kuchinda Town",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Ghosa",
+            "localname": "Ghosa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Kundaposhi",
+            "localname": "Kundaposhi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Saida",
+            "localname": "Saida",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          }
+        ]
+      }
+    }
+  ]
+}

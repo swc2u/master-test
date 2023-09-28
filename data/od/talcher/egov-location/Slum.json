@@ -1,0 +1,48 @@
+{
+    "tenantId": "od.talcher",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Leprosy Colony ",
+            "ward": "20",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Singh Sahi ",
+            "ward": "04",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Dimargudi Sahi ",
+            "ward": "17",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Baghuabol Harijana Sahi ",
+            "ward": "20",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Remua Nuasahi ",
+            "ward": "12",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Munda Hating ",
+            "ward": "11",
+            "code": "SLM6",
+            "isActive": true
+        }
+    ]
+}

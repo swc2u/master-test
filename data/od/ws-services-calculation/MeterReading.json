@@ -1,0 +1,10 @@
+{
+  "tenantId": "od",
+  "moduleName": "ws-services-calculation",
+  "MeterReading": [
+    {
+      "allowUpdateTillDay": "31",
+      "schedulerAllowFromDate": "01/01/2022"
+    }
+  ]
+}

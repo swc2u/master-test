@@ -1,0 +1,156 @@
+{
+    "tenantId": "od.jeypore",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Bangalabada",
+            "active": true,
+            "code": "JEYP001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bijuraj Nagar",
+            "active": true,
+            "code": "JEYP002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jamunaguda",
+            "active": true,
+            "code": "JEYP003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Revenue Colony",
+            "active": true,
+            "code": "JEYP004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chhotaguda Sahi",
+            "active": true,
+            "code": "JEYP005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Paraja Sahi",
+            "active": true,
+            "code": "JEYP006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kundariguda",
+            "active": true,
+            "code": "JEYP007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sweeper Colony",
+            "active": true,
+            "code": "JEYP008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dangaguda",
+            "active": true,
+            "code": "JEYP009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Muniguda ",
+            "active": true,
+            "code": "JEYP010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Labour Colony-I",
+            "active": true,
+            "code": "JEYP011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Labour Colony 2",
+            "active": true,
+            "code": "JEYP012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Odiya Mendri Sahi",
+            "active": true,
+            "code": "JEYP013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gopabandhu Nagar",
+            "active": true,
+            "code": "JEYP014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Hatapada",
+            "active": true,
+            "code": "JEYP015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bandhaghatguda",
+            "active": true,
+            "code": "JEYP016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mandia Bhatra Sahi",
+            "active": true,
+            "code": "JEYP017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Canal Road",
+            "active": true,
+            "code": "JEYP018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tirupati Temple",
+            "active": true,
+            "code": "JEYP019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jhinkartota",
+            "active": true,
+            "code": "JEYP020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ganga Nagar",
+            "active": true,
+            "code": "JEYP021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gadia Dhoba Sahi",
+            "active": true,
+            "code": "JEYP022",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nagarchi Sahi",
+            "active": true,
+            "code": "JEYP023",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Audit Colony",
+            "active": true,
+            "code": "JEYP024",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mangala mandir sahi",
+            "active": true,
+            "code": "JEYP025",
+            "locality": "VIL1"
+        }
+    ]
+}

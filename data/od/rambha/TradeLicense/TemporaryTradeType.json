@@ -1,0 +1,180 @@
+{
+    "tenantId": "od.rambha",
+    "moduleName": "TradeLicense",
+    "TemporaryTradeType": [
+        {
+            "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST249",
+            "name": "ATM",
+            "uom": "NUMBEROFDAYS",
+            "uomDescription": "Number of Days",
+            "applicationDocument": [
+                {
+                    "applicationType": "NEW",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO"
+                    ]
+                },
+                {
+                    "applicationType": "RENEWAL",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO",
+                        "OLDLICENCENO"
+                    ]
+                }
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL",
+            "validityPeriod": null
+        },
+        {
+            "code": "EATINGESTABLISHMENTS.TST35",
+            "name": "Namkeen/snacks shop",
+            "uom": "NUMBEROFDAYS",
+            "uomDescription": "Number of Days",
+            "applicationDocument": [
+                {
+                    "applicationType": "NEW",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO"
+                    ]
+                },
+                {
+                    "applicationType": "RENEWAL",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO",
+                        "OLDLICENCENO"
+                    ]
+                }
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL",
+            "validityPeriod": null
+        },
+        {
+            "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST415",
+            "name": "Taxi Stand Fees",
+            "uom": "NUMBEROFDAYS",
+            "uomDescription": "Number of Days",
+            "applicationDocument": [
+                {
+                    "applicationType": "NEW",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO"
+                    ]
+                },
+                {
+                    "applicationType": "RENEWAL",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO",
+                        "OLDLICENCENO"
+                    ]
+                }
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL",
+            "validityPeriod": null
+        },
+        {
+            "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST74",
+            "name": "Swimming Pools",
+            "uom": "NUMBEROFDAYS",
+            "uomDescription": "Number of Days",
+            "applicationDocument": [
+                {
+                    "applicationType": "NEW",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO"
+                    ]
+                },
+                {
+                    "applicationType": "RENEWAL",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO",
+                        "OLDLICENCENO"
+                    ]
+                }
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL",
+            "validityPeriod": null
+        },
+        {
+            "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST331",
+            "name": "Jatra/Circus/Drama/Theatre Company",
+            "uom": "NUMBEROFDAYS",
+            "uomDescription": "Number of Days",
+            "applicationDocument": [
+                {
+                    "applicationType": "NEW",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO"
+                    ]
+                },
+                {
+                    "applicationType": "RENEWAL",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO",
+                        "OLDLICENCENO"
+                    ]
+                }
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL",
+            "validityPeriod": null
+        },
+        {
+            "code": "NONEATINGNONMEDICALESTABLISHMENTS.TST69",
+            "name": "Sale or Exhibition of Cloths, artificial jewelry, toys, sports goods, exhibition of jewelry items, furniture & other items per day",
+            "uom": "NUMBEROFDAYS",
+            "uomDescription": "Number of Days",
+            "applicationDocument": [
+                {
+                    "applicationType": "NEW",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO"
+                    ]
+                },
+                {
+                    "applicationType": "RENEWAL",
+                    "documentList": [
+                        "OWNERIDPROOF",
+                        "OWNERSHIPPROOF",
+                        "OWNERPHOTO",
+                        "OLDLICENCENO"
+                    ]
+                }
+            ],
+            "verificationDocument": [],
+            "active": true,
+            "type": "TL",
+            "validityPeriod": null
+        }
+    ]
+}

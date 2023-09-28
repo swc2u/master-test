@@ -1,0 +1,62 @@
+{
+    "tenantId": "od.pattamundai",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Sukhuapada",
+            "ward": "19",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Indira Colony ",
+            "ward": "19",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Sandhapalli Harijan Sahi",
+            "ward": "01",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Matia Kela Basti",
+            "ward": "17",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Tanupur Harijan Basti",
+            "ward": "04",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Pattamundai Muslim Basti",
+            "ward": "11",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Alva  Bandha Sahi",
+            "ward": "15",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Totaupar Harijan Basti, Beltal",
+            "ward": "20",
+            "code": "SLM8",
+            "isActive": true
+        }
+    ]
+}

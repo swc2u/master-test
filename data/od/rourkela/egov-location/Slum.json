@@ -1,0 +1,580 @@
+{
+    "tenantId": "od.rourkela",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Khadiatola to Pradhanpalli",
+            "ward": "04",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Tulsitola",
+            "ward": "04",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Bankiabasti",
+            "ward": "04",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Bandposh",
+            "ward": "04",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Kishantola",
+            "ward": "04",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Chhend Basti",
+            "ward": "04",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Tisco area",
+            "ward": "04",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Bangla tola",
+            "ward": "06",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Panposh Basti",
+            "ward": "05",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Tungritola",
+            "ward": "05",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Balughat",
+            "ward": "06",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Ruptola",
+            "ward": "06",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Mani colony",
+            "ward": "06",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Mantola",
+            "ward": "09",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Gangadharpalli",
+            "ward": "11",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Byasa Nagar",
+            "ward": "12",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Pakistan colony(Bapuji Nagar)",
+            "ward": "12",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Jail Road",
+            "ward": "12",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Keshari Nagar",
+            "ward": "11",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Khariabahal",
+            "ward": "11",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Netaji Nagar",
+            "ward": "12",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "ITI Shanti Nagar",
+            "ward": "12",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "DAV Jhumpudi(Durgapur)",
+            "ward": "12",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "DAV firm Saga Basti",
+            "ward": "16",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Haripur Basti",
+            "ward": "16",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "DAV Akhandamalini Basti",
+            "ward": "16",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Jharana Basti",
+            "ward": "16",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Malgodam Goods Side",
+            "ward": "18",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Malgodam Road ",
+            "ward": "19",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Malgodam Durgapur Basti",
+            "ward": "18",
+            "code": "SLM30",
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "Kustashram Basti",
+            "ward": "20",
+            "code": "SLM31",
+            "isActive": true
+        },
+        {
+            "id": 32,
+            "name": "Malgodam Road Durgapur",
+            "ward": "18",
+            "code": "SLM32",
+            "isActive": true
+        },
+        {
+            "id": 33,
+            "name": "Malgodam Durgapur Basti(Kumbharapada)",
+            "ward": "20",
+            "code": "SLM33",
+            "isActive": true
+        },
+        {
+            "id": 34,
+            "name": "MadhusudanPalli",
+            "ward": "20",
+            "code": "SLM34",
+            "isActive": true
+        },
+        {
+            "id": 35,
+            "name": "Madhusudan Palli A",
+            "ward": "20",
+            "code": "SLM35",
+            "isActive": true
+        },
+        {
+            "id": 36,
+            "name": "Madhusudan Palli B",
+            "ward": "21",
+            "code": "SLM36",
+            "isActive": true
+        },
+        {
+            "id": 37,
+            "name": "Madhusudan Palli C",
+            "ward": "21",
+            "code": "SLM37",
+            "isActive": true
+        },
+        {
+            "id": 38,
+            "name": "Gandhi Road to Bisra Road",
+            "ward": "25",
+            "code": "SLM38",
+            "isActive": true
+        },
+        {
+            "id": 39,
+            "name": "Maguni Basti",
+            "ward": "26",
+            "code": "SLM39",
+            "isActive": true
+        },
+        {
+            "id": 40,
+            "name": "Birjapalli",
+            "ward": "27",
+            "code": "SLM40",
+            "isActive": true
+        },
+        {
+            "id": 41,
+            "name": "Kharia Para to Orampara Upper",
+            "ward": "28",
+            "code": "SLM41",
+            "isActive": true
+        },
+        {
+            "id": 42,
+            "name": "Orampara (National club toharipradhan house)",
+            "ward": "28",
+            "code": "SLM42",
+            "isActive": true
+        },
+        {
+            "id": 43,
+            "name": "Plant site & Janta Nivas Gali",
+            "ward": "30",
+            "code": "SLM43",
+            "isActive": true
+        },
+        {
+            "id": 44,
+            "name": "Plant site Routpara",
+            "ward": "30",
+            "code": "SLM44",
+            "isActive": true
+        },
+        {
+            "id": 45,
+            "name": "Glamor Gali",
+            "ward": "31",
+            "code": "SLM45",
+            "isActive": true
+        },
+        {
+            "id": 46,
+            "name": "Meat Basti to Azad Mahalla",
+            "ward": "31",
+            "code": "SLM46",
+            "isActive": true
+        },
+        {
+            "id": 47,
+            "name": "Islam Nagar",
+            "ward": "31",
+            "code": "SLM47",
+            "isActive": true
+        },
+        {
+            "id": 48,
+            "name": "Deluxe gali- Siva Mandir Area",
+            "ward": "32",
+            "code": "SLM48",
+            "isActive": true
+        },
+        {
+            "id": 49,
+            "name": "Ganjam Basti- Mahulpali",
+            "ward": "32",
+            "code": "SLM49",
+            "isActive": true
+        },
+        {
+            "id": 50,
+            "name": "Koel Nagar D Block (Bhata Basti)",
+            "ward": "34",
+            "code": "SLM50",
+            "isActive": true
+        },
+        {
+            "id": 51,
+            "name": "Shaktinagar (Girjatoli)",
+            "ward": "37",
+            "code": "SLM51",
+            "isActive": true
+        },
+        {
+            "id": 52,
+            "name": "Shaktinagar (Champatoli)",
+            "ward": "35",
+            "code": "SLM52",
+            "isActive": true
+        },
+        {
+            "id": 53,
+            "name": "Dhamara Basti",
+            "ward": "14",
+            "code": "SLM53",
+            "isActive": true
+        },
+        {
+            "id": 54,
+            "name": "Kalyan Nagar Basti (Kalyani nagar)",
+            "ward": "15",
+            "code": "SLM54",
+            "isActive": true
+        },
+        {
+            "id": 55,
+            "name": "BPUT Basti",
+            "ward": "14",
+            "code": "SLM55",
+            "isActive": true
+        },
+        {
+            "id": 56,
+            "name": "Bidyut Basti",
+            "ward": "14",
+            "code": "SLM56",
+            "isActive": true
+        },
+        {
+            "id": 57,
+            "name": "Harihar Nagar Basti",
+            "ward": "16",
+            "code": "SLM57",
+            "isActive": true
+        },
+        {
+            "id": 58,
+            "name": "Tunguritola- Jagda",
+            "ward": "36",
+            "code": "SLM58",
+            "isActive": true
+        },
+        {
+            "id": 59,
+            "name": "Pharsatola",
+            "ward": "01",
+            "code": "SLM59",
+            "isActive": true
+        },
+        {
+            "id": 60,
+            "name": "Burutola",
+            "ward": "01",
+            "code": "SLM60",
+            "isActive": true
+        },
+        {
+            "id": 61,
+            "name": "Dayanandnagar",
+            "ward": "01",
+            "code": "SLM61",
+            "isActive": true
+        },
+        {
+            "id": 62,
+            "name": "Mundarytola",
+            "ward": "03",
+            "code": "SLM62",
+            "isActive": true
+        },
+        {
+            "id": 63,
+            "name": "Bhandatola",
+            "ward": "03",
+            "code": "SLM63",
+            "isActive": true
+        },
+        {
+            "id": 64,
+            "name": "Tantytola",
+            "ward": "03",
+            "code": "SLM64",
+            "isActive": true
+        },
+        {
+            "id": 65,
+            "name": "Chiktatola",
+            "ward": "01",
+            "code": "SLM65",
+            "isActive": true
+        },
+        {
+            "id": 66,
+            "name": "Talabalijodi",
+            "ward": "08",
+            "code": "SLM66",
+            "isActive": true
+        },
+        {
+            "id": 67,
+            "name": "Gopabandhu Nagar",
+            "ward": "08",
+            "code": "SLM67",
+            "isActive": true
+        },
+        {
+            "id": 68,
+            "name": "Nabakrushna Nagar",
+            "ward": "08",
+            "code": "SLM68",
+            "isActive": true
+        },
+        {
+            "id": 69,
+            "name": "Nabakrushna Nagar 9 (B and C Block)",
+            "ward": "08",
+            "code": "SLM69",
+            "isActive": true
+        },
+        {
+            "id": 70,
+            "name": "Bhanja Colony",
+            "ward": "08",
+            "code": "SLM70",
+            "isActive": true
+        },
+        {
+            "id": 71,
+            "name": "Dharam Dehi",
+            "ward": "08",
+            "code": "SLM71",
+            "isActive": true
+        },
+        {
+            "id": 72,
+            "name": "Nayaktola",
+            "ward": "01",
+            "code": "SLM72",
+            "isActive": true
+        },
+        {
+            "id": 73,
+            "name": "Khaparatola",
+            "ward": "01",
+            "code": "SLM73",
+            "isActive": true
+        },
+        {
+            "id": 74,
+            "name": "Gopapali",
+            "ward": "02",
+            "code": "SLM74",
+            "isActive": true
+        },
+        {
+            "id": 75,
+            "name": "Naditola",
+            "ward": "02",
+            "code": "SLM75",
+            "isActive": true
+        },
+        {
+            "id": 76,
+            "name": "Singhtola",
+            "ward": "02",
+            "code": "SLM76",
+            "isActive": true
+        },
+        {
+            "id": 77,
+            "name": "Gadhatola",
+            "ward": "10",
+            "code": "SLM77",
+            "isActive": true
+        },
+        {
+            "id": 78,
+            "name": "Vivekanandapalli/Water Filter House",
+            "ward": "22",
+            "code": "SLM78",
+            "isActive": true
+        },
+        {
+            "id": 79,
+            "name": "Bijlatola",
+            "ward": "01",
+            "code": "SLM79",
+            "isActive": true
+        },
+        {
+            "id": 80,
+            "name": "Patratola",
+            "ward": "03",
+            "code": "SLM80",
+            "isActive": true
+        },
+        {
+            "id": 81,
+            "name": "Oramtola",
+            "ward": "03",
+            "code": "SLM81",
+            "isActive": true
+        },
+        {
+            "id": 82,
+            "name": "Balkutola",
+            "ward": "03",
+            "code": "SLM82",
+            "isActive": true
+        }
+    ]
+}

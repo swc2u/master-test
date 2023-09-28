@@ -1,0 +1,13 @@
+{
+    "tenantId": "od.banki",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Srichandanpur",
+            "ward": "12",
+            "code": "SLM1",
+            "isActive": true
+        }
+    ]
+}

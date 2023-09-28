@@ -1,0 +1,172 @@
+{
+  "tenantId": "od.paralakhemundi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Paralakhemundi",
+        "localname": "Paralakhemundi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.paralakhemundi",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Relli Sahi Mouza",
+            "localname": "Relli Sahi Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Paralakhemundi Mouza",
+            "localname": "Paralakhemundi Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Gangadharpur Mouza",
+            "localname": "Gangadharpur Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Dinakrushnapur Mouza",
+            "localname": "Dinakrushnapur Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Krushna Chandrapur Mouza",
+            "localname": "Krushna Chandrapur Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Goura Chandrapur Mouza",
+            "localname": "Goura Chandrapur Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+		  {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Paralakhemundi",
+        "localname": "Paralakhemundi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.paralakhemundi",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Relli Sahi Mouza",
+            "localname": "Relli Sahi Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Paralakhemundi Mouza",
+            "localname": "Paralakhemundi Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Gangadharpur Mouza",
+            "localname": "Gangadharpur Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Dinakrushnapur Mouza",
+            "localname": "Dinakrushnapur Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Krushna Chandrapur Mouza",
+            "localname": "Krushna Chandrapur Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Goura Chandrapur Mouza",
+            "localname": "Goura Chandrapur Mouza",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+    "tenantId": "od.berhampur",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Somnath/Trinath Nagar",
+            "active": true,
+            "code": "BESL002",
+            "locality": "VIL6"
+        },
+        {
+            "name": "Bank Colony (Nabin Nagar)",
+            "active": true,
+            "code": "BESL003",
+            "locality": "VIL52"
+        },
+        {
+            "name": "Khalasi sahi",
+            "active": true,
+            "code": "BESL004",
+            "locality": "VIL52"
+        },
+        {
+            "name": "Giri Market",
+            "active": true,
+            "code": "BESL005",
+            "locality": "VIL52"
+        },
+        {
+            "name": "Patra Peta Sahi",
+            "active": true,
+            "code": "BESL006",
+            "locality": "VIL52"
+        },
+        {
+            "name": "Bhandari Sahi",
+            "active": true,
+            "code": "BESL007",
+            "locality": "VIL55"
+        },
+        {
+            "name": "Badhei Street",
+            "active": true,
+            "code": "BESL008",
+            "locality": "VIL55"
+        },
+        {
+            "name": "Badakhemundi Bauri Street (Tota Palli Bauri Sahi)",
+            "active": true,
+            "code": "BESL009",
+            "locality": "VIL55"
+        },
+        {
+            "name": "Mukteswar Bandha Street",
+            "active": true,
+            "code": "BESL010",
+            "locality": "VIL57"
+        },
+        {
+            "name": "Jagili Street",
+            "active": true,
+            "code": "BESL011",
+            "locality": "VIL57"
+        },
+        {
+            "name": "Bada Harijan Sahi",
+            "active": true,
+            "code": "BESL012",
+            "locality": "VIL58"
+        },
+        {
+            "name": "Keuta Sahi & New Laxmi Nagar",
+            "active": true,
+            "code": "BESL013",
+            "locality": "VIL59"
+        },
+        {
+            "name": "Gandhi Nagar Canal Sahi",
+            "active": true,
+            "code": "BESL014",
+            "locality": "VIL61"
+        },
+        {
+            "name": "Dhimira Bauri Street",
+            "active": true,
+            "code": "BESL015",
+            "locality": "VIL62"
+        },
+        {
+            "name": "Trinath Mandir Street",
+            "active": true,
+            "code": "BESL016",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Chanchada Pathar",
+            "active": true,
+            "code": "BESL017",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Somanatha Nagar, Khajuria Rd.",
+            "active": true,
+            "code": "BESL018",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Khajuria Road",
+            "active": true,
+            "code": "BESL019",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Santi Nagar",
+            "active": true,
+            "code": "BESL020",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Nehru Nagar 9th & 10th",
+            "active": true,
+            "code": "BESL021",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Sishu Mandir Road",
+            "active": true,
+            "code": "BESL022",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Main Road Dhoba Street",
+            "active": true,
+            "code": "BESL023",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Harihar Nagar",
+            "active": true,
+            "code": "BESL024",
+            "locality": "VIL66"
+        },
+        {
+            "name": "Giri road",
+            "active": true,
+            "code": "BESL025",
+            "locality": "VIL68"
+        },
+        {
+            "name": "Chanchada pathara",
+            "active": true,
+            "code": "BESL026",
+            "locality": "VIL68"
+        },
+        {
+            "name": "Chandrasekhar Road",
+            "active": true,
+            "code": "BESL027",
+            "locality": "VIL68"
+        },
+        {
+            "name": "Dandasi Sahi",
+            "active": true,
+            "code": "BESL028",
+            "locality": "VIL70"
+        },
+        {
+            "name": "Ram Nagar Odia Sahi",
+            "active": true,
+            "code": "BESL029",
+            "locality": "VIL71"
+        },
+        {
+            "name": "Deepa Harijansahi, Lanji palli",
+            "active": true,
+            "code": "BESL030",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Dandasi Sahi",
+            "active": true,
+            "code": "BESL031",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Chandi Street",
+            "active": true,
+            "code": "BESL032",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Harijana sahi, Lanjipalli",
+            "active": true,
+            "code": "BESL033",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Lanjipalli main road(Bauri Sahi, Adua Sahi & Keuta Sahi)",
+            "active": true,
+            "code": "BESL034",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Goudabandha sahi",
+            "active": true,
+            "code": "BESL035",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Lanjipalli main road",
+            "active": true,
+            "code": "BESL036",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Bapuji Nagar",
+            "active": true,
+            "code": "BESL037",
+            "locality": "VIL73"
+        },
+        {
+            "name": "BrundabanNagar Hota Colony",
+            "active": true,
+            "code": "BESL038",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Dhoba sahi(Ankuli)",
+            "active": true,
+            "code": "BESL039",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Kalinji Sahi",
+            "active": true,
+            "code": "BESL040",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Pradhan Sahi",
+            "active": true,
+            "code": "BESL041",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Ananda Nagar",
+            "active": true,
+            "code": "BESL042",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Jaleswarpur",
+            "active": true,
+            "code": "BESL043",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Dhobasahi (Ankuli)",
+            "active": true,
+            "code": "BESL044",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Reddy Sahi",
+            "active": true,
+            "code": "BESL045",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Ankuli Sano Bauri Sahi",
+            "active": true,
+            "code": "BESL046",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Ankuli Bada Bauri Sahi",
+            "active": true,
+            "code": "BESL047",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Karji Sahi",
+            "active": true,
+            "code": "BESL048",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Nua Sahi",
+            "active": true,
+            "code": "BESL049",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Ankuli Mali Sahi",
+            "active": true,
+            "code": "BESL050",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Bada Sahi, Hadi Sahi",
+            "active": true,
+            "code": "BESL051",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Main Road Sundhi Sahi",
+            "active": true,
+            "code": "BESL052",
+            "locality": "VIL75"
+        },
+        {
+            "name": "Bauri Sahi (Ambapur)",
+            "active": true,
+            "code": "BESL053",
+            "locality": "VIL75"
+        },
+        {
+            "name": "Old Bauri Sahi",
+            "active": true,
+            "code": "BESL054",
+            "locality": "VIL75"
+        },
+        {
+            "name": "Dhobasahi (Khodasangi)",
+            "active": true,
+            "code": "BESL055",
+            "locality": "VIL75"
+        },
+        {
+            "name": "Dhobasahi(Ambapua)",
+            "active": true,
+            "code": "BESL056",
+            "locality": "VIL75"
+        }
+    ]
+}

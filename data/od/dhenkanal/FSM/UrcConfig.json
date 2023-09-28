@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.dhenkanal",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

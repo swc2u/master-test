@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.gudayagiri",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

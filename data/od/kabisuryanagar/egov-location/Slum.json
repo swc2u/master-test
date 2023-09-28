@@ -1,0 +1,55 @@
+{
+    "tenantId": "od.kabisuryanagar",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Merubandha  Sium",
+            "ward": "13",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Sugyani Nagar",
+            "ward": "18",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Dhoba Bandha",
+            "ward": "18",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Sapua Basa",
+            "ward": "18",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Pathan Basti",
+            "ward": "12",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Gudikhana",
+            "ward": "16",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Nuabeda & Ib Road",
+            "ward": "17",
+            "code": "SLM7",
+            "isActive": true
+        }
+    ]
+}

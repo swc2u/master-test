@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.balangir",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

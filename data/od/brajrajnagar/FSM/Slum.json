@@ -1,0 +1,407 @@
+{
+    "tenantId": "od.brajrajnagar",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Baidhapada",
+        "active": true,
+        "code": "BRSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Katabaga",
+        "active": true,
+        "code": "BRSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Station Pada",
+        "active": true,
+        "code": "BRSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "ESI Nuapada",
+        "active": true,
+        "code": "BRSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hariom Bihar Part 1",
+        "active": true,
+        "code": "BRSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hariom Bihar Part 2",
+        "active": true,
+        "code": "BRSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sahupada",
+        "active": true,
+        "code": "BRSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sastrinagar",
+        "active": true,
+        "code": "BRSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sastrinagar 2",
+        "active": true,
+        "code": "BRSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ganesh Nagar",
+        "active": true,
+        "code": "BRSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Remja",
+        "active": true,
+        "code": "BRSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khaliakani",
+        "active": true,
+        "code": "BRSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "College Pada",
+        "active": true,
+        "code": "BRSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Badheikanta Road Side",
+        "active": true,
+        "code": "BRSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Stadium Pada",
+        "active": true,
+        "code": "BRSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ghasiapada",
+        "active": true,
+        "code": "BRSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Rampur Harijanpada, Itavata",
+        "active": true,
+        "code": "BRSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Malikram dhouda",
+        "active": true,
+        "code": "BRSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ghasibari Nuapada",
+        "active": true,
+        "code": "BRSL019",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Power Housepada",
+        "active": true,
+        "code": "BRSL020",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuadihi",
+        "active": true,
+        "code": "BRSL021",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gandhichawk ",
+        "active": true,
+        "code": "BRSL022",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Adibasi Colony",
+        "active": true,
+        "code": "BRSL023",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ratakhandi",
+        "active": true,
+        "code": "BRSL024",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gayatrinagar Churchpada",
+        "active": true,
+        "code": "BRSL025",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bahadurpada",
+        "active": true,
+        "code": "BRSL026",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bugudapada",
+        "active": true,
+        "code": "BRSL027",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Itavata",
+        "active": true,
+        "code": "BRSL028",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Old Chunabhata",
+        "active": true,
+        "code": "BRSL029",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tangarghat Biswalpada",
+        "active": true,
+        "code": "BRSL030",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tinaline",
+        "active": true,
+        "code": "BRSL031",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhoipada",
+        "active": true,
+        "code": "BRSL032",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Binasipada",
+        "active": true,
+        "code": "BRSL033",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Budhijam Mundapada",
+        "active": true,
+        "code": "BRSL034",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bus stand pada",
+        "active": true,
+        "code": "BRSL035",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dhauda Mundapada",
+        "active": true,
+        "code": "BRSL036",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dhobipada",
+        "active": true,
+        "code": "BRSL037",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Fatakpada",
+        "active": true,
+        "code": "BRSL038",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ganga Nagar",
+        "active": true,
+        "code": "BRSL039",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hanuman Nagar",
+        "active": true,
+        "code": "BRSL040",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kartikpada",
+        "active": true,
+        "code": "BRSL041",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kultapada Kumbharpada",
+        "active": true,
+        "code": "BRSL042",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Lajkura",
+        "active": true,
+        "code": "BRSL043",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Lamtibahal Gwalpada",
+        "active": true,
+        "code": "BRSL044",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Lamtibahal Nuapada",
+        "active": true,
+        "code": "BRSL045",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Loharpada",
+        "active": true,
+        "code": "BRSL046",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Madhuban Nagar",
+        "active": true,
+        "code": "BRSL047",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mandirpada",
+        "active": true,
+        "code": "BRSL048",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Near Orient school, Budhijampada",
+        "active": true,
+        "code": "BRSL049",
+        "locality": "VIL1"
+    },
+    {
+        "name": "PunjabiDhouda",
+        "active": true,
+        "code": "BRSL050",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ramgarh",
+        "active": true,
+        "code": "BRSL051",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Rohipada",
+        "active": true,
+        "code": "BRSL052",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sanjobe",
+        "active": true,
+        "code": "BRSL053",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Thakurpada",
+        "active": true,
+        "code": "BRSL054",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Thursday Market pada",
+        "active": true,
+        "code": "BRSL055",
+        "locality": "VIL1"
+    },
+    {
+        "name": "9th Incline pada",
+        "active": true,
+        "code": "BRSL056",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Abhaypur",
+        "active": true,
+        "code": "BRSL057",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Abhaypur Mundapada",
+        "active": true,
+        "code": "BRSL058",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Birapada",
+        "active": true,
+        "code": "BRSL059",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gandhi Chhak Gandhi Chhack Petrole Pump back side pada",
+        "active": true,
+        "code": "BRSL060",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khadiapada",
+        "active": true,
+        "code": "BRSL061",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khanpada",
+        "active": true,
+        "code": "BRSL062",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kusamunda Kishanpada",
+        "active": true,
+        "code": "BRSL063",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Leprocy pada",
+        "active": true,
+        "code": "BRSL064",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sastrinagar Gajapati Nagar",
+        "active": true,
+        "code": "BRSL065",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Old Gonda Ghora",
+        "active": true,
+        "code": "BRSL066",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khaliamal",
+        "active": true,
+        "code": "BRSL067",
+        "locality": "VIL1"
+    }]
+}

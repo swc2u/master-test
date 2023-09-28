@@ -1,0 +1,1616 @@
+{
+  "tenantId": "od",
+  "moduleName": "BPA",
+  "Usages": [
+        {
+            "name": "Residential Plotted",
+            "code": "A-A-P",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-P",
+            "orderNumber": "1",
+            "description": "Plotted Detached/Individual Residential building",
+            "colorCode": null
+        },
+        {
+            "name": "Semi-detached",
+            "code": "A-A-S",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-S",
+            "orderNumber": "2",
+            "description": "Semi-detached",
+            "colorCode": null
+        },
+        {
+            "name": "Row housing",
+            "code": "A-A-R",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-R",
+            "orderNumber": "3",
+            "description": " Row housing",
+            "colorCode": null
+        },
+        {
+            "name": "Apartment Building",
+            "code": "A-A-AB",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-AB",
+            "orderNumber": "4",
+            "description": "Apartment Building",
+            "colorCode": null
+        },
+        {
+            "name": "Housing Project",
+            "code": "A-A-HP",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-HP",
+            "orderNumber": "5",
+            "description": " Housing Project",
+            "colorCode": null
+        },
+        {
+            "name": "Work-cum-residential",
+            "code": "A-A-WCR",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-WCR",
+            "orderNumber": "6",
+            "description": "work-cum-residential",
+            "colorCode": null
+        },
+        {
+            "name": "Studio Apartments",
+            "code": "A-A-SA",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-SA",
+            "orderNumber": "7",
+            "description": "Studio Apartments",
+            "colorCode": null
+        },
+        {
+            "name": "Dharmasala",
+            "code": "A-A-DH",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-DH",
+            "orderNumber": "8",
+            "description": "Dharmasala",
+            "colorCode": null
+        },
+        {
+            "name": "Dormitory",
+            "code": "A-A-D",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-D",
+            "orderNumber": "9",
+            "description": "Dormitory",
+            "colorCode": null
+        },
+        {
+            "name": "EWS",
+            "code": "A-A-E",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-E",
+            "orderNumber": "10",
+            "description": "EWS",
+            "colorCode": null
+        },
+        {
+            "name": "Low Income Housing",
+            "code": "A-A-LIH",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-LIH",
+            "orderNumber": "11",
+            "description": "Low Income Housing",
+            "colorCode": null
+        },
+        {
+            "name": "Medium Income Housing",
+            "code": "A-A-MIH",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-MIH",
+            "orderNumber": "12",
+            "description": "Medium Income Housing",
+            "colorCode": null
+        },
+        {
+            "name": "Hostel",
+            "code": "A-A-H",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-H",
+            "orderNumber": "13",
+            "description": "Hostel",
+            "colorCode": null
+        },
+        {
+            "name": "Shelter House",
+            "code": "A-A-SH",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-SH",
+            "orderNumber": "14",
+            "description": "Shelter House",
+            "colorCode": null
+        },
+        {
+            "name": "Staff Qaurter",
+            "code": "A-A-SQ",
+            "active": true,
+            "occupancyType": "A",
+            "subOccupancyType": "A-SQ",
+            "orderNumber": "15",
+            "description": "Staff Qaurter",
+            "colorCode": null
+        },
+        {
+            "name": "Hotel",
+            "code": "B-B-H",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-H",
+            "orderNumber": "1",
+            "description": "Hotel",
+            "colorCode": null
+        },
+        {
+            "name": "5 Star Hotel",
+            "code": "B-B-5S",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-5S",
+            "orderNumber": "2",
+            "description": "5 Star Hotel",
+            "colorCode": null
+        },
+        {
+            "name": "Motels",
+            "code": "B-B-M",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-M",
+            "orderNumber": "3",
+            "description": "Motels",
+            "colorCode": null
+        },
+        {
+            "name": "Services for households",
+            "code": "B-B-SHF",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-SHF",
+            "orderNumber": "4",
+            "description": "Services for households",
+            "colorCode": null
+        },
+        {
+            "name": "Shop Cum Residential",
+            "code": "B-B-SCR",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-SCR",
+            "orderNumber": "5",
+            "description": "Shop Cum Residential",
+            "colorCode": null
+        },
+        {
+            "name": "Bank",
+            "code": "B-B-B",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-B",
+            "orderNumber": "6",
+            "description": "Bank",
+            "colorCode": null
+        },
+        {
+            "name": "Resorts",
+            "code": "B-B-R",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-R",
+            "orderNumber": "7",
+            "description": "Resorts",
+            "colorCode": null
+        },
+        {
+            "name": "Lagoons and Lagoon Resort",
+            "code": "B-B-IIR",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-IIR",
+            "orderNumber": "8",
+            "description": "Lagoons and Lagoon Resort",
+            "colorCode": null
+        },
+        {
+            "name": "Amusement Building/Park and water sports",
+            "code": "B-B-AB",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-AB",
+            "orderNumber": "9",
+            "description": "Amusement Building/Park and water sports",
+            "colorCode": null
+        },
+        {
+            "name": "Financial services and Stock exchanges",
+            "code": "B-B-F",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-F",
+            "orderNumber": "10",
+            "description": "Financial services and Stock exchanges",
+            "colorCode": null
+        },
+        {
+            "name": "Cold Storage and Ice Factory",
+            "code": "B-B-C",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-C",
+            "orderNumber": "11",
+            "description": "Cold Storage and Ice Factory",
+            "colorCode": null
+        },
+        {
+            "name": "Commercial and Business Offices/Complex",
+            "code": "B-B-CBO",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-CBO",
+            "orderNumber": "12",
+            "description": "Commercial and Business Offices/Complex",
+            "colorCode": null
+        },
+        {
+            "name": "Convenience and Neighborhood Shopping",
+            "code": "B-B-CNS",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-CNS",
+            "orderNumber": "13",
+            "description": "Convenience and Neighborhood Shopping",
+            "colorCode": null
+        },
+        {
+            "name": "Professional offices",
+            "code": "B-B-P",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-P",
+            "orderNumber": "14",
+            "description": "Professional offices",
+            "colorCode": null
+        },
+        {
+            "name": "Departmental store",
+            "code": "B-B-D",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-D",
+            "orderNumber": "15",
+            "description": "Departmental store",
+            "colorCode": null
+        },
+        {
+            "name": "Gas Godown",
+            "code": "B-B-GG",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-GG",
+            "orderNumber": "16",
+            "description": "Gas Godown",
+            "colorCode": null
+        },
+        {
+            "name": "Godowns",
+            "code": "B-B-G",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-G",
+            "orderNumber": "17",
+            "description": "Godowns",
+            "colorCode": null
+        },
+        {
+            "name": "Good Storage",
+            "code": "B-B-GS",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-GS",
+            "orderNumber": "18",
+            "description": "Good Storage",
+            "colorCode": null
+        },
+        {
+            "name": "Guest Houses",
+            "code": "B-B-GH",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-GH",
+            "orderNumber": "19",
+            "description": "Guest Houses",
+            "colorCode": null
+        },
+        {
+            "name": "Holiday Resort",
+            "code": "B-B-HR",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-HR",
+            "orderNumber": "20",
+            "description": "Holiday Resort",
+            "colorCode": null
+        },
+        {
+            "name": "Boarding and lodging houses",
+            "code": "B-B-BLH",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-BLH",
+            "orderNumber": "21",
+            "description": "Boarding and lodging houses",
+            "colorCode": null
+        },
+        {
+            "name": "Petrol Pump (Only Filling Station)",
+            "code": "B-B-P1",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-P1",
+            "orderNumber": "22",
+            "description": "Petrol Pump (Only Filling Station)",
+            "colorCode": null
+        },
+        {
+            "name": "Petrol Pump (Filling Station and Service station)",
+            "code": "B-B-P2",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-P2",
+            "orderNumber": "23",
+            "description": "Petrol Pump (Filling Station and Service station)",
+            "colorCode": null
+        },
+        {
+            "name": "CNG Mother Station",
+            "code": "B-B-CMS",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-CMS",
+            "orderNumber": "24",
+            "description": "CNG Mother Station",
+            "colorCode": null
+        },
+        {
+            "name": "Restaurant",
+            "code": "B-B-RES",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-RES",
+            "orderNumber": "25",
+            "description": "Restaurant",
+            "colorCode": null
+        },
+        {
+            "name": "Local(retail) shopping",
+            "code": "B-B-LS",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-LS",
+            "orderNumber": "26",
+            "description": "Local(retail) shopping",
+            "colorCode": null
+        },
+        {
+            "name": "Shopping Center",
+            "code": "B-B-SC",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-SC",
+            "orderNumber": "27",
+            "description": "Shopping Center",
+            "colorCode": null
+        },
+        {
+            "name": "Shopping Mall",
+            "code": "B-B-SM",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-SM",
+            "orderNumber": "28",
+            "description": "Shopping Mall",
+            "colorCode": null
+        },
+        {
+            "name": "Wholesale Storage (Perishable)",
+            "code": "B-B-WST1",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-WST1",
+            "orderNumber": "29",
+            "description": "Wholesale Storage (Perishable)",
+            "colorCode": null
+        },
+        {
+            "name": "Wholesale Storage (Non Perishable)",
+            "code": "B-B-WST2",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-WST2",
+            "orderNumber": "30",
+            "description": "Wholesale Storage (Non Perishable)",
+            "colorCode": null
+        },
+        {
+            "name": "Storage/ Hangers/ Terminal Depot",
+            "code": "B-B-ST",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-ST",
+            "orderNumber": "31",
+            "description": "Storage/ Hangers/ Terminal Depot",
+            "colorCode": null
+        },
+        {
+            "name": "Supermarkets",
+            "code": "B-B-SUP",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-SUP",
+            "orderNumber": "32",
+            "description": "Supermarkets",
+            "colorCode": null
+        },
+        {
+            "name": "Ware House",
+            "code": "B-B-WH",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-WH",
+            "orderNumber": "33",
+            "description": "Ware House",
+            "colorCode": null
+        },
+        {
+            "name": "Wholesale Market",
+            "code": "B-B-WM",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-WM",
+            "orderNumber": "34",
+            "description": "Wholesale Market",
+            "colorCode": null
+        },
+        {
+            "name": "Media Centres",
+            "code": "B-B-MC",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-MC",
+            "orderNumber": "35",
+            "description": "Media Centres",
+            "colorCode": null
+        },
+        {
+            "name": "food courts",
+            "code": "B-B-FC",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-FC",
+            "orderNumber": "36",
+            "description": "food courts",
+            "colorCode": null
+        },
+        {
+            "name": "Weigh bridges",
+            "code": "B-B-WB",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-WB",
+            "orderNumber": "37",
+            "description": "Weigh bridges",
+            "colorCode": null
+        },
+        {
+            "name": " Mercentile",
+            "code": "B-B-ME",
+            "active": true,
+            "occupancyType": "B",
+            "subOccupancyType": "B-ME",
+            "orderNumber": "38",
+            "description": " Mercentile",
+            "colorCode": null
+        },
+        {
+            "name": "Auditorium",
+            "code": "C-C-A",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-A",
+            "orderNumber": "1",
+            "description": "Auditorium",
+            "colorCode": null
+        },
+        {
+            "name": "Banquet Hall",
+            "code": "C-C-B",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-B",
+            "orderNumber": "2",
+            "description": "Banquet Hall",
+            "colorCode": null
+        },
+        {
+            "name": "Cinema",
+            "code": "C-C-C",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-C",
+            "orderNumber": "3",
+            "description": "Cinema",
+            "colorCode": null
+        },
+        {
+            "name": " Club",
+            "code": "C-C-CL",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-CL",
+            "orderNumber": "4",
+            "description": " Club",
+            "colorCode": null
+        },
+        {
+            "name": "music pavilions",
+            "code": "C-C-MP",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-MP",
+            "orderNumber": "5",
+            "description": "music pavilions",
+            "colorCode": null
+        },
+        {
+            "name": "Community Hall",
+            "code": "C-C-CH",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-CH",
+            "orderNumber": "6",
+            "description": "Community Hall",
+            "colorCode": null
+        },
+        {
+            "name": " Orphanage",
+            "code": "C-C-O",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-O",
+            "orderNumber": "7",
+            "description": " Orphanage",
+            "colorCode": null
+        },
+        {
+            "name": "Old Age Home",
+            "code": "C-C-OAH",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-OAH",
+            "orderNumber": "8",
+            "description": "Old Age Home",
+            "colorCode": null
+        },
+        {
+            "name": "Science Centre/Museum",
+            "code": "C-C-SC",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-SC",
+            "orderNumber": "9",
+            "description": "Science Centre/Museum",
+            "colorCode": null
+        },
+        {
+            "name": "Confernce Hall",
+            "code": "C-C-C1H",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-C1H",
+            "orderNumber": "10",
+            "description": "Confernce Hall",
+            "colorCode": null
+        },
+        {
+            "name": "Convention Hall",
+            "code": "C-C-C2H",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-C2H",
+            "orderNumber": "11",
+            "description": "Convention Hall",
+            "colorCode": null
+        },
+        {
+            "name": "sculpture complex",
+            "code": "C-C-SCC",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-SCC",
+            "orderNumber": "12",
+            "description": "sculpture complex",
+            "colorCode": null
+        },
+        {
+            "name": "Cultural Complex",
+            "code": "C-C-CC",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-CC",
+            "orderNumber": "13",
+            "description": "Cultural Complex",
+            "colorCode": null
+        },
+        {
+            "name": "Exhibition Center",
+            "code": "C-C-EC",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-EC",
+            "orderNumber": "14",
+            "description": "Exhibition Center",
+            "colorCode": null
+        },
+        {
+            "name": "Gymnasia",
+            "code": "C-C-G",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-G",
+            "orderNumber": "15",
+            "description": "Gymnasia",
+            "colorCode": null
+        },
+        {
+            "name": "Marriage Hall/Kalyan Mandap",
+            "code": "C-C-MH",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-MH",
+            "orderNumber": "16",
+            "description": "Marriage Hall/Kalyan Mandap",
+            "colorCode": null
+        },
+        {
+            "name": "Multiplex",
+            "code": "C-C-ML",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-ML",
+            "orderNumber": "17",
+            "description": "Multiplex",
+            "colorCode": null
+        },
+        {
+            "name": "Musuem",
+            "code": "C-C-M",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-M",
+            "orderNumber": "18",
+            "description": "Musuem",
+            "colorCode": null
+        },
+        {
+            "name": "Place of workship",
+            "code": "C-C-PW",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-PW",
+            "orderNumber": "19",
+            "description": "Place of workship",
+            "colorCode": null
+        },
+        {
+            "name": "Public Libraries",
+            "code": "C-C-PL",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-PL",
+            "orderNumber": "20",
+            "description": "Public Libraries",
+            "colorCode": null
+        },
+        {
+            "name": "Recreation Bldg",
+            "code": "C-C-REB",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-REB",
+            "orderNumber": "21",
+            "description": "Recreation Bldg",
+            "colorCode": null
+        },
+        {
+            "name": " Sports Complex",
+            "code": "C-C-SPC",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-SPC",
+            "orderNumber": "22",
+            "description": " Sports Complex",
+            "colorCode": null
+        },
+        {
+            "name": "Stadium",
+            "code": "C-C-S",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-S",
+            "orderNumber": "23",
+            "description": "Stadium",
+            "colorCode": null
+        },
+        {
+            "name": "Theatre",
+            "code": "C-C-T",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-T",
+            "orderNumber": "24",
+            "description": "Theatre",
+            "colorCode": null
+        },
+        {
+            "name": "Administrative Buildings",
+            "code": "C-C-AB",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-AB",
+            "orderNumber": "25",
+            "description": "Administrative Buildings",
+            "colorCode": null
+        },
+        {
+            "name": "Government offices",
+            "code": "C-C-GO",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-GO",
+            "orderNumber": "26",
+            "description": "Government offices",
+            "colorCode": null
+        },
+        {
+            "name": "Local and semi Government offices",
+            "code": "C-C-LSGO",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-LSGO",
+            "orderNumber": "27",
+            "description": "Local and semi Government offices",
+            "colorCode": null
+        },
+        {
+            "name": "Police/Army/Barrack",
+            "code": "C-C-P",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-P",
+            "orderNumber": "28",
+            "description": "Police/Army/Barrack",
+            "colorCode": null
+        },
+        {
+            "name": "Religious Building",
+            "code": "C-C-RB",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-RB",
+            "orderNumber": "29",
+            "description": "Religious Building",
+            "colorCode": null
+        },
+        {
+            "name": "Social and welfare centres",
+            "code": "C-C-SWC",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-SWC",
+            "orderNumber": "30",
+            "description": "Social and welfare centres",
+            "colorCode": null
+        },
+        {
+            "name": "Clinic",
+            "code": "C-C-CI",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-CI",
+            "orderNumber": "31",
+            "description": "Clinic",
+            "colorCode": null
+        },
+        {
+            "name": "Dispensary",
+            "code": "C-C-D",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-D",
+            "orderNumber": "32",
+            "description": "Dispensary",
+            "colorCode": null
+        },
+        {
+            "name": "Yoga Center",
+            "code": "C-C-YC",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-YC",
+            "orderNumber": "33",
+            "description": "Yoga Center",
+            "colorCode": null
+        },
+        {
+            "name": "Diagnostic Centre",
+            "code": "C-C-DC",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-DC",
+            "orderNumber": "34",
+            "description": "Diagnostic Centre",
+            "colorCode": null
+        },
+        {
+            "name": "Govt-Semi Govt. Hospital",
+            "code": "C-C-GSGH",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-GSGH",
+            "orderNumber": "35",
+            "description": "Govt-Semi Govt. Hospital",
+            "colorCode": null
+        },
+        {
+            "name": "Registered Trust",
+            "code": "C-C-RT",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-RT",
+            "orderNumber": "36",
+            "description": "Registered Trust",
+            "colorCode": null
+        },
+        {
+            "name": " Health centre",
+            "code": "C-C-HC",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-HC",
+            "orderNumber": "37",
+            "description": " Health centre",
+            "colorCode": null
+        },
+        {
+            "name": "Hospital",
+            "code": "C-C-H",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-H",
+            "orderNumber": "38",
+            "description": "Hospital",
+            "colorCode": null
+        },
+        {
+            "name": "Lab",
+            "code": "C-C-L",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-L",
+            "orderNumber": "39",
+            "description": "Lab",
+            "colorCode": null
+        },
+        {
+            "name": "Maternity Home",
+            "code": "C-C-MTH",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-MTH",
+            "orderNumber": "40",
+            "description": "Maternity Home",
+            "colorCode": null
+        },
+        {
+            "name": " Medical Building",
+            "code": "C-C-MB",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-MB",
+            "orderNumber": "41",
+            "description": " Medical Building",
+            "colorCode": null
+        },
+        {
+            "name": "Nursing Home",
+            "code": "C-C-NH",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-NH",
+            "orderNumber": "42",
+            "description": "Nursing Home",
+            "colorCode": null
+        },
+        {
+            "name": "Polyclinic",
+            "code": "C-C-PLY",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-PLY",
+            "orderNumber": "43",
+            "description": "Polyclinic",
+            "colorCode": null
+        },
+        {
+            "name": "Rehabilitaion Center",
+            "code": "C-C-RC",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-RC",
+            "orderNumber": "44",
+            "description": "Rehabilitaion Center",
+            "colorCode": null
+        },
+        {
+            "name": "Veterinary Hospital for pet animals and birds",
+            "code": "C-C-VHAB",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-VHAB",
+            "orderNumber": "45",
+            "description": "Veterinary Hospital for pet animals and birds",
+            "colorCode": null
+        },
+        {
+            "name": "Research and Training Institute",
+            "code": "C-C-RTI",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-RTI",
+            "orderNumber": "46",
+            "description": "Research and Training Institute",
+            "colorCode": null
+        },
+        {
+            "name": "Police Station",
+            "code": "C-C-PS",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-PS",
+            "orderNumber": "47",
+            "description": "Police Station",
+            "colorCode": null
+        },
+        {
+            "name": "Fire Station",
+            "code": "C-C-FS",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-FS",
+            "orderNumber": "48",
+            "description": "Fire Station",
+            "colorCode": null
+        },
+        {
+            "name": "Jail/Prison",
+            "code": "C-C-J",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-J",
+            "orderNumber": "49",
+            "description": "Jail/Prison",
+            "colorCode": null
+        },
+        {
+            "name": "Post Office",
+            "code": "C-C-PO",
+            "active": true,
+            "occupancyType": "C",
+            "subOccupancyType": "C-PO",
+            "orderNumber": "50",
+            "description": "Post Office",
+            "colorCode": null
+        },
+        {
+            "name": "Bill Collection Center",
+            "code": "D-D-BCC",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-BCC",
+            "orderNumber": "1",
+            "description": "Bill Collection Center",
+            "colorCode": null
+        },
+        {
+            "name": "Broadcasting-Transmission Centre",
+            "code": "D-D-BTC",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-BTC",
+            "orderNumber": "2",
+            "description": "Broadcasting-Transmission Centre",
+            "colorCode": null
+        },
+        {
+            "name": "Burial and cremation grounds",
+            "code": "D-D-BCG",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-BCG",
+            "orderNumber": "3",
+            "description": "Burial and cremation grounds",
+            "colorCode": null
+        },
+        {
+            "name": "Public Distribution System Shop",
+            "code": "D-D-PDSS",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-PDSS",
+            "orderNumber": "4",
+            "description": "Public Distribution System Shop",
+            "colorCode": null
+        },
+        {
+            "name": "Public Toilets in Public Area",
+            "code": "D-D-PTPA",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-PTPA",
+            "orderNumber": "5",
+            "description": "Public Toilets in Public Area",
+            "colorCode": null
+        },
+        {
+            "name": "Public Utility Bldg",
+            "code": "D-D-PUB",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-PUB",
+            "orderNumber": "6",
+            "description": "Public Utility Bldg",
+            "colorCode": null
+        },
+        {
+            "name": "Sub-Station",
+            "code": "D-D-SS",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-SS",
+            "orderNumber": "7",
+            "description": "Sub-Station",
+            "colorCode": null
+        },
+        {
+            "name": "Telecommunication",
+            "code": "D-D-TEL",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-TEL",
+            "orderNumber": "8",
+            "description": "Telecommunication",
+            "colorCode": null
+        },
+        {
+            "name": "water pumping stations",
+            "code": "D-D-WPS",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-WPS",
+            "orderNumber": "9",
+            "description": "water pumping stations",
+            "colorCode": null
+        },
+        {
+            "name": "service and storage yards",
+            "code": "D-D-SSY",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-SSY",
+            "orderNumber": "10",
+            "description": "service and storage yards",
+            "colorCode": null
+        },
+        {
+            "name": "electrical distribution depots",
+            "code": "D-D-EDD",
+            "active": true,
+            "occupancyType": "D",
+            "subOccupancyType": "D-EDD",
+            "orderNumber": "11",
+            "description": "electrical distribution depots",
+            "colorCode": null
+        },
+        {
+            "name": "Industrial Buildings (Factories, Workshops, etc.)",
+            "code": "E-E-IB",
+            "active": true,
+            "occupancyType": "E",
+            "subOccupancyType": "E-IB",
+            "orderNumber": "1",
+            "description": "Industrial Buildings (Factories, Workshops, etc.)",
+            "colorCode": null
+        },
+        {
+            "name": "Non Polluting Industrial",
+            "code": "E-E-NPI",
+            "active": true,
+            "occupancyType": "E",
+            "subOccupancyType": "E-NPI",
+            "orderNumber": "2",
+            "description": "Non Polluting Industrial",
+            "colorCode": null
+        },
+        {
+            "name": "IT, ITES Buildings",
+            "code": "E-E-ITB",
+            "active": true,
+            "occupancyType": "E",
+            "subOccupancyType": "E-ITB",
+            "orderNumber": "3",
+            "description": "IT, ITES Buildings",
+            "colorCode": null
+        },
+        {
+            "name": " SEZ Industrial",
+            "code": "E-E-SI",
+            "active": true,
+            "occupancyType": "E",
+            "subOccupancyType": "E-SI",
+            "orderNumber": "4",
+            "description": " SEZ Industrial",
+            "colorCode": null
+        },
+        {
+            "name": "Loading/Unloading Spaces",
+            "code": "E-E-L",
+            "active": true,
+            "occupancyType": "E",
+            "subOccupancyType": "E-L",
+            "orderNumber": "5",
+            "description": "Loading/Unloading Spaces",
+            "colorCode": null
+        },
+        {
+            "name": "Flatted Factory",
+            "code": "E-E-FF",
+            "active": true,
+            "occupancyType": "E",
+            "subOccupancyType": "E-FF",
+            "orderNumber": "6",
+            "description": "Flatted Factory",
+            "colorCode": null
+        },
+        {
+            "name": "small factories and etc falls in industrial",
+            "code": "E-E-SF",
+            "active": true,
+            "occupancyType": "E",
+            "subOccupancyType": "E-SF",
+            "orderNumber": "7",
+            "description": "small factories and etc falls in industrial",
+            "colorCode": null
+        },
+        {
+            "name": "Coaching Centre",
+            "code": "F-F-CC",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-CC",
+            "orderNumber": "1",
+            "description": "Coaching Centre",
+            "colorCode": null
+        },
+        {
+            "name": "Commercial Institute",
+            "code": "F-F-CI",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-CI",
+            "orderNumber": "2",
+            "description": "Commercial Institute",
+            "colorCode": null
+        },
+        {
+            "name": "College",
+            "code": "F-F-C",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-C",
+            "orderNumber": "3",
+            "description": "College",
+            "colorCode": null
+        },
+        {
+            "name": "Computer Training Institute",
+            "code": "F-F-CTI",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-CTI",
+            "orderNumber": "4",
+            "description": "Computer Training Institute",
+            "colorCode": null
+        },
+        {
+            "name": "Nursery School",
+            "code": "F-F-NS",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-NS",
+            "orderNumber": "5",
+            "description": "Nursery School",
+            "colorCode": null
+        },
+        {
+            "name": "Primary School",
+            "code": "F-F-PS",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-PS",
+            "orderNumber": "6",
+            "description": "Primary School",
+            "colorCode": null
+        },
+        {
+            "name": "Hostel (Captive)",
+            "code": "F-F-H",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-H",
+            "orderNumber": "7",
+            "description": "Hostel (Captive)",
+            "colorCode": null
+        },
+        {
+            "name": "High School",
+            "code": "F-F-HS",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-HS",
+            "orderNumber": "8",
+            "description": "High School",
+            "colorCode": null
+        },
+        {
+            "name": "Play School",
+            "code": "F-F-PLS",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-PLS",
+            "orderNumber": "9",
+            "description": "Play School",
+            "colorCode": null
+        },
+        {
+            "name": "crÃ¨che",
+            "code": "F-F-CR",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-CR",
+            "orderNumber": "10",
+            "description": "crÃ¨che",
+            "colorCode": null
+        },
+        {
+            "name": "School for Mentally Challenged.",
+            "code": "F-F-SMC",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-SMC",
+            "orderNumber": "11",
+            "description": "School for Mentally Challenged.",
+            "colorCode": null
+        },
+        {
+            "name": "Art academy",
+            "code": "F-F-AA",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-AA",
+            "orderNumber": "12",
+            "description": "Art academy",
+            "colorCode": null
+        },
+        {
+            "name": "Technical College",
+            "code": "F-F-TC",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-TC",
+            "orderNumber": "13",
+            "description": "Technical College",
+            "colorCode": null
+        },
+        {
+            "name": "Sports training centers",
+            "code": "F-F-STC",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-STC",
+            "orderNumber": "14",
+            "description": "Sports training centers",
+            "colorCode": null
+        },
+        {
+            "name": "Training Institute",
+            "code": "F-F-TI",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-TI",
+            "orderNumber": "15",
+            "description": "Training Institute",
+            "colorCode": null
+        },
+        {
+            "name": "Veterinary Institute",
+            "code": "F-F-VI",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-VI",
+            "orderNumber": "16",
+            "description": "Veterinary Institute",
+            "colorCode": null
+        },
+        {
+            "name": "Medical College",
+            "code": "F-F-MC",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-MC",
+            "orderNumber": "17",
+            "description": "Medical College",
+            "colorCode": null
+        },
+        {
+            "name": "Research and Training Center",
+            "code": "F-F-RTC",
+            "active": true,
+            "occupancyType": "F",
+            "subOccupancyType": "F-RTC",
+            "orderNumber": "18",
+            "description": "Research and Training Center",
+            "colorCode": null
+        },
+        {
+            "name": "Airport",
+            "code": "G-G-A",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-A",
+            "orderNumber": "1",
+            "description": "Airport",
+            "colorCode": null
+        },
+        {
+            "name": "Auto Stand",
+            "code": "G-G-AS",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-AS",
+            "orderNumber": "2",
+            "description": "Auto Stand",
+            "colorCode": null
+        },
+        {
+            "name": "Metro Station",
+            "code": "G-G-MS",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-MS",
+            "orderNumber": "3",
+            "description": "Metro Station",
+            "colorCode": null
+        },
+        {
+            "name": "Bus Stand",
+            "code": "G-G-BS",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-BS",
+            "orderNumber": "4",
+            "description": "Bus Stand",
+            "colorCode": null
+        },
+        {
+            "name": "Bus Terminal",
+            "code": "G-G-BT",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-BT",
+            "orderNumber": "5",
+            "description": "Bus Terminal",
+            "colorCode": null
+        },
+        {
+            "name": "ISBT",
+            "code": "G-G-I",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-I",
+            "orderNumber": "6",
+            "description": "ISBT",
+            "colorCode": null
+        },
+        {
+            "name": "Railway station",
+            "code": "G-G-RS",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-RS",
+            "orderNumber": "7",
+            "description": "Railway station",
+            "colorCode": null
+        },
+        {
+            "name": "Taxi Stand",
+            "code": "G-G-TS",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-TS",
+            "orderNumber": "8",
+            "description": "Taxi Stand",
+            "colorCode": null
+        },
+        {
+            "name": " Multi Level Car Parking",
+            "code": "G-G-MLCP",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-MLCP",
+            "orderNumber": "9",
+            "description": " Multi Level Car Parking",
+            "colorCode": null
+        },
+        {
+            "name": "Public Parking",
+            "code": "G-G-PP",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-PP",
+            "orderNumber": "10",
+            "description": "Public Parking",
+            "colorCode": null
+        },
+        {
+            "name": "Toll Plaza",
+            "code": "G-G-TP",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-TP",
+            "orderNumber": "11",
+            "description": "Toll Plaza",
+            "colorCode": null
+        },
+        {
+            "name": "Truck Terminal",
+            "code": "G-G-TT",
+            "active": true,
+            "occupancyType": "G",
+            "subOccupancyType": "G-TT",
+            "orderNumber": "12",
+            "description": "Truck Terminal",
+            "colorCode": null
+        },
+        {
+            "name": "Agriculture Farm",
+            "code": "H-H-AF",
+            "active": true,
+            "occupancyType": "H",
+            "subOccupancyType": "H-AF",
+            "orderNumber": "1",
+            "description": "Agriculture Farm",
+            "colorCode": null
+        },
+        {
+            "name": "Agro Godown",
+            "code": "H-H-AG",
+            "active": true,
+            "occupancyType": "H",
+            "subOccupancyType": "H-AG",
+            "orderNumber": "2",
+            "description": "Agro Godown",
+            "colorCode": null
+        },
+        {
+            "name": " Agro-Research Farm",
+            "code": "H-H-ARF",
+            "active": true,
+            "occupancyType": "H",
+            "subOccupancyType": "H-ARF",
+            "orderNumber": "3",
+            "description": " Agro-Research Farm",
+            "colorCode": null
+        },
+        {
+            "name": "Farm House",
+            "code": "H-H-FH",
+            "active": true,
+            "occupancyType": "H",
+            "subOccupancyType": "H-FH",
+            "orderNumber": "4",
+            "description": "Farm House",
+            "colorCode": null
+        },
+        {
+            "name": "Country Homes",
+            "code": "H-H-CH",
+            "active": true,
+            "occupancyType": "H",
+            "subOccupancyType": "H-CH",
+            "orderNumber": "5",
+            "description": "Country Homes",
+            "colorCode": null
+        },
+        {
+            "name": "Nursery and green houses",
+            "code": "H-H-NGH",
+            "active": true,
+            "occupancyType": "H",
+            "subOccupancyType": "H-NGH",
+            "orderNumber": "6",
+            "description": "Nursery and green houses",
+            "colorCode": null
+        },
+        {
+            "name": "Polutry, Diary and Swine/Goat/Horse",
+            "code": "H-H-PDS",
+            "active": true,
+            "occupancyType": "H",
+            "subOccupancyType": "H-PDS",
+            "orderNumber": "7",
+            "description": "Polutry, Diary and Swine/Goat/Horse",
+            "colorCode": null
+        },
+        {
+            "name": "Horticulture",
+            "code": "H-H-H",
+            "active": true,
+            "occupancyType": "H",
+            "subOccupancyType": "H-H",
+            "orderNumber": "8",
+            "description": "Horticulture",
+            "colorCode": null
+        },
+        {
+            "name": "Seri culture",
+            "code": "H-H-SC",
+            "active": true,
+            "occupancyType": "H",
+            "subOccupancyType": "H-SC",
+            "orderNumber": "9",
+            "description": "Seri culture",
+            "colorCode": null
+        },
+        {
+            "name": "Mixed Use",
+            "code": "M-M-M",
+            "active": true,
+            "occupancyType": "M",
+            "subOccupancyType": "M-M",
+            "orderNumber": "10",
+            "description": "Mixed Use",
+            "colorCode": null
+        }
+    ]
+}

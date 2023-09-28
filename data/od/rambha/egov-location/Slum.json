@@ -1,0 +1,48 @@
+{
+    "tenantId": "od.rambha",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "College Road",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Pahada Sahi",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Laxmipur",
+            "ward": "02",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Bauri Sahi",
+            "ward": "04",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Nac Bandhasahi",
+            "ward": "06",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Chilika Road",
+            "ward": "10",
+            "code": "SLM6",
+            "isActive": true
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+  "tenantId": "od.sonepur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sonepur",
+        "localname": "Sonepur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.sonepur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-1",
+            "localname": "Sonepur Town Unit-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-2",
+            "localname": "Sonepur Town Unit-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-3",
+            "localname": "Sonepur Town Unit-3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-4",
+            "localname": "Sonepur Town Unit-4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+		  {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Janmura",
+            "localname": "Janmura",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP1",
+            "children": []
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Kalapathar",
+            "localname": "Kalapathar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP2",
+            "children": []
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Bisipada",
+            "localname": "Bisipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP3",
+            "children": []
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Mundoghat",
+            "localname": "Mundoghat",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP4",
+            "children": []
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Hardokhol",
+            "localname": "Hardokhol",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP5",
+            "children": []
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Mahada",
+            "localname": "Mahada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP6",
+            "children": []
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Nimna",
+            "localname": "Nimna",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP7",
+            "children": []
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Panchamahala",
+            "localname": "Panchamahala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP8",
+            "children": []
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Raxa",
+            "localname": "Raxa",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP9",
+            "children": []
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Bisimunda",
+            "localname": "Bisimunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP10",
+            "children": []
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Malikmunda",
+            "localname": "Malikmunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP11",
+            "children": []
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Mayurudan",
+            "localname": "Mayurudan",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP12",
+            "children": []
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Kharjhura",
+            "localname": "Kharjhura",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP13",
+            "children": []
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Uffla",
+            "localname": "Uffla",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP14",
+            "children": []
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Hilung",
+            "localname": "Hilung",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP15",
+            "children": []
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Bagbar",
+            "localname": "Bagbar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP16",
+            "children": []
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Champamal",
+            "localname": "Champamal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP17",
+            "children": []
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Lastala",
+            "localname": "Lastala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP18",
+            "children": []
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SNP19",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sonepur",
+        "localname": "Sonepur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.sonepur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-1",
+            "localname": "Sonepur Town Unit-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-2",
+            "localname": "Sonepur Town Unit-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-3",
+            "localname": "Sonepur Town Unit-3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Sonepur Town Unit-4",
+            "localname": "Sonepur Town Unit-4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          }
+        ]
+      }
+    }
+  ]
+}

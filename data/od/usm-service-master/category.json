@@ -1,0 +1,18 @@
+{
+    "tenantId": "od",
+    "moduleName": "usm-service-master",
+    "category": [
+        {
+            "code": "WATER",
+            "name": "Water"
+        },
+        {
+            "code": "SANITATION",
+            "name": "Sanitation"
+        },
+        {
+            "code": "STREETLIGHT",
+            "name": "Streetlight"
+        }
+    ]
+}

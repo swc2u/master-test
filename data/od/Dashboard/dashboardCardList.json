@@ -1,0 +1,14 @@
+{
+  "tenantId": "od",
+  "moduleName": "dashboard",
+  "dashboardCardList": [
+    {
+      "cardName": "Pgr_dashboard_1",
+      "roles": [
+        "PGR_DASHBOARD_VIEWER"
+      ],
+      "icon": "material-icons module-page-icon",
+      "route": "PGRDashboard"
+    }
+  ]
+}

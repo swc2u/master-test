@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.kotpad",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

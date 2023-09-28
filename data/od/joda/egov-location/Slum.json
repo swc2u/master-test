@@ -1,0 +1,265 @@
+{
+    "tenantId": "od.joda",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Tarini Hutting",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Nepali Hutting",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Sastri Nagar",
+            "ward": "01",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Talak Hutting(",
+            "ward": "01",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Baneikala Kudur Sahi",
+            "ward": "02",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Baneikala Munda Sahi",
+            "ward": "02",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Baneikala Block Hutting",
+            "ward": "02",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Mukharjee Hutting",
+            "ward": "02",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Kundurnala Basti",
+            "ward": "03",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Hudi Sahi",
+            "ward": "03",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Muslim Basti",
+            "ward": "04",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Balwant Singh Hutting",
+            "ward": "04",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Jhumpudi Hutting",
+            "ward": "04",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Bhunda Hutting",
+            "ward": "05",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Azad Basti",
+            "ward": "05",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Bachu Hutting",
+            "ward": "06",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Ramjan Hutting",
+            "ward": "06",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Ulli Hutting",
+            "ward": "07",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Dipu Hutting",
+            "ward": "07",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Madras Hutting",
+            "ward": "08",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Patra Sahi",
+            "ward": "08",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Gopa Mohanty Hutting",
+            "ward": "09",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Munda Sahi",
+            "ward": "09",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Kamar Sahi",
+            "ward": "09",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Hanuman Hutting",
+            "ward": "10",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Geological Hutting",
+            "ward": "10",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Mati Hutting",
+            "ward": "10",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Bodra Hutting",
+            "ward": "11",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Munda Sahi",
+            "ward": "11",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Murteja Hutting",
+            "ward": "11",
+            "code": "SLM30",
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "Pagala Hutting",
+            "ward": "12",
+            "code": "SLM31",
+            "isActive": true
+        },
+        {
+            "id": 32,
+            "name": "Radha Hutting",
+            "ward": "12",
+            "code": "SLM32",
+            "isActive": true
+        },
+        {
+            "id": 33,
+            "name": "Banspani Behera Hutting",
+            "ward": "13",
+            "code": "SLM33",
+            "isActive": true
+        },
+        {
+            "id": 34,
+            "name": "Toll Gate",
+            "ward": "13",
+            "code": "SLM34",
+            "isActive": true
+        },
+        {
+            "id": 35,
+            "name": "Behera Hutting",
+            "ward": "14",
+            "code": "SLM35",
+            "isActive": true
+        },
+        {
+            "id": 36,
+            "name": "Dadhia Hutting",
+            "ward": "14",
+            "code": "SLM36",
+            "isActive": true
+        },
+        {
+            "id": 37,
+            "name": "Dolpahad",
+            "ward": "14",
+            "code": "SLM37",
+            "isActive": true
+        }
+    ]
+}

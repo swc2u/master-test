@@ -1,0 +1,42 @@
+{
+    "tenantId": "od.tarbha",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Tentelghat",
+            "active": true,
+            "code": "TARB001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Maharpada",
+            "active": true,
+            "code": "TARB002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "HarizanPada",
+            "active": true,
+            "code": "TARB003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ghasipada",
+            "active": true,
+            "code": "TARB004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chamarpada",
+            "active": true,
+            "code": "TARB005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tanlapada",
+            "active": true,
+            "code": "TARB006",
+            "locality": "VIL1"
+        }
+    ]
+}

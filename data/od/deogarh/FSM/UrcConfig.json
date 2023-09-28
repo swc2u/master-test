@@ -1,0 +1,10 @@
+
+{
+    "tenantId": "od.deogarh",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

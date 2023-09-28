@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.vyasanagar",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

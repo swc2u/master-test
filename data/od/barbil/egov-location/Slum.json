@@ -1,0 +1,307 @@
+{
+    "tenantId": "od.barbil",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Hesaburu Oriya Basti & Munda Sahi",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Hirakud Colony & Muslim Basti",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Nepali Hutting & Gate Area",
+            "ward": "01",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Dhipa Hutting & Jahira Hutting",
+            "ward": "02",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Khapara Hutting ",
+            "ward": "02",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Seding Basti ",
+            "ward": "03",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Buru Hutting",
+            "ward": "03",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Nepali Hutting & Majhi Hutting",
+            "ward": "03",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Upper Basti & Sweeper Colony",
+            "ward": "04",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "S. Lal Hutting & Sriram Nagar",
+            "ward": "04",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Sedding Hutting",
+            "ward": "04",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Tata Hutting & Patra Sahi",
+            "ward": "06",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Paul Hutting",
+            "ward": "07",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Lebe Hutting",
+            "ward": "08",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Santabahal Basti",
+            "ward": "08",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Megazine Hutting ",
+            "ward": "08",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Bakal Hutting",
+            "ward": "08",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Maharana Sahi",
+            "ward": "08",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Bhanja Colony & Kalandi Sahi",
+            "ward": "08",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Bagiaburu Hutting & Nac Hutting",
+            "ward": "09",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Barkat Nagar",
+            "ward": "09",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Dressing Hutting & Tiria Hutting",
+            "ward": "09",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "S. Lal Hutting ",
+            "ward": "09",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Pakka Hutting",
+            "ward": "09",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Azad Basti",
+            "ward": "10",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Dhobi Hutting",
+            "ward": "10",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Gada Hutting",
+            "ward": "10",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Sundara Basti",
+            "ward": "11",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Chatei Hutting",
+            "ward": "12",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Laxmi Nagar",
+            "ward": "12",
+            "code": "SLM30",
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "Indira Colony",
+            "ward": "12",
+            "code": "SLM31",
+            "isActive": true
+        },
+        {
+            "id": 32,
+            "name": "Industrial Area",
+            "ward": "12",
+            "code": "SLM32",
+            "isActive": true
+        },
+        {
+            "id": 33,
+            "name": "Jhupudi Hutting",
+            "ward": "12",
+            "code": "SLM33",
+            "isActive": true
+        },
+        {
+            "id": 34,
+            "name": "Railway Siding Area",
+            "ward": "12",
+            "code": "SLM34",
+            "isActive": true
+        },
+        {
+            "id": 35,
+            "name": "Durby Chhawk",
+            "ward": "13",
+            "code": "SLM35",
+            "isActive": true
+        },
+        {
+            "id": 36,
+            "name": "Uttamsingh Hutting",
+            "ward": "13",
+            "code": "SLM36",
+            "isActive": true
+        },
+        {
+            "id": 37,
+            "name": "Weibridge Hutting",
+            "ward": "14",
+            "code": "SLM37",
+            "isActive": true
+        },
+        {
+            "id": 38,
+            "name": "Mandira Hutting",
+            "ward": "14",
+            "code": "SLM38",
+            "isActive": true
+        },
+        {
+            "id": 39,
+            "name": "Tapan Hutting",
+            "ward": "14",
+            "code": "SLM39",
+            "isActive": true
+        },
+        {
+            "id": 40,
+            "name": "Damu Hutting",
+            "ward": "15",
+            "code": "SLM40",
+            "isActive": true
+        },
+        {
+            "id": 41,
+            "name": "Sundara Basti ",
+            "ward": "15",
+            "code": "SLM41",
+            "isActive": true
+        },
+        {
+            "id": 42,
+            "name": "Sadhusingh Hutting(Part 1)",
+            "ward": "15",
+            "code": "SLM42",
+            "isActive": true
+        },
+        {
+            "id": 43,
+            "name": "Sadhusingh Hutting(Part 2)",
+            "ward": "15",
+            "code": "SLM43",
+            "isActive": true
+        }
+    ]
+}

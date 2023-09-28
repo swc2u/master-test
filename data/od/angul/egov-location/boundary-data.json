@@ -1,0 +1,288 @@
+{
+  "tenantId": "od.angul",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Angul",
+        "localname": "Angul",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.angul",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Baniabahal",
+            "localname": "Baniabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Hulurisinga",
+            "localname": "Hulurisinga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Angul town",
+            "localname": "Angul town",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+		  {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Angarbandha",
+            "localname": "Angarbandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG1",
+            "children": []
+        },
+        {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Badakera",
+            "localname": "Badakera",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG2",
+            "children": []
+        },
+        {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Balasinga",
+            "localname": "Balasinga",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG3",
+            "children": []
+        },
+        {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Baluakata",
+            "localname": "Baluakata",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG4",
+            "children": []
+        },
+        {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Bantala",
+            "localname": "Bantala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG5",
+            "children": []
+        },
+        {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Cheliapada",
+            "localname": "Cheliapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG6",
+            "children": []
+        },
+        {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Dhokuta",
+            "localname": "Dhokuta",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG7",
+            "children": []
+        },
+        {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Inkarbandha",
+            "localname": "Inkarbandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG8",
+            "children": []
+        },
+        {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Kangula Bentapur",
+            "localname": "Kangula Bentapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG9",
+            "children": []
+        },
+        {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Khalari",
+            "localname": "Khalari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG10",
+            "children": []
+        },
+        {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Kumurisinga",
+            "localname": "Kumurisinga",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG11",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Matiasahi",
+            "localname": "Matiasahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG12",
+            "children": []
+        },
+        {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Nuamauza",
+            "localname": "Nuamauza",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG13",
+            "children": []
+        },
+        {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Rantalei",
+            "localname": "Rantalei",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG14",
+            "children": []
+        },
+        {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Sankhapur",
+            "localname": "Sankhapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ANG15",
+            "children": []
+        },
+        {
+          "id": "21",
+          "boundaryNum": 1,
+          "name": "Other",
+          "localname": "Other",
+          "longitude": null,
+          "latitude": null,
+          "label": "GP",
+          "code": "ANG16",
+          "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Angul",
+        "localname": "Angul",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.angul",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Baniabahal",
+            "localname": "Baniabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Hulurisinga",
+            "localname": "Hulurisinga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Angul town",
+            "localname": "Angul town",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          }
+		]
+      }
+    }
+  ]
+}

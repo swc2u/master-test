@@ -1,0 +1,1372 @@
+{
+  "tenantId": "od.bhubaneswar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhubaneswar",
+        "localname": "Bhubaneswar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.bhubaneswar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Aigania",
+            "localname": "Aigania",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Ashoknagar",
+            "localname": "Ashoknagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Banguary",
+            "localname": "Banguary",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Bapujinagar",
+            "localname": "Bapujinagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Baragada",
+            "localname": "Baragada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Baramunda",
+            "localname": "Baramunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Begunia",
+            "localname": "Begunia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Bhagabanpur",
+            "localname": "Bhagabanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Bharatpur",
+            "localname": "Bharatpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Bhimpur (Thana No. 64)",
+            "localname": "Bhimpur (Thana No. 64)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Bhoinagar",
+            "localname": "Bhoinagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Bhoumanagar",
+            "localname": "Bhoumanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Bhubaneswar",
+            "localname": "Bhubaneswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Bjb Nagar",
+            "localname": "Bjb Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Bomikhal",
+            "localname": "Bomikhal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Chandrasekharpur",
+            "localname": "Chandrasekharpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Damana",
+            "localname": "Damana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL17"
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Dumuduma",
+            "localname": "Dumuduma",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL18"
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Gadkana",
+            "localname": "Gadkana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Ganganagar",
+            "localname": "Ganganagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL20"
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Gautamnagar",
+            "localname": "Gautamnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL21"
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Ghatikia",
+            "localname": "Ghatikia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL22"
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Godagopinathprasad",
+            "localname": "Godagopinathprasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL23"
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Gopabandhunagar",
+            "localname": "Gopabandhunagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL24"
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Govindprasad",
+            "localname": "Govindprasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL25"
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Haridaspur",
+            "localname": "Haridaspur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL26"
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Haripurpatna",
+            "localname": "Haripurpatna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL27"
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Jadupur",
+            "localname": "Jadupur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL28"
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Jagamara",
+            "localname": "Jagamara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL29"
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Jayadev Vihar",
+            "localname": "Jayadev Vihar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL30"
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Jayapur (Thana No. 12)",
+            "localname": "Jayapur (Thana No. 12)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL31"
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Jharapara",
+            "localname": "Jharapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL32"
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Johal",
+            "localname": "Johal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL33"
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "Jokalandi",
+            "localname": "Jokalandi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL34"
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "Kapilaprasad",
+            "localname": "Kapilaprasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL35"
+          },
+          {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "Kapileswar",
+            "localname": "Kapileswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL36"
+          },
+          {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "Kesarinagar",
+            "localname": "Kesarinagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL37"
+          },
+          {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "Kharbelnagar",
+            "localname": "Kharbelnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL38"
+          },
+          {
+            "id": "40",
+            "boundaryNum": 1,
+            "name": "Laxmisagar-30",
+            "localname": "Laxmisagar-30",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL39"
+          },
+          {
+            "id": "41",
+            "boundaryNum": 1,
+            "name": "Laxmisagar-31",
+            "localname": "Laxmisagar-31",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL40"
+          },
+          {
+            "id": "42",
+            "boundaryNum": 1,
+            "name": "Madhusudannagar",
+            "localname": "Madhusudannagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL41"
+          },
+          {
+            "id": "43",
+            "boundaryNum": 1,
+            "name": "Mancheswar",
+            "localname": "Mancheswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL42"
+          },
+          {
+            "id": "44",
+            "boundaryNum": 1,
+            "name": "Meherpalli",
+            "localname": "Meherpalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL43"
+          },
+          {
+            "id": "45",
+            "boundaryNum": 1,
+            "name": "Naharkanta",
+            "localname": "Naharkanta",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL44"
+          },
+          {
+            "id": "46",
+            "boundaryNum": 1,
+            "name": "Nakhara",
+            "localname": "Nakhara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL45"
+          },
+          {
+            "id": "47",
+            "boundaryNum": 1,
+            "name": "Nayapalli",
+            "localname": "Nayapalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL46"
+          },
+          {
+            "id": "48",
+            "boundaryNum": 1,
+            "name": "Nuagaon (Thana No. 71)",
+            "localname": "Nuagaon (Thana No. 71)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL47"
+          },
+          {
+            "id": "49",
+            "boundaryNum": 1,
+            "name": "Pahala",
+            "localname": "Pahala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL48"
+          },
+          {
+            "id": "50",
+            "boundaryNum": 1,
+            "name": "Paikanagar",
+            "localname": "Paikanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL49"
+          },
+          {
+            "id": "51",
+            "boundaryNum": 1,
+            "name": "Paikarapur",
+            "localname": "Paikarapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL50"
+          },
+          {
+            "id": "52",
+            "boundaryNum": 1,
+            "name": "Pandara",
+            "localname": "Pandara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL51"
+          },
+          {
+            "id": "53",
+            "boundaryNum": 1,
+            "name": "Patia",
+            "localname": "Patia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL52"
+          },
+          {
+            "id": "54",
+            "boundaryNum": 1,
+            "name": "Patrapada",
+            "localname": "Patrapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL53"
+          },
+          {
+            "id": "55",
+            "boundaryNum": 1,
+            "name": "Pokhariput",
+            "localname": "Pokhariput",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL54"
+          },
+          {
+            "id": "56",
+            "boundaryNum": 1,
+            "name": "Rajarani",
+            "localname": "Rajarani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL55"
+          },
+          {
+            "id": "57",
+            "boundaryNum": 1,
+            "name": "Rudrapur",
+            "localname": "Rudrapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL56"
+          },
+          {
+            "id": "58",
+            "boundaryNum": 1,
+            "name": "Saheednagar",
+            "localname": "Saheednagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL57"
+          },
+          {
+            "id": "59",
+            "boundaryNum": 1,
+            "name": "Samantapuri",
+            "localname": "Samantapuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL58"
+          },
+          {
+            "id": "60",
+            "boundaryNum": 1,
+            "name": "Sankarpur",
+            "localname": "Sankarpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL59"
+          },
+          {
+            "id": "61",
+            "boundaryNum": 1,
+            "name": "Satyanagar",
+            "localname": "Satyanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL60"
+          },
+          {
+            "id": "62",
+            "boundaryNum": 1,
+            "name": "Subudhipur",
+            "localname": "Subudhipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL61"
+          },
+          {
+            "id": "63",
+            "boundaryNum": 1,
+            "name": "Sundarpada",
+            "localname": "Sundarpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL62"
+          },
+          {
+            "id": "64",
+            "boundaryNum": 1,
+            "name": "Suryanagar",
+            "localname": "Suryanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL63"
+          },
+          {
+            "id": "65",
+            "boundaryNum": 1,
+            "name": "Syampur (Thana No. 49)",
+            "localname": "Syampur (Thana No. 49)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL64"
+          },
+          {
+            "id": "66",
+            "boundaryNum": 1,
+            "name": "Vanivihar",
+            "localname": "Vanivihar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL65"
+          },
+          {
+            "id": "67",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL66"
+          },
+          {
+            "id": "68",
+            "boundaryNum": 1,
+            "name": "Kalarahanga",
+            "localname": "Kalarahanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL67"
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhubaneswar",
+        "localname": "Bhubaneswar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.bhubaneswar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Aigania",
+            "localname": "Aigania",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Ashoknagar",
+            "localname": "Ashoknagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Banguary",
+            "localname": "Banguary",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Bapujinagar",
+            "localname": "Bapujinagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Baragada",
+            "localname": "Baragada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Baramunda",
+            "localname": "Baramunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Begunia",
+            "localname": "Begunia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Bhagabanpur",
+            "localname": "Bhagabanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Bharatpur",
+            "localname": "Bharatpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Bhimpur (Thana No. 64)",
+            "localname": "Bhimpur (Thana No. 64)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Bhoinagar",
+            "localname": "Bhoinagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Bhoumanagar",
+            "localname": "Bhoumanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Bhubaneswar",
+            "localname": "Bhubaneswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Bjb Nagar",
+            "localname": "Bjb Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Bomikhal",
+            "localname": "Bomikhal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Chandrasekharpur",
+            "localname": "Chandrasekharpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Damana",
+            "localname": "Damana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL17"
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Dumuduma",
+            "localname": "Dumuduma",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL18"
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Gadkana",
+            "localname": "Gadkana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Ganganagar",
+            "localname": "Ganganagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL20"
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Gautamnagar",
+            "localname": "Gautamnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL21"
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Ghatikia",
+            "localname": "Ghatikia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL22"
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Godagopinathprasad",
+            "localname": "Godagopinathprasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL23"
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Gopabandhunagar",
+            "localname": "Gopabandhunagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL24"
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Govindprasad",
+            "localname": "Govindprasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL25"
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Haridaspur",
+            "localname": "Haridaspur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL26"
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Haripurpatna",
+            "localname": "Haripurpatna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL27"
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Jadupur",
+            "localname": "Jadupur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL28"
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Jagamara",
+            "localname": "Jagamara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL29"
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Jayadev Vihar",
+            "localname": "Jayadev Vihar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL30"
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Jayapur (Thana No. 12)",
+            "localname": "Jayapur (Thana No. 12)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL31"
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Jharapara",
+            "localname": "Jharapara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL32"
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Johal",
+            "localname": "Johal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL33"
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "Jokalandi",
+            "localname": "Jokalandi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL34"
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "Kapilaprasad",
+            "localname": "Kapilaprasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL35"
+          },
+          {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "Kapileswar",
+            "localname": "Kapileswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL36"
+          },
+          {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "Kesarinagar",
+            "localname": "Kesarinagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL37"
+          },
+          {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "Kharbelnagar",
+            "localname": "Kharbelnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL38"
+          },
+          {
+            "id": "40",
+            "boundaryNum": 1,
+            "name": "Laxmisagar-30",
+            "localname": "Laxmisagar-30",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL39"
+          },
+          {
+            "id": "41",
+            "boundaryNum": 1,
+            "name": "Laxmisagar-31",
+            "localname": "Laxmisagar-31",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL40"
+          },
+          {
+            "id": "42",
+            "boundaryNum": 1,
+            "name": "Madhusudannagar",
+            "localname": "Madhusudannagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL41"
+          },
+          {
+            "id": "43",
+            "boundaryNum": 1,
+            "name": "Mancheswar",
+            "localname": "Mancheswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL42"
+          },
+          {
+            "id": "44",
+            "boundaryNum": 1,
+            "name": "Meherpalli",
+            "localname": "Meherpalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL43"
+          },
+          {
+            "id": "45",
+            "boundaryNum": 1,
+            "name": "Naharkanta",
+            "localname": "Naharkanta",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL44"
+          },
+          {
+            "id": "46",
+            "boundaryNum": 1,
+            "name": "Nakhara",
+            "localname": "Nakhara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL45"
+          },
+          {
+            "id": "47",
+            "boundaryNum": 1,
+            "name": "Nayapalli",
+            "localname": "Nayapalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL46"
+          },
+          {
+            "id": "48",
+            "boundaryNum": 1,
+            "name": "Nuagaon (Thana No. 71)",
+            "localname": "Nuagaon (Thana No. 71)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL47"
+          },
+          {
+            "id": "49",
+            "boundaryNum": 1,
+            "name": "Pahala",
+            "localname": "Pahala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL48"
+          },
+          {
+            "id": "50",
+            "boundaryNum": 1,
+            "name": "Paikanagar",
+            "localname": "Paikanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL49"
+          },
+          {
+            "id": "51",
+            "boundaryNum": 1,
+            "name": "Paikarapur",
+            "localname": "Paikarapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL50"
+          },
+          {
+            "id": "52",
+            "boundaryNum": 1,
+            "name": "Pandara",
+            "localname": "Pandara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL51"
+          },
+          {
+            "id": "53",
+            "boundaryNum": 1,
+            "name": "Patia",
+            "localname": "Patia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL52"
+          },
+          {
+            "id": "54",
+            "boundaryNum": 1,
+            "name": "Patrapada",
+            "localname": "Patrapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL53"
+          },
+          {
+            "id": "55",
+            "boundaryNum": 1,
+            "name": "Pokhariput",
+            "localname": "Pokhariput",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL54"
+          },
+          {
+            "id": "56",
+            "boundaryNum": 1,
+            "name": "Rajarani",
+            "localname": "Rajarani",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL55"
+          },
+          {
+            "id": "57",
+            "boundaryNum": 1,
+            "name": "Rudrapur",
+            "localname": "Rudrapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL56"
+          },
+          {
+            "id": "58",
+            "boundaryNum": 1,
+            "name": "Saheednagar",
+            "localname": "Saheednagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL57"
+          },
+          {
+            "id": "59",
+            "boundaryNum": 1,
+            "name": "Samantapuri",
+            "localname": "Samantapuri",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL58"
+          },
+          {
+            "id": "60",
+            "boundaryNum": 1,
+            "name": "Sankarpur",
+            "localname": "Sankarpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL59"
+          },
+          {
+            "id": "61",
+            "boundaryNum": 1,
+            "name": "Satyanagar",
+            "localname": "Satyanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL60"
+          },
+          {
+            "id": "62",
+            "boundaryNum": 1,
+            "name": "Subudhipur",
+            "localname": "Subudhipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL61"
+          },
+          {
+            "id": "63",
+            "boundaryNum": 1,
+            "name": "Sundarpada",
+            "localname": "Sundarpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL62"
+          },
+          {
+            "id": "64",
+            "boundaryNum": 1,
+            "name": "Suryanagar",
+            "localname": "Suryanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL63"
+          },
+          {
+            "id": "65",
+            "boundaryNum": 1,
+            "name": "Syampur (Thana No. 49)",
+            "localname": "Syampur (Thana No. 49)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL64"
+          },
+          {
+            "id": "66",
+            "boundaryNum": 1,
+            "name": "Vanivihar",
+            "localname": "Vanivihar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL65"
+          },
+          {
+            "id": "67",
+            "boundaryNum": 1,
+            "name": "Kalarahanga",
+            "localname": "Kalarahanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL66"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+    "tenantId": "od.nabarangpur",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Tota Sahi",
+            "active": true,
+            "code": "NABA001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dhakad Sahi",
+            "active": true,
+            "code": "NABA002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dandasi Sahi",
+            "active": true,
+            "code": "NABA003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Garbialguda",
+            "active": true,
+            "code": "NABA004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kandha Street",
+            "active": true,
+            "code": "NABA005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gadabaguda Rice Mill",
+            "active": true,
+            "code": "NABA006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Hirli",
+            "active": true,
+            "code": "NABA007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Keaut Sahi",
+            "active": true,
+            "code": "NABA008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gadabaguda Jhikar Mill",
+            "active": true,
+            "code": "NABA009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Harijan Sahi",
+            "active": true,
+            "code": "NABA010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Khodra Sahi",
+            "active": true,
+            "code": "NABA011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dasaharapada",
+            "active": true,
+            "code": "NABA012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ghasi Sahi",
+            "active": true,
+            "code": "NABA013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Medri Sahi",
+            "active": true,
+            "code": "NABA014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Relly Street",
+            "active": true,
+            "code": "NABA015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Senapati Street",
+            "active": true,
+            "code": "NABA016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Football Ground",
+            "active": true,
+            "code": "NABA017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gadabaguda Near School",
+            "active": true,
+            "code": "NABA018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bandhamunda",
+            "active": true,
+            "code": "NABA019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Darubanddha Sahi",
+            "active": true,
+            "code": "NABA020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ichhabatiguda",
+            "active": true,
+            "code": "NABA021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Municipality Colony",
+            "active": true,
+            "code": "NABA022",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Police Station Back Side (merge with Lohar Sahi)",
+            "active": true,
+            "code": "NABA023",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Lohar Sahi",
+            "active": true,
+            "code": "NABA024",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kadali Bandha Huda, Dhoba Sahi",
+            "active": true,
+            "code": "NABA025",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Parjagali",
+            "active": true,
+            "code": "NABA026",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mangaraj Street",
+            "active": true,
+            "code": "NABA027",
+            "locality": "VIL1"
+        }
+    ]
+}

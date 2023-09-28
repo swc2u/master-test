@@ -1,0 +1,69 @@
+{
+    "tenantId": "od.aska",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Gandapalli Mochi Sahi",
+            "ward": "08",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Gandapalli Bauri Sahi",
+            "ward": "08",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Sunamba Bauri Sahi",
+            "ward": "08",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Bangalapakha Hadi Sahi",
+            "ward": "12",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Kalimukhi Harijan Sahi",
+            "ward": "13",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Tota Harijan Sahi",
+            "ward": "15",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Lalasasan Harijan Sahi",
+            "ward": "17",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Pakalapalli Harijan Sahi",
+            "ward": "18",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Pakalapalli Marathi Basa",
+            "ward": "18",
+            "code": "SLM9",
+            "isActive": true
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "tenantId": "od.nimapara",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Sweeper Colony",
+            "ward": "04",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Muslim Basti",
+            "ward": "03",
+            "code": "SLM2",
+            "isActive": true
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.hinjilicut",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

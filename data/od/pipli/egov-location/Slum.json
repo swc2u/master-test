@@ -1,0 +1,34 @@
+{
+    "tenantId": "od.pipli",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Narasinghpur",
+            "ward": "07",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Jayapur Killa",
+            "ward": "09",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Block Colony Back Side",
+            "ward": "12",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Siriapur",
+            "ward": "13",
+            "code": "SLM4",
+            "isActive": true
+        }
+    ]
+}

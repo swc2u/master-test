@@ -1,0 +1,36 @@
+{
+    "tenantId": "od.khariar",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Brahman Pada, W.No.12",
+            "active": true,
+            "code": "KHAR001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Niljibandh Pada, W.No.8",
+            "active": true,
+            "code": "KHAR002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Hatpada, W.No.11",
+            "active": true,
+            "code": "KHAR003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tala Pututpada, W.NO.11",
+            "active": true,
+            "code": "KHAR004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chhutigudipada, W.No.11",
+            "active": true,
+            "code": "KHAR005",
+            "locality": "VIL1"
+        }
+    ]
+}

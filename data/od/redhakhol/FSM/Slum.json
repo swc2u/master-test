@@ -1,0 +1,96 @@
+{
+    "tenantId": "od.redhakhol",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Patuli Palli, Ward No-02",
+            "active": true,
+            "code": "REDH001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sundhimunda, Ward No-02",
+            "active": true,
+            "code": "REDH002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Harijan Pada and Malisahi, Ward No-03",
+            "active": true,
+            "code": "REDH003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Damasahi, Ward No-03",
+            "active": true,
+            "code": "REDH004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nuasahi(Talisahi), Ward No-04",
+            "active": true,
+            "code": "REDH005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Barsikia (Lukapali), Ward No-06",
+            "active": true,
+            "code": "REDH006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dimirikhol, Ward No-06",
+            "active": true,
+            "code": "REDH007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Khandadhip(Talisahi),Ward No-07",
+            "active": true,
+            "code": "REDH008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Khandadhip(Lukapali) ,Ward No-08",
+            "active": true,
+            "code": "REDH009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Khandadhip (Nuasahi), Ward No-08",
+            "active": true,
+            "code": "REDH010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ambapal-2 ,Ward No-09",
+            "active": true,
+            "code": "REDH011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ambapal(Jharpada), Ward No-09",
+            "active": true,
+            "code": "REDH012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Rathataila, Ward No-10",
+            "active": true,
+            "code": "REDH013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Panchakhanda Sahi, Ward No-10",
+            "active": true,
+            "code": "REDH014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Champataila, Ward No-11",
+            "active": true,
+            "code": "REDH015",
+            "locality": "VIL1"
+        }
+    ]
+}

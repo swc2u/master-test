@@ -1,0 +1,34 @@
+{
+    "tenantId": "od.athagarh",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Rasarasikpur",
+            "ward": "05",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Kalu Basti-1",
+            "ward": "07",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Kalu Basti-2",
+            "ward": "08",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Chandabali Chhaka",
+            "ward": "15",
+            "code": "SLM4",
+            "isActive": true
+        }
+    ]
+}

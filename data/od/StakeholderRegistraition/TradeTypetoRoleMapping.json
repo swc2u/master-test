@@ -1,0 +1,430 @@
+{
+  "tenantId": "od",
+  "moduleName": "StakeholderRegistraition",
+  "TradeTypetoRoleMapping": [
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "ARCHITECT.CLASSA",
+      "role": ["BPA_ARCHITECT"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_OTHERS",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+              "required": true
+          }
+      ]
+    },
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "ARCHITECT.CLASSB",
+      "role": ["BPA_ARCHITECT"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    },
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "ARCHITECT.CLASSC",
+      "role": ["BPA_ARCHITECT"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    },
+    {
+      "id": "df027b77-69c1-4749-8608-601328a2deea",
+      "tradeType": "ELECTRICALENGINEERTP.CLASSA",
+      "role": ["BPA_ELECTRICALENGINEERTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_OTHERS",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+              "required": false
+          }
+      ]
+    },
+    {
+      "id": "df027b77-69c1-4749-8608-601328a2deea",
+      "tradeType": "ELECTRICALENGINEERTP.CLASSB",
+      "role": ["BPA_ELECTRICALENGINEERTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    },
+    {
+      "id": "df027b77-69c1-4749-8608-601328a2deea",
+      "tradeType": "ELECTRICALENGINEERTP.CLASSC",
+      "role": ["BPA_ELECTRICALENGINEERTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    },
+    {
+      "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
+      "tradeType": "CIVILENGINEERTP.CLASSA",
+      "role": ["BPA_CIVILENGINEERTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_OTHERS",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+              "required": false
+          }
+      ]
+    },
+    {
+      "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
+      "tradeType": "CIVILENGINEERTP.CLASSB",
+      "role": ["BPA_CIVILENGINEERTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    },
+    {
+      "id": "7f26d283-cc52-4684-9bbc-f87ade6f2228",
+      "tradeType": "CIVILENGINEERTP.CLASSC",
+      "role": ["BPA_CIVILENGINEERTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    },
+    {
+      "id": "91d278e9-0bcd-4436-978e-793af58e325f",
+      "tradeType": "STRUCTURALENGINEERTP.CLASSA",
+      "role": ["BPA_STRUCTURALENGINEERTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_OTHERS",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+              "required": false
+          }
+      ]
+    },
+    {
+      "id": "91d278e9-0bcd-4436-978e-793af58e325f",
+      "tradeType": "STRUCTURALENGINEERTP.CLASSB",
+      "role": ["BPA_STRUCTURALENGINEERTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    },
+    {
+      "id": "91d278e9-0bcd-4436-978e-793af58e325f",
+      "tradeType": "STRUCTURALENGINEERTP.CLASSC",
+      "role": ["BPA_STRUCTURALENGINEERTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    },
+    {
+      "id": "57b66c2a-0033-4875-a3bd-856e5cf82427",
+      "tradeType": "TOWNPLANNERTP.CLASSA",
+      "role": ["BPA_TOWNPLANNERTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_OTHERS",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+              "required": false
+          }
+      ]
+    },
+    {
+      "id": "57b66c2a-0033-4875-a3bd-856e5cf82430",
+      "tradeType": "SUPERVISORTP.CLASSA",
+      "role": ["BPA_SUPERVISORTP"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": [
+          {
+              "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EDC_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_EXP_CERTIFICATE",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+              "required": true
+          },
+          {
+              "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_OTHERS",
+              "required": false
+          },
+          {
+              "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+              "required": false
+          }
+      ]
+    },
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "TECHNICALPERSON.CLASSA",
+      "role": ["BPA_TECHNICALPERSON"],
+        "endstate": "APPROVED",
+        "applicationFee": 500,
+        "docTypes": [
+            {
+                "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+                "required": true
+            },
+            {
+                "code": "APPL.BPAREG_EDC_CERTIFICATE",
+                "required": true
+            },
+            {
+                "code": "APPL.BPAREG_EXP_CERTIFICATE",
+              "required": false
+            },
+            {
+                "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+                "required": true
+            },
+            {
+                "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+                "required": false
+            },
+            {
+                "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+                "required": false
+            },
+            {
+                "code": "APPL.BPAREG_OTHERS",
+                "required": false
+            },
+            {
+                "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+                 "required": true
+            }
+        ]
+    },
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "TECHNICALPERSON.CLASSB",
+      "role": ["BPA_TECHNICALPERSON"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+    },
+    {
+      "id": "313bbadb-c0d7-49b5-b021-77a608f13a31",
+      "tradeType": "TECHNICALPERSON.CLASSC",
+      "role": ["BPA_TECHNICALPERSON"],
+      "endstate": "APPROVED",
+      "applicationFee": 500,
+      "docTypes": null
+      },
+      {
+        "id": "ebe1023f-79dc-469c-9da8-109137bfde4f",
+        "tradeType": "MECHANICALENGINEERTP.CLASSA",
+        "role": ["BPA_MECHANICALENGINEERTP"],
+          "endstate": "APPROVED",
+          "applicationFee": 500,
+          "docTypes": [
+              {
+                  "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+                  "required": true
+              },
+              {
+                  "code": "APPL.BPAREG_EDC_CERTIFICATE",
+                  "required": true
+              },
+              {
+                  "code": "APPL.BPAREG_EXP_CERTIFICATE",
+                "required": false
+              },
+              {
+                  "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+                  "required": true
+              },
+              {
+                  "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+                  "required": false
+              },
+              {
+                  "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+                  "required": false
+              },
+              {
+                  "code": "APPL.BPAREG_OTHERS",
+                  "required": false
+              },
+              {
+                  "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+                   "required": true
+              }
+          ]
+      },
+      {
+        "id": "ebe1023f-79dc-469c-9da8-109137bfde4f",
+        "tradeType": "MECHANICALENGINEERTP.CLASSB",
+        "role": ["BPA_MECHANICALENGINEERTP"],
+        "endstate": "APPROVED",
+        "applicationFee": 500,
+        "docTypes": null
+      },
+      {
+        "id": "ebe1023f-79dc-469c-9da8-109137bfde4f",
+        "tradeType": "MECHANICALENGINEERTP.CLASSC",
+        "role": ["BPA_MECHANICALENGINEERTP"],
+        "endstate": "APPROVED",
+        "applicationFee": 500,
+        "docTypes": null
+        }  
+  ]
+}

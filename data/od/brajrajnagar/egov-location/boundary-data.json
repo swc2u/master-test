@@ -1,0 +1,222 @@
+{
+  "tenantId": "od.brajrajnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Brajarajnagar",
+        "localname": "Brajarajnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.brajrajnagar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "BRAJRAJNAGAR TOWN UNIT NO.01",
+            "localname": "BRAJRAJNAGAR TOWN UNIT NO.01",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "BRAJRAJNAGAR TOWN UNIT NO.02",
+            "localname": "BRAJRAJNAGAR TOWN UNIT NO.02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "BRAJRAJNAGAR TOWN UNIT NO.03",
+            "localname": "BRAJRAJNAGAR TOWN UNIT NO.03",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+		  {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Gourmal",
+            "localname": "Gourmal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRJ1",
+            "children": []
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Malda",
+            "localname": "Malda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRJ2",
+            "children": []
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Patrapali",
+            "localname": "Patrapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRJ3",
+            "children": []
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Loisingh",
+            "localname": "Loisingh",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRJ4",
+            "children": []
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Kudopali",
+            "localname": "Kudopali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRJ5",
+            "children": []
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Chandinimal",
+            "localname": "Chandinimal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRJ6",
+            "children": []
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Kudaloi",
+            "localname": "Kudaloi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRJ7",
+            "children": []
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Banjari",
+            "localname": "Banjari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRJ8",
+            "children": []
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Piplimal",
+            "localname": "Piplimal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRJ9",
+            "children": []
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BRJ10",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Brajarajnagar",
+        "localname": "Brajarajnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.brajrajnagar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "BRAJRAJNAGAR TOWN UNIT NO.01",
+            "localname": "BRAJRAJNAGAR TOWN UNIT NO.01",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "BRAJRAJNAGAR TOWN UNIT NO.02",
+            "localname": "BRAJRAJNAGAR TOWN UNIT NO.02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "BRAJRAJNAGAR TOWN UNIT NO.03",
+            "localname": "BRAJRAJNAGAR TOWN UNIT NO.03",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          }
+        ]
+      }
+    }    
+  ]
+}

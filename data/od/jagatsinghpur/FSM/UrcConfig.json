@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.jagatsinghpur",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.banki",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "tenantId": "od.khallikote",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Chikili Baurisahi",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Nirmalajhara",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Bahutisahi",
+            "ward": "02",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Kholosahi",
+            "ward": "02",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Shyamsundarpur",
+            "ward": "08",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Totagaon",
+            "ward": "11",
+            "code": "SLM6",
+            "isActive": true
+        }
+    ]
+}

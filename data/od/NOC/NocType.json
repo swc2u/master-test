@@ -1,0 +1,153 @@
+{
+    "tenantId": "od",
+    "moduleName": "NOC",
+    "NocType": [
+        {
+            "code": "HBDA_NOC",
+            "isActive": false,
+            "offlineWF": "HBDA_NOC_OFFLINE",
+            "onlineWF": "HBDA_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "HBDA_NOC_APPROVER"
+        },
+        {
+            "code": "DFO_NOC",
+            "isActive": false,
+            "offlineWF": "DFO_NOC_OFFLINE",
+            "onlineWF": "DFO_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "DFO_NOC_APPROVER"
+        },
+        {
+            "code":"AIRPORT_AUTHORITY",
+            "isActive": false,
+            "offlineWF":"AIRPORT_NOC_OFFLINE",
+            "onlineWF":"AIRPORT_NOC_SRV",
+            "mode":"offline",
+            "NocUserRole":"AIRPORT_AUTHORITY_APPROVER"
+        },
+        {
+            "code": "NMA_NOC",
+            "isActive": true,
+            "offlineWF": "NMA_NOC_OFFLINE",
+            "onlineWF": "NMA_NOC_SRV",
+            "thirdPartyWF": "NMA_NOC_THIRD_PARTY",
+            "mode": "thirdParty",
+            "NocUserRole": "NMA_NOC_APPROVER"
+        },
+        {
+            "code": "EC_NOC",
+            "isActive": false,
+            "offlineWF": "EC_NOC_OFFLINE",
+            "onlineWF": "EC_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "EC_NOC_APPROVER"
+        },
+        {
+            "code": "FIRE_NOC",
+            "isActive": true,
+            "offlineWF":"FIRE_NOC_OFFLINE",
+            "onlineWF":"FIRE_NOC_SRV",
+            "thirdPartyWF": "FIRE_NOC_THIRD_PARTY",
+            "mode":"thirdParty",
+            "NocUserRole":"FIRE_NOC_APPROVER"
+        },
+        {
+            "code": "AAI_NOC",
+            "isActive": true,
+            "offlineWF":"AAI_NOC_OFFLINE",
+            "onlineWF":"AAI_NOC_SRV",
+            "thirdPartyWF": "AAI_NOC_THIRD_PARTY",
+            "mode":"thirdParty",
+            "NocUserRole":"AAI_NOC_APPROVER"
+        },
+        {
+            "code": "HUDULB_NOC",
+            "isActive": false,
+            "offlineWF": "HUDULB_NOC_OFFLINE",
+            "onlineWF": "HUDULB_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "HUDULB_NOC_APPROVER"            
+        },
+        {
+            "code": "PHEO_NOC",
+            "isActive": false,
+            "offlineWF": "PHEO_NOC_OFFLINE",
+            "onlineWF": "PHEO_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "PHEO_NOC_APPROVER"
+        },
+        {
+            "code": "CGWA_NOC",
+            "isActive": false,
+            "offlineWF": "CGWA_NOC_OFFLINE",
+            "onlineWF": "CGWA_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "CGWA_NOC_APPROVER"
+        },
+        {
+            "code": "EDC_NOC",
+            "isActive": false,
+            "offlineWF": "EDC_NOC_OFFLINE",
+            "onlineWF": "EDC_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "EDC_NOC_APPROVER"
+        },
+        {
+            "code": "HDPOLICE_NOC",
+            "isActive": false,
+            "offlineWF": "HDPOLICE_NOC_OFFLINE",
+            "onlineWF": "HDPOLICE_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "HDPOLICE_NOC_APPROVER"
+        },
+        {
+            "code": "WRD_NOC",
+            "isActive": false,
+            "offlineWF": "WRD_NOC_OFFLINE",
+            "onlineWF": "WRD_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "WRD_NOC_APPROVER"
+        },
+        {
+            "code": "PCB_NOC",
+            "isActive": false,
+            "offlineWF": "PCB_NOC_OFFLINE",
+            "onlineWF": "PCB_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "PCB_NOC_APPROVER"
+        },
+        {
+            "code": "RDMTEHSILDAR_NOC",
+            "isActive": false,
+            "offlineWF": "RDMTEHSILDAR_NOC_OFFLINE",
+            "onlineWF": "RDMTEHSILDAR_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "RDMTEHSILDAR_NOC_APPROVER"
+        },
+        {
+            "code": "NHAI_NOC",
+            "isActive": false,
+            "offlineWF": "NHAI_NOC_OFFLINE",
+            "onlineWF": "NHAI_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "NHAI_NOC_APPROVER"
+        },
+        {
+            "code": "COASTALREG_NOC",
+            "isActive": false,
+            "offlineWF": "COASTALREG_NOC_OFFLINE",
+            "onlineWF": "COASTALREG_NOC_SRV",
+            "mode": "offline",
+            "NocUserRole": "COASTALREG_NOC_APPROVER"
+        },
+        {
+            "code":"SA_NOC",
+            "isActive":false,
+            "offlineWF":"SA_NOC_OFFLINE",
+            "onlineWF":"SA_NOC_SRV",
+            "mode":"offline",
+            "NocUserRole":"SA_NOC_APPROVER"
+         }
+    ]
+  }

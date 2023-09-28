@@ -1,0 +1,55 @@
+{
+    "tenantId": "od.hindol",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Harihata",
+            "ward": "02",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Rajmohan Pur",
+            "ward": "12",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Mahulia Sahi",
+            "ward": "14",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Charana Pur",
+            "ward": "14",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Madhubana ",
+            "ward": "08",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Alusingh/ Kuliatota",
+            "ward": "15",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Sardhapur",
+            "ward": "06",
+            "code": "SLM7",
+            "isActive": true
+        }
+    ]
+}

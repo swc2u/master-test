@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.pipli",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

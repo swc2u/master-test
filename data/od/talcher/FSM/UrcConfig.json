@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.talcher",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

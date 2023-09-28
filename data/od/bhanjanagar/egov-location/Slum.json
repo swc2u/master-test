@@ -1,0 +1,83 @@
+{
+    "tenantId": "od.bhanjanagar",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Khadal Sahi",
+            "ward": "10",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Harijan Sahi",
+            "ward": "12",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Sriram Nagar",
+            "ward": "14",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Badatota Sahi",
+            "ward": "09",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Sankha Sahi",
+            "ward": "15",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Harijan Sahi",
+            "ward": "05",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Nahatota Sahi",
+            "ward": "05",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Brundaban Colony",
+            "ward": "15",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Dandasi Sahi",
+            "ward": "12",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Manaicha Sahi",
+            "ward": "09",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Park Road",
+            "ward": "14",
+            "code": "SLM11",
+            "isActive": true
+        }
+    ]
+}

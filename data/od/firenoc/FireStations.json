@@ -1,0 +1,31 @@
+{
+  "tenantId": "od",
+  "moduleName": "firenoc",
+  "FireStations": [
+    {
+      "code": "FS_CUTTACK_01",
+      "baseTenantId": "od.cuttack",
+      "active": true
+    },
+    {
+      "code": "FS_BANKI_01",
+      "baseTenantId": "od.banki",
+      "active": true
+    },
+    {
+      "code": "FS_JATNI_01",
+      "baseTenantId": "od.jatni",
+      "active": true
+    },
+    {
+      "code": "FS_CITYD_01",
+      "baseTenantId": "od.cityd",
+      "active": true
+    },
+    {
+      "code": "FS_CITYE_01",
+      "baseTenantId": "od.citye",
+      "active": true
+    }
+  ]
+}

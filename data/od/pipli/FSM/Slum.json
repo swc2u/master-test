@@ -1,0 +1,30 @@
+{
+    "tenantId": "od.pipli",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Jayapurkilla Slum , Ward No-9",
+            "active": true,
+            "code": "PIPL001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Narasinghpur Slum , Ward No-7",
+            "active": true,
+            "code": "PIPL002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Block Colony Back Side Slum Ward No-12",
+            "active": true,
+            "code": "PIPL003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Siripur Slum , Ward No-13",
+            "active": true,
+            "code": "PIPL004",
+            "locality": "VIL1"
+        }
+    ]
+}

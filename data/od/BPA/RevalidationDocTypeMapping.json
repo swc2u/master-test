@@ -1,0 +1,58 @@
+{
+  "tenantId": "od",
+  "moduleName": "BPA",
+  "RevalidationDocTypeMapping": [
+    {
+      "applicationType": "REVALIDATION",
+      "ServiceType": "SUJOG",
+      "RiskType": "LOW",
+      "WFState": "INITIATED",
+      "docTypes": [
+        {
+          "code": "RVL.SITE_PHOTOGRAPH",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "RVL.OTHER_DOCUMENTS",
+          "required": false,
+          "allow": true,
+          "order": 2
+        }
+      ]
+    },
+    {
+      "applicationType": "REVALIDATION",
+      "ServiceType": "NON_SUJOG",
+      "RiskType": "LOW",
+      "WFState": "INITIATED",
+      "docTypes": [
+        {
+          "code": "RVL.SITE_PHOTOGRAPH",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "RVL.OTHER_DOCUMENTS",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "RVL.APPROVAL_LETTER",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "RVL.BUILDING_PERMIT_LAYOUTDRAWING",
+          "required": true,
+          "allow": true,
+          "order": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "tenantId": "od.kesinga",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kesinga",
+        "localname": "Kesinga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.kesinga",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bagad",
+            "localname": "Bagad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Kesinga Village",
+            "localname": "Kesinga Village",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kesinga Nazul",
+            "localname": "Kesinga Nazul",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Boringpadar",
+            "localname": "Boringpadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+		  {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "KANDEL",
+            "localname": "KANDEL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG1",
+            "children": [
+            ]
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "KANTESIR",
+            "localname": "KANTESIR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG2",
+            "children": [
+            ]
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "LAITARA",
+            "localname": "LAITARA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG3",
+            "children": [
+            ]
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "PARALSINGA",
+            "localname": "PARALSINGA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG4",
+            "children": [
+            ]
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "BORIA",
+            "localname": "BORIA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG5",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "KASURPADA",
+            "localname": "KASURPADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG6",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "BALSI",
+            "localname": "BALSI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG7",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "CHANCER",
+            "localname": "CHANCER",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG8",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "KIKIA",
+            "localname": "KIKIA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG9",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "NUNMATH",
+            "localname": "NUNMATH",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG10",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "PASTIKUDI",
+            "localname": "PASTIKUDI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG11",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "UTKELA",
+            "localname": "UTKELA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG12",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "SIROL",
+            "localname": "SIROL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG13",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "PATHARLA",
+            "localname": "PATHARLA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG14",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSG15",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kesinga",
+        "localname": "Kesinga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.kesinga",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bagad",
+            "localname": "Bagad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Kesinga Village",
+            "localname": "Kesinga Village",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kesinga Nazul",
+            "localname": "Kesinga Nazul",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Boringpadar",
+            "localname": "Boringpadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "tenantId": "od.khordha",
+    "moduleName": "MarriageRegistration",
+    "SlaDefs": [
+    {
+      "active": true,
+      "slaHours": 48,
+      "serviceCode": "schedule"
+    },
+    {
+      "active": true,
+      "slaHours": 72,
+      "serviceCode": "approve"
+     }
+    ]
+  }

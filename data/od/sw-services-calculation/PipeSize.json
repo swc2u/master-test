@@ -1,0 +1,31 @@
+{
+    "tenantId": "od",
+    "moduleName": "sw-services-calculation",
+    "PipeSize": [
+        {
+            "id": "1",
+            "size": 100,
+            "isActive": true
+        },
+        {
+            "id": "2",
+            "size": 150,
+            "isActive": true
+        },
+        {
+            "id": "3",
+            "size": 200,
+            "isActive": true
+        },
+        {
+            "id": "4",
+            "size": 250,
+            "isActive": true
+        },
+        {
+            "id": "5",
+            "size": 300,
+            "isActive": true
+        }
+    ]
+}

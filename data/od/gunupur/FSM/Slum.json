@@ -1,0 +1,119 @@
+{
+    "tenantId": "od.gunupur",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Amedkar Nagar",
+        "active": true,
+        "code": "GNSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "BackSide NewVenketeswar Temple",
+        "active": true,
+        "code": "GNSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Housing Board",
+        "active": true,
+        "code": "GNSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jagannath Guda",
+        "active": true,
+        "code": "GNSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "JLT Road Area",
+        "active": true,
+        "code": "GNSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kalinga Nagar",
+        "active": true,
+        "code": "GNSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Karnaguda",
+        "active": true,
+        "code": "GNSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Katwaluguda",
+        "active": true,
+        "code": "GNSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Korabanko Colony",
+        "active": true,
+        "code": "GNSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Leprocy Colony",
+        "active": true,
+        "code": "GNSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mahima Nagar",
+        "active": true,
+        "code": "GNSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Meta Karnaguda",
+        "active": true,
+        "code": "GNSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Motilal Nagar",
+        "active": true,
+        "code": "GNSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Near Block Office (Marathiguda)",
+        "active": true,
+        "code": "GNSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Near Phd Office (Marathiguda)",
+        "active": true,
+        "code": "GNSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Paniakota Street",
+        "active": true,
+        "code": "GNSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sabar Bihar",
+        "active": true,
+        "code": "GNSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sana Arsinguda",
+        "active": true,
+        "code": "GNSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Upper Soura Pradhaniguda",
+        "active": true,
+        "code": "GNSL019",
+        "locality": "VIL1"
+    }]
+}

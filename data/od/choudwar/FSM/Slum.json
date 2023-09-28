@@ -1,0 +1,95 @@
+{
+    "tenantId": "od.choudwar",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Sweeper Colony (Ward No. 17)",
+        "active": true,
+        "code": "CHSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gundicha Vihar (Ward No. 10)",
+        "active": true,
+        "code": "CHSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jagannathpada (Ward No. 10)",
+        "active": true,
+        "code": "CHSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Church Lane (Ward No. 10)",
+        "active": true,
+        "code": "CHSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Labour Tenament Basti (Ward No. 10)",
+        "active": true,
+        "code": "CHSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gouda Sahi (Ward No. 18)",
+        "active": true,
+        "code": "CHSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Munda Sahi (Ward No. 18)",
+        "active": true,
+        "code": "CHSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Chudanga Sahi (Ward No. 18)",
+        "active": true,
+        "code": "CHSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tarini Sahi (Ward No. 18)",
+        "active": true,
+        "code": "CHSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sweeper Colony (Ward No. 13)",
+        "active": true,
+        "code": "CHSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Charigharia Munda Basti (Ward No. 16)",
+        "active": true,
+        "code": "CHSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Telugu Basti (Ward No. 16)",
+        "active": true,
+        "code": "CHSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Budhalinga (Ward No. 12)",
+        "active": true,
+        "code": "CHSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mundamal Matha Sahi (Ward No. 7)",
+        "active": true,
+        "code": "CHSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kedareswar (Ward No. 19)",
+        "active": true,
+        "code": "CHSL015",
+        "locality": "VIL1"
+    }]
+}

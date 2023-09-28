@@ -1,0 +1,106 @@
+{
+	"tenantId": "od",
+	"moduleName": "BPA",
+	"AdditionAlterationServicesDocTypeMapping": [{
+
+			"applicationType": "BUILDING_PLAN_SCRUTINY",
+			"ServiceType": "_BPA_ALTERATION_SERVICE_A",
+			"RiskType": "LOW",
+			"WFState": "INITIATED",
+			"docTypes": [
+
+				{
+					"code": "AAS.APPROVED_PLAN_FOR_EXISTING_CONSTRUCTION",
+					"required": false,
+					"allow": true,
+					"order": 1
+				},
+				{
+					"code": "AAS.APPROVAL_LETTER_FOR_EXISTING_CONSTRUCTION",
+					"required": false,
+					"allow": true,
+					"order": 2
+				}
+
+
+			]
+
+
+		},
+
+		{
+			"applicationType": "BUILDING_PLAN_SCRUTINY",
+			"ServiceType": "BPA_ALTERATION_SERVICE_B",
+			"RiskType": "LOW",
+			"WFState": "INITIATED",
+			"docTypes": [
+
+				{
+					"code": "AAS.APPROVED_PLAN_FOR_EXISTING_CONSTRUCTION",
+					"required": false,
+					"allow": true,
+					"order": 1
+				},
+				{
+					"code": "AAS.APPROVAL_LETTER_FOR_EXISTING_CONSTRUCTION",
+					"required": false,
+					"allow": true,
+					"order": 2
+				}
+
+
+			]
+
+		},
+
+		{
+			"applicationType": "BUILDING_PLAN_SCRUTINY",
+			"ServiceType": "BPA_ALTERATION_SERVICE_C",
+			"RiskType": "LOW",
+			"WFState": "INITIATED",
+			"docTypes": [
+
+				{
+					"code": "AAS.APPROVED_PLAN_FOR_EXISTING_CONSTRUCTION",
+					"required": false,
+					"allow": true,
+					"order": 1
+				},
+				{
+					"code": "AAS.APPROVAL_LETTER_FOR_EXISTING_CONSTRUCTION",
+					"required": false,
+					"allow": true,
+					"order": 2
+				}
+
+
+			]
+
+		},
+
+		{
+			"applicationType": "BUILDING_PLAN_SCRUTINY",
+			"ServiceType": "BPA_ALTERATION_SERVICE_D",
+			"RiskType": "LOW",
+			"WFState": "INITIATED",
+			"docTypes": [
+
+				{
+					"code": "AAS.APPROVED_PLAN_FOR_EXISTING_CONSTRUCTION",
+					"required": false,
+					"allow": true,
+					"order": 1
+				},
+				{
+					"code": "AAS.APPROVAL_LETTER_FOR_EXISTING_CONSTRUCTION",
+					"required": false,
+					"allow": true,
+					"order": 2
+				}
+
+
+			]
+
+		}
+	]
+}

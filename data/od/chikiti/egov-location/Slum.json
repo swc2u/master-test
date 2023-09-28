@@ -1,0 +1,41 @@
+{
+    "tenantId": "od.chikiti",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Naik Sahi",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "High School Sahi",
+            "ward": "06",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Nua Sahi",
+            "ward": "06",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Pathan Sahi",
+            "ward": "10",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Karabalua",
+            "ward": "12",
+            "code": "SLM5",
+            "isActive": true
+        }
+    ]
+}

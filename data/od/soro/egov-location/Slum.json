@@ -1,0 +1,41 @@
+{
+    "tenantId": "od.soro",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Mulapadi",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Matiapala",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Kalipadia",
+            "ward": "03",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Kantapadi",
+            "ward": "04",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Pandapokhari",
+            "ward": "07",
+            "code": "SLM5",
+            "isActive": true
+        }
+    ]
+}

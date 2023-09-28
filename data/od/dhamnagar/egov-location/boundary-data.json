@@ -1,0 +1,624 @@
+{
+  "tenantId": "od.dhamnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dhamnagar",
+        "localname": "Dhamnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.dhamnagar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Jayanagar",
+            "localname": "Jayanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Kankara",
+            "localname": "Kankara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Talapada",
+            "localname": "Talapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Munisipatana",
+            "localname": "Munisipatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Shyampur",
+            "localname": "Shyampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Dhamnagar",
+            "localname": "Dhamnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Dakhinabad",
+            "localname": "Dakhinabad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+		  {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "BAYANGADIHI",
+            "localname": "BAYANGADIHI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN1",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "BHATTTASAHI",
+            "localname": "BHATTTASAHI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN2",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "DOBAL",
+            "localname": "DOBAL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN3",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "GADIALI",
+            "localname": "GADIALI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN4",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "GOVINDPUR",
+            "localname": "GOVINDPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN5",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "KALYANI",
+            "localname": "KALYANI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN6",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "KHADIPADA",
+            "localname": "KHADIPADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN7",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "KOTHAR",
+            "localname": "KOTHAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN8",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "MUSTAFAPUR",
+            "localname": "MUSTAFAPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN9",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "NADIGAON",
+            "localname": "NADIGAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN10",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "ARUJUNPUR",
+            "localname": "ARUJUNPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN11",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "CHUDAKUTI",
+            "localname": "CHUDAKUTI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN12",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "BHAGABANPUR",
+            "localname": "BHAGABANPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN13",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "DAIPUR",
+            "localname": "DAIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN14",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "DALANGA",
+            "localname": "DALANGA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN15",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "RADHABALLAVAPUR",
+            "localname": "RADHABALLAVAPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN16",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "ASURALI",
+            "localname": "ASURALI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN17",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "BAMKURA",
+            "localname": "BAMKURA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN18",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "DHUSURI",
+            "localname": "DHUSURI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN19",
+            "children": [
+            ]
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "KARADA",
+            "localname": "KARADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN20",
+            "children": [
+            ]
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "SAHASPUR",
+            "localname": "SAHASPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN21",
+            "children": [
+            ]
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "SOHADA",
+            "localname": "SOHADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN22",
+            "children": [
+            ]
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "PADHANI",
+            "localname": "PADHANI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN23",
+            "children": [
+            ]
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "RAIPUR",
+            "localname": "RAIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN24",
+            "children": [
+            ]
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "ANANDPUR",
+            "localname": "ANANDPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN25",
+            "children": [
+            ]
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "FATEPUR",
+            "localname": "FATEPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN26",
+            "children": [
+            ]
+          },
+          {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "HASANABAD",
+            "localname": "HASANABAD",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN27",
+            "children": [
+            ]
+          },
+          {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "KASIMPUR",
+            "localname": "KASIMPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN28",
+            "children": [
+            ]
+          },
+          {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "PALASAHI",
+            "localname": "PALASAHI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN29",
+            "children": [
+            ]
+          },
+          {
+            "id": "40",
+            "boundaryNum": 1,
+            "name": "KHAPARAPADA",
+            "localname": "KHAPARAPADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN30",
+            "children": [
+            ]
+          },
+          {
+            "id": "41",
+            "boundaryNum": 1,
+            "name": "KATISAHI",
+            "localname": "KATISAHI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN31",
+            "children": [
+            ]
+          },
+          {
+            "id": "42",
+            "boundaryNum": 1,
+            "name": "ARADI",
+            "localname": "ARADI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN32",
+            "children": [
+            ]
+          },
+          {
+            "id": "43",
+            "boundaryNum": 1,
+            "name": "NANDAPUR",
+            "localname": "NANDAPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN33",
+            "children": [
+            ]
+          },
+          {
+            "id": "44",
+            "boundaryNum": 1,
+            "name": "OLAGA",
+            "localname": "OLAGA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN34",
+            "children": [
+            ]
+          },
+          {
+            "id": "45",
+            "boundaryNum": 1,
+            "name": "SUNDARPUR",
+            "localname": "SUNDARPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN35",
+            "children": [
+            ]
+          },
+          {
+            "id": "46",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "DMN36",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Dhamnagar",
+        "localname": "Dhamnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.dhamnagar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Jayanagar",
+            "localname": "Jayanagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Kankara",
+            "localname": "Kankara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Talapada",
+            "localname": "Talapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Munisipatana",
+            "localname": "Munisipatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Shyampur",
+            "localname": "Shyampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Dhamnagar",
+            "localname": "Dhamnagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Dakhinabad",
+            "localname": "Dakhinabad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          }
+        ]
+      }
+    }
+  ]
+}

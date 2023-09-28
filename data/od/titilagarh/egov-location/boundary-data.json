@@ -1,0 +1,512 @@
+{
+  "tenantId": "od.titilagarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Titilagarh",
+        "localname": "Titilagarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.titilagarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "TITILAGARH (KA)",
+            "localname": "TITILAGARH (KA)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "TITILAGARH (KHA)",
+            "localname": "TITILAGARH (KHA)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+		  {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "BALDHA",
+            "localname": "BALDHA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH1",
+            "children": [
+            ]
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "BHALUMUNDA",
+            "localname": "BHALUMUNDA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH2",
+            "children": [
+            ]
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "BANKEL",
+            "localname": "BANKEL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH3",
+            "children": [
+            ]
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "BITABANDH",
+            "localname": "BITABANDH",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH4",
+            "children": [
+            ]
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "MALISIRA",
+            "localname": "MALISIRA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH5",
+            "children": [
+            ]
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "PATRAPALI KHA",
+            "localname": "PATRAPALI KHA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH6",
+            "children": [
+            ]
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "SIROL",
+            "localname": "SIROL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH7",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "TENTULIKHUNTI",
+            "localname": "TENTULIKHUNTI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH8",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "HALDI",
+            "localname": "HALDI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH9",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "TUPAUDAR",
+            "localname": "TUPAUDAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH10",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "LEBEDA",
+            "localname": "LEBEDA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH11",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "BANDUPALA",
+            "localname": "BANDUPALA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH12",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "BHALEGAON",
+            "localname": "BHALEGAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH13",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "GHODAR",
+            "localname": "GHODAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH14",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "JAGUA",
+            "localname": "JAGUA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH15",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "KATARKELA",
+            "localname": "KATARKELA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH16",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "MAHULPADA",
+            "localname": "MAHULPADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH17",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "MANIGAON",
+            "localname": "MANIGAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH18",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "SAGADGHAT",
+            "localname": "SAGADGHAT",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH19",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "SIHINI",
+            "localname": "SIHINI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH20",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "BANJIPADAR",
+            "localname": "BANJIPADAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH21",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "GHANTABAHALI",
+            "localname": "GHANTABAHALI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH22",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "KHOLAN",
+            "localname": "KHOLAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH23",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "MARLAD",
+            "localname": "MARLAD",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH24",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "MARLAD",
+            "localname": "MARLAD",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH25",
+            "children": [
+            ]
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "PARASARA",
+            "localname": "PARASARA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH26",
+            "children": [
+            ]
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "SILUAN",
+            "localname": "SILUAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH27",
+            "children": [
+            ]
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "ADABAHAL",
+            "localname": "ADABAHAL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH28",
+            "children": [
+            ]
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "BIJEPUR",
+            "localname": "BIJEPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH29",
+            "children": [
+            ]
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "BINEKELA",
+            "localname": "BINEKELA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH30",
+            "children": [
+            ]
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "LUTHURBANDH",
+            "localname": "LUTHURBANDH",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH31",
+            "children": [
+            ]
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "BELGAON",
+            "localname": "BELGAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH32",
+            "children": [
+            ]
+          },
+          {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "DHARAPGARH",
+            "localname": "DHARAPGARH",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH33",
+            "children": [
+            ]
+          },
+          {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "GANDPATRAPALI",
+            "localname": "GANDPATRAPALI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH34",
+            "children": [
+            ]
+          },
+          {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "TGH35",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Titilagarh",
+        "localname": "Titilagarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.titilagarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "TITILAGARH (KA)",
+            "localname": "TITILAGARH (KA)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "TITILAGARH (KHA)",
+            "localname": "TITILAGARH (KHA)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          }
+        ]
+      }
+    }
+  ]
+}

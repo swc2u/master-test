@@ -1,0 +1,31 @@
+{
+  "tenantId": "od",
+  "moduleName": "PropertyTax",
+  "ConstructionType":
+  [
+    {
+      "id": "1",
+      "name": "Pucca",
+      "code": "PUCCA",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Semi-Pucca",
+      "code": "SEMIPUCCA",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Kuccha",
+      "code": "KUCCHA",
+      "active": true
+    },
+    {
+      "id": "4",
+      "name": "Thathed",
+      "code": "THATHED",
+      "active": true
+    }
+  ]
+}

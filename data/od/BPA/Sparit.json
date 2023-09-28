@@ -1,0 +1,506 @@
+{
+    "tenantId": "od",
+    "moduleName": "BPA",
+    "Category": [
+        {
+            "ulb": "od.bijepur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.odagaon",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.dhamnagar",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.nilgiri",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.belpahar",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.chandbali",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.pipli",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.hindol",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.tusura",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.dharamgarh",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.gudari",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.nuapada",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.balimela",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.konark",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.brajrajnagar",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.gopalpur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.tarbha",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.kesinga",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.malkangiri",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.khandapada",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.umerkote",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.khallikote",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.balliguda",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.udala",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.basudevpur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.daspalla",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.champua",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.padampur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.chikiti",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.kamakhyanagar",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.karanjia",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.athmallik",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.banki",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.kotpad",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.junagarh",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.soro",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.rambha",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.birmitrapur",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.ganjam",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.gudayagiri",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.kashinagar",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.khariarroad",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.binka",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.kantabanji",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.khariar",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.nabarangpur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.joda",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.kodala",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.nayagarh",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.kuchinda",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.bellaguntha",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.banpur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.buguda",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.redhakhol",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.patnagarh",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.attabira",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.athagarh",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.gunupur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.ranpur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.purushottampur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.balugaon",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.barbil",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.digapahandi",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.jagatsinghpur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.nimapara",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.surada",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.rairangpur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.bhuban",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.kabisuryanagar",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.polasara",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.jaleswar",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.boudhgarh",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.sunabeda",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.paradeep",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.aska",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.barpali",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.bhanjanagar",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.angul",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.jajpur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.chatrapur",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.sonepur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.jharsuguda",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.deogarh",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.talcher",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.anandapur",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.titilagarh",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.koraput",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.choudwar",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.hinjilicut",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.pattamundai",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.jatni",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.kendrapara",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.phulbani",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.jeypore",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.rajgangpur",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.dhenkanal",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.bargarh",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.bhadrak",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.sundargarh",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.vyasanagar",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.khordha",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.keonjhargarh",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.paralakhemundi",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.balangir",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.bhawanipatna",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.rayagada",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.balasore",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.baripada",
+            "sparit": "true"
+        },
+        {
+            "ulb": "od.puri",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.berhampur",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.rourkela",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.cuttack",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.sambalpur",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.bhubaneswar",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.cuttackdevelopmentauthority",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.bhubaneswardevelopmentauthority",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.kalinganagardevelopmentauthority",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.paradipdevelopmentauthority",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.purikonarkdevelopmentauthority",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.sambalpurdevelopmentauthority",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.rourkeladevelopmentauthority",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.talcherangulmeramandalidevelopmentauthority",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.berhampurdevelopmentauthority",
+            "sparit": "false"
+        },
+		{
+            "ulb": "od.testing",
+            "sparit": "false"
+        },
+        {
+            "ulb": "od.remuna",
+            "sparit": "true"
+        }
+    ]
+}

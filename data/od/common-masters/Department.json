@@ -1,0 +1,226 @@
+{
+  "tenantId": "od",
+  "moduleName": "common-masters",
+  "Department": [
+    {
+      "name": "Street Lights",
+      "code": "DEPT_1",
+      "active": true
+    },
+    {
+      "name": "Building & Roads",
+      "code": "DEPT_2",
+      "active": true
+    },
+    {
+      "name": "Health & Sanitation",
+      "code": "DEPT_3",
+      "active": true
+    },
+    {
+      "name": "Operation & Maintenance",
+      "code": "DEPT_4",
+      "active": true
+    },
+    {
+      "name": "Horticulture",
+      "code": "DEPT_5",
+      "active": true
+    },
+    {
+      "name": "Building Branch",
+      "code": "DEPT_6",
+      "active": true
+    },
+    {
+      "name": "Citizen service desk",
+      "code": "DEPT_7",
+      "active": true
+    },
+    {
+      "name": "Complaint Cell",
+      "code": "DEPT_8",
+      "active": true
+    },
+    {
+      "name": "Executive Branch",
+      "code": "DEPT_9",
+      "active": true
+    },
+    {
+      "name": "Others",
+      "code": "DEPT_10",
+      "active": true
+    },
+    {
+      "name": "Tax Branch",
+      "code": "DEPT_13",
+      "active": true
+    },
+    {
+      "name": "Accounts Branch",
+      "code": "DEPT_25",
+      "active": true
+    },
+    {
+      "name": "Works Branch",
+      "code": "DEPT_35",
+      "active": true
+    },
+    {
+      "name": "H&UDD",
+      "code": "DEPT_50",
+      "active": true
+    },
+    {
+      "name": "CMC (Planning)",
+      "code": "DEPT_51",
+      "active": true
+    },
+    {
+      "name": "Audit Branch",
+      "code": "DEPT_52",
+      "active": true
+    },
+    {
+      "name": "Engineering",
+      "code": "DEPT_53",
+      "active": true
+    },
+    {
+      "name": "Establishment",
+      "code": "DEPT_54",
+      "active": true
+    },
+    {
+      "name": "Disaster Management & Emergency",
+      "code": "DEPT_55",
+      "active": true
+    },
+    {
+      "name": "Revenue",
+      "code": "DEPT_56",
+      "active": true
+    },
+    {
+      "name": "Corporation/Council",
+      "code": "DEPT_57",
+      "active": true
+    },
+    {
+      "name": "Election/Census",
+      "code": "DEPT_58",
+      "active": true
+    },
+    {
+      "name": "Forest & Environment",
+      "code": "DEPT_59",
+      "active": true
+    },
+    {
+      "name": "PMU",
+      "code": "DEPT_60",
+      "active": true
+    },
+    {
+      "name": "Transport",
+      "code": "DEPT_61",
+      "active": true
+    },
+    {
+      "name": "Land",
+      "code": "DEPT_62",
+      "active": true
+    },
+    {
+      "name": "Municipal Planning",
+      "code": "DEPT_63",
+      "active": true
+    },
+    {
+      "name": "Social Welfare",
+      "code": "DEPT_64",
+      "active": true
+    },
+    {
+      "name": "Vending zone",
+      "code": "DEPT_65",
+      "active": true
+    },
+    {
+      "name": "Enforcement",
+      "code": "DEPT_66",
+      "active": true
+    },
+    {
+      "name": "Slum Development & Housing",
+      "code": "DEPT_67",
+      "active": true
+    },
+    {
+      "name": "Legal",
+      "code": "DEPT_68",
+      "active": true
+    },
+    {
+      "name": "ULB Asset",
+      "code": "DEPT_69",
+      "active": true
+    },
+    {
+      "name": "Stores",
+      "code": "DEPT_70",
+      "active": true
+    },
+    {
+      "name": "Health",
+      "code": "DEPT_71",
+      "active": true
+    },
+    {
+      "name": "Sanitation",
+      "code": "DEPT_72",
+      "active": true
+    },
+    {
+      "name": "Trade License",
+      "code": "DEPT_73",
+      "active": true
+    },
+    {
+      "name": "Electrical",
+      "code": "DEPT_74",
+      "active": true
+    },
+    {
+      "name": "Housing",
+      "code": "DEPT_75",
+      "active": true
+    },
+    {
+      "name": "Marriage",
+      "code": "DEPT_76",
+      "active": true
+    },
+    {
+      "name": "Grievance",
+      "code": "DEPT_77",
+      "active": true
+    },
+    {
+      "name": "Holding Tax",
+      "code": "DEPT_78",
+      "active": true
+    },
+    {
+      "name": "PHEO",
+      "code": "DEPT_79",
+      "active": true
+    },
+    {
+      "name": "WATCO",
+      "code": "DEPT_80",
+      "active": true
+    }    
+  ]
+}

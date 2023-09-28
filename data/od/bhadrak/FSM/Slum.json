@@ -1,0 +1,263 @@
+{
+    "tenantId": "od.bhadrak",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Jay Hanuman SDA",
+        "active": true,
+        "code": "BHSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bana Durga SDA",
+        "active": true,
+        "code": "BHSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "HanumanJEW",
+        "active": true,
+        "code": "BHSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "JAY Sairam",
+        "active": true,
+        "code": "BHSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "jay Sri Ram",
+        "active": true,
+        "code": "BHSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Basuli SDA",
+        "active": true,
+        "code": "BHSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Asrivad SDA",
+        "active": true,
+        "code": "BHSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Maa Durga SDA",
+        "active": true,
+        "code": "BHSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jay Mata DI SDA",
+        "active": true,
+        "code": "BHSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Maa Laxmi SDA",
+        "active": true,
+        "code": "BHSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bagurai SDA",
+        "active": true,
+        "code": "BHSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Maa tarini SDA",
+        "active": true,
+        "code": "BHSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bana Durga SDA",
+        "active": true,
+        "code": "BHSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jay Sri  Ram SDA",
+        "active": true,
+        "code": "BHSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hazari Baba SDA",
+        "active": true,
+        "code": "BHSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Apartibindha SDA",
+        "active": true,
+        "code": "BHSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Maa mangla SDA",
+        "active": true,
+        "code": "BHSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Y.S.M.M SDA",
+        "active": true,
+        "code": "BHSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "M.S.S SDA",
+        "active": true,
+        "code": "BHSL019",
+        "locality": "VIL1"
+    },
+    {
+        "name": "S.N  SDA",
+        "active": true,
+        "code": "BHSL020",
+        "locality": "VIL1"
+    },
+    {
+        "name": "M.B.S SDA",
+        "active": true,
+        "code": "BHSL021",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kaji sahi SDA",
+        "active": true,
+        "code": "BHSL022",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Shankar pur SDA",
+        "active": true,
+        "code": "BHSL023",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dakachoukya mahala SDA",
+        "active": true,
+        "code": "BHSL024",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Chadak Mohala SDA",
+        "active": true,
+        "code": "BHSL025",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mansoor Baba SDA",
+        "active": true,
+        "code": "BHSL026",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sadriya Baba SDA",
+        "active": true,
+        "code": "BHSL027",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuniamahala",
+        "active": true,
+        "code": "BHSL028",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pathan SDA",
+        "active": true,
+        "code": "BHSL029",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Natha SDA",
+        "active": true,
+        "code": "BHSL030",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mira SDA",
+        "active": true,
+        "code": "BHSL031",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhuya SDA",
+        "active": true,
+        "code": "BHSL032",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Babu sahi SDA",
+        "active": true,
+        "code": "BHSL033",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Banka Mohalla SDA",
+        "active": true,
+        "code": "BHSL034",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhat Mohala SDA",
+        "active": true,
+        "code": "BHSL035",
+        "locality": "VIL1"
+    },
+    {
+        "name": "KAZi Mohala SDA",
+        "active": true,
+        "code": "BHSL036",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Noor SDA",
+        "active": true,
+        "code": "BHSL037",
+        "locality": "VIL1"
+    },
+    {
+        "name": "HPSB SDA",
+        "active": true,
+        "code": "BHSL038",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Durga Pur SDA",
+        "active": true,
+        "code": "BHSL039",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gardapur SDA",
+        "active": true,
+        "code": "BHSL040",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Uttarbahini SDA",
+        "active": true,
+        "code": "BHSL041",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Das Sahi SDA",
+        "active": true,
+        "code": "BHSL042",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bali patna SDA",
+        "active": true,
+        "code": "BHSL043",
+        "locality": "VIL1"
+    }]
+}

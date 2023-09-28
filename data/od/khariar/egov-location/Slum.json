@@ -1,0 +1,41 @@
+{
+    "tenantId": "od.khariar",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Putupada",
+            "ward": "11",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Brahman Pada",
+            "ward": "12",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Niljibandha Pada",
+            "ward": "08",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Chhutigudipada",
+            "ward": "11",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Hattapada Pada",
+            "ward": "11",
+            "code": "SLM5",
+            "isActive": true
+        }
+    ]
+}

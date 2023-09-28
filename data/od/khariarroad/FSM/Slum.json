@@ -1,0 +1,59 @@
+{
+    "tenantId": "od.khariarroad",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "LD pada",
+        "active": true,
+        "code": "KHSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "High school pada",
+        "active": true,
+        "code": "KHSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Adivasi pada",
+        "active": true,
+        "code": "KHSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Banka",
+        "active": true,
+        "code": "KHSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kurumunda",
+        "active": true,
+        "code": "KHSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sankar mandir pada",
+        "active": true,
+        "code": "KHSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "PHD pada",
+        "active": true,
+        "code": "KHSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mongarapali",
+        "active": true,
+        "code": "KHSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khopetara",
+        "active": true,
+        "code": "KHSL009",
+        "locality": "VIL1"
+    }]
+}

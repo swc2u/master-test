@@ -1,0 +1,23 @@
+{
+    "tenantId": "od.jagatsinghpur",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Markandapur",
+        "active": true,
+        "code": "JGSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Galupada",
+        "active": true,
+        "code": "JGSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Purohitpur",
+        "active": true,
+        "code": "JGSL003",
+        "locality": "VIL1"
+    }]
+}

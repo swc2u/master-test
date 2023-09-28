@@ -1,0 +1,72 @@
+{
+    "tenantId": "od.berhampur",
+    "moduleName": "BPA",
+    "ocCompoundingFee":[
+        {
+            "compoundingType": "FAR",
+            "criteria": [
+                {
+                    "fee": [
+                        {
+                            "applicable":"Individual/Residential",
+                            "rate": 250
+                        },
+                        {
+                            "applicable":"Govt",
+                            "rate": 25
+                        },
+                        {
+                            "applicable":"Other",
+                            "rate": 400
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "compoundingType": "SETBACK",
+            "criteria": [
+                {
+                    "deviation":{
+                        "from": 0,
+                        "to": 5
+                    },
+                    "fee": [
+                        {
+                            "applicable":"Individual/Residential",
+                            "rate": 1000
+                        },
+                        {
+                            "applicable":"Govt",
+                            "rate": 100
+                        },
+                        {
+                            "applicable":"Other",
+                            "rate": 2000
+                        }
+                    ]
+                },
+                {
+                    "deviation":{
+                        "from": 5,
+                        "to": 10
+                    },
+                    "fee": [
+                        {
+                            "applicable":"Individual/Residential",
+                            "rate": 1000
+                        },
+                        {
+                            "applicable":"Govt",
+                            "rate": 100
+                        },
+                        {
+                            "applicable":"Other",
+                            "rate": 2000
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

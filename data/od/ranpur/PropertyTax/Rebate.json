@@ -1,0 +1,38 @@
+{
+  "tenantId": "od.ranpur",
+  "moduleName": "PropertyTax",
+  "Rebate": [
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "01/05/2023",
+      "endingDay": "31/05/2023"
+    },
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "01/04/2023",
+      "endingDay": "30/04/2023"
+    },
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "01/05/2022",
+      "endingDay": "31/05/2022"
+    },
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "01/04/2022",
+      "endingDay": "30/04/2022"
+    }
+  ]
+}

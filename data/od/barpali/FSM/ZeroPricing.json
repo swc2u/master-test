@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.barpali",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

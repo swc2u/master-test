@@ -1,0 +1,41 @@
+{
+    "tenantId": "od.hinjilicut",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Laxmi Bazar Harizan Basti",
+            "ward": "12",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Sunari Dhimira Basti",
+            "ward": "11",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Somapur Rukhi Sahi",
+            "ward": "07",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Bhakta Dasia Marga",
+            "ward": "09",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Barahi Adarsha Colony",
+            "ward": "06",
+            "code": "SLM5",
+            "isActive": true
+        }
+    ]
+}

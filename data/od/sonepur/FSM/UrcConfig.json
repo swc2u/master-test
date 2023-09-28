@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.sonepur",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

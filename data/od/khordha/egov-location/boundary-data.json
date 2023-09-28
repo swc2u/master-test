@@ -1,0 +1,512 @@
+{
+  "tenantId": "od.khordha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khurda",
+        "localname": "Khurda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khordha",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Gurujang",
+            "localname": "Gurujang",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Jagannathpur",
+            "localname": "Jagannathpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Jajarsing",
+            "localname": "Jajarsing",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Jemadei",
+            "localname": "Jemadei",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Khurda",
+            "localname": "Khurda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Mukundaprasad",
+            "localname": "Mukundaprasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Palla",
+            "localname": "Palla",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Radhamohanpur",
+            "localname": "Radhamohanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Totapada",
+            "localname": "Totapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Alkar",
+            "localname": "Alkar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Andharua",
+            "localname": "Andharua",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Badadhanapur",
+            "localname": "Badadhanapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+		  {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Bajapur",
+            "localname": "Bajapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD1",
+            "children": []
+        },
+        {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Bangida",
+            "localname": "Bangida",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD2",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Dhaulimunha",
+            "localname": "Dhaulimunha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD3",
+            "children": []
+        },
+        {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Gadahaladia",
+            "localname": "Gadahaladia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD4",
+            "children": []
+        },
+        {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Godipada",
+            "localname": "Godipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD5",
+            "children": []
+        },
+        {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Golabaisasan",
+            "localname": "Golabaisasan",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD6",
+            "children": []
+        },
+        {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Jankia",
+            "localname": "Jankia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD7",
+            "children": []
+        },
+        {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Kaipadar",
+            "localname": "Kaipadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD8",
+            "children": []
+        },
+        {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Keranga",
+            "localname": "Keranga",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD9",
+            "children": []
+        },
+        {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Kuradhamalla",
+            "localname": "Kuradhamalla",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD10",
+            "children": []
+        },
+        {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Malipur",
+            "localname": "Malipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD11",
+            "children": []
+        },
+        {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Nalipada Arjunpur",
+            "localname": "Nalipada Arjunpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD12",
+            "children": []
+        },
+        {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Nandapur",
+            "localname": "Nandapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD13",
+            "children": []
+        },
+        {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Narangarh",
+            "localname": "Narangarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD14",
+            "children": []
+        },
+        {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Orabarasingh",
+            "localname": "Orabarasingh",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD15",
+            "children": []
+        },
+        {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Palla Totapada",
+            "localname": "Palla Totapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD16",
+            "children": []
+        },
+        {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Pubusahi",
+            "localname": "Pubusahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD17",
+            "children": []
+        },
+        {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Tangiapada",
+            "localname": "Tangiapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD18",
+            "children": []
+        },
+        {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Tapang",
+            "localname": "Tapang",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD19",
+            "children": []
+        },
+        {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KHD20",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Khurda",
+        "localname": "Khurda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.khordha",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Gurujang",
+            "localname": "Gurujang",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Jagannathpur",
+            "localname": "Jagannathpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Jajarsing",
+            "localname": "Jajarsing",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Jemadei",
+            "localname": "Jemadei",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Khurda",
+            "localname": "Khurda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Mukundaprasad",
+            "localname": "Mukundaprasad",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Palla",
+            "localname": "Palla",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Radhamohanpur",
+            "localname": "Radhamohanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Totapada",
+            "localname": "Totapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Alkar",
+            "localname": "Alkar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Andharua",
+            "localname": "Andharua",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Badadhanapur",
+            "localname": "Badadhanapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          }
+        ]
+      }
+    }
+  ]
+}

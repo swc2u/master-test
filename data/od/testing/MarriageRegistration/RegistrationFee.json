@@ -1,0 +1,28 @@
+{
+  "tenantId": "od.testing",
+  "moduleName": "MarriageRegistration",
+  "FeeDetails": [
+    {
+      "challanFee": {
+        "within30daysOfMarriage": 0,
+        "after30daysOfMarriage": 0
+      },
+      "registrationFee": {
+        "after1yearOfMarriage": 1,
+        "within1yearOfMarriage": 1
+      },
+      "developmentFee": {
+        "cost": 0
+      },
+      "redcrossFee": {
+        "cost": 0
+      },
+      "userFee": {
+        "cost": 0
+      },
+      "tatkalRegistrationFee": {
+        "cost": 1000        
+      }
+    }
+  ]
+}

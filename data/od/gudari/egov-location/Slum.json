@@ -1,0 +1,34 @@
+{
+    "tenantId": "od.gudari",
+    "moduleName": "egov-location",
+    "Slum":[
+        {
+            "id": 1,
+            "name": "Gandhinagar",
+            "ward": "10",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Harijana Colony",
+            "ward": "10",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Harijana Sahi",
+            "ward": "07",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Sabar Sahi",
+            "ward": "11",
+            "code": "SLM4",
+            "isActive": true
+        }
+    ]
+}

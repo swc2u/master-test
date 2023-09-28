@@ -1,0 +1,69 @@
+{
+    "tenantId": "od.kesinga",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Colony Pada",
+            "ward": "06",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Highschool Pada",
+            "ward": "06",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Palka Pada",
+            "ward": "08",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Jhankar Pada",
+            "ward": "08",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Flood Colony",
+            "ward": "10",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Odia Pada",
+            "ward": "03",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Ambaji Mandir Pada",
+            "ward": "03",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Bagad Mill Pada",
+            "ward": "02",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Dangar Pada",
+            "ward": "11",
+            "code": "SLM9",
+            "isActive": true
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "tenantId": "od",
+    "moduleName": "BPA",
+    "Installments": [
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Construction worker welfare Cess (CWWC)",
+      "code": "BPA_SANC_WORKER_WELFARE_CESS",
+      "noOfInstallments": 3
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Purchasable FAR",
+      "code": "BPA_SANC_PUR_FAR",
+      "noOfInstallments": 4
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Shelter Fee",
+      "code": "BPA_SANC_SHELTER_FEE",
+      "noOfInstallments": 4
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA EIDP FEE",
+      "code": "BPA_SANC_EIDP_FEE",
+      "noOfInstallments": 4
+    }
+    ]
+}

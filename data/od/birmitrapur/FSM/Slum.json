@@ -1,0 +1,60 @@
+{
+    "tenantId": "od.birmitrapur",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Patpahad Daffai",
+            "active": true,
+            "code": "BIRM001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Manglal Daffai",
+            "active": true,
+            "code": "BIRM002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kumbharpada",
+            "active": true,
+            "code": "BIRM003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "New Busstand",
+            "active": true,
+            "code": "BIRM004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mundi Bunglow",
+            "active": true,
+            "code": "BIRM005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Badhiadand",
+            "active": true,
+            "code": "BIRM006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jagruti colony",
+            "active": true,
+            "code": "BIRM007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tungritola",
+            "active": true,
+            "code": "BIRM008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tarachand Bagan",
+            "active": true,
+            "code": "BIRM009",
+            "locality": "VIL1"
+        }
+    ]
+}

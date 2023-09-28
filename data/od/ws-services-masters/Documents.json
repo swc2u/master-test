@@ -1,0 +1,180 @@
+{
+    "tenantId": "od",
+    "moduleName": "ws-services-masters",
+    "Documents": [
+        {
+            "code": "OWNER.PROPERTY_TAX_RECEIPT",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.PROPERTY_TAX_RECEIPT.HOLDING_TAX_RECEIPT",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.PROPERTY_TAX_RECEIPT.PROPERTY_TAX_RECEIPT",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.PROPERTY_TAX_RECEIPT_DESCRIPTION"
+        },
+        {
+            "code": "OWNER.REGISTRATION",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.REGISTRATION.REGISTRATION",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.REGISTRATION.SALE_DEED",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.REGISTRATION.RECORD_OF_RIGHTS",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.REGISTRATION.PATTA",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.REGISTRATION.LEASE_DEED_OF_LAND",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.REGISTRATION.LEASE_DEED_OF_PLOT",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.REGISTRATION_DESCRIPTION"
+        },
+        {
+            "code": "OWNER.BPL",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.BPL.BPL_CARD",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.BPL_CARD_DESCRIPTION"
+        },
+        {
+            "code": "OWNER.MUNICIPAL_HOLDING_TAX",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.HOLDING_TAX_RECEIPT",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.REGISTRATION",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.SALE_DEED",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.RECORD_OF_RIGHTS",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.PATTA",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.LEASE_DEED_OF_LAND",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.MUNICIPAL_HOLDING_TAX.LEASE_DEED_OF_PLOT",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.MUNICIPAL_HOLDING_TAX_RECEIPT_DESCRIPTION"
+        },
+        {
+            "code": "OWNER.OWNERSHIP",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.OWNERSHIP.ELECTRICITY_BILL",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.OWNERSHIP.BANK_ACCOUNT",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.OWNERSHIP.TRADE_LICENCE",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.OWNERSHIP_PROOF_DESCRIPTION"
+        },
+        {
+            "code": "OWNER.INDEMNITY_BOND",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.INDEMNITY_BOND.INDEMNITY_BOND",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.INDEMNITY_BOND_PROOF_DESCRIPTION"
+        },
+        {
+            "code": "OWNER.IDENTITYPROOF",
+            "documentType": "OWNER",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "OWNER.IDENTITYPROOF.AADHAAR",
+                    "active": false
+                },
+                {
+                    "code": "OWNER.IDENTITYPROOF.VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.IDENTITYPROOF.DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.IDENTITYPROOF.PAN",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.IDENTITYPROOF.PASSPORT",
+                    "active": true
+                },
+                {
+                    "code": "OWNER.IDENTITYPROOF.OTHERDOC",
+                    "active": true
+                }
+            ],
+            "description": "OWNER.IDENTITYPROOF.IDENTITYPROOF_DESCRIPTION"
+          }
+    ]
+}

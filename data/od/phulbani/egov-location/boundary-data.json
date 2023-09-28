@@ -1,0 +1,564 @@
+{
+  "tenantId": "od.phulbani",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Phulbani",
+        "localname": "Phulbani",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.phulbani",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Jiringipada",
+            "localname": "Jiringipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "O.B. Nagar",
+            "localname": "O.B. Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Salunki",
+            "localname": "Salunki",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Phulbani Sahi",
+            "localname": "Phulbani Sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Kendupadar",
+            "localname": "Kendupadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Penjisahi",
+            "localname": "Penjisahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Bidangi",
+            "localname": "Bidangi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Kumbharapada",
+            "localname": "Kumbharapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Sainpada",
+            "localname": "Sainpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Baikhola",
+            "localname": "Baikhola",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Baikumpa",
+            "localname": "Baikumpa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Dakapalla",
+            "localname": "Dakapalla",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Damigaon",
+            "localname": "Damigaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+		  {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "ALLAMI",
+            "localname": "ALLAMI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB1",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "BISIPADA",
+            "localname": "BISIPADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB2",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "DADAKI",
+            "localname": "DADAKI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB3",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "DUDUKI",
+            "localname": "DUDUKI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB4",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "GANJUGUDA",
+            "localname": "GANJUGUDA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB5",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "GUMAGARH",
+            "localname": "GUMAGARH",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB6",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "JAMJHARI",
+            "localname": "JAMJHARI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB7",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "KATRINGIA",
+            "localname": "KATRINGIA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB8",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "KEREDI",
+            "localname": "KEREDI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB9",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "MINIA",
+            "localname": "MINIA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB10",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "TUDIPAJU",
+            "localname": "TUDIPAJU",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB11",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB12",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "GUDARI",
+            "localname": "GUDARI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB13",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "ADASIPADA",
+            "localname": "ADASIPADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB14",
+            "children": [
+            ]
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "DUTIMENDI",
+            "localname": "DUTIMENDI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB15",
+            "children": [
+            ]
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "PIRIKUDI",
+            "localname": "PIRIKUDI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB16",
+            "children": [
+            ]
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "BALASKUMPA",
+            "localname": "BALASKUMPA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB17",
+            "children": [
+            ]
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "SUDRUKUMPA",
+            "localname": "SUDRUKUMPA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB18",
+            "children": [
+            ]
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "TITIRAPANGA",
+            "localname": "TITIRAPANGA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB19",
+            "children": [
+            ]
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "DUTIPADA",
+            "localname": "DUTIPADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB20",
+            "children": [
+            ]
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "SUDREJU",
+            "localname": "SUDREJU",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PHB21",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Phulbani",
+        "localname": "Phulbani",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.phulbani",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Jiringipada",
+            "localname": "Jiringipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "O.B. Nagar",
+            "localname": "O.B. Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Salunki",
+            "localname": "Salunki",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Phulbani Sahi",
+            "localname": "Phulbani Sahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Kendupadar",
+            "localname": "Kendupadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Penjisahi",
+            "localname": "Penjisahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Bidangi",
+            "localname": "Bidangi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Kumbharapada",
+            "localname": "Kumbharapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Sainpada",
+            "localname": "Sainpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Baikhola",
+            "localname": "Baikhola",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Baikumpa",
+            "localname": "Baikumpa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Dakapalla",
+            "localname": "Dakapalla",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Damigaon",
+            "localname": "Damigaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          }
+        ]
+      }
+    }
+  ]
+}

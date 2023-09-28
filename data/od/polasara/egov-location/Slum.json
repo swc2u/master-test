@@ -1,0 +1,62 @@
+{
+    "tenantId": "od.polasara",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Adua Sahi",
+            "ward": "08",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Kaitha Bandha Huda",
+            "ward": "08",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Kanta Bandha",
+            "ward": "06",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Lunighati",
+            "ward": "19",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Ranipada Harijan Sahi",
+            "ward": "06",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Sidhipur",
+            "ward": "04",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Surjya Nagar",
+            "ward": "07",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Block Bandha Huda",
+            "ward": "18",
+            "code": "SLM8",
+            "isActive": true
+        }
+    ]
+}

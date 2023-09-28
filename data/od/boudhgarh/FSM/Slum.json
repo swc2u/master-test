@@ -1,0 +1,48 @@
+{
+    "tenantId": "od.boudhgarh",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Irrigation Colony",
+            "active": true,
+            "code": "BOUD001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Babu Sahi",
+            "active": true,
+            "code": "BOUD002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nua Sahi",
+            "active": true,
+            "code": "BOUD003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bapuji Nagar Ward no - 10",
+            "active": true,
+            "code": "BOUD004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bapuji Nagar Ward no - 16",
+            "active": true,
+            "code": "BOUD005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Refugee Colony",
+            "active": true,
+            "code": "BOUD006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Khadal Sahi",
+            "active": true,
+            "code": "BOUD007",
+            "locality": "VIL1"
+        }
+    ]
+}

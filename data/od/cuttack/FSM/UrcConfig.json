@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.cuttack",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

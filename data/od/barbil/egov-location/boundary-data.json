@@ -1,0 +1,380 @@
+{
+  "tenantId": "od.barbil",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Barbil",
+        "localname": "Barbil",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.barbil",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Nalda Unit No.02",
+            "localname": "Nalda Unit No.02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Belkundi",
+            "localname": "Belkundi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Karakolha",
+            "localname": "Karakolha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Dalki",
+            "localname": "Dalki",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Sadding Unit No.06",
+            "localname": "Sadding Unit No.06",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Barbil Unit No.07",
+            "localname": "Barbil Unit No.07",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Barbil Unit No.08",
+            "localname": "Barbil Unit No.08",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Santabahal",
+            "localname": "Santabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Sundara Unit No.12",
+            "localname": "Sundara Unit No.12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Sundara unit No.13",
+            "localname": "Sundara unit No.13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Matkambeda",
+            "localname": "Matkambeda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+		  {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Serenda",
+            "localname": "Serenda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAB1",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Balaguda",
+            "localname": "Balaguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAB2",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Bhadasahi",
+            "localname": "Bhadasahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAB3",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Bhuyanraida",
+            "localname": "Bhuyanraida",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAB4",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Bolani",
+            "localname": "Bolani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAB5",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Anseikala",
+            "localname": "Anseikala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAB6",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Karakhendra",
+            "localname": "Karakhendra",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAB7",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Guali",
+            "localname": "Guali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAB8",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAB9",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Barbil",
+        "localname": "Barbil",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.barbil",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Nalda Unit No.02",
+            "localname": "Nalda Unit No.02",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Belkundi",
+            "localname": "Belkundi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Karakolha",
+            "localname": "Karakolha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Dalki",
+            "localname": "Dalki",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Sadding Unit No.06",
+            "localname": "Sadding Unit No.06",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Barbil Unit No.07",
+            "localname": "Barbil Unit No.07",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Barbil Unit No.08",
+            "localname": "Barbil Unit No.08",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Santabahal",
+            "localname": "Santabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Sundara Unit No.12",
+            "localname": "Sundara Unit No.12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Sundara unit No.13",
+            "localname": "Sundara unit No.13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Matkambeda",
+            "localname": "Matkambeda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.sunabeda",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "tenantId": "od",
+  "moduleName": "ws-services-calculation",
+  "Rebate": [
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "endingDay": "30",
+      "specialReabteEnabled": true,
+      "specialReabteRate": 2
+    },
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "endingDay": "30",
+      "specialReabteEnabled": true,
+      "specialReabteRate": 2
+    },
+    {
+      "rate": 0,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "endingDay": "28",
+      "specialReabteEnabled": true,
+      "specialReabteRate": 2
+    },
+    {
+      "rate": 10,
+      "maxAmount": null,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "endingDay": "25"
+    }
+  ]
+}

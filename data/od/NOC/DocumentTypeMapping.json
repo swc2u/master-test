@@ -1,0 +1,763 @@
+{
+    "tenantId": "od",
+    "moduleName": "NOC",
+    "DocumentTypeMapping": [
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "AAI_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AAI",
+                    "required": false
+                },
+                {
+                    "documentType": "NOC.AAI.UNDERTAKING1A",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITEELEVATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITECORDINATES",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.AUTHORIZATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.PERMISSION",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "AAI_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AAI",
+                    "required": false
+                },
+                {
+                    "documentType": "NOC.AAI.UNDERTAKING1A",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITEELEVATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITECORDINATES",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.AUTHORIZATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.PERMISSION",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "AAI_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AAI",
+                    "required": false
+                },
+                {
+                    "documentType": "NOC.AAI.UNDERTAKING1A",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITEELEVATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITECORDINATES",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.AUTHORIZATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.PERMISSION",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE",
+                    "required": false
+                },
+                {
+                    "documentType": "NOC.FIRE.PlainApplication",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantSignature",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantPhoto",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.OwnershipDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.IdentityProofDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.BuildingPlan",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.PlainApplication",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantSignature",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantPhoto",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.OwnershipDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.IdentityProofDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.BuildingPlan",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "FIRE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.FIRE",
+                    "required": false
+                },
+                {
+                    "documentType": "NOC.FIRE.PlainApplication",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantSignature",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.ApplicantPhoto",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.OwnershipDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.IdentityProofDoc",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.FIRE.BuildingPlan",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AIRPORT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AIRPORT",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "AIRPORT_AUTHORITY",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AIRPORT",
+                    "required": false
+                }
+            ]
+        },
+		{
+            "applicationType": "PROVISIONAL",
+            "nocType": "HBDA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HBDA",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "HBDA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HBDA",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "HBDA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HBDA",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "NMA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NMA",
+                    "required": false
+                },
+				{
+                    "documentType": "NOC.NMA.Elevation",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.InCaseOfRepairs",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Signature",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Other",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Section",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.FirmFiles",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.GoogleEarthImage",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "NMA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NMA",
+                    "required": false
+                },
+				{
+                    "documentType": "NOC.NMA.Elevation",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.InCaseOfRepairs",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Signature",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Other",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Section",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.FirmFiles",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.GoogleEarthImage",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "NMA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NMA",
+                    "required": false
+                },
+				{
+                    "documentType": "NOC.NMA.Elevation",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.InCaseOfRepairs",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Signature",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Other",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.Section",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.FirmFiles",
+                    "required": true
+                },
+				{
+                    "documentType": "NOC.NMA.GoogleEarthImage",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "DFO_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.DFO",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "DFO_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.DFO",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "DFO_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.DFO",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "SA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SA",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "SA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SA",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "SA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.SA",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "EC_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.EC",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "EC_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.EC",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "EC_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.EC",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "HUDULB_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HUDULB",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "HUDULB_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HUDULB",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "HUDULB_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HUDULB",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "PHEO_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.PHEO",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "PHEO_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.PHEO",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "PHEO_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.PHEO",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "CGWA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.CGWA",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "CGWA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.CGWA",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "CGWA_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.CGWA",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "EDC_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.EDC",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "EDC_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.EDC",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "EDC_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.EDC",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "HDPOLICE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HDPOLICE",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "HDPOLICE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HDPOLICE",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "HDPOLICE_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.HDPOLICE",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "WRD_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WRD",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "WRD_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WRD",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "WRD_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.WRD",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "PCB_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.PCB",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "PCB_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.PCB",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "PCB_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.PCB",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "RDMTEHSILDAR_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.RDMTEHSILDAR",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "RDMTEHSILDAR_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.RDMTEHSILDAR",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "RDMTEHSILDAR_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.RDMTEHSILDAR",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "NHAI_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NHAI",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "NHAI_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NHAI",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "NHAI_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.NHAI",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
+            "nocType": "COASTALREG_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.COASTALREG",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "COASTALREG_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.COASTALREG",
+                    "required": false
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "COASTALREG_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.COASTALREG",
+                    "required": false
+                }
+            ]
+        }
+
+    ]
+}

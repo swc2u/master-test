@@ -1,0 +1,55 @@
+{
+    "tenantId": "od.barpali",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Dak Bangla Pada",
+            "ward": "02",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Behera Pada",
+            "ward": "03",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Bazar Pada",
+            "ward": "04",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Bahal Munda",
+            "ward": "05",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Dash Pada",
+            "ward": "07",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Kainratikira",
+            "ward": "09",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Dube Pada",
+            "ward": "11",
+            "code": "SLM7",
+            "isActive": true
+        }
+    ]
+}

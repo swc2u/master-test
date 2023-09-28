@@ -1,0 +1,46 @@
+{
+    "tenantId": "od",
+    "moduleName": "BPA",
+    "ApplicationStatus": [
+        {
+      "code": "FIELDINSPECTION_INPROGRESS",
+      "name": "Pending at Field Inspection"
+       },
+	        {
+      "code": "DOC_VERIFICATION_INPROGRESS",
+      "name": "Pending at Document Verification"
+       }, 
+      {
+      "code": "REJECTED",
+      "name": "Rejected"
+       },
+      {
+      "code": "APPROVED",
+      "name": "Approved"
+       }, 
+       {
+      "code": "PENDING_SANC_FEE_PAYMENT",
+      "name": "Pending for Permit fee payment"
+       },
+       {
+      "code": "APPROVAL_INPROGRESS",
+      "name": "Pending for Approval"
+       },
+      {
+      "code": "PENDING_ARCHITECT_ACTION_FOR_REWORK",
+      "name": "PENDING At ARCHITECT FOR REWORK"
+       },
+	   {
+      "code": "APP_L1_VERIFICATION_INPROGRESS",
+      "name": "Pending at Planning Assistant"
+       },
+	   {
+      "code": "APP_L2_VERIFICATION_INPROGRESS",
+      "name": "Pending at Planning Officer"
+       },
+	   {
+      "code": "APP_L3_VERIFICATION_INPROGRESS",
+      "name": "Pending at Planning Officer"
+       }
+	   ]
+}

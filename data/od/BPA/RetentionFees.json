@@ -1,0 +1,506 @@
+{
+    "tenantId": "od",
+    "moduleName": "BPA",
+    "RetentionFees": [
+        {
+            "ulb": "od.bijepur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.odagaon",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.dhamnagar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.nilgiri",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.belpahar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.chandbali",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.pipli",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.hindol",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.tusura",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.dharamgarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.gudari",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.nuapada",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.balimela",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.konark",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.brajrajnagar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.gopalpur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.tarbha",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.kesinga",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.malkangiri",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.khandapada",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.umerkote",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.khallikote",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.balliguda",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.udala",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.basudevpur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.daspalla",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.champua",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.padampur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.chikiti",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.kamakhyanagar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.karanjia",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.athmallik",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.banki",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.kotpad",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.junagarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.soro",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.rambha",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.birmitrapur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.ganjam",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.gudayagiri",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.kashinagar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.khariarroad",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.binka",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.kantabanji",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.khariar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.nabarangpur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.joda",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.kodala",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.nayagarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.kuchinda",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.bellaguntha",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.banpur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.buguda",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.redhakhol",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.patnagarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.attabira",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.athagarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.gunupur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.ranpur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.purushottampur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.balugaon",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.barbil",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.digapahandi",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.jagatsinghpur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.nimapara",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.surada",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.rairangpur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.bhuban",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.kabisuryanagar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.polasara",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.jaleswar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.boudhgarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.sunabeda",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.paradeep",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.aska",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.barpali",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.bhanjanagar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.angul",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.jajpur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.chatrapur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.sonepur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.jharsuguda",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.deogarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.talcher",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.anandapur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.titilagarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.koraput",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.choudwar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.hinjilicut",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.pattamundai",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.jatni",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.kendrapara",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.phulbani",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.jeypore",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.rajgangpur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.dhenkanal",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.bargarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.bhadrak",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.sundargarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.vyasanagar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.khordha",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.keonjhargarh",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.paralakhemundi",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.balangir",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.bhawanipatna",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.rayagada",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.balasore",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.baripada",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.puri",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.berhampur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.rourkela",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.cuttack",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.sambalpur",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.bhubaneswar",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.cuttackdevelopmentauthority",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.bhubaneswardevelopmentauthority",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.kalinganagardevelopmentauthority",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.paradipdevelopmentauthority",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.purikonarkdevelopmentauthority",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.sambalpurdevelopmentauthority",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.rourkeladevelopmentauthority",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.talcherangulmeramandalidevelopmentauthority",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.berhampurdevelopmentauthority",
+            "retentionFee": "2000"
+        },
+		{
+            "ulb": "od.testing",
+            "retentionFee": "2000"
+        },
+        {
+            "ulb": "od.remuna",
+            "retentionFee": "2000"
+        }
+    ]
+}

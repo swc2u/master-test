@@ -1,0 +1,264 @@
+{
+  "tenantId": "od.belpahar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Belpahar",
+        "localname": "Belpahar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.belpahar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Belpahar",
+            "localname": "Belpahar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Chhualiberna",
+            "localname": "Chhualiberna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Dhauramunda",
+            "localname": "Dhauramunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chingriguda",
+            "localname": "Chingriguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+		  {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Baghmunda",
+            "localname": "Baghmunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL1",
+            "children": []
+        },
+        {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Bandhabahal",
+            "localname": "Bandhabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL2",
+            "children": []
+        },
+        {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Banjari",
+            "localname": "Banjari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL3",
+            "children": []
+        },
+        {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Bhounrkhol",
+            "localname": "Bhounrkhol",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL4",
+            "children": []
+        },
+        {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Dalgaon",
+            "localname": "Dalgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL5",
+            "children": []
+        },
+        {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Kudaloi",
+            "localname": "Kudaloi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL6",
+            "children": []
+        },
+        {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Kushraloi",
+            "localname": "Kushraloi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL7",
+            "children": []
+        },
+        {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Lakhanpur",
+            "localname": "Lakhanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL8",
+            "children": []
+        },
+        {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Piplimal",
+            "localname": "Piplimal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL9",
+            "children": []
+        },
+        {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Sarandamal",
+            "localname": "Sarandamal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL10",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Telenpali",
+            "localname": "Telenpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL11",
+            "children": []
+        },
+        {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BEL12",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Belpahar",
+        "localname": "Belpahar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.belpahar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Belpahar",
+            "localname": "Belpahar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Chhualiberna",
+            "localname": "Chhualiberna",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Dhauramunda",
+            "localname": "Dhauramunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chingriguda",
+            "localname": "Chingriguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+    "tenantId": "od.vyasanagar",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Satkania Harijana Sahi",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Banki Sahi",
+            "ward": "02",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Panasia Adibasi Sahi",
+            "ward": "02",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Majhi Sahi",
+            "ward": "03",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Rampas Bangali Sahi",
+            "ward": "03",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Laxminagar Adibasi Sahi",
+            "ward": "04",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Laxminagar Hudi Sahi",
+            "ward": "04",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Rampas Nua Sahi",
+            "ward": "05",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Rampas Harijana Sahi",
+            "ward": "05",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Mali Adibasi Sahi",
+            "ward": "05",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Rampas Jogi Sahi",
+            "ward": "05",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Kachahudi Sahi",
+            "ward": "08",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Mohoram Adibasi Sahi",
+            "ward": "09",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Chandma Hudi Sahi",
+            "ward": "10",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Chandma Tala Sahi",
+            "ward": "11",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Chorda Sahara Sahi",
+            "ward": "14",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Chorda Harijana Sahi(Mangala Sahi)",
+            "ward": "15",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Chorda Digi Sahi",
+            "ward": "15",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Umapada Harijana Sahi",
+            "ward": "16",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Sapagadia Harijana Sahi",
+            "ward": "17",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Sweeper Colony Nc High School",
+            "ward": "18",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Mituani Sweeper Sahi",
+            "ward": "19",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Santara Harijana Sahi",
+            "ward": "21",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Kopanda Sweeper Sahi",
+            "ward": "23",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Kopanda Sila Pokhari Sahi",
+            "ward": "23",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Mundamala Harijana Sahi",
+            "ward": "24",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Tina Hatting",
+            "ward": "25",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Leprosy Colony",
+            "ward": "25",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Jagannatha Adibasi Sahi",
+            "ward": "26",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Dahi Adibasi Sahi -1",
+            "ward": "26",
+            "code": "SLM30",
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "Dahi Adibasi Sahi-2",
+            "ward": "26",
+            "code": "SLM31",
+            "isActive": true
+        },
+        {
+            "id": 32,
+            "name": "Khandahata Harijana Sahi",
+            "ward": "26",
+            "code": "SLM32",
+            "isActive": true
+        }
+    ]
+}

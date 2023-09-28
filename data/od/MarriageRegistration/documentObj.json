@@ -1,0 +1,136 @@
+{
+  "tenantId": "od",
+  "moduleName": "MarriageRegistration",
+  "documentObj": [
+    {
+      "allowedDocs": [
+        {
+          "documentType": "MR.BRIDEIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.BRIDEFATHERIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.BRIDEMOTHERIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.BRIDEGUARDIANIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.BRIDEWITNESSIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.BRIDEINVITATIONCARD",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.BRIDERESIDENTIALPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.BRIDEDIVYANGPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": false
+        },
+        {
+          "documentType": "MR.GROOMIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.GROOMFATHERIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.GROOMMOTHERIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.GROOMGUARDIANIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.GROOMWITNESSIDPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.GROOMINVITATIONCARD",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.GROOMRESIDENTIALPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.GROOMDIVYANGPROOF",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": false
+        },
+        {
+          "documentType": "MR.JOINTPHOTO",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        },
+        {
+          "documentType": "MR.JOINTAFFIDAVIT",
+          "applicationType": [
+            "NEW"
+          ],
+          "required": true
+        }		
+      ]
+    }
+  ]
+}

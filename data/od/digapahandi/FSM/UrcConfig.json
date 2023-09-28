@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.digapahandi",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

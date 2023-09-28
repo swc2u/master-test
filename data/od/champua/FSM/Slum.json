@@ -1,0 +1,156 @@
+{
+    "tenantId": "od.champua",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "VALIADHIPA_1",
+            "active": true,
+            "code": "CHAM001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "VALIADHIPA_2",
+            "active": true,
+            "code": "CHAM002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "UPARASAHI",
+            "active": true,
+            "code": "CHAM003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "MUNDA SAHI",
+            "active": true,
+            "code": "CHAM004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "SANKARPUR",
+            "active": true,
+            "code": "CHAM005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "SIRAPUR",
+            "active": true,
+            "code": "CHAM006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "HUDISAHI",
+            "active": true,
+            "code": "CHAM007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "IQURA NAGAR",
+            "active": true,
+            "code": "CHAM008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "ALLINAGAR-1",
+            "active": true,
+            "code": "CHAM009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "DAMAD MAHALA",
+            "active": true,
+            "code": "CHAM010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "ALLINAGAR -2",
+            "active": true,
+            "code": "CHAM011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "ALLINAGAR -3",
+            "active": true,
+            "code": "CHAM012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "DAMA SAHI",
+            "active": true,
+            "code": "CHAM013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "LIC COLONY_1",
+            "active": true,
+            "code": "CHAM014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "LIC COLONY_2",
+            "active": true,
+            "code": "CHAM015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "BLOCK COLONY",
+            "active": true,
+            "code": "CHAM016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "DHALADIHI (DH)",
+            "active": true,
+            "code": "CHAM017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "DHALADIHI(DD)",
+            "active": true,
+            "code": "CHAM018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "BARIK SAHI",
+            "active": true,
+            "code": "CHAM019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "KALANDI SAHI",
+            "active": true,
+            "code": "CHAM020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "DEBATA SALA",
+            "active": true,
+            "code": "CHAM021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "SAHAR SAHI",
+            "active": true,
+            "code": "CHAM022",
+            "locality": "VIL1"
+        },
+        {
+            "name": "BACHHA BASTI",
+            "active": true,
+            "code": "CHAM023",
+            "locality": "VIL1"
+        },
+        {
+            "name": "BIJAY NAGAR",
+            "active": true,
+            "code": "CHAM024",
+            "locality": "VIL1"
+        },
+        {
+            "name": "KABARAGUTU",
+            "active": true,
+            "code": "CHAM025",
+            "locality": "VIL1"
+        }
+    ]
+}

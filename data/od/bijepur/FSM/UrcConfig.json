@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.bijepur",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

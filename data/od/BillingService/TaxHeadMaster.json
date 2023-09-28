@@ -1,0 +1,1399 @@
+{
+  "tenantId": "od",
+  "moduleName": "BillingService",
+  "TaxHeadMaster": [
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Adhoc Rebate",
+      "code": "PT_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "PT",
+      "name": "Property Tax Advance Carry Forward",
+      "code": "PT_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Owner Exemption",
+      "code": "PT_OWNER_EXEMPTION",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Time Rebate",
+      "code": "PT_TIME_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Unit Usage Excemption",
+      "code": "PT_UNIT_USAGE_EXEMPTION",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Adhoc Penalty",
+      "code": "PT_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax",
+      "code": "PT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Fire Cess",
+      "code": "PT_FIRE_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Cancer Cess",
+      "code": "PT_CANCER_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Time Penalty",
+      "code": "PT_TIME_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Time Interest",
+      "code": "PT_TIME_INTEREST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1"
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "Trade License Tax",
+      "code": "TL_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2"
+    },
+	{
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration User Fee",
+      "code": "MR_USER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "5"
+    },
+	{
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration Redcross Fee",
+      "code": "MR_REDCROSS_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4"
+    },
+	{
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration Development Fee",
+      "code": "MR_DEVELOPMENT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3"
+    },
+	{
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration Registration Fee",
+      "code": "MR_REGISTRATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2"
+    },
+	{
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration Challan Fees",
+      "code": "MR_CHALLAN_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1"
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "Trade License Roundoff",
+      "code": "TL_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "Trade License Adhoc Rebate",
+      "code": "TL_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "Trade License Adhoc Penalty",
+      "code": "TL_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1"
+    },
+    {
+      "category": "REBATE",
+      "service": "PT",
+      "name": "Property Tax Debit Decimal",
+      "code": "PT_DECIMAL_CEILING_DEBIT",
+      "isDebit": true,
+      "isActualDemand": true,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Credit Decimal",
+      "code": "PT_DECIMAL_CEILING_CREDIT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Decimal RoundOff",
+      "code": "PT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0"
+    },
+    {
+      "category": "REBATE",
+      "service": "FIRENOC",
+      "name": "Fire NOC Adhoc Rebate",
+      "code": "FIRENOC_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "PENALTY",
+      "service": "FIRENOC",
+      "name": "Fire NOC Adhoc Penalty",
+      "code": "FIRENOC_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "FIRENOC",
+      "name": "Fire NOC Fee",
+      "code": "FIRENOC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "FIRENOC",
+      "name": "Fire NOC Tax",
+      "code": "FIRENOC_TAXES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "FIRENOC",
+      "name": "Fire NOC Roundoff",
+      "code": "FIRENOC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },  
+    {
+      "category": "FEE",
+      "service": "BPAREG",
+      "name": "BPA Stakeholder Registraion Fee",
+      "code": "BPAREG_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },	
+    {
+      "category": "FEE",
+      "service": "BPA.NC_APP_FEE",
+      "name": "BPA Application Fee",
+      "code": "BPA_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_APP_FEE",
+      "name": "BPA Building Operation Fee",
+      "code": "BPA_BLDNG_OPRN_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_APP_FEE",
+      "name": "BPA Land Development Fee",
+      "code": "BPA_LAND_DEV_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Sanction Fee",
+      "code": "BPA_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Temporary Retention Fee",
+      "code": "BPA_SANC_TEMP_RETENTION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Security Deposit",
+      "code": "BPA_SANC_SECURITY_DEPOSIT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Construction worker welfare Cess (CWWC)",
+      "code": "BPA_SANC_WORKER_WELFARE_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Purchasable FAR",
+      "code": "BPA_SANC_PUR_FAR",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Shelter Fee",
+      "code": "BPA_SANC_SHELTER_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Sanction Fee",
+      "code": "BPA_SANC_SANC_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA EIDP FEE",
+      "code": "BPA_SANC_EIDP_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Sanction Fee Adjustment Amount",
+      "code": "BPA_SANC_ADJUSTMENT_AMOUNT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Building Operation Fee Rework Adjustment Amount",
+      "code": "BPA_BLDNG_OPRN_FEE_REWORK_ADJUSTMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Land Development Fee Rework Adjustment Amount",
+      "code": "BPA_LAND_DEV_FEE_REWORK_ADJUSTMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_APP_FEE",
+      "name": "BPA OC Application Fee",
+      "code": "BPA_OC_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_APP_FEE",
+      "name": "BPA Occupancy Certificate Fee",
+      "code": "BPA_OC_CERT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_APP_FEE",
+      "name": "BPA OC Scrutiny Fee",
+      "code": "BPA_OC_SCRUTINY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA OC Sanction Fee",
+      "code": "BPA_OC_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA OC Compounding Fee for Setback",
+      "code": "BPA_OC_SANC_COMPOUND_SETBACK_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA OC Compounding Fee for FAR",
+      "code": "BPA_OC_SANC_COMPOUND_FAR_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA OC EIDP Fee",
+      "code": "BPA_OC_SANC_EIDP_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA OC Construction worker welfare Cess (CWWC)",
+      "code": "BPA_OC_SANC_WORKER_WELFARE_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "name": "BPA OC Grant of Occupancy Certificate Fee",
+      "code": "BPA_OC_SANC_GRAND_OCCUPANCY_CERT_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },		
+     {
+      "category": "FEE",
+      "service": "PT.MUTATION",
+      "name": "Property Tax Mutation Fee",
+      "code": "PT_MUTATION_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "REBATE",
+      "service": "PT.MUTATION",
+      "name": "Property Tax Mutation Rebate",
+      "code": "PT_MUTATION_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "PENALTY",
+      "service": "PT.MUTATION",
+      "name": "Property Tax Mutation Penalty",
+      "code": "PT_MUTATION_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Property Tax Mutation Adhoc Rebate",
+      "code": "PT_MUTATION_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT.MUTATION",
+      "name": "Property Tax Mutation Adhoc Penalty",
+      "code": "PT_MUTATION_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water Charges",
+      "code": "WS_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water Special Rebate",
+      "code": "WS_SPECIAL_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water Rebate",
+      "code": "WS_TIME_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water Interest",
+      "code": "WS_TIME_INTEREST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water Cess",
+      "code": "WS_WATER_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "PENALTY",
+      "service": "WS",
+      "name": "Water Penalty",
+      "code": "WS_TIME_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water Round Off",
+      "code": "WS_Round_Off",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Sewerage Charges",
+      "code": "SW_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "8",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Sewerage Special Rebate",
+      "code": "SW_SPECIAL_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "9",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Sewerage Rebate",
+      "code": "SW_TIME_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "10",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Sewerage Interest",
+      "code": "SW_TIME_INTEREST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "11",
+      "isRequired": false
+    },
+    {
+      "category": "PENALTY",
+      "service": "WS",
+      "name": "Sewerage Penalty",
+      "code": "SW_TIME_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "12",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Sewerage Round Off",
+      "code": "SW_Round_Off",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "13",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "WS",
+      "name": "Sewerage Advance Carry Forward",
+      "code": "SW_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "14",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Sewerage Adhoc Rebate",
+      "code": "SW_TIME_ADHOC_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "15",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Sewerage Adhoc Penalty",
+      "code": "SW_TIME_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "16",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Sewerage Adhoc Charges",
+      "code": "SW_ADHOC_CHARGE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "17",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS",
+      "name": "Water arrear adjustment ",
+      "code": "WS_ARREAR_ADJUSTMENT",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "18",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Application Form Fee",
+      "code": "WS_FORM_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Application Scrutiny Fee",
+      "code": "WS_SCRUTINY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Application One Time Fee",
+      "code": "WS_ONE_TIME_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Application Road Cutting Charge",
+      "code": "WS_ROAD_CUTTING_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Application Meter Charge",
+      "code": "WS_METER_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Application Security Charge",
+      "code": "WS_SECURITY_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "5",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Application Other Charges",
+      "code": "WS_OTHER_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Reconnection charges",
+      "code": "WS_RECONNECTION_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "7",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Application Ownership change fee",
+      "code": "WS_OWNERSHIP_CHANGE_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Application Tax and Cess",
+      "code": "WS_TAX_AND_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "7",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Fee Round Off",
+      "code": "WS_FEE_ROUND_OFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "8",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Adhoc Penality",
+      "code": "WS_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "9",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Adhoc Rebate",
+      "code": "WS_ADHOC_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "10",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Water Labour Fee",
+      "code": "WS_LABOUR_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "11",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Application Form Fee",
+      "code": "SW_FORM_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "12",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Application Scrutiny Fee",
+      "code": "SW_SCRUTINY_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "13",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Application One Time Fee",
+      "code": "SW_ONE_TIME_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "14",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Application Road Cutting Charge",
+      "code": "SW_ROAD_CUTTING_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "15",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Application Meter Charge",
+      "code": "SW_METER_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "16",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Application Security Charge",
+      "code": "SW_SECURITY_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "17",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Application Other Charges",
+      "code": "SW_OTHER_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "18",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Reconnection charges",
+      "code": "SW_RECONNECTION_CHARGE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "19",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Application Ownership change fee",
+      "code": "SW_OWNERSHIP_CHANGE_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "20",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Application Tax and Cess",
+      "code": "SW_TAX_AND_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "21",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Fee Round Off",
+      "code": "SW_FEE_ROUND_OFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "22",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Adhoc Penality",
+      "code": "SW_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "23",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS.ONE_TIME_FEE",
+      "name": "Sewerage Adhoc Rebate",
+      "code": "SW_ADHOC_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "24",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water Adhoc Rebate",
+      "code": "WS_TIME_ADHOC_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "5",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water Adhoc Penalty",
+      "code": "WS_TIME_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "WS",
+      "name": "Water Advance Carry Forward",
+      "code": "WS_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "7",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "TL",
+      "name": "Trade License Renewal Tax",
+      "code": "TL_RENEWAL_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "REBATE",
+      "service": "TL",
+      "name": "Trade License Renewal Rebate",
+      "code": "TL_RENEWAL_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "PENALTY",
+      "service": "TL",
+      "name": "Trade License Renewal Penalty",
+      "code": "TL_RENEWAL_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "Trade License Renewal Adhoc Rebate",
+      "code": "TL_RENEWAL_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "Trade License Renewal Adhoc Penalty",
+      "code": "TL_RENEWAL_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Education Cess Grants",
+      "code": "REV_GRANTS_EDU_CESS_GRANTS",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Govt. Aid for Primary Education",
+      "code": "REV_GRANTS_GOVT_AID_PRIM_EDU",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Family Welfare Grant",
+      "code": "REV_GRANTS_FAM_WF_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Family Planning Aid from Central Government",
+      "code": "REV_GRANTS_FAM_PLANNIG_AID_CENT_GOVT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "SJSRY Salary Grant",
+      "code": "REV_GRANTS_SJSRY_SAL_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "DISP_FIXED_ASSET.LAND",
+      "name": "Land Fee",
+      "code": "DISP_FIXED_ASSET_LAND_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.LAND",
+      "name": "GST",
+      "code": "DISP_FIXED_ASSET_LAND_GST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.LAND",
+      "name": "Rebate",
+      "code": "DISP_FIXED_ASSET_LAND_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "DISP_FIXED_ASSET.BUILDING",
+      "name": "Buidling Fee",
+      "code": "DISP_FIXED_ASSET_BUILDING_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.BUILDING",
+      "name": "GST",
+      "code": "DISP_FIXED_ASSET_BUILDING_GST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.BUILDING",
+      "name": "Rebate",
+      "code": "DISP_FIXED_ASSET_BUILDING_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "name": "Vehicle Fee",
+      "code": "DISP_FIXED_ASSET_VEHICLE_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "name": "GST",
+      "code": "DISP_FIXED_ASSET_VEHICLE_GST",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "name": "Rebate",
+      "code": "DISP_FIXED_ASSET_VEHICLE_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "CHARGES",
+      "service": "FSM.TPRIP_CHARGES",
+      "name": "FSM TRIP CHARGES",
+      "code": "FSM_TRIP_CHARGES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+     {
+      "category": "TAX",
+      "service": "FSM.TPRIP_CHARGES",
+      "name": "FSM roundoff",
+      "code": "FSM_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Holding Tax",
+      "code": "PT_HOLDING_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax light tax",
+      "code": "PT_LIGHT_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Water Tax",
+      "code": "PT_WATER_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Drainage Tax",
+      "code": "PT_DRAINAGE_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Latrine Tax",
+      "code": "PT_LATRINE_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Parking Tax",
+      "code": "PT_PARKING_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Solid Waste User Charges",
+      "code": "PT_SOLID_WASTE_USER_CHARGES",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Ownership Excemption",
+      "code": "PT_OWNERSHIP_EXCEMPTION",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Usage Excemption",
+      "code": "PT_USAGE_EXCEMPTION",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Interest",
+      "code": "PT_INTEREST",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Penalty",
+      "code": "PT_PENALTY",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Service Tax",
+      "code": "PT_SERVICE_TAX",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Property Tax Other Dues",
+      "code": "PT_OTHER_DUES",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0"
+    },
+    {
+      "category": "FEE",
+      "service": "WS",
+      "name": "Water Labour Fee",
+      "code": "WS_LABOUR_FEE_INSTALLMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "WS",
+      "name": "Water Application Scrutiny Fee",
+      "code": "WS_SCRUTINY_FEE_INSTALLMENT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "WS",
+      "name": "Water annual Advance payment Rebate",
+      "code": "WS_ANNUAL_PAYMENT_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "MR",
+      "name": "Marriage Registration Tatkal Fee",
+      "code": "MR_TATKAL_FEE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "6"
+    }
+  ]
+}

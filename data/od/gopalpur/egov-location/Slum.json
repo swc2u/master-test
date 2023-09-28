@@ -1,0 +1,41 @@
+{
+    "tenantId": "od.gopalpur",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Sai Baba Street",
+            "ward": "02",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Sai Baba Street",
+            "ward": "07",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Harijan Street",
+            "ward": "07",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Nac Colony",
+            "ward": "05",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Mayfair Colony",
+            "ward": "01",
+            "code": "SLM5",
+            "isActive": true
+        }
+    ]
+}

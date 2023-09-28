@@ -1,0 +1,38 @@
+{
+  "tenantId": "od",
+  "moduleName": "ws-services-calculation",
+  "Penalty": [
+    {
+      "rate": 0,
+      "minAmount": null,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "fromFY": "2023-24",
+      "startingDay": "16"
+    },
+    {
+      "rate": 0,
+      "minAmount": null,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "fromFY": "2022-23",
+      "startingDay": "16"
+    },
+    {
+      "rate": 0,
+      "minAmount": null,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "fromFY": "2021-22",
+      "startingDay": "16"
+    },
+    {
+      "rate": 10,
+      "minAmount": null,
+      "applicableAfterDays": 0,
+      "flatAmount": null,
+      "fromFY": "2019-20",
+      "startingDay": "1"
+    }
+  ]
+}

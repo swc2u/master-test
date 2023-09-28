@@ -1,0 +1,41 @@
+{
+  "tenantId": "od",
+  "moduleName": "BPA",
+  "ReportServiceType": [
+    {
+            "name": "Electricity",
+            "code": "EL",
+            "active": true,
+            "orderNumber": "1",
+            "description": "Electricity"
+           
+        },
+		
+		    {
+            "name": "Water Supply",
+            "code": "WS",
+            "active": true,
+            "orderNumber": "2",
+            "description": "Water Supply"
+           
+        },
+		
+	    {
+            "name": "Telephone",
+            "code": "TL",
+            "active": true,
+            "orderNumber": "3",
+            "description": "Telephone"
+           
+        },
+		{
+            "name": "Sewerage",
+            "code": "SW",
+            "active": true,
+            "orderNumber": "4",
+            "description": "Sewerage"
+           
+        }
+
+  ]
+  }

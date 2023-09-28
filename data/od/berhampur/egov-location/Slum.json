@@ -1,0 +1,1210 @@
+{
+    "tenantId": "od.belpahar",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Haridakhandi Dhoba Sahi",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Haridakhandi Bauri Sahi",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Haridakhandi Harijana Sahi",
+            "ward": "01",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Haridakhandi Kadalibada Sahi",
+            "ward": "01",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Haridakhandi Bada Sahi",
+            "ward": "01",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Haridakhandi Redika Sahi",
+            "ward": "01",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Haridakhandi Acharya Sahi",
+            "ward": "01",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Chandania Pahada",
+            "ward": "01",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Anadrigram",
+            "ward": "01",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Matia Sahi",
+            "ward": "01",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Haridakhandi Tota Sahi",
+            "ward": "01",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "G. Raghunath Pur",
+            "ward": "01",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Haridakhandi Gouda Sahi",
+            "ward": "01",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Uttaramukhi",
+            "ward": "01",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Bauria Sukunda",
+            "ward": "01",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Kailash Nagar",
+            "ward": "01",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Haridakhandi Road",
+            "ward": "02",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Anand Nagar",
+            "ward": "02",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Mahuri Kalia Sahi",
+            "ward": "02",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Kasi Nagar",
+            "ward": "02",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Digapahandi Road",
+            "ward": "02",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Jagabandhu Dandasi Sahi",
+            "ward": "02",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Sramika Nagar",
+            "ward": "02",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Canal Sahi",
+            "ward": "02",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Burma Colony",
+            "ward": "02",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Dhoba Bandha Huda Sahi",
+            "ward": "03",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Gurumurty Peta",
+            "ward": "03",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Raghupati Nagar",
+            "ward": "03",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Dhanmera Sahi",
+            "ward": "04",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Nelia Bandha Sahi",
+            "ward": "04",
+            "code": "SLM30",
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "Pichpicha Nagar",
+            "ward": "04",
+            "code": "SLM31",
+            "isActive": true
+        },
+        {
+            "id": 32,
+            "name": "Somnath/Trinath Nagar",
+            "ward": "05",
+            "code": "SLM32",
+            "isActive": true
+        },
+        {
+            "id": 33,
+            "name": "Bank Colony (Nabin Nagar)",
+            "ward": "06",
+            "code": "SLM33",
+            "isActive": true
+        },
+        {
+            "id": 34,
+            "name": "Dhoba Sahi, Gate Bazar",
+            "ward": "06",
+            "code": "SLM34",
+            "isActive": true
+        },
+        {
+            "id": 35,
+            "name": "Dandasi Sahi",
+            "ward": "06",
+            "code": "SLM35",
+            "isActive": true
+        },
+        {
+            "id": 36,
+            "name": "Radhakrishna Bila Sahi",
+            "ward": "06",
+            "code": "SLM36",
+            "isActive": true
+        },
+        {
+            "id": 37,
+            "name": "Mukteshwar Bila Sahi",
+            "ward": "06",
+            "code": "SLM37",
+            "isActive": true
+        },
+        {
+            "id": 38,
+            "name": "Sarojini Peta",
+            "ward": "07",
+            "code": "SLM38",
+            "isActive": true
+        },
+        {
+            "id": 39,
+            "name": "Gramadevati Dandasi Street & Jagili Street",
+            "ward": "07",
+            "code": "SLM39",
+            "isActive": true
+        },
+        {
+            "id": 40,
+            "name": "Jena Sahi",
+            "ward": "07",
+            "code": "SLM40",
+            "isActive": true
+        },
+        {
+            "id": 41,
+            "name": "Gramadebati Bauri Sahi",
+            "ward": "07",
+            "code": "SLM41",
+            "isActive": true
+        },
+        {
+            "id": 42,
+            "name": "Gobardhan Peta",
+            "ward": "07",
+            "code": "SLM42",
+            "isActive": true
+        },
+        {
+            "id": 43,
+            "name": "Bariha Billa Sahi",
+            "ward": "07",
+            "code": "SLM43",
+            "isActive": true
+        },
+        {
+            "id": 44,
+            "name": "Ganesh Nagar",
+            "ward": "09",
+            "code": "SLM44",
+            "isActive": true
+        },
+        {
+            "id": 45,
+            "name": "Jagabandhu Huda Sahi",
+            "ward": "09",
+            "code": "SLM45",
+            "isActive": true
+        },
+        {
+            "id": 46,
+            "name": "Medri Sahi",
+            "ward": "09",
+            "code": "SLM46",
+            "isActive": true
+        },
+        {
+            "id": 47,
+            "name": "Jagabandhu Sahi",
+            "ward": "09",
+            "code": "SLM47",
+            "isActive": true
+        },
+        {
+            "id": 48,
+            "name": "Aina Bandha Sahi",
+            "ward": "10",
+            "code": "SLM48",
+            "isActive": true
+        },
+        {
+            "id": 49,
+            "name": "Dhoba Bandha Huda",
+            "ward": "10",
+            "code": "SLM49",
+            "isActive": true
+        },
+        {
+            "id": 50,
+            "name": "Gangadhar Sahi",
+            "ward": "10",
+            "code": "SLM50",
+            "isActive": true
+        },
+        {
+            "id": 51,
+            "name": "Pandab Nagar",
+            "ward": "10",
+            "code": "SLM51",
+            "isActive": true
+        },
+        {
+            "id": 52,
+            "name": "Radhakanta Sahi",
+            "ward": "10",
+            "code": "SLM52",
+            "isActive": true
+        },
+        {
+            "id": 53,
+            "name": "Sita Dhimira Sahi",
+            "ward": "10",
+            "code": "SLM53",
+            "isActive": true
+        },
+        {
+            "id": 54,
+            "name": "Tota Bandha Sahi",
+            "ward": "10",
+            "code": "SLM54",
+            "isActive": true
+        },
+        {
+            "id": 55,
+            "name": "Martha Sahi",
+            "ward": "11",
+            "code": "SLM55",
+            "isActive": true
+        },
+        {
+            "id": 56,
+            "name": "Chandrasekhar Sahi",
+            "ward": "11",
+            "code": "SLM56",
+            "isActive": true
+        },
+        {
+            "id": 57,
+            "name": "Gai Gotha Sahi",
+            "ward": "11",
+            "code": "SLM57",
+            "isActive": true
+        },
+        {
+            "id": 58,
+            "name": "Nilanchal Sahi",
+            "ward": "11",
+            "code": "SLM58",
+            "isActive": true
+        },
+        {
+            "id": 59,
+            "name": "Old Berhampur Bauri Sahi",
+            "ward": "11",
+            "code": "SLM59",
+            "isActive": true
+        },
+        {
+            "id": 60,
+            "name": "Harihar Nagar & Sahu Colony",
+            "ward": "12",
+            "code": "SLM60",
+            "isActive": true
+        },
+        {
+            "id": 61,
+            "name": "Harijan Basti Municipality Colony",
+            "ward": "12",
+            "code": "SLM61",
+            "isActive": true
+        },
+        {
+            "id": 62,
+            "name": "Leprocy Colony Prem Nagar 6Th Line Extension ",
+            "ward": "12",
+            "code": "SLM62",
+            "isActive": true
+        },
+        {
+            "id": 63,
+            "name": "Surjya Panda Cannal Sahi",
+            "ward": "12",
+            "code": "SLM63",
+            "isActive": true
+        },
+        {
+            "id": 64,
+            "name": "Prem Nagar Canal Sahi",
+            "ward": "12",
+            "code": "SLM64",
+            "isActive": true
+        },
+        {
+            "id": 65,
+            "name": "Purnabasi Colony",
+            "ward": "12",
+            "code": "SLM65",
+            "isActive": true
+        },
+        {
+            "id": 66,
+            "name": "Nilakantheswar Smasan Sahi & Muslim Bureli Street",
+            "ward": "12",
+            "code": "SLM66",
+            "isActive": true
+        },
+        {
+            "id": 67,
+            "name": "Bandhahuda",
+            "ward": "13",
+            "code": "SLM67",
+            "isActive": true
+        },
+        {
+            "id": 68,
+            "name": "Diamond Tank Bauri Sahi",
+            "ward": "13",
+            "code": "SLM68",
+            "isActive": true
+        },
+        {
+            "id": 69,
+            "name": "Aravind Nagar",
+            "ward": "14",
+            "code": "SLM69",
+            "isActive": true
+        },
+        {
+            "id": 70,
+            "name": "Nirakar Nagar",
+            "ward": "14",
+            "code": "SLM70",
+            "isActive": true
+        },
+        {
+            "id": 71,
+            "name": "Gudia Deula Sahi & Salia Bandha Huda",
+            "ward": "14",
+            "code": "SLM71",
+            "isActive": true
+        },
+        {
+            "id": 72,
+            "name": "Golabacha Nagar",
+            "ward": "14",
+            "code": "SLM72",
+            "isActive": true
+        },
+        {
+            "id": 73,
+            "name": "Gopal Rao Garuda Street",
+            "ward": "15",
+            "code": "SLM73",
+            "isActive": true
+        },
+        {
+            "id": 74,
+            "name": "Kalika Mandira Sahi, Pakalvari Sahi",
+            "ward": "15",
+            "code": "SLM74",
+            "isActive": true
+        },
+        {
+            "id": 75,
+            "name": "Kansari Sahi And Thakurani Mandira Sahi",
+            "ward": "15",
+            "code": "SLM75",
+            "isActive": true
+        },
+        {
+            "id": 76,
+            "name": "Powell Street And Diamond Tank Road",
+            "ward": "15",
+            "code": "SLM76",
+            "isActive": true
+        },
+        {
+            "id": 77,
+            "name": "Khalasi Sahi",
+            "ward": "16",
+            "code": "SLM77",
+            "isActive": true
+        },
+        {
+            "id": 78,
+            "name": "Giri Market",
+            "ward": "16",
+            "code": "SLM78",
+            "isActive": true
+        },
+        {
+            "id": 79,
+            "name": "Patra Peta Sahi",
+            "ward": "16",
+            "code": "SLM79",
+            "isActive": true
+        },
+        {
+            "id": 80,
+            "name": "Dhoba Street",
+            "ward": "16",
+            "code": "SLM80",
+            "isActive": true
+        },
+        {
+            "id": 81,
+            "name": "Bhandari Sahi",
+            "ward": "16",
+            "code": "SLM81",
+            "isActive": true
+        },
+        {
+            "id": 82,
+            "name": "Canal Street Near Amit Hospital ",
+            "ward": "17",
+            "code": "SLM82",
+            "isActive": true
+        },
+        {
+            "id": 83,
+            "name": "Khaja Road",
+            "ward": "17",
+            "code": "SLM83",
+            "isActive": true
+        },
+        {
+            "id": 84,
+            "name": "Mochi Street",
+            "ward": "17",
+            "code": "SLM84",
+            "isActive": true
+        },
+        {
+            "id": 85,
+            "name": "Radhakrishna Canal Street",
+            "ward": "17",
+            "code": "SLM85",
+            "isActive": true
+        },
+        {
+            "id": 86,
+            "name": "Balaji Pentha Huda",
+            "ward": "18",
+            "code": "SLM86",
+            "isActive": true
+        },
+        {
+            "id": 87,
+            "name": "Gola Sahi",
+            "ward": "18",
+            "code": "SLM87",
+            "isActive": true
+        },
+        {
+            "id": 88,
+            "name": "Hanuman Nagar And Canal Huda",
+            "ward": "18",
+            "code": "SLM88",
+            "isActive": true
+        },
+        {
+            "id": 89,
+            "name": "Mathura Nagar",
+            "ward": "18",
+            "code": "SLM89",
+            "isActive": true
+        },
+        {
+            "id": 90,
+            "name": "Phula Sundari Bandha Huda",
+            "ward": "18",
+            "code": "SLM90",
+            "isActive": true
+        },
+        {
+            "id": 91,
+            "name": "Badhei Street",
+            "ward": "19",
+            "code": "SLM91",
+            "isActive": true
+        },
+        {
+            "id": 92,
+            "name": "Badakhemundi Bauri Street (Tota Palli Bauri Sahi)",
+            "ward": "19",
+            "code": "SLM92",
+            "isActive": true
+        },
+        {
+            "id": 93,
+            "name": "Mukteswar Bandha Street",
+            "ward": "19",
+            "code": "SLM93",
+            "isActive": true
+        },
+        {
+            "id": 94,
+            "name": "Golapali Sahi",
+            "ward": "20",
+            "code": "SLM94",
+            "isActive": true
+        },
+        {
+            "id": 95,
+            "name": "Anand Sarani Canal Street",
+            "ward": "20",
+            "code": "SLM95",
+            "isActive": true
+        },
+        {
+            "id": 96,
+            "name": "Surya Nagar",
+            "ward": "20",
+            "code": "SLM96",
+            "isActive": true
+        },
+        {
+            "id": 97,
+            "name": "Damba Sahi ",
+            "ward": "20",
+            "code": "SLM97",
+            "isActive": true
+        },
+        {
+            "id": 98,
+            "name": "Mohan Nagar",
+            "ward": "20",
+            "code": "SLM98",
+            "isActive": true
+        },
+        {
+            "id": 99,
+            "name": "Jagili Street",
+            "ward": "21",
+            "code": "SLM99",
+            "isActive": true
+        },
+        {
+            "id": 100,
+            "name": "Bada Harijan Sahi",
+            "ward": "21",
+            "code": "SLM100",
+            "isActive": true
+        },
+        {
+            "id": 101,
+            "name": "Sana Harijan Sahi",
+            "ward": "21",
+            "code": "SLM101",
+            "isActive": true
+        },
+        {
+            "id": 102,
+            "name": "Canal Street",
+            "ward": "21",
+            "code": "SLM102",
+            "isActive": true
+        },
+        {
+            "id": 103,
+            "name": "Dhoba Sahi",
+            "ward": "21",
+            "code": "SLM103",
+            "isActive": true
+        },
+        {
+            "id": 104,
+            "name": "Dasiri Sahi",
+            "ward": "21",
+            "code": "SLM104",
+            "isActive": true
+        },
+        {
+            "id": 105,
+            "name": "Mochi Street",
+            "ward": "21",
+            "code": "SLM105",
+            "isActive": true
+        },
+        {
+            "id": 106,
+            "name": "Keuta Sahi",
+            "ward": "22",
+            "code": "SLM106",
+            "isActive": true
+        },
+        {
+            "id": 107,
+            "name": "Keuta Sahi & New Laxmi Nagar",
+            "ward": "22",
+            "code": "SLM107",
+            "isActive": true
+        },
+        {
+            "id": 108,
+            "name": "Gandhi Nagar Canal Sahi",
+            "ward": "23",
+            "code": "SLM108",
+            "isActive": true
+        },
+        {
+            "id": 109,
+            "name": "Bijipur Sana Bauri Street & Laxmi Street",
+            "ward": "24",
+            "code": "SLM109",
+            "isActive": true
+        },
+        {
+            "id": 110,
+            "name": "Bijipur Bandha Street",
+            "ward": "24",
+            "code": "SLM110",
+            "isActive": true
+        },
+        {
+            "id": 111,
+            "name": "Bijipur Bada Bauri Street",
+            "ward": "24",
+            "code": "SLM111",
+            "isActive": true
+        },
+        {
+            "id": 112,
+            "name": "Uttareswar Nagar",
+            "ward": "25",
+            "code": "SLM112",
+            "isActive": true
+        },
+        {
+            "id": 113,
+            "name": "Dhimira Bauri Street",
+            "ward": "25",
+            "code": "SLM113",
+            "isActive": true
+        },
+        {
+            "id": 114,
+            "name": "Chandi Street",
+            "ward": "25",
+            "code": "SLM114",
+            "isActive": true
+        },
+        {
+            "id": 115,
+            "name": "Gosaninuagaon Tota Street",
+            "ward": "25",
+            "code": "SLM115",
+            "isActive": true
+        },
+        {
+            "id": 116,
+            "name": "Mandia Padara Street",
+            "ward": "25",
+            "code": "SLM116",
+            "isActive": true
+        },
+        {
+            "id": 117,
+            "name": "Raja Dhoba Sahi",
+            "ward": "26",
+            "code": "SLM117",
+            "isActive": true
+        },
+        {
+            "id": 118,
+            "name": "Dhoba Sahi Main Road",
+            "ward": "26",
+            "code": "SLM118",
+            "isActive": true
+        },
+        {
+            "id": 119,
+            "name": "Salia Bandha Sahi",
+            "ward": "26",
+            "code": "SLM119",
+            "isActive": true
+        },
+        {
+            "id": 120,
+            "name": "Kalua Bauri Sahi",
+            "ward": "26",
+            "code": "SLM120",
+            "isActive": true
+        },
+        {
+            "id": 121,
+            "name": "Trinath Mandir Street",
+            "ward": "27",
+            "code": "SLM121",
+            "isActive": true
+        },
+        {
+            "id": 122,
+            "name": "Chanchada Pathar",
+            "ward": "27",
+            "code": "SLM122",
+            "isActive": true
+        },
+        {
+            "id": 123,
+            "name": "Somanatha Nagar, Khajuria Rd.",
+            "ward": "27",
+            "code": "SLM123",
+            "isActive": true
+        },
+        {
+            "id": 124,
+            "name": "Khajuria Road",
+            "ward": "27",
+            "code": "SLM124",
+            "isActive": true
+        },
+        {
+            "id": 125,
+            "name": "Santi Nagar",
+            "ward": "27",
+            "code": "SLM125",
+            "isActive": true
+        },
+        {
+            "id": 126,
+            "name": "Nehru Nagar 9Th & 10Th",
+            "ward": "27",
+            "code": "SLM126",
+            "isActive": true
+        },
+        {
+            "id": 127,
+            "name": "Sishu Mandir Road",
+            "ward": "27",
+            "code": "SLM127",
+            "isActive": true
+        },
+        {
+            "id": 128,
+            "name": "Main Road Dhoba Street",
+            "ward": "27",
+            "code": "SLM128",
+            "isActive": true
+        },
+        {
+            "id": 129,
+            "name": "Harihar Nagar",
+            "ward": "27",
+            "code": "SLM129",
+            "isActive": true
+        },
+        {
+            "id": 130,
+            "name": "Invalid Peta",
+            "ward": "29",
+            "code": "SLM130",
+            "isActive": true
+        },
+        {
+            "id": 131,
+            "name": "Giri Road",
+            "ward": "30",
+            "code": "SLM131",
+            "isActive": true
+        },
+        {
+            "id": 132,
+            "name": "Kamapalli Dandasi Sahi",
+            "ward": "31",
+            "code": "SLM132",
+            "isActive": true
+        },
+        {
+            "id": 133,
+            "name": "Ashok Nagar Padia Sahi",
+            "ward": "31",
+            "code": "SLM133",
+            "isActive": true
+        },
+        {
+            "id": 134,
+            "name": "Chanchada Pathara",
+            "ward": "32",
+            "code": "SLM134",
+            "isActive": true
+        },
+        {
+            "id": 135,
+            "name": "Chandrasekhar Road",
+            "ward": "32",
+            "code": "SLM135",
+            "isActive": true
+        },
+        {
+            "id": 136,
+            "name": "Dandasi Sahi",
+            "ward": "32",
+            "code": "SLM136",
+            "isActive": true
+        },
+        {
+            "id": 137,
+            "name": "Sree Nagar",
+            "ward": "32",
+            "code": "SLM137",
+            "isActive": true
+        },
+        {
+            "id": 138,
+            "name": "Goilundi Mainroad",
+            "ward": "32",
+            "code": "SLM138",
+            "isActive": true
+        },
+        {
+            "id": 139,
+            "name": "Ram Nagar Odia Sahi",
+            "ward": "34",
+            "code": "SLM139",
+            "isActive": true
+        },
+        {
+            "id": 140,
+            "name": "Deepa Harijansahi, Lanji Palli",
+            "ward": "35",
+            "code": "SLM140",
+            "isActive": true
+        },
+        {
+            "id": 141,
+            "name": "Ram Nagar, Lanjipalli",
+            "ward": "35",
+            "code": "SLM141",
+            "isActive": true
+        },
+        {
+            "id": 142,
+            "name": "Dandasi Sahi, Lanjipalli",
+            "ward": "36",
+            "code": "SLM142",
+            "isActive": true
+        },
+        {
+            "id": 143,
+            "name": "Chandi Street",
+            "ward": "36",
+            "code": "SLM143",
+            "isActive": true
+        },
+        {
+            "id": 144,
+            "name": "Harijana Sahi, Lanjipalli",
+            "ward": "36",
+            "code": "SLM144",
+            "isActive": true
+        },
+        {
+            "id": 145,
+            "name": "Lanjipalli Main Road(Bauri Sahi, Adua Sahi & Keuta Sahi)",
+            "ward": "36",
+            "code": "SLM145",
+            "isActive": true
+        },
+        {
+            "id": 146,
+            "name": "Lanjipalli Main Road",
+            "ward": "36",
+            "code": "SLM146",
+            "isActive": true
+        },
+        {
+            "id": 147,
+            "name": "Bapuji Nagar ",
+            "ward": "36",
+            "code": "SLM147",
+            "isActive": true
+        },
+        {
+            "id": 148,
+            "name": "Lanjipalli Totasahi",
+            "ward": "37",
+            "code": "SLM148",
+            "isActive": true
+        },
+        {
+            "id": 149,
+            "name": "Bhairabi Nagar ",
+            "ward": "37",
+            "code": "SLM149",
+            "isActive": true
+        },
+        {
+            "id": 150,
+            "name": "Brundabannagar Hota Colony",
+            "ward": "37",
+            "code": "SLM150",
+            "isActive": true
+        },
+        {
+            "id": 151,
+            "name": "Bira Musti Sahi",
+            "ward": "37",
+            "code": "SLM151",
+            "isActive": true
+        },
+        {
+            "id": 152,
+            "name": "Pankella Palli",
+            "ward": "37",
+            "code": "SLM152",
+            "isActive": true
+        },
+        {
+            "id": 153,
+            "name": "Dandasi Sahi, Ankuli",
+            "ward": "38",
+            "code": "SLM153",
+            "isActive": true
+        },
+        {
+            "id": 154,
+            "name": "Kalinji Sahi",
+            "ward": "38",
+            "code": "SLM154",
+            "isActive": true
+        },
+        {
+            "id": 155,
+            "name": "Pradhan Sahi ",
+            "ward": "38",
+            "code": "SLM155",
+            "isActive": true
+        },
+        {
+            "id": 156,
+            "name": "Ananda Nagar",
+            "ward": "38",
+            "code": "SLM156",
+            "isActive": true
+        },
+        {
+            "id": 157,
+            "name": "Jaleswarpur",
+            "ward": "38",
+            "code": "SLM157",
+            "isActive": true
+        },
+        {
+            "id": 158,
+            "name": "Reddy Sahi",
+            "ward": "38",
+            "code": "SLM158",
+            "isActive": true
+        },
+        {
+            "id": 159,
+            "name": "Ankuli Sano Bauri Sahi",
+            "ward": "38",
+            "code": "SLM159",
+            "isActive": true
+        },
+        {
+            "id": 160,
+            "name": "Ankuli Bada Bauri Sahi",
+            "ward": "38",
+            "code": "SLM160",
+            "isActive": true
+        },
+        {
+            "id": 161,
+            "name": "Dhoba Sahi(Ankuli)",
+            "ward": "38",
+            "code": "SLM161",
+            "isActive": true
+        },
+        {
+            "id": 162,
+            "name": "Karji Sahi",
+            "ward": "38",
+            "code": "SLM162",
+            "isActive": true
+        },
+        {
+            "id": 163,
+            "name": "Nua Sahi",
+            "ward": "38",
+            "code": "SLM163",
+            "isActive": true
+        },
+        {
+            "id": 164,
+            "name": "Ankuli Mali Sahi",
+            "ward": "38",
+            "code": "SLM164",
+            "isActive": true
+        },
+        {
+            "id": 165,
+            "name": "Bada Sahi, Hadi Sahi",
+            "ward": "38",
+            "code": "SLM165",
+            "isActive": true
+        },
+        {
+            "id": 166,
+            "name": "Main Road Sundhi Sahi",
+            "ward": "38",
+            "code": "SLM166",
+            "isActive": true
+        },
+        {
+            "id": 167,
+            "name": "Panda Coloney(Bandha Huda)",
+            "ward": "39",
+            "code": "SLM167",
+            "isActive": true
+        },
+        {
+            "id": 168,
+            "name": "New Bauri Sahi(Khodasingh)",
+            "ward": "39",
+            "code": "SLM168",
+            "isActive": true
+        },
+        {
+            "id": 169,
+            "name": "Bauri Sahi (Ambapua)",
+            "ward": "40",
+            "code": "SLM169",
+            "isActive": true
+        },
+        {
+            "id": 170,
+            "name": "Old Bauri Sahi",
+            "ward": "40",
+            "code": "SLM170",
+            "isActive": true
+        },
+        {
+            "id": 171,
+            "name": "Dhobasahi (Khodasangi) ",
+            "ward": "40",
+            "code": "SLM171",
+            "isActive": true
+        },
+        {
+            "id": 172,
+            "name": "Dhobasahi(Ambapua)",
+            "ward": "40",
+            "code": "SLM172",
+            "isActive": true
+        }
+    ]
+}

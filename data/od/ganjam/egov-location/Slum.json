@@ -1,0 +1,27 @@
+{
+    "tenantId": "od.ganjam",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Badabazar Harijana Sahi",
+            "ward": "05",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Tandasi Sahi",
+            "ward": "05",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Bali Harijana Sahi",
+            "ward": "07",
+            "code": "SLM3",
+            "isActive": true
+        }
+    ]
+}

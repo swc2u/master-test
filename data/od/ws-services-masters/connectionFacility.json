@@ -1,0 +1,21 @@
+{
+  "tenantId": "od",
+  "moduleName": "ws-services-masters",
+  "connectionFacility": [
+    {
+      "name": "Water",
+      "code": "WATER",
+      "active": true
+    },
+    {
+      "name": "Sewerage",
+      "code": "SEWERAGE",
+      "active": true
+    },
+    {
+      "name": "Water and Sewerage",
+      "code": "WATER-SEWERAGE",
+      "active": true
+    }
+  ]
+}

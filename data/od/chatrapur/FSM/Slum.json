@@ -1,0 +1,30 @@
+{
+    "tenantId": "od.chatrapur",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Nua Sahi",
+            "active": true,
+            "code": "CHAT001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Metta Colony",
+            "active": true,
+            "code": "CHAT002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kapila Horizon Sahi",
+            "active": true,
+            "code": "CHAT003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Shanti nagar Relocated Slum",
+            "active": true,
+            "code": "CHAT004",
+            "locality": "VIL1"
+        }
+    ]
+}

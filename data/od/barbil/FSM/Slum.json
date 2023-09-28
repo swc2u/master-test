@@ -1,0 +1,264 @@
+{
+    "tenantId": "od.barbil",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Hesaburu Oriya Basti, Munda Sahi",
+            "active": true,
+            "code": "BARB001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Hirakud Colony",
+            "active": true,
+            "code": "BARB002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nepali Hutting and Gate Area",
+            "active": true,
+            "code": "BARB003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dhipa Hutting and Jahira Hutting",
+            "active": true,
+            "code": "BARB004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Khapara Hutting",
+            "active": true,
+            "code": "BARB005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Seding Basti",
+            "active": true,
+            "code": "BARB006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Buru Hutting",
+            "active": true,
+            "code": "BARB007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nepali Hutting and Majhi Hutting",
+            "active": true,
+            "code": "BARB008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Upper Basti and Sweeper Colony",
+            "active": true,
+            "code": "BARB009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "S. Lal Hutting and Sriram Nagar",
+            "active": true,
+            "code": "BARB010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sedding Hutting",
+            "active": true,
+            "code": "BARB011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tata Hutting and Patra Sahi",
+            "active": true,
+            "code": "BARB012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Paul Hutting",
+            "active": true,
+            "code": "BARB013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Lebe Hutting",
+            "active": true,
+            "code": "BARB014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Santabahal Basti",
+            "active": true,
+            "code": "BARB015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Megazine Hutting",
+            "active": true,
+            "code": "BARB016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bakal Hutting",
+            "active": true,
+            "code": "BARB017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Maharana Sahi",
+            "active": true,
+            "code": "BARB018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bhanja Colony and Kalandi Sahi",
+            "active": true,
+            "code": "BARB019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bagiaburu Hutting and NAC Hutting",
+            "active": true,
+            "code": "BARB020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Barkat Nagar",
+            "active": true,
+            "code": "BARB021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dressing Hutting and Tiria Hutting",
+            "active": true,
+            "code": "BARB022",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Pacca Hutting",
+            "active": true,
+            "code": "BARB023",
+            "locality": "VIL1"
+        },
+        {
+            "name": "S. Lal Hutting",
+            "active": true,
+            "code": "BARB024",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Azad Basti",
+            "active": true,
+            "code": "BARB025",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dhobi Hutting",
+            "active": true,
+            "code": "BARB026",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gada Hutting",
+            "active": true,
+            "code": "BARB027",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sundara Basti",
+            "active": true,
+            "code": "BARB028",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chatei Hutting",
+            "active": true,
+            "code": "BARB029",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Laxmi Nagar",
+            "active": true,
+            "code": "BARB030",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Indira Colony",
+            "active": true,
+            "code": "BARB031",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Industrial Area",
+            "active": true,
+            "code": "BARB032",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jhupudi Hutting",
+            "active": true,
+            "code": "BARB033",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Railway siding Area",
+            "active": true,
+            "code": "BARB034",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Durby Chhawk",
+            "active": true,
+            "code": "BARB035",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Uttamsingh Hutting",
+            "active": true,
+            "code": "BARB036",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Weibridge Hutting",
+            "active": true,
+            "code": "BARB037",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mandira Hutting",
+            "active": true,
+            "code": "BARB038",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tapan Hutting",
+            "active": true,
+            "code": "BARB039",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Damu Hutting",
+            "active": true,
+            "code": "BARB040",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sundara Basti",
+            "active": true,
+            "code": "BARB041",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sadhusingh Hutting(Part 1)",
+            "active": true,
+            "code": "BARB042",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sadhusingh Hutting(Part 2)",
+            "active": true,
+            "code": "BARB043",
+            "locality": "VIL1"
+        }
+    ]
+}

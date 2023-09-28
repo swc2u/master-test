@@ -1,0 +1,48 @@
+{
+    "tenantId": "od.tarbha",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Tarbha Harijan Pada Basti",
+            "ward": "06",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Chamar Pada Basti",
+            "ward": "06",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Maharpada Basti",
+            "ward": "02",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Tanlapada Basti",
+            "ward": "06",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Ghasipada Basti",
+            "ward": "06",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Tentelghat Nadikhandi Basti",
+            "ward": "01",
+            "code": "SLM6",
+            "isActive": true
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "tenantId": "od",
+    "moduleName": "DIGIT-UI",
+    "PaymentGateway": [{
+        "gateway": "CCAVENUE",
+        "active": true
+    },
+    {
+        "gateway": "RAZORPAY",
+        "active": true
+    }]
+} 

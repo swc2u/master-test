@@ -1,0 +1,35 @@
+{
+    "tenantId": "od.hinjilicut",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Laxmi Bazar Harijan",
+        "active": true,
+        "code": "HNSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sunari Dhimira",
+        "active": true,
+        "code": "HNSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sompur Rukhhi Sahi",
+        "active": true,
+        "code": "HNSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuagada Bauri Sahi",
+        "active": true,
+        "code": "HNSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "P.HD Office Back Side,Medical and Tahasil Back Side, Puruna Goruhata",
+        "active": true,
+        "code": "HNSL005",
+        "locality": "VIL1"
+    }]
+}

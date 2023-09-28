@@ -1,0 +1,198 @@
+{
+    "tenantId": "od.vyasanagar",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Panasia Adibasi sahi",
+            "active": true,
+            "code": "VYAS001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bank sahi",
+            "active": true,
+            "code": "VYAS002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Majhisahi",
+            "active": true,
+            "code": "VYAS003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Rampas Bangalisahi",
+            "active": true,
+            "code": "VYAS004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Laxminagar Adibasisahi",
+            "active": true,
+            "code": "VYAS005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Laxminagar Hudisahi",
+            "active": true,
+            "code": "VYAS006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nuasahi(Rampas)",
+            "active": true,
+            "code": "VYAS007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Satakania Harijan sahi",
+            "active": true,
+            "code": "VYAS008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jogisahi",
+            "active": true,
+            "code": "VYAS009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Rampas Harijan sahi",
+            "active": true,
+            "code": "VYAS010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mali Adibasi sahi",
+            "active": true,
+            "code": "VYAS011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kachahudi sahi",
+            "active": true,
+            "code": "VYAS012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Moharam adibasi sahi",
+            "active": true,
+            "code": "VYAS013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Hudi Adibasisahi chandama",
+            "active": true,
+            "code": "VYAS014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chandama Sabarsahi",
+            "active": true,
+            "code": "VYAS015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chorda Sabar sahi",
+            "active": true,
+            "code": "VYAS016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chorda Harijansahi-1",
+            "active": true,
+            "code": "VYAS017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Digi Harijansahi",
+            "active": true,
+            "code": "VYAS018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Umapada Harijansahi",
+            "active": true,
+            "code": "VYAS019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sapagadia Adibasi sahi",
+            "active": true,
+            "code": "VYAS020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "N.C Highschool Sweeper sahi",
+            "active": true,
+            "code": "VYAS021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mituani Sweeper sahi",
+            "active": true,
+            "code": "VYAS022",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Santara Harijansahi",
+            "active": true,
+            "code": "VYAS023",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kopanda silapokhari",
+            "active": true,
+            "code": "VYAS024",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kopanda Mukhisahi",
+            "active": true,
+            "code": "VYAS025",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mundumal Harijansahi",
+            "active": true,
+            "code": "VYAS026",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tina hurting",
+            "active": true,
+            "code": "VYAS027",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Leprocy colony",
+            "active": true,
+            "code": "VYAS028",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dahisahi – 2",
+            "active": true,
+            "code": "VYAS029",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dahisahi – 1",
+            "active": true,
+            "code": "VYAS030",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jagannath Adibasisahi",
+            "active": true,
+            "code": "VYAS031",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Khandahata Harijansahi",
+            "active": true,
+            "code": "VYAS032",
+            "locality": "VIL1"
+        }
+    ]
+}

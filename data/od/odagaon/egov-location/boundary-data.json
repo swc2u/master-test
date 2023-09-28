@@ -1,0 +1,440 @@
+{
+  "tenantId": "od.odagaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Odagaon",
+        "localname": "Odagaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.odagaon",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Mathakhajuria",
+            "localname": "Mathakhajuria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Bilamanpur",
+            "localname": "Bilamanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kumbhiapalli",
+            "localname": "Kumbhiapalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Odagaon (CT)",
+            "localname": "Odagaon (CT)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Dalak",
+            "localname": "Dalak",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Jaringi",
+            "localname": "Jaringi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Kadalibandha",
+            "localname": "Kadalibandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Akhupadar",
+            "localname": "Akhupadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+		  {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Ranganipattana",
+            "localname": "Ranganipattana",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG1",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Massabari",
+            "localname": "Massabari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG2",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Komanda",
+            "localname": "Komanda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG3",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Kurala",
+            "localname": "Kurala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG4",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Rohibanka",
+            "localname": "Rohibanka",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG5",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Sakeri",
+            "localname": "Sakeri",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG6",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Korapitha",
+            "localname": "Korapitha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG7",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Rabera",
+            "localname": "Rabera",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG8",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Nandighara",
+            "localname": "Nandighara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG9",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Gaudaput",
+            "localname": "Gaudaput",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG10",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Banthapur",
+            "localname": "Banthapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG11",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Sradhapur",
+            "localname": "Sradhapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG12",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Bhadikila",
+            "localname": "Bhadikila",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG13",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Magarabandha",
+            "localname": "Magarabandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG14",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Rabigadia",
+            "localname": "Rabigadia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG15",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Sunamuhi",
+            "localname": "Sunamuhi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG16",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Giridipalli",
+            "localname": "Giridipalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG17",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Panderipada",
+            "localname": "Panderipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG18",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "ODG19",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Odagaon",
+        "localname": "Odagaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.odagaon",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Mathakhajuria",
+            "localname": "Mathakhajuria",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Bilamanpur",
+            "localname": "Bilamanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Kumbhiapalli",
+            "localname": "Kumbhiapalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Odagaon (CT)",
+            "localname": "Odagaon (CT)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Dalak",
+            "localname": "Dalak",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Jaringi",
+            "localname": "Jaringi",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Kadalibandha",
+            "localname": "Kadalibandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Akhupadar",
+            "localname": "Akhupadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+    "tenantId": "od.angul",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Bharat Nagar",
+        "active": true,
+        "code": "ANSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Soubhagya Nagar",
+        "active": true,
+        "code": "ANSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hakimpada Happy Bandha Sahi",
+        "active": true,
+        "code": "ANSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Womens College Backside",
+        "active": true,
+        "code": "ANSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Radharamanpada",
+        "active": true,
+        "code": "ANSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Rajkishorpada",
+        "active": true,
+        "code": "ANSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jabardastipada",
+        "active": true,
+        "code": "ANSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nakhera Sahi",
+        "active": true,
+        "code": "ANSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sweeper Colony",
+        "active": true,
+        "code": "ANSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Harijansahi Hemsurpada",
+        "active": true,
+        "code": "ANSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dolamandap Sahi",
+        "active": true,
+        "code": "ANSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Muslimsahi Amlapada",
+        "active": true,
+        "code": "ANSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jayananda Marg",
+        "active": true,
+        "code": "ANSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gasi Sahi Basti",
+        "active": true,
+        "code": "ANSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kamar Sahi Basti",
+        "active": true,
+        "code": "ANSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hulurisingha Hadi Sahi Basti",
+        "active": true,
+        "code": "ANSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hulurisingha Pan Sahi Basti",
+        "active": true,
+        "code": "ANSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hakimpada Ladies Hostel Side Basti",
+        "active": true,
+        "code": "ANSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hulurisingha Barik Sahi Basti",
+        "active": true,
+        "code": "ANSL019",
+        "locality": "VIL1"
+    },
+    {
+        "name": "In Front Of Guru Govinda Dham At Gandhi Marg Basti",
+        "active": true,
+        "code": "ANSL020",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Backside Of Industrial Estate Slum Basti",
+        "active": true,
+        "code": "ANSL021",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Infront Of Truck Owners Association Slum Upto Namra Palace Hotel Slum Basti",
+        "active": true,
+        "code": "ANSL022",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hulurisingha Nuhura Sahi Slum Basti",
+        "active": true,
+        "code": "ANSL023",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hulurisingha Tiyar Sahi Slum Basti",
+        "active": true,
+        "code": "ANSL024",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hulurisingha Kandha Sahi Slum Basti",
+        "active": true,
+        "code": "ANSL025",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hulurisingha Harijana Sahi Slum Basti",
+        "active": true,
+        "code": "ANSL026",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Radhamadavpada Slum Basti",
+        "active": true,
+        "code": "ANSL027",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Baidyanathsagar Side Slum Basti Madanmohanpada",
+        "active": true,
+        "code": "ANSL028",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mochi Sahi Slum Basti",
+        "active": true,
+        "code": "ANSL029",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Matya Sahi Slum Basti",
+        "active": true,
+        "code": "ANSL030",
+        "locality": "VIL1"
+    }]
+}

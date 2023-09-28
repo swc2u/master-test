@@ -1,0 +1,1785 @@
+{
+  "tenantId": "od",
+  "moduleName": "tenant",
+  "tenantInfo": [
+    {
+      "code": "od.cuttack",
+      "districtCode": "CUTTACK",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.banki",
+      "districtCode": "BANKI",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": [
+        "OD",
+        "GR",
+        "HN"
+      ]
+    },
+    {
+      "code": "od.jatni",
+      "districtCode": "JATNI",
+      "population": "17331",
+      "malePopulation": "10521",
+      "femalePopultion": "6810",
+      "workingPopulation": "33.48",
+      "literacyRate": "62.63",
+      "languagesSpoken": [
+        "GR",
+        "OD",
+        "HN"
+      ]
+    },
+    {
+      "code": "od.angul",
+      "districtCode": "ANGUL",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.berhampurdevelopmentauthority",
+      "districtCode": "BERHMPURMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bhubaneswardevelopmentauthority",
+      "districtCode": "BHUBANESWARMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bhubaneswar",
+      "districtCode": "Bhubaneswar",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.birmitrapur",
+      "districtCode": "BIRAMITRAPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bhubaneswardevelopmentauthority",
+      "districtCode": "BHUBANESWARMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },    
+    {
+      "code": "od.berhampur",
+      "districtCode": "BRHMAPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },  
+    {
+      "code": "od.chatrapur",
+      "districtCode": "CHATRAPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.cuttackdevelopmentauthority",
+      "districtCode": "CUTTACKMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.gopalpur",
+      "districtCode": "GOPALPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kalinganagardevelopmentauthority",
+      "districtCode": "KALINGANAGARMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.khordha",
+      "districtCode": "KHURDA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.konark",
+      "districtCode": "KONARK",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.paradeep",
+      "districtCode": "PARADIP",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.paradipdevelopmentauthority",
+      "districtCode": "PARADIPMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.puri",
+      "districtCode": "PURI",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.purikonarkdevelopmentauthority",
+      "districtCode": "PURIMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.rajgangpur",
+      "districtCode": "RAJGANGPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.rourkela",
+      "districtCode": "ROURKELA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.rourkeladevelopmentauthority",
+      "districtCode": "ROURKELAMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.sambalpur",
+      "districtCode": "SAMBALPUR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.sambalpurdevelopmentauthority",
+      "districtCode": "SAMBALPURMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.sundargarh",
+      "districtCode": "SUNDARGARH",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.talcher",
+      "districtCode": "TALCHER",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.talcherangulmeramandalidevelopmentauthority",
+      "districtCode": "TAMDAMOUZA",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.vyasanagar",
+      "districtCode": "VYASANAGAR",
+      "population": "12507",
+      "malePopulation": "6810",
+      "femalePopultion": "5697",
+      "workingPopulation": "33.70",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.dhenkanal",
+      "districtCode": "6",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.balasore",
+      "districtCode": "7",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+     {
+      "code": "od.testing",
+      "districtCode": "TESTING",
+      "literacyRate": "57.41",
+      "languagesSpoken": [
+        "HN",
+        "OD",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.anandapur",
+      "districtCode": "ANANDAPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.aska",
+      "districtCode": "ASKA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.athagarh",
+      "districtCode": "ATHAGARH",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.athmallik",
+      "districtCode": "ATHAMALLIK",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.attabira",
+      "districtCode": "ATTABIRA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.balangir",
+      "districtCode": "BALANGIR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.balasore",
+      "districtCode": "BALESORE",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.balimela",
+      "districtCode": "BALIMELA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.balliguda",
+      "districtCode": "BALLIGUDA ",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.balugaon",
+      "districtCode": "BALUGAON",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.banki",
+      "districtCode": "BANKI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.banpur",
+      "districtCode": "BANPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bargarh",
+      "districtCode": "BARAGARH",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.barbil",
+      "districtCode": "BARBIL",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.baripada",
+      "districtCode": "BARIPADA ",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.barpali",
+      "districtCode": "BARPALLI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.basudevpur",
+      "districtCode": "BASUDEVPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bellaguntha",
+      "districtCode": "BELAGUNTHA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.belpahar",
+      "districtCode": "BELPAHAR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bhadrak",
+      "districtCode": "BHADRAK ",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bhanjanagar",
+      "districtCode": "BHANJANAGAR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bhawanipatna",
+      "districtCode": "BHAWANIPATNA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bhuban",
+      "districtCode": "BHUBAN",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.bijepur",
+      "districtCode": "BIJEPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.binka",
+      "districtCode": "BINIKA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.boudhgarh",
+      "districtCode": "BOUDHGARH",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.brajrajnagar",
+      "districtCode": "BRAJARAJNAGAR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.buguda",
+      "districtCode": "BUGUDA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.champua",
+      "districtCode": "CHAMPUA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.chandbali",
+      "districtCode": "CHANDBALI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.chikiti",
+      "districtCode": "CHIKITI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.daspalla",
+      "districtCode": "DASPALLA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.deogarh",
+      "districtCode": "DEOGARH",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.dhamnagar",
+      "districtCode": "DHAMNAGAR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.dharamgarh",
+      "districtCode": "DHARAMGARH",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.dhenkanal",
+      "districtCode": "DHENKANAL",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.digapahandi",
+      "districtCode": "DIGAPAHANDI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.gudayagiri",
+      "districtCode": "GUDAYAGIRI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.ganjam",
+      "districtCode": "GANJAM ",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.gudari",
+      "districtCode": "GUDARI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.gunupur",
+      "districtCode": "GUNUPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.hindol",
+      "districtCode": "HINDOL",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.hinjilicut",
+      "districtCode": "HINJILICUT",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.jagatsinghpur",
+      "districtCode": "JAGATSINGHPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.jajpur",
+      "districtCode": "JAJPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.jaleswar",
+      "districtCode": "JALESWAR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.jeypore",
+      "districtCode": "JAYPORE",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.jharsuguda",
+      "districtCode": "JHARSUGUDA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.joda",
+      "districtCode": "JODA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.junagarh",
+      "districtCode": "JUNAGARH",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kamakhyanagar",
+      "districtCode": "KAMAKHYANAGAR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kantabanji",
+      "districtCode": "KANTABANJHI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.karanjia",
+      "districtCode": "KARANJIA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kashinagar",
+      "districtCode": "KASINAGAR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kabisuryanagar",
+      "districtCode": "KAVISURYANAGAR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kendrapara",
+      "districtCode": "KENDRAPARA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.keonjhargarh",
+      "districtCode": "KEONJHORGARH",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kesinga",
+      "districtCode": "KESINGA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.khallikote",
+      "districtCode": "KHALLIKOT",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.khandapada",
+      "districtCode": "KHANDAPARA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.khariar",
+      "districtCode": "KHARIAR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.khariarroad",
+      "districtCode": "KHARIARROAD",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kodala",
+      "districtCode": "KODALA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.koraput",
+      "districtCode": "KORAPUT",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kotpad",
+      "districtCode": "KOTPAD",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.kuchinda",
+      "districtCode": "KUCHINDA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.malkangiri",
+      "districtCode": "MALKANGIRI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.nayagarh",
+      "districtCode": "NAYAGARH",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.nilgiri",
+      "districtCode": "NILAGIRI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.nimapara",
+      "districtCode": "NIMAPARA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.nabarangpur",
+      "districtCode": "NOWRANGPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.nuapada",
+      "districtCode": "NUAPARA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.odagaon",
+      "districtCode": "ODAGAON",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.padampur",
+      "districtCode": "PADAMPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.paralakhemundi",
+      "districtCode": "PARALAKHEMUNDI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.patnagarh",
+      "districtCode": "PATNAGARH",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.pattamundai",
+      "districtCode": "PATTAMUNDAI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.phulbani",
+      "districtCode": "PHULBANI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.pipli",
+      "districtCode": "PIPILI",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.polasara",
+      "districtCode": "POLSORA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.purushottampur",
+      "districtCode": "PURUSOTTAMPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.rairangpur",
+      "districtCode": "RAIRANGPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.rambha",
+      "districtCode": "RAMBHA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.ranpur ",
+      "districtCode": "RANPUR ",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.rayagada",
+      "districtCode": "RAYGADA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.redhakhol",
+      "districtCode": "REDHAKHOL",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.sonepur",
+      "districtCode": "SONEPUR",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.soro",
+      "districtCode": "SORO",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.surada",
+      "districtCode": "SORODA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.sunabeda",
+      "districtCode": "SUNABEDA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.tarbha",
+      "districtCode": "TARVA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.titilagarh",
+      "districtCode": "TITILAGARH",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.tusura",
+      "districtCode": "TUSURA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.udala",
+      "districtCode": "UDALA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.umerkote",
+      "districtCode": "UMERKOTE",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "od.remuna",
+      "districtCode": "REMUNA",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": [
+        "OD",
+        "HN",
+        "EN"
+      ]
+    }
+  ]
+}

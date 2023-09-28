@@ -1,0 +1,350 @@
+{
+  "tenantId": "od.sundargarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sundargarh",
+        "localname": "Sundargarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.sundargarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Sundargarh",
+            "localname": "Sundargarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Barapatrapali",
+            "localname": "Barapatrapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Talasankara",
+            "localname": "Talasankara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chitabhanga",
+            "localname": "Chitabhanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Amalipali",
+            "localname": "Amalipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+		  {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Bhasma",
+            "localname": "Bhasma",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG1",
+            "children": []
+        },
+        {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Bhedabahal",
+            "localname": "Bhedabahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG2",
+            "children": []
+        },
+        {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Deuli",
+            "localname": "Deuli",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG3",
+            "children": []
+        },
+        {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Karamdihi",
+            "localname": "Karamdihi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG4",
+            "children": []
+        },
+        {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Kinjirima",
+            "localname": "Kinjirima",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG5",
+            "children": []
+        },
+        {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Kirei",
+            "localname": "Kirei",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG6",
+            "children": []
+        },
+        {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Kiripsira",
+            "localname": "Kiripsira",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG7",
+            "children": []
+        },
+        {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Kundukela",
+            "localname": "Kundukela",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG8",
+            "children": []
+        },
+        {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Lankahuda",
+            "localname": "Lankahuda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG9",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Mahulpali",
+            "localname": "Mahulpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG10",
+            "children": []
+        },
+        {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Masonikani",
+            "localname": "Masonikani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG11",
+            "children": []
+        },
+        {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Megdega",
+            "localname": "Megdega",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG12",
+            "children": []
+        },
+        {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Nialipali",
+            "localname": "Nialipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG13",
+            "children": []
+        },
+        {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Ratanpur",
+            "localname": "Ratanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG14",
+            "children": []
+        },
+        {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "San Patrapali",
+            "localname": "San Patrapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG15",
+            "children": []
+        },
+        {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Tangarpali",
+            "localname": "Tangarpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG16",
+            "children": []
+        },
+        {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Tasladihi",
+            "localname": "Tasladihi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG17",
+            "children": []
+        },
+        {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "SDG18",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Sundargarh",
+        "localname": "Sundargarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.sundargarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Sundargarh",
+            "localname": "Sundargarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Barapatrapali",
+            "localname": "Barapatrapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Talasankara",
+            "localname": "Talasankara",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chitabhanga",
+            "localname": "Chitabhanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Amalipali",
+            "localname": "Amalipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,6894 @@
+{
+    "tenantId": "od.balasore",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL1",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL2",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL3",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL4",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL5",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL6",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL7",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL8",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL9",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL10",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL11",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL12",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL13",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL14",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL15",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL16",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL17",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL18",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL19",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL20",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL21",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL22",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL23",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL24",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL25",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL26",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL27",
+            "active": true
+        },
+        {
+            "code": "BSL001",
+            "name": "Mahammadpur",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL002",
+            "name": "Kanhu Behera Sahi",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL003",
+            "name": "Munipada",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL004",
+            "name": "Malik Sahi-1",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL005",
+            "name": "Malik Sahi-2",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL006",
+            "name": "Uchhapada",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL007",
+            "name": "Mansing Bazar",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL008",
+            "name": "Khaparapada",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL009",
+            "name": "Angaragadia Cold Store",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL010",
+            "name": "Angaragadia Rameswar Nagar",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL011",
+            "name": "Angargadia DIC Office",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL012",
+            "name": "Angargadia Rameswar Nagar",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL013",
+            "name": "Bateswar Sweeper Colony",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL014",
+            "name": "Nua Bazar Adi",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL015",
+            "name": "Arad bazar-3",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL016",
+            "name": "Nua Bazar",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL017",
+            "name": "Aradbazar 2",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL018",
+            "name": "Arad Bazar-1",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL019",
+            "name": "Bhaskarganj",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL020",
+            "name": "Tail basa",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL021",
+            "name": "Chudakutasahi",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL022",
+            "name": "Telenga Sahi",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL023",
+            "name": "Gudipada",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL024",
+            "name": "Sweeper Colony Bhaskarganj",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL025",
+            "name": "Godhibasa",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL026",
+            "name": "Ananda Bazar",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL027",
+            "name": "Railway Colony",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL028",
+            "name": "Bhalia dang",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL029",
+            "name": "Chhachina Sahi",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL030",
+            "name": "Gosalapada",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL031",
+            "name": "Balighat",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL032",
+            "name": "Sweeper Colony Olondaz Sahi",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL033",
+            "name": "Adibasi Sahi Town Hall",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL034",
+            "name": "Congress gali baula pokhari",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL035",
+            "name": "Gopalgaon Tala Sahi",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL036",
+            "name": "Mirzapokhari Sweeper Colony",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL037",
+            "name": "Darzi Pokhari",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL038",
+            "name": "Mahila College Back side Adibasi Sahi",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL039",
+            "name": "Jadav Pur",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL040",
+            "name": "Lepracy Colony",
+            "locality": "VIL28",
+            "active": true
+        },
+        {
+            "code": "BSL041",
+            "name": "Golapolo",
+            "locality": "VIL28",
+            "active": true
+        }
+    ]
+}

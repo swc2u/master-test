@@ -1,0 +1,84 @@
+{
+    "tenantId": "od.nayagarh",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Hatapada",
+            "active": true,
+            "code": "NAYA001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mahaveer Patana",
+            "active": true,
+            "code": "NAYA002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gandhi Nagar",
+            "active": true,
+            "code": "NAYA003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mangala sahi",
+            "active": true,
+            "code": "NAYA004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sagar Pokhari",
+            "active": true,
+            "code": "NAYA005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Balaram Sahi",
+            "active": true,
+            "code": "NAYA006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Beleswar Sahi",
+            "active": true,
+            "code": "NAYA007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bamphi Sahi",
+            "active": true,
+            "code": "NAYA008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Panitanki sahi",
+            "active": true,
+            "code": "NAYA009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Badaharijan Sahi",
+            "active": true,
+            "code": "NAYA010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sibaji Nagar Mundia Sahi",
+            "active": true,
+            "code": "NAYA011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jajangi Sahi",
+            "active": true,
+            "code": "NAYA012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jadumani Nagar (Nuasahi)",
+            "active": true,
+            "code": "NAYA013",
+            "locality": "VIL1"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.athagarh",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

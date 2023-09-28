@@ -1,0 +1,150 @@
+{
+    "tenantId": "od.phulbani",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "BAPUJI SAHI AND MAA MANGALA SAHI",
+            "active": true,
+            "code": "PHUL001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "FOREST COLONY",
+            "active": true,
+            "code": "PHUL002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "CHANDAN NAGAR",
+            "active": true,
+            "code": "PHUL003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "KALIMANDIRA SAHI",
+            "active": true,
+            "code": "PHUL004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "MUNDIA SAHI",
+            "active": true,
+            "code": "PHUL005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "PATABALI SAHI",
+            "active": true,
+            "code": "PHUL006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "PHULBANI SAHI",
+            "active": true,
+            "code": "PHUL007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "MASTERPADA",
+            "active": true,
+            "code": "PHUL008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "AMLAPADA,BACK SIDE OF RTO",
+            "active": true,
+            "code": "PHUL009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "KACHARA SAHI",
+            "active": true,
+            "code": "PHUL010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "NUA SAHI",
+            "active": true,
+            "code": "PHUL011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "MASANI SAHI",
+            "active": true,
+            "code": "PHUL012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "PENJI SAHI",
+            "active": true,
+            "code": "PHUL013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "GOPAL SAHI",
+            "active": true,
+            "code": "PHUL014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "ARABINDA NAGAR",
+            "active": true,
+            "code": "PHUL015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "HANUMAN MANDIR SAHI",
+            "active": true,
+            "code": "PHUL016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "JIRINGI PADA",
+            "active": true,
+            "code": "PHUL017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "SALUNKI SAHI",
+            "active": true,
+            "code": "PHUL018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "MOCHI SAHI",
+            "active": true,
+            "code": "PHUL019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "TRIDEV NAGAR",
+            "active": true,
+            "code": "PHUL020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "COLLEGE COLONY BACK SIDE",
+            "active": true,
+            "code": "PHUL021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "DADHIBAMANA SAHI",
+            "active": true,
+            "code": "PHUL022",
+            "locality": "VIL1"
+        },
+        {
+            "name": "BANDHA SAHI AND KABARAKHANA SAHI",
+            "active": true,
+            "code": "PHUL023",
+            "locality": "VIL1"
+        },
+        {
+            "name": "KENDUPADAR",
+            "active": true,
+            "code": "PHUL024",
+            "locality": "VIL1"
+        }
+    ]
+}

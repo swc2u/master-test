@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.choudwar",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

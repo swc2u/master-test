@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.joda",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "tenantId": "od.sonepur",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "D-Colony",
+        "active": true,
+        "code": "SOSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jhupudipada",
+        "active": true,
+        "code": "SOSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Santinagar Basti",
+        "active": true,
+        "code": "SOSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nua Malipada",
+        "active": true,
+        "code": "SOSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ambedkarchok",
+        "active": true,
+        "code": "SOSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Harijanpada & Ghasipada",
+        "active": true,
+        "code": "SOSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kumbharpada",
+        "active": true,
+        "code": "SOSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Majhipada,Samleimandir Tal",
+        "active": true,
+        "code": "SOSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khaidudhapada",
+        "active": true,
+        "code": "SOSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kajipada",
+        "active": true,
+        "code": "SOSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bisagarbasti",
+        "active": true,
+        "code": "SOSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Patavadi & Thakurani Pada",
+        "active": true,
+        "code": "SOSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kolpada",
+        "active": true,
+        "code": "SOSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khadalpada",
+        "active": true,
+        "code": "SOSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bandhapada",
+        "active": true,
+        "code": "SOSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dhibarpada,Malipada,Chamarpada",
+        "active": true,
+        "code": "SOSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhagabatipada & Thanapatipada",
+        "active": true,
+        "code": "SOSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bhagabatiplot",
+        "active": true,
+        "code": "SOSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "New Malipada, Fishery Office ",
+        "active": true,
+        "code": "SOSL019",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gandapada",
+        "active": true,
+        "code": "SOSL020",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Ghasipada",
+        "active": true,
+        "code": "SOSL021",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kustapada",
+        "active": true,
+        "code": "SOSL022",
+        "locality": "VIL1"
+    }]
+}

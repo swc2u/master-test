@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.rajgangpur",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

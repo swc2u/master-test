@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.gudari",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

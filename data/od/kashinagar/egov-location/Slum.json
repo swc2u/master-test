@@ -1,0 +1,41 @@
+{
+    "tenantId": "od.kashinagar",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "New Street",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Mala Street",
+            "ward": "03",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Majala Street",
+            "ward": "05",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Bandha Street",
+            "ward": "01",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Lws Colony",
+            "ward": "11",
+            "code": "SLM5",
+            "isActive": true
+        }
+    ]
+}

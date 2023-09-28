@@ -1,0 +1,34 @@
+{
+    "tenantId": "od.chatrapur",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Kapil Harijan Sahi",
+            "ward": "14",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Meta Colony",
+            "ward": "03",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Nua Sahi",
+            "ward": "09",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Nac Colony",
+            "ward": "14",
+            "code": "SLM4",
+            "isActive": true
+        }
+    ]
+}

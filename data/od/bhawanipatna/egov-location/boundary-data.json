@@ -1,0 +1,532 @@
+{
+  "tenantId": "od.bhawanipatna",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhawanipatna",
+        "localname": "Bhawanipatna",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.bhawanipatna",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bhawanipatna Town",
+            "localname": "Bhawanipatna Town",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Bhawanipatna Nazul",
+            "localname": "Bhawanipatna Nazul",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Naktiguda",
+            "localname": "Naktiguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Purunapada",
+            "localname": "Purunapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Sitabordi Pada",
+            "localname": "Sitabordi Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Arkabalipada",
+            "localname": "Arkabalipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+		  {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "DUARSUNI",
+            "localname": "DUARSUNI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP1",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "CHANCHER",
+            "localname": "CHANCHER",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP2",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "TALBELGAON",
+            "localname": "TALBELGAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP3",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "SAGADA",
+            "localname": "SAGADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP4",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "RISIGAON",
+            "localname": "RISIGAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP5",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "MEDNIPUR",
+            "localname": "MEDNIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP6",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "LAXMIPUR",
+            "localname": "LAXMIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP7",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "KAMTHANA",
+            "localname": "KAMTHANA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP8",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "MALGAON",
+            "localname": "MALGAON",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP9",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "DEYPUR",
+            "localname": "DEYPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP10",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "GUDIALIPADAR",
+            "localname": "GUDIALIPADAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP11",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "SRIPUR",
+            "localname": "SRIPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP12",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "KUYAMAL",
+            "localname": "KUYAMAL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP13",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "UDEPUR",
+            "localname": "UDEPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP14",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "KARLAGUDA",
+            "localname": "KARLAGUDA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP15",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "DADPUR",
+            "localname": "DADPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP16",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "GAND-BARAJHOLA",
+            "localname": "GAND-BARAJHOLA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP17",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "PALSUHARNA",
+            "localname": "PALSUHARNA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP18",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "KUTRUKHAMAR",
+            "localname": "KUTRUKHAMAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP19",
+            "children": [
+            ]
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "SAGADA",
+            "localname": "SAGADA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP20",
+            "children": [
+            ]
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "THUAPADAR",
+            "localname": "THUAPADAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP21",
+            "children": [
+            ]
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "SANTPUR",
+            "localname": "SANTPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP22",
+            "children": [
+            ]
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "BADDHARPUR",
+            "localname": "BADDHARPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP23",
+            "children": [
+            ]
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "GHANTAMAL",
+            "localname": "GHANTAMAL",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP24",
+            "children": [
+            ]
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "NISHANPUR",
+            "localname": "NISHANPUR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP25",
+            "children": [
+            ]
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "ULIKUPA",
+            "localname": "ULIKUPA",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP26",
+            "children": [
+            ]
+          },
+          {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "SARIAN",
+            "localname": "SARIAN",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP27",
+            "children": [
+            ]
+          },
+          {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "GUNDRI",
+            "localname": "GUNDRI",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP28",
+            "children": [
+            ]
+          },
+          {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "BHATANGPADAR",
+            "localname": "BHATANGPADAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP29",
+            "children": [
+            ]
+          },
+          {
+            "id": "40",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BWP30",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bhawanipatna",
+        "localname": "Bhawanipatna",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.bhawanipatna",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bhawanipatna Town",
+            "localname": "Bhawanipatna Town",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Bhawanipatna Nazul",
+            "localname": "Bhawanipatna Nazul",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Naktiguda",
+            "localname": "Naktiguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Purunapada",
+            "localname": "Purunapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Sitabordi Pada",
+            "localname": "Sitabordi Pada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Arkabalipada",
+            "localname": "Arkabalipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.gunupur",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

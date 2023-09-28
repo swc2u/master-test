@@ -1,0 +1,55 @@
+{
+    "tenantId": "od.boudhgarh",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Irrigation Colony",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Khadala Sahi",
+            "ward": "05",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Buddhadev Sahi",
+            "ward": "07",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Babu Sahi",
+            "ward": "06",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Nuasahi-Refugee Colony",
+            "ward": "09",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Bapujinagar W No. 10",
+            "ward": "10",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Bapujinagar W No. 16",
+            "ward": "16",
+            "code": "SLM7",
+            "isActive": true
+        }
+    ]
+}

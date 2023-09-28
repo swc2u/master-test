@@ -1,0 +1,424 @@
+{
+  "tenantId": "od.bargarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Baragarh",
+        "localname": "Baragarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.bargarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bargarh",
+            "localname": "Bargarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Ambapali",
+            "localname": "Ambapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Baramchari",
+            "localname": "Baramchari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+		  {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Adagaon",
+            "localname": "Adagaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG1",
+            "children": [
+            ]
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Barahagoda",
+            "localname": "Barahagoda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG2",
+            "children": [
+            ]
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Bardol",
+            "localname": "Bardol",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG3",
+            "children": [
+            ]
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Birmal",
+            "localname": "Birmal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG4",
+            "children": [
+            ]
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Chakarkend",
+            "localname": "Chakarkend",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG5",
+            "children": [
+            ]
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Deogaon",
+            "localname": "Deogaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG6",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Dhanger",
+            "localname": "Dhanger",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG7",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Gaisima",
+            "localname": "Gaisima",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG8",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Govindpur",
+            "localname": "Govindpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG9",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Gudesira",
+            "localname": "Gudesira",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG10",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Jamurda",
+            "localname": "Jamurda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG11",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Kalapani",
+            "localname": "Kalapani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG12",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Katapali",
+            "localname": "Katapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG13",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Khaliapalli",
+            "localname": "Khaliapalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG14",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Khandahata",
+            "localname": "Khandahata",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG15",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Khuntpali",
+            "localname": "Khuntpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG16",
+            "children": [
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Kuruan",
+            "localname": "Kuruan",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG17",
+            "children": [
+            ]
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Nileswar",
+            "localname": "Nileswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG18",
+            "children": [
+            ]
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Nuniajampali",
+            "localname": "Nuniajampali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG19",
+            "children": [
+            ]
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "SarandaDumerpali",
+            "localname": "SarandaDumerpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG20",
+            "children": [
+            ]
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Sarsara",
+            "localname": "Sarsara",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG21",
+            "children": [
+            ]
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Talsrigida",
+            "localname": "Talsrigida",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG22",
+            "children": [
+            ]
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Tora",
+            "localname": "Tora",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG23",
+            "children": [
+            ]
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Tumagaon",
+            "localname": "Tumagaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG24",
+            "children": [
+            ]
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Bargaon",
+            "localname": "Bargaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG25",
+            "children": [
+            ]
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BAG26",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Baragarh",
+        "localname": "Baragarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.bargarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bargarh",
+            "localname": "Bargarh",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Ambapali",
+            "localname": "Ambapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Baramchari",
+            "localname": "Baramchari",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          }
+        ]
+      }
+    }
+  ]
+}

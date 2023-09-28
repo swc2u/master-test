@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.nilgiri",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

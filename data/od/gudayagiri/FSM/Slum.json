@@ -1,0 +1,66 @@
+{
+    "tenantId": "od.gudayagiri",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Kakatipada and Dugudi",
+            "active": true,
+            "code": "UDAY001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sankha Sahi",
+            "active": true,
+            "code": "UDAY002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kandha Sahi",
+            "active": true,
+            "code": "UDAY003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Srirampada",
+            "active": true,
+            "code": "UDAY004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nua Sahi and Pahada Sahi",
+            "active": true,
+            "code": "UDAY005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Club Sahi and Hatapada",
+            "active": true,
+            "code": "UDAY006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gouda Sahi",
+            "active": true,
+            "code": "UDAY007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Hatibali Sahi and Jadangbali",
+            "active": true,
+            "code": "UDAY008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kanabageri-A",
+            "active": true,
+            "code": "UDAY009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kanabageri-B and Balupanga",
+            "active": true,
+            "code": "UDAY010",
+            "locality": "VIL1"
+        }
+    ]
+}

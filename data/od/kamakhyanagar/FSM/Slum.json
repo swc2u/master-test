@@ -1,0 +1,66 @@
+{
+    "tenantId": "od.kamakhyanagar",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Indipur Harijanasahi",
+            "active": true,
+            "code": "KAMA001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kamakhyanagar Harijana Sahi",
+            "active": true,
+            "code": "KAMA002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Colony Sahi",
+            "active": true,
+            "code": "KAMA003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Godi Sahi",
+            "active": true,
+            "code": "KAMA004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jogi Sahi",
+            "active": true,
+            "code": "KAMA005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mundideuli Harijana Sahi",
+            "active": true,
+            "code": "KAMA006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sankarpur (New Allatuma Part)",
+            "active": true,
+            "code": "KAMA007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Digudiasahi Slum",
+            "active": true,
+            "code": "KAMA008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jhara Sahi",
+            "active": true,
+            "code": "KAMA009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sabar Sahi",
+            "active": true,
+            "code": "KAMA010",
+            "locality": "VIL1"
+        }
+    ]
+}

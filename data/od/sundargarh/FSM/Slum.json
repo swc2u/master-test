@@ -1,0 +1,137 @@
+{
+    "tenantId": "od.sundargarh",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Ranibagicha",
+        "active": true,
+        "code": "SUSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khadiapada",
+        "active": true,
+        "code": "SUSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kalinagar ",
+        "active": true,
+        "code": "SUSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Amlipali ",
+        "active": true,
+        "code": "SUSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Panaspada ",
+        "active": true,
+        "code": "SUSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kendupara ",
+        "active": true,
+        "code": "SUSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bijapada ",
+        "active": true,
+        "code": "SUSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dampada ",
+        "active": true,
+        "code": "SUSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Baunspada ",
+        "active": true,
+        "code": "SUSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mundapada Rice Mill ",
+        "active": true,
+        "code": "SUSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Luhuradhipa ",
+        "active": true,
+        "code": "SUSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Pandaridhipa ",
+        "active": true,
+        "code": "SUSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Goudapada ",
+        "active": true,
+        "code": "SUSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Patrapada 1 ",
+        "active": true,
+        "code": "SUSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Indra Colony",
+        "active": true,
+        "code": "SUSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Patrapada -2",
+        "active": true,
+        "code": "SUSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dhobapada",
+        "active": true,
+        "code": "SUSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Govt College back side",
+        "active": true,
+        "code": "SUSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bichu Tungri",
+        "active": true,
+        "code": "SUSL019",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Mundapada ",
+        "active": true,
+        "code": "SUSL020",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Nuapada",
+        "active": true,
+        "code": "SUSL021",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Khamaripada",
+        "active": true,
+        "code": "SUSL022",
+        "locality": "VIL1"
+    }]
+}

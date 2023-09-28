@@ -1,0 +1,66 @@
+{
+    "tenantId": "od.balliguda",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Kampada",
+            "active": true,
+            "code": "BALLI001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dumudi sahi",
+            "active": true,
+            "code": "BALLI002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Munda sahi",
+            "active": true,
+            "code": "BALLI003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dandapadar",
+            "active": true,
+            "code": "BALLI004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gayatri sahi",
+            "active": true,
+            "code": "BALLI005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kandha sahi",
+            "active": true,
+            "code": "BALLI006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nua sahi",
+            "active": true,
+            "code": "BALLI007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "panaspadi",
+            "active": true,
+            "code": "BALLI008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gulimarapada",
+            "active": true,
+            "code": "BALLI009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sunapanga",
+            "active": true,
+            "code": "BALLI010",
+            "locality": "VIL1"
+        }
+    ]
+}

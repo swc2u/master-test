@@ -1,0 +1,28 @@
+{
+  "tenantId": "od.daspalla",
+  "moduleName": "MarriageRegistration",
+  "FeeDetails": [
+    {
+      "challanFee": {
+        "within30daysOfMarriage": 7,
+        "after30daysOfMarriage": 32
+      },
+      "registrationFee": {
+        "after1yearOfMarriage": 200,
+        "within1yearOfMarriage": 200
+      },
+      "developmentFee": {
+        "cost": 0
+      },
+      "redcrossFee": {
+        "cost": 0
+      },
+      "userFee": {
+        "cost": 0
+      },
+      "tatkalRegistrationFee": {
+        "cost": 1000        
+      }
+    }
+  ]
+}

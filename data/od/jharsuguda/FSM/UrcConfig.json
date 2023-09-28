@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.jharsuguda",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

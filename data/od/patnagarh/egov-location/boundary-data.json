@@ -1,0 +1,510 @@
+{
+  "tenantId": "od.patnagarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Patnagarh",
+        "localname": "Patnagarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.patnagarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "PATNAGARH -KA",
+            "localname": "PATNAGARH -KA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "PATNAGARH -KHA",
+            "localname": "PATNAGARH -KHA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+		  {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Baghmund",
+            "localname": "Baghmund",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN1",
+            "children": []
+        },
+        {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Balikhamar",
+            "localname": "Balikhamar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN2",
+            "children": []
+        },
+        {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Balipata",
+            "localname": "Balipata",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN3",
+            "children": []
+        },
+        {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Baneimunda",
+            "localname": "Baneimunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN4",
+            "children": []
+        },
+        {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Barpadar",
+            "localname": "Barpadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN5",
+            "children": []
+        },
+        {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Batharla",
+            "localname": "Batharla",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN6",
+            "children": []
+        },
+        {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Belpada",
+            "localname": "Belpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN7",
+            "children": []
+        },
+        {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Bhainsa",
+            "localname": "Bhainsa",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN8",
+            "children": []
+        },
+        {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Changria",
+            "localname": "Changria",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN9",
+            "children": []
+        },
+        {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Desandh",
+            "localname": "Desandh",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN10",
+            "children": []
+        },
+        {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Deulgaon",
+            "localname": "Deulgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN11",
+            "children": []
+        },
+        {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Dhatuk",
+            "localname": "Dhatuk",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN12",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Dhumabhata",
+            "localname": "Dhumabhata",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN13",
+            "children": []
+        },
+        {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Dubhalpada",
+            "localname": "Dubhalpada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN14",
+            "children": []
+        },
+        {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Dumerpita",
+            "localname": "Dumerpita",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN15",
+            "children": []
+        },
+        {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Gangasagar",
+            "localname": "Gangasagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN16",
+            "children": []
+        },
+        {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Ghasian",
+            "localname": "Ghasian",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN17",
+            "children": []
+        },
+        {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Ghuchepali",
+            "localname": "Ghuchepali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN18",
+            "children": []
+        },
+        {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Jogimunda",
+            "localname": "Jogimunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN19",
+            "children": []
+        },
+        {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Juba",
+            "localname": "Juba",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN20",
+            "children": []
+        },
+        {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Kapani",
+            "localname": "Kapani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN21",
+            "children": []
+        },
+        {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Kendumundi",
+            "localname": "Kendumundi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN22",
+            "children": []
+        },
+        {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Khuntsamlei",
+            "localname": "Khuntsamlei",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN23",
+            "children": []
+        },
+        {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Khursel",
+            "localname": "Khursel",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN24",
+            "children": []
+        },
+        {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Luihasingha",
+            "localname": "Luihasingha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN25",
+            "children": []
+        },
+        {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Maruan",
+            "localname": "Maruan",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN26",
+            "children": []
+        },
+        {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Mundomahal",
+            "localname": "Mundomahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN27",
+            "children": []
+        },
+        {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Pandamunda",
+            "localname": "Pandamunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN28",
+            "children": []
+        },
+        {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Ramchandra Pur",
+            "localname": "Ramchandra Pur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN29",
+            "children": []
+        },
+        {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Salepali",
+            "localname": "Salepali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN30",
+            "children": []
+        },
+        {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "Singhamunda",
+            "localname": "Singhamunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN31",
+            "children": []
+        },
+        {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "Solebandh",
+            "localname": "Solebandh",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN32",
+            "children": []
+        },
+        {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "Sunamudi",
+            "localname": "Sunamudi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN33",
+            "children": []
+        },
+        {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "Tamian",
+            "localname": "Tamian",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN34",
+            "children": []
+        },
+        {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "Tendapadar",
+            "localname": "Tendapadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN35",
+            "children": []
+        },
+        {
+            "id": "40",
+            "boundaryNum": 1,
+            "name": "Tentelmunda",
+            "localname": "Tentelmunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN36",
+            "children": []
+        },
+        {
+            "id": "41",
+            "boundaryNum": 1,
+            "name": "Ulba",
+            "localname": "Ulba",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN37",
+            "children": []
+        },
+        {
+            "id": "42",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "PTN38",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Patnagarh",
+        "localname": "Patnagarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.patnagarh",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "PATNAGARH -KA",
+            "localname": "PATNAGARH -KA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "PATNAGARH -KHA",
+            "localname": "PATNAGARH -KHA",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          }
+        ]
+      }
+    }
+  ]
+}

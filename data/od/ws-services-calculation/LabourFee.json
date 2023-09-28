@@ -1,0 +1,11 @@
+{
+    "tenantId": "od",
+    "moduleName": "ws-services-calculation",
+    "LabourFee": [{
+            "totalAmount": 3600,
+            "installmentMonth": 36,
+            "installmentAmount": 100,
+            "isActive": true
+        }
+    ]
+}

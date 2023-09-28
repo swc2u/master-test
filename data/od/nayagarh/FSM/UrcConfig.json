@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.nayagarh",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

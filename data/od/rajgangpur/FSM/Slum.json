@@ -1,0 +1,24 @@
+{
+    "tenantId": "od.rajgangpur",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "KUNDUPADA",
+            "active": true,
+            "code": "RAJG001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "BAGICHAPADA",
+            "active": true,
+            "code": "RAJG002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "JHUMPDIPADA",
+            "active": true,
+            "code": "RAJG003",
+            "locality": "VIL1"
+        }
+    ]
+}

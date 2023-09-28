@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.kashinagar",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

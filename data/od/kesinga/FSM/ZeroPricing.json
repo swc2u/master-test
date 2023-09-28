@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.kesinga",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

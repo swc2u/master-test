@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.puri",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

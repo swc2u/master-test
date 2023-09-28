@@ -1,0 +1,215 @@
+{
+  "tenantId": "od.kashinagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kasinagar",
+        "localname": "Kasinagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.kashinagar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "KASHINAGAR",
+            "localname": "KASHINAGAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+		  {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "K.Sitapur",
+            "localname": "K.Sitapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN1",
+            "children": []
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Parihada",
+            "localname": "Parihada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN2",
+            "children": []
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Ranipeta",
+            "localname": "Ranipeta",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN3",
+            "children": []
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Sidhamadanga",
+            "localname": "Sidhamadanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN4",
+            "children": []
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Allada",
+            "localname": "Allada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN5",
+            "children": []
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Budura",
+            "localname": "Budura",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN6",
+            "children": []
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Goribandha",
+            "localname": "Goribandha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN7",
+            "children": []
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Hadubhangi",
+            "localname": "Hadubhangi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN8",
+            "children": []
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Kandaba",
+            "localname": "Kandaba",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN9",
+            "children": []
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Kharada",
+            "localname": "Kharada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN10",
+            "children": []
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Kidigam",
+            "localname": "Kidigam",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN11",
+            "children": []
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Siali",
+            "localname": "Siali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN12",
+            "children": []
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "KSN13",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kasinagar",
+        "localname": "Kasinagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.kashinagar",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "KASHINAGAR",
+            "localname": "KASHINAGAR",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          }
+        ]
+      }
+    }
+  ]
+}

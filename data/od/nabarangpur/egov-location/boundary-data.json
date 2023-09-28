@@ -1,0 +1,304 @@
+{
+  "tenantId": "od.nabarangpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nabarangpur",
+        "localname": "Nabarangpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.nabarangpur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Chamuria Guda",
+            "localname": "Chamuria Guda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Nabarangpur",
+            "localname": "Nabarangpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Sadasivpur",
+            "localname": "Sadasivpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+		  {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Badakumili",
+            "localname": "Badakumili",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG1",
+            "children": [
+            ]
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Sanakumuli",
+            "localname": "Sanakumuli",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG2",
+            "children": [
+            ]
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Sasana",
+            "localname": "Sasana",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG3",
+            "children": [
+            ]
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Agnipur",
+            "localname": "Agnipur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG4",
+            "children": [
+            ]
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Badamasinga",
+            "localname": "Badamasinga",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG5",
+            "children": [
+            ]
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "B Maliguda",
+            "localname": "B Maliguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG6",
+            "children": [
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Kamta",
+            "localname": "Kamta",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG7",
+            "children": [
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Rangamatiguda",
+            "localname": "Rangamatiguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG8",
+            "children": [
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Nandahandi",
+            "localname": "Nandahandi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG9",
+            "children": [
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Nisnahandi",
+            "localname": "Nisnahandi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG10",
+            "children": [
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Majhiguda",
+            "localname": "Majhiguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG11",
+            "children": [
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Bhatasuni",
+            "localname": "Bhatasuni",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG12",
+            "children": [
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Tiliambaguda",
+            "localname": "Tiliambaguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG13",
+            "children": [
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Dasmantpur",
+            "localname": "Dasmantpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG14",
+            "children": [
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Pujariguda",
+            "localname": "Pujariguda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG15",
+            "children": [
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "NBG16",
+            "children": [
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nabarangpur",
+        "localname": "Nabarangpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.nabarangpur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Chamuria Guda",
+            "localname": "Chamuria Guda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Nabarangpur",
+            "localname": "Nabarangpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Sadasivpur",
+            "localname": "Sadasivpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          }
+        ]
+      }
+    }
+  ]
+}

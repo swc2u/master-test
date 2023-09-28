@@ -1,0 +1,20 @@
+{
+    "tenantId": "od.chandbali",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Gandhi Nagar",
+            "ward": "11",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Rampalli",
+            "ward": "15",
+            "code": "SLM2",
+            "isActive": true
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "tenantId": "od.kesinga",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "BAGAD MILL PADA",
+            "active": true,
+            "code": "KESI001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "ODIA PADA",
+            "active": true,
+            "code": "KESI002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "AMBAJI MANDIR PADA",
+            "active": true,
+            "code": "KESI003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "COLONY PADA",
+            "active": true,
+            "code": "KESI004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "HIGHSCHOOL PADA",
+            "active": true,
+            "code": "KESI005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "PALKA PADA",
+            "active": true,
+            "code": "KESI006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "JHANKAR PADA",
+            "active": true,
+            "code": "KESI007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "FLOOD COLONY",
+            "active": true,
+            "code": "KESI008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "DANGAR PADA",
+            "active": true,
+            "code": "KESI009",
+            "locality": "VIL1"
+        }
+    ]
+}

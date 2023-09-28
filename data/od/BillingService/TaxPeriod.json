@@ -1,0 +1,654 @@
+{
+  "tenantId": "od",
+  "moduleName": "BillingService",
+  "TaxPeriod": [
+    {
+      "fromDate": 1680307200000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "WS",
+      "code": "WC2023",
+      "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1680307200000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2023",
+      "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1680307200000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2023",
+      "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1680307200000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2023",
+      "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1680307200000,
+      "toDate": 1711929599000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2023",
+      "financialYear": "2023-24"
+    },
+    {
+      "fromDate": 1585679400000,
+      "toDate": 1901212199000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC2020",
+      "financialYear": "2020-30"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1680307199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617235200000,
+      "toDate": 1648771199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2021",
+      "financialYear": "2021-22"
+    },
+    {
+      "fromDate": 1648771200000,
+      "toDate": 1680307199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2022",
+      "financialYear": "2022-23"
+    },
+    {
+      "fromDate": 1617235200000,
+      "toDate": 1648771199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2021",
+      "financialYear": "2021-22"
+    },
+    {	
+      "fromDate": 1617235200000,	
+      "toDate": 1648771199000,	
+      "periodCycle": "ANNUAL",	
+      "service": "SW",	
+      "code": "SWAN2021",	
+      "financialYear": "2021-22"	
+    },
+    {	
+      "fromDate": 1648771200000,	
+      "toDate": 1680307199000,	
+      "periodCycle": "ANNUAL",	
+      "service": "SW",	
+      "code": "SWAN2022",	
+      "financialYear": "2022-23"	
+    },
+    {
+      "fromDate": 1585699200000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT",
+      "code": "PTAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1270080000000,
+      "toDate": 1585699199000,
+      "periodCycle": "TENYEARS",
+      "service": "PT",
+      "code": "PTAN2010",
+      "financialYear": "2010-20"
+    },
+    {
+      "fromDate": 954547200000,
+      "toDate": 1270079999000,
+      "periodCycle": "TENYEARS",
+      "service": "PT",
+      "code": "PTTEN2000",
+      "financialYear": "2000-10"
+    },
+    {
+      "fromDate": 638928000000,
+      "toDate": 954547199000,
+      "periodCycle": "TENYEARS",
+      "service": "PT",
+      "code": "PTTEN1990",
+      "financialYear": "1990-00"
+    },
+    {
+      "fromDate": 323395200000,
+      "toDate": 638927999000,
+      "periodCycle": "TENYEARS",
+      "service": "PT",
+      "code": "PTFIVE1980",
+      "financialYear": "1980-90"
+    },
+    {
+      "fromDate": 7776000000,
+      "toDate": 323395199000,
+      "periodCycle": "TENYEARS",
+      "service": "PT",
+      "code": "PTFIVE1970",
+      "financialYear": "1970-80"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1459468800000,
+      "toDate": 1491004799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2016",
+      "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585679399000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 347241599000,
+      "toDate": 3493930939000,
+      "periodCycle": "ANY",
+      "service": "TL",
+      "code": "TLANYYEAR",
+      "financialYear": ""
+    },  
+	{
+      "fromDate": 347241599000,
+      "toDate": 3493930939000,
+      "periodCycle": "ANY",
+      "service": "MR",
+      "code": "MRANYYEAR",
+      "financialYear": ""
+    },	
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1459468800000,
+      "toDate": 1491004799000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2016",
+      "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "FIRENOC",
+      "code": "FIRENOCAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1585679399000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Electricity_Chungi",
+      "code": "TXELCH2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1585679399000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.No_Dues_Certificate",
+      "code": "TXNDCAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "ADVT.Hoardings",
+      "code": "ADHAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "RTMSRAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "RTMSRAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Municipal_Shops_Rent",
+      "code": "RTMSRAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Parking_Fee",
+      "code": "RTPFAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Parking_Fee",
+      "code": "RTPFAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Parking_Fee",
+      "code": "RTPFAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Jamin_Theka",
+      "code": "RTJTAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Jamin_Theka",
+      "code": "RTJTAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Jamin_Theka",
+      "code": "RTJTAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1585699201000,
+      "toDate": 1617235199000,
+      "periodCycle": "TENYEARS",
+      "service": "REV_GRANTS",
+      "code": "REVGRAN10YRS2020",
+      "financialYear": "2020-30"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "TENYEARS",
+      "service": "DISP_FIXED_ASSET.LAND",
+      "code": "DFAL10YRS2020",
+      "financialYear": "2020-30"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "TENYEARS",
+      "service": "DISP_FIXED_ASSET.BUILDING",
+      "code": "DFAB10YRS2020",
+      "financialYear": "2020-30"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "TENYEARS",
+      "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
+      "code": "DFAMV10YRS2020",
+      "financialYear": "2020-30"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPAREG",
+      "code": "BPAREG10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1270080000000,
+      "toDate": 1585699199000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC2010",
+      "financialYear": "2010-20"
+    },
+    {
+      "fromDate": 954547200000,
+      "toDate": 1270079999000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC2000",
+      "financialYear": "2000-10"
+    },
+    {
+      "fromDate": 638928000000,
+      "toDate": 954547199000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC1990",
+      "financialYear": "1990-00"
+    },
+    {
+      "fromDate": 323395200000,
+      "toDate": 638927999000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC1980",
+      "financialYear": "1980-90"
+    },
+    {
+      "fromDate": 7776000000,
+      "toDate": 323395199000,
+      "periodCycle": "TENYEARS",
+      "service": "WS",
+      "code": "WC1970",
+      "financialYear": "1970-80"
+    },
+    {
+      "fromDate": 1585699200000,
+      "toDate": 1617235199000,
+      "periodCycle": "TWOYEARS",
+      "service": "SW",
+      "code": "SC2018",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1270080000000,
+      "toDate": 1585699199000,
+      "periodCycle": "TENYEARS",
+      "service": "SW",
+      "code": "SC2010",
+      "financialYear": "2010-20"
+    },
+    {
+      "fromDate": 954547200000,
+      "toDate": 1270079999000,
+      "periodCycle": "TENYEARS",
+      "service": "SW",
+      "code": "SC2000",
+      "financialYear": "2000-10"
+    },
+    {
+      "fromDate": 638928000000,
+      "toDate": 954547199000,
+      "periodCycle": "TENYEARS",
+      "service": "SW",
+      "code": "SC1990",
+      "financialYear": "1990-00"
+    },
+    {
+      "fromDate": 323395200000,
+      "toDate": 638927999000,
+      "periodCycle": "TENYEARS",
+      "service": "SW",
+      "code": "SC1980",
+      "financialYear": "1980-90"
+    },
+    {
+      "fromDate": 7776000000,
+      "toDate": 323395199000,
+      "periodCycle": "TENYEARS",
+      "service": "SW",
+      "code": "SC1970",
+      "financialYear": "1970-80"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.NC_APP_FEE",
+      "code": "BPA10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.NC_SAN_FEE",
+      "code": "BPA10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.LOW_RISK_PERMIT_FEE",
+      "code": "BPA10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1585699200000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1585699199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1459468800000,
+      "toDate": 1491004799000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2016",
+      "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1585679399000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1554076799000,
+      "toDate": 1585679399000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1459468800000,
+      "toDate": 1491004799000,
+      "periodCycle": "ANNUAL",
+      "service": "TL",
+      "code": "TLRENEWAL2016",
+      "financialYear": "2016-17"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "WS.ONE_TIME_FEE",
+      "code": "WS10YRS2019",
+      "financialYear": "2019-29"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "TENYEARS",
+      "service": "SW.ONE_TIME_FEE",
+      "code": "SW10YRS2019",
+      "financialYear": "2019-29"
+    },
+    {
+      "fromDate": 1585785599000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.NC_OC_APP_FEE",
+      "code": "BPAOCAPP10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.NC_OC_SAN_FEE",
+      "code": "BPAOCSAN10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1606815883000,
+      "toDate": 1924948799000,
+      "periodCycle": "FORTENYEARS",
+      "service": "FSM.TRIP_CHARGES",
+      "code": "FSMTRIPCHARGE10YRS",
+      "financialYear": "2020-2030"
+    }
+  ]
+}

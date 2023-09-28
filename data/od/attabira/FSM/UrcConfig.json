@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.attabira",
+    "moduleName": "FSM",
+    "UrcConfig": [
+      {
+        "URCEnable": true
+      }
+    ]
+  }

@@ -1,0 +1,27 @@
+{
+    "tenantId": "od.jagatsinghpur",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Markandapur",
+            "ward": "02",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Galupada",
+            "ward": "12",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Kherasa",
+            "ward": "19",
+            "code": "SLM3",
+            "isActive": true
+        }
+    ]
+}

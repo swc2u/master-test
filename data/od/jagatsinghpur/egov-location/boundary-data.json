@@ -1,0 +1,830 @@
+{
+  "tenantId": "od.jagatsinghpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jagatsinghpur",
+        "localname": "Jagatsinghpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.jagatsinghpur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Kantaballavpur",
+            "localname": "Kantaballavpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Markandapur",
+            "localname": "Markandapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Jagatsinghpur/Madhapur",
+            "localname": "Jagatsinghpur/Madhapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Sujanga/Marichapada",
+            "localname": "Sujanga/Marichapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Ohala",
+            "localname": "Ohala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Jayabada / Potal",
+            "localname": "Jayabada / Potal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Harihar Pur",
+            "localname": "Harihar Pur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Kantaballavpur",
+            "localname": "Kantaballavpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Galupada/Atamala",
+            "localname": "Galupada/Atamala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Chattra (Devoga)",
+            "localname": "Chattra (Devoga)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Chattra/Panisalia",
+            "localname": "Chattra/Panisalia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Paikana (Kaliabora)",
+            "localname": "Paikana (Kaliabora)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Panisalia",
+            "localname": "Panisalia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Deuligrameswar",
+            "localname": "Deuligrameswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Kherasa",
+            "localname": "Kherasa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Kherasa/Purohitpur",
+            "localname": "Kherasa/Purohitpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Makundapur/Panisalia",
+            "localname": "Makundapur/Panisalia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL17"
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Makundapur (Sipi)",
+            "localname": "Makundapur (Sipi)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL18"
+          },
+		  {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL19"
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Adhanga",
+            "localname": "Adhanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT1",
+            "children": []
+        },
+        {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Ainipur(Sanara)",
+            "localname": "Ainipur(Sanara)",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT2",
+            "children": []
+        },
+        {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Alanahat",
+            "localname": "Alanahat",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT3",
+            "children": []
+        },
+        {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Alasudha(Kokilapur)",
+            "localname": "Alasudha(Kokilapur)",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT4",
+            "children": []
+        },
+        {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Alipingal",
+            "localname": "Alipingal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT5",
+            "children": []
+        },
+        {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Ambadarda",
+            "localname": "Ambadarda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT6",
+            "children": []
+        },
+        {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Balia Store",
+            "localname": "Balia Store",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT7",
+            "children": []
+        },
+        {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Balikuda(Nagapur)",
+            "localname": "Balikuda(Nagapur)",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT8",
+            "children": []
+        },
+        {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Balikuda(Purana)",
+            "localname": "Balikuda(Purana)",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT9",
+            "children": []
+        },
+        {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Balipatana",
+            "localname": "Balipatana",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT10",
+            "children": []
+        },
+        {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Benupur",
+            "localname": "Benupur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT11",
+            "children": []
+        },
+        {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Birtol(Sanara)",
+            "localname": "Birtol(Sanara)",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT12",
+            "children": []
+        },
+        {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Chhapada",
+            "localname": "Chhapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT13",
+            "children": []
+        },
+        {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Dhiasahi",
+            "localname": "Dhiasahi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT14",
+            "children": []
+        },
+        {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "Gobinda Pokhari",
+            "localname": "Gobinda Pokhari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT15",
+            "children": []
+        },
+        {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "Haraban Market(Balikuda)",
+            "localname": "Haraban Market(Balikuda)",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT16",
+            "children": []
+        },
+        {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "Jaypur",
+            "localname": "Jaypur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT17",
+            "children": []
+        },
+        {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "Jota(Kanpur)",
+            "localname": "Jota(Kanpur)",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT18",
+            "children": []
+        },
+        {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "Kathiapada",
+            "localname": "Kathiapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT19",
+            "children": []
+        },
+        {
+            "id": "40",
+            "boundaryNum": 1,
+            "name": "Mahakalapada",
+            "localname": "Mahakalapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT20",
+            "children": []
+        },
+        {
+            "id": "41",
+            "boundaryNum": 1,
+            "name": "Mahilo",
+            "localname": "Mahilo",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT21",
+            "children": []
+        },
+        {
+            "id": "42",
+            "boundaryNum": 1,
+            "name": "Moiuddinpur(Sampur)",
+            "localname": "Moiuddinpur(Sampur)",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT22",
+            "children": []
+        },
+        {
+            "id": "43",
+            "boundaryNum": 1,
+            "name": "Netapur",
+            "localname": "Netapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT23",
+            "children": []
+        },
+        {
+            "id": "44",
+            "boundaryNum": 1,
+            "name": "Nuapola",
+            "localname": "Nuapola",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT24",
+            "children": []
+        },
+        {
+            "id": "45",
+            "boundaryNum": 1,
+            "name": "Paikan",
+            "localname": "Paikan",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT25",
+            "children": []
+        },
+        {
+            "id": "46",
+            "boundaryNum": 1,
+            "name": "Pokapur",
+            "localname": "Pokapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT26",
+            "children": []
+        },
+        {
+            "id": "47",
+            "boundaryNum": 1,
+            "name": "Punanga",
+            "localname": "Punanga",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT27",
+            "children": []
+        },
+        {
+            "id": "48",
+            "boundaryNum": 1,
+            "name": "Raghunathpur",
+            "localname": "Raghunathpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT28",
+            "children": []
+        },
+        {
+            "id": "49",
+            "boundaryNum": 1,
+            "name": "Ranipada",
+            "localname": "Ranipada",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT29",
+            "children": []
+        },
+        {
+            "id": "50",
+            "boundaryNum": 1,
+            "name": "Rasalpur",
+            "localname": "Rasalpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT30",
+            "children": []
+        },
+        {
+            "id": "51",
+            "boundaryNum": 1,
+            "name": "Sadhei Sasan",
+            "localname": "Sadhei Sasan",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT31",
+            "children": []
+        },
+        {
+            "id": "52",
+            "boundaryNum": 1,
+            "name": "Sainto",
+            "localname": "Sainto",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT32",
+            "children": []
+        },
+        {
+            "id": "53",
+            "boundaryNum": 1,
+            "name": "Salampur",
+            "localname": "Salampur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT33",
+            "children": []
+        },
+        {
+            "id": "54",
+            "boundaryNum": 1,
+            "name": "Sidhala",
+            "localname": "Sidhala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT34",
+            "children": []
+        },
+        {
+            "id": "55",
+            "boundaryNum": 1,
+            "name": "Singharpur",
+            "localname": "Singharpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT35",
+            "children": []
+        },
+        {
+            "id": "56",
+            "boundaryNum": 1,
+            "name": "Sipi(Makundapur)",
+            "localname": "Sipi(Makundapur)",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT36",
+            "children": []
+        },
+        {
+            "id": "57",
+            "boundaryNum": 1,
+            "name": "Tumba",
+            "localname": "Tumba",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT37",
+            "children": []
+        },
+        {
+            "id": "58",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JGT38",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jagatsinghpur",
+        "localname": "Jagatsinghpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.jagatsinghpur",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Kantaballavpur",
+            "localname": "Kantaballavpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Markandapur",
+            "localname": "Markandapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Jagatsinghpur/Madhapur",
+            "localname": "Jagatsinghpur/Madhapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Sujanga/Marichapada",
+            "localname": "Sujanga/Marichapada",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Ohala",
+            "localname": "Ohala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Jayabada / Potal",
+            "localname": "Jayabada / Potal",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Harihar Pur",
+            "localname": "Harihar Pur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Kantaballavpur",
+            "localname": "Kantaballavpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Galupada/Atamala",
+            "localname": "Galupada/Atamala",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Chattra (Devoga)",
+            "localname": "Chattra (Devoga)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Chattra/Panisalia",
+            "localname": "Chattra/Panisalia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL11"
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Paikana (Kaliabora)",
+            "localname": "Paikana (Kaliabora)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Panisalia",
+            "localname": "Panisalia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL13"
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Deuligrameswar",
+            "localname": "Deuligrameswar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL14"
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Kherasa",
+            "localname": "Kherasa",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL15"
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Kherasa/Purohitpur",
+            "localname": "Kherasa/Purohitpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL16"
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Makundapur/Panisalia",
+            "localname": "Makundapur/Panisalia",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL17"
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Makundapur (Sipi)",
+            "localname": "Makundapur (Sipi)",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL18"
+          }
+        ]
+      }
+    }
+  ]
+}

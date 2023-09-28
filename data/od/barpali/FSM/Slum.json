@@ -1,0 +1,47 @@
+{
+    "tenantId": "od.barpali",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Dakabangala pada",
+        "active": true,
+        "code": "BPSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Behera pada",
+        "active": true,
+        "code": "BPSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bazarpada",
+        "active": true,
+        "code": "BPSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Bahalmunda",
+        "active": true,
+        "code": "BPSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dashapada",
+        "active": true,
+        "code": "BPSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kainratikra",
+        "active": true,
+        "code": "BPSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Dubepada",
+        "active": true,
+        "code": "BPSL007",
+        "locality": "VIL1"
+    }]
+}

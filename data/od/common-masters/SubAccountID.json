@@ -1,0 +1,3531 @@
+{
+    "tenantId": "od",
+    "moduleName": "common-masters",
+    "SubAccountId": [
+        {
+            "tenantId": "od.anandapur",
+            "module": "BPA",
+            "subAcountId": "BPODANANDAPUR"
+        },
+        {
+            "tenantId": "od.angul",
+            "module": "BPA",
+            "subAcountId": "BPODANGUL"
+        },
+        {
+            "tenantId": "od.aska",
+            "module": "BPA",
+            "subAcountId": "BPODASKA"
+        },
+        {
+            "tenantId": "od.athagarh",
+            "module": "BPA",
+            "subAcountId": "BPODATHAGARH"
+        },
+        {
+            "tenantId": "od.athmallik",
+            "module": "BPA",
+            "subAcountId": "BPODATHMALLIK"
+        },
+        {
+            "tenantId": "od.attabira",
+            "module": "BPA",
+            "subAcountId": "BPODATTABIRA"
+        },
+        {
+            "tenantId": "od.balangir",
+            "module": "BPA",
+            "subAcountId": "BPODBALANGIR"
+        },
+        {
+            "tenantId": "od.balasore",
+            "module": "BPA",
+            "subAcountId": "BPODBALASORE"
+        },
+        {
+            "tenantId": "od.balimela",
+            "module": "BPA",
+            "subAcountId": "BPODBALIMELA"
+        },
+        {
+            "tenantId": "od.balliguda",
+            "module": "BPA",
+            "subAcountId": "BPODBALLIGUDA"
+        },
+        {
+            "tenantId": "od.balugaon",
+            "module": "BPA",
+            "subAcountId": "BPODBALUGAON"
+        },
+        {
+            "tenantId": "od.banki",
+            "module": "BPA",
+            "subAcountId": "BPODBANKI"
+        },
+        {
+            "tenantId": "od.banpur",
+            "module": "BPA",
+            "subAcountId": "BPODBANPUR"
+        },
+        {
+            "tenantId": "od.barbil",
+            "module": "BPA",
+            "subAcountId": "BPODBARBIL"
+        },
+        {
+            "tenantId": "od.bargarh",
+            "module": "BPA",
+            "subAcountId": "BPODBARGARH"
+        },
+        {
+            "tenantId": "od.baripada",
+            "module": "BPA",
+            "subAcountId": "BPODBARIPADA"
+        },
+        {
+            "tenantId": "od.barpali",
+            "module": "BPA",
+            "subAcountId": "BPODBARPALI"
+        },
+        {
+            "tenantId": "od.basudevpur",
+            "module": "BPA",
+            "subAcountId": "BPODBASUDEVPUR"
+        },
+        {
+            "tenantId": "od.bellaguntha",
+            "module": "BPA",
+            "subAcountId": "BPODBELLAGUNTHA"
+        },
+        {
+            "tenantId": "od.belpahar",
+            "module": "BPA",
+            "subAcountId": "BPODBELPAHAR"
+        },
+        {
+            "tenantId": "od.berhampur",
+            "module": "BPA",
+            "subAcountId": "BPODBERHAMPUR"
+        },
+        {
+            "tenantId": "od.berhampurdevelopmentauthority",
+            "module": "BPA",
+            "subAcountId": "BPODBEDA"
+        },
+        {
+            "tenantId": "od.bhadrak",
+            "module": "BPA",
+            "subAcountId": "BPODBHADRAK"
+        },
+        {
+            "tenantId": "od.bhanjanagar",
+            "module": "BPA",
+            "subAcountId": "BPODBHANJANAGAR"
+        },
+        {
+            "tenantId": "od.bhawanipatna",
+            "module": "BPA",
+            "subAcountId": "BPODBHAWANIPATNA"
+        },
+        {
+            "tenantId": "od.bhuban",
+            "module": "BPA",
+            "subAcountId": "BPODBHUBAN"
+        },
+        {
+            "tenantId": "od.bhubaneswar",
+            "module": "BPA",
+            "subAcountId": "BPODBHUBANESWAR"
+        },
+        {
+            "tenantId": "od.bhubaneswardevelopmentauthority",
+            "module": "BPA",
+            "subAcountId": "BPODBDA"
+        },
+        {
+            "tenantId": "od.bijepur",
+            "module": "BPA",
+            "subAcountId": "BPODBIJEPUR"
+        },
+        {
+            "tenantId": "od.binka",
+            "module": "BPA",
+            "subAcountId": "BPODBINKA"
+        },
+        {
+            "tenantId": "od.birmitrapur",
+            "module": "BPA",
+            "subAcountId": "BPODBIRMITRAPUR"
+        },
+        {
+            "tenantId": "od.boudhgarh",
+            "module": "BPA",
+            "subAcountId": "BPODBOUDHGARH"
+        },
+        {
+            "tenantId": "od.brajrajnagar",
+            "module": "BPA",
+            "subAcountId": "BPODBRAJRAJNAGAR"
+        },
+        {
+            "tenantId": "od.buguda",
+            "module": "BPA",
+            "subAcountId": "BPODBUGUDA"
+        },
+        {
+            "tenantId": "od.champua",
+            "module": "BPA",
+            "subAcountId": "BPODCHAMPUA"
+        },
+        {
+            "tenantId": "od.chandbali",
+            "module": "BPA",
+            "subAcountId": "BPODCHANDBALI"
+        },
+        {
+            "tenantId": "od.chatrapur",
+            "module": "BPA",
+            "subAcountId": "BPODCHATRAPUR"
+        },
+        {
+            "tenantId": "od.chikiti",
+            "module": "BPA",
+            "subAcountId": "BPODCHIKITI"
+        },
+        {
+            "tenantId": "od.choudwar",
+            "module": "BPA",
+            "subAcountId": "BPODCHOUDWAR"
+        },
+        {
+            "tenantId": "od.cuttack",
+            "module": "BPA",
+            "subAcountId": "BPODCUTTACK"
+        },
+        {
+            "tenantId": "od.cuttackdevelopmentauthority",
+            "module": "BPA",
+            "subAcountId": "BPODCDA"
+        },
+        {
+            "tenantId": "od.daspalla",
+            "module": "BPA",
+            "subAcountId": "BPODDASPALLA"
+        },
+        {
+            "tenantId": "od.deogarh",
+            "module": "BPA",
+            "subAcountId": "BPODDEOGARH"
+        },
+        {
+            "tenantId": "od.dhamnagar",
+            "module": "BPA",
+            "subAcountId": "BPODDHAMNAGAR"
+        },
+        {
+            "tenantId": "od.dharamgarh",
+            "module": "BPA",
+            "subAcountId": "BPODDHARAMGARH"
+        },
+        {
+            "tenantId": "od.dhenkanal",
+            "module": "BPA",
+            "subAcountId": "BPODDHENKANAL"
+        },
+        {
+            "tenantId": "od.digapahandi",
+            "module": "BPA",
+            "subAcountId": "BPODDIGAPAHANDI"
+        },
+        {
+            "tenantId": "od.ganjam",
+            "module": "BPA",
+            "subAcountId": "BPODGANJAM"
+        },
+        {
+            "tenantId": "od.gopalpur",
+            "module": "BPA",
+            "subAcountId": "BPODGOPALPUR"
+        },
+        {
+            "tenantId": "od.gudari",
+            "module": "BPA",
+            "subAcountId": "BPODGUDARI"
+        },
+        {
+            "tenantId": "od.g.udayagiri",
+            "module": "BPA",
+            "subAcountId": "BPODGUDAYAGIRI"
+        },
+        {
+            "tenantId": "od.gunupur",
+            "module": "BPA",
+            "subAcountId": "BPODGUNUPUR"
+        },
+        {
+            "tenantId": "od.hindol",
+            "module": "BPA",
+            "subAcountId": "BPODHINDOL"
+        },
+        {
+            "tenantId": "od.hinjilicut",
+            "module": "BPA",
+            "subAcountId": "BPODHINJILICUT"
+        },
+        {
+            "tenantId": "od.jagatsinghpur",
+            "module": "BPA",
+            "subAcountId": "BPODJAGATSINGHPUR"
+        },
+        {
+            "tenantId": "od.jajpur",
+            "module": "BPA",
+            "subAcountId": "BPODJAJPUR"
+        },
+        {
+            "tenantId": "od.jaleswar",
+            "module": "BPA",
+            "subAcountId": "BPODJALESWAR"
+        },
+        {
+            "tenantId": "od.jatni",
+            "module": "BPA",
+            "subAcountId": "BPODJATNI"
+        },
+        {
+            "tenantId": "od.jeypore",
+            "module": "BPA",
+            "subAcountId": "BPODJEYPORE"
+        },
+        {
+            "tenantId": "od.jharsuguda",
+            "module": "BPA",
+            "subAcountId": "BPODJHARSUGUDA"
+        },
+        {
+            "tenantId": "od.joda",
+            "module": "BPA",
+            "subAcountId": "BPODJODA"
+        },
+        {
+            "tenantId": "od.junagarh",
+            "module": "BPA",
+            "subAcountId": "BPODJUNAGARH"
+        },
+        {
+            "tenantId": "od.kabisuryanagar",
+            "module": "BPA",
+            "subAcountId": "BPODKABISURYANAGAR"
+        },
+        {
+            "tenantId": "od.kalinganagardevelopmentauthority",
+            "module": "BPA",
+            "subAcountId": "BPODKNDA"
+        },
+        {
+            "tenantId": "od.kamakhyanagar",
+            "module": "BPA",
+            "subAcountId": "BPODKAMAKHYANAGAR"
+        },
+        {
+            "tenantId": "od.kantabanji",
+            "module": "BPA",
+            "subAcountId": "BPODKANTABANJI"
+        },
+        {
+            "tenantId": "od.karanjia",
+            "module": "BPA",
+            "subAcountId": "BPODKARANJIA"
+        },
+        {
+            "tenantId": "od.kashinagar",
+            "module": "BPA",
+            "subAcountId": "BPODKASHINAGAR"
+        },
+        {
+            "tenantId": "od.kendrapara",
+            "module": "BPA",
+            "subAcountId": "BPODKENDRAPARA"
+        },
+        {
+            "tenantId": "od.keonjhargarh",
+            "module": "BPA",
+            "subAcountId": "BPODKEONJHARGARH"
+        },
+        {
+            "tenantId": "od.kesinga",
+            "module": "BPA",
+            "subAcountId": "BPODKESINGA"
+        },
+        {
+            "tenantId": "od.khallikote",
+            "module": "BPA",
+            "subAcountId": "BPODKHALLIKOTE"
+        },
+        {
+            "tenantId": "od.khandapada",
+            "module": "BPA",
+            "subAcountId": "BPODKHANDAPADA"
+        },
+        {
+            "tenantId": "od.khariar",
+            "module": "BPA",
+            "subAcountId": "BPODKHARIAR"
+        },
+        {
+            "tenantId": "od.khariarroad",
+            "module": "BPA",
+            "subAcountId": "BPODKHARIARROAD"
+        },
+        {
+            "tenantId": "od.khordha",
+            "module": "BPA",
+            "subAcountId": "BPODKHORDHA"
+        },
+        {
+            "tenantId": "od.kodala",
+            "module": "BPA",
+            "subAcountId": "BPODKODALA"
+        },
+        {
+            "tenantId": "od.konark",
+            "module": "BPA",
+            "subAcountId": "BPODKONARK"
+        },
+        {
+            "tenantId": "od.koraput",
+            "module": "BPA",
+            "subAcountId": "BPODKORAPUT"
+        },
+        {
+            "tenantId": "od.kotpad",
+            "module": "BPA",
+            "subAcountId": "BPODKOTPAD"
+        },
+        {
+            "tenantId": "od.kuchinda",
+            "module": "BPA",
+            "subAcountId": "BPODKUCHINDA"
+        },
+        {
+            "tenantId": "od.malkangiri",
+            "module": "BPA",
+            "subAcountId": "BPODMALKANGIRI"
+        },
+        {
+            "tenantId": "od.nabarangpur",
+            "module": "BPA",
+            "subAcountId": "BPODNABARANGPUR"
+        },
+        {
+            "tenantId": "od.nayagarh",
+            "module": "BPA",
+            "subAcountId": "BPODNAYAGARH"
+        },
+        {
+            "tenantId": "od.nilgiri",
+            "module": "BPA",
+            "subAcountId": "BPODNILGIRI"
+        },
+        {
+            "tenantId": "od.nimapara",
+            "module": "BPA",
+            "subAcountId": "BPODNIMAPARA"
+        },
+        {
+            "tenantId": "od.nuapada",
+            "module": "BPA",
+            "subAcountId": "BPODNUAPADA"
+        },
+        {
+            "tenantId": "od.odagaon",
+            "module": "BPA",
+            "subAcountId": "BPODODAGAON"
+        },
+        {
+            "tenantId": "od.padampur",
+            "module": "BPA",
+            "subAcountId": "BPODPADAMPUR"
+        },
+        {
+            "tenantId": "od.paradeep",
+            "module": "BPA",
+            "subAcountId": "BPODPARADEEP"
+        },
+        {
+            "tenantId": "od.paradipdevelopmentauthority",
+            "module": "BPA",
+            "subAcountId": "BPODPDA"
+        },
+        {
+            "tenantId": "od.paralakhemundi",
+            "module": "BPA",
+            "subAcountId": "BPODPARALAKHEMUNDI"
+        },
+        {
+            "tenantId": "od.patnagarh",
+            "module": "BPA",
+            "subAcountId": "BPODPATNAGARH"
+        },
+        {
+            "tenantId": "od.pattamundai",
+            "module": "BPA",
+            "subAcountId": "BPODPATTAMUNDAI"
+        },
+        {
+            "tenantId": "od.phulbani",
+            "module": "BPA",
+            "subAcountId": "BPODPHULBANI"
+        },
+        {
+            "tenantId": "od.pipli",
+            "module": "BPA",
+            "subAcountId": "BPODPIPLI"
+        },
+        {
+            "tenantId": "od.polasara",
+            "module": "BPA",
+            "subAcountId": "BPODPOLASARA"
+        },
+        {
+            "tenantId": "od.puri",
+            "module": "BPA",
+            "subAcountId": "BPODPURI"
+        },
+        {
+            "tenantId": "od.purikonarkdevelopmentauthority",
+            "module": "BPA",
+            "subAcountId": "BPODPKDA"
+        },
+        {
+            "tenantId": "od.purushottampur",
+            "module": "BPA",
+            "subAcountId": "BPODPURUSHOTTAMPUR"
+        },
+        {
+            "tenantId": "od.rairangpur",
+            "module": "BPA",
+            "subAcountId": "BPODRAIRANGPUR"
+        },
+        {
+            "tenantId": "od.rajgangpur",
+            "module": "BPA",
+            "subAcountId": "BPODRAJGANGPUR"
+        },
+        {
+            "tenantId": "od.rambha",
+            "module": "BPA",
+            "subAcountId": "BPODRAMBHA"
+        },
+        {
+            "tenantId": "od.ranpur",
+            "module": "BPA",
+            "subAcountId": "BPODRANPUR"
+        },
+        {
+            "tenantId": "od.rayagada",
+            "module": "BPA",
+            "subAcountId": "BPODRAYAGADA"
+        },
+        {
+            "tenantId": "od.redhakhol",
+            "module": "BPA",
+            "subAcountId": "BPODREDHAKHOL"
+        },
+        {
+            "tenantId": "od.rourkela",
+            "module": "BPA",
+            "subAcountId": "BPODROURKELA"
+        },
+        {
+            "tenantId": "od.rourkeladevelopmentauthority",
+            "module": "BPA",
+            "subAcountId": "BPODRDA"
+        },
+        {
+            "tenantId": "od.sambalpur",
+            "module": "BPA",
+            "subAcountId": "BPODSAMBALPUR"
+        },
+        {
+            "tenantId": "od.sambalpurdevelopmentauthority",
+            "module": "BPA",
+            "subAcountId": "BPODSDA"
+        },
+        {
+            "tenantId": "od.sonepur",
+            "module": "BPA",
+            "subAcountId": "BPODSONEPUR"
+        },
+        {
+            "tenantId": "od.soro",
+            "module": "BPA",
+            "subAcountId": "BPODSORO"
+        },
+        {
+            "tenantId": "od.sunabeda",
+            "module": "BPA",
+            "subAcountId": "BPODSUNABEDA"
+        },
+        {
+            "tenantId": "od.sundargarh",
+            "module": "BPA",
+            "subAcountId": "BPODSUNDARGARH"
+        },
+        {
+            "tenantId": "od.surada",
+            "module": "BPA",
+            "subAcountId": "BPODSURADA"
+        },
+        {
+            "tenantId": "od.talcher",
+            "module": "BPA",
+            "subAcountId": "BPODTALCHER"
+        },
+        {
+            "tenantId": "od.talcherangulmeramandalidevelopmentauthority",
+            "module": "BPA",
+            "subAcountId": "BPODTADMA"
+        },
+        {
+            "tenantId": "od.tarbha",
+            "module": "BPA",
+            "subAcountId": "BPODTARBHA"
+        },
+        {
+            "tenantId": "od.titilagarh",
+            "module": "BPA",
+            "subAcountId": "BPODTITILAGARH"
+        },
+        {
+            "tenantId": "od.tusura",
+            "module": "BPA",
+            "subAcountId": "BPODTUSURA"
+        },
+        {
+            "tenantId": "od.udala",
+            "module": "BPA",
+            "subAcountId": "BPODUDALA"
+        },
+        {
+            "tenantId": "od.umerkote",
+            "module": "BPA",
+            "subAcountId": "BPODUMERKOTE"
+        },
+        {
+            "tenantId": "od.vyasanagar",
+            "module": "BPA",
+            "subAcountId": "BPODVYASANAGAR"
+        },
+        {
+            "tenantId": "od.remuna",
+            "module": "BPA",
+            "subAcountId": "BPODREMUNA"
+        },
+        {
+            "tenantId": "od.testing",
+            "module": "BPA",
+            "subAcountId": "BPODTESTING"
+        },
+        {
+            "tenantId": "od.anandapur",
+            "module": "PT",
+            "subAcountId": "PTODANANDAPUR"
+        },
+        {
+            "tenantId": "od.angul",
+            "module": "PT",
+            "subAcountId": "PTODANGUL"
+        },
+        {
+            "tenantId": "od.aska",
+            "module": "PT",
+            "subAcountId": "PTODASKA"
+        },
+        {
+            "tenantId": "od.athagarh",
+            "module": "PT",
+            "subAcountId": "PTODATHAGARH"
+        },
+        {
+            "tenantId": "od.athmallik",
+            "module": "PT",
+            "subAcountId": "PTODATHMALLIK"
+        },
+        {
+            "tenantId": "od.attabira",
+            "module": "PT",
+            "subAcountId": "PTODATTABIRA"
+        },
+        {
+            "tenantId": "od.balangir",
+            "module": "PT",
+            "subAcountId": "PTODBALANGIR"
+        },
+        {
+            "tenantId": "od.balasore",
+            "module": "PT",
+            "subAcountId": "PTODBALASORE"
+        },
+        {
+            "tenantId": "od.balimela",
+            "module": "PT",
+            "subAcountId": "PTODBALIMELA"
+        },
+        {
+            "tenantId": "od.balliguda",
+            "module": "PT",
+            "subAcountId": "PTODBALLIGUDA"
+        },
+        {
+            "tenantId": "od.balugaon",
+            "module": "PT",
+            "subAcountId": "PTODBALUGAON"
+        },
+        {
+            "tenantId": "od.banki",
+            "module": "PT",
+            "subAcountId": "PTODBANKI"
+        },
+        {
+            "tenantId": "od.banpur",
+            "module": "PT",
+            "subAcountId": "PTODBANPUR"
+        },
+        {
+            "tenantId": "od.barbil",
+            "module": "PT",
+            "subAcountId": "PTODBARBIL"
+        },
+        {
+            "tenantId": "od.bargarh",
+            "module": "PT",
+            "subAcountId": "PTODBARGARH"
+        },
+        {
+            "tenantId": "od.baripada",
+            "module": "PT",
+            "subAcountId": "PTODBARIPADA"
+        },
+        {
+            "tenantId": "od.barpali",
+            "module": "PT",
+            "subAcountId": "PTODBARPALI"
+        },
+        {
+            "tenantId": "od.basudevpur",
+            "module": "PT",
+            "subAcountId": "PTODBASUDEVPUR"
+        },
+        {
+            "tenantId": "od.bellaguntha",
+            "module": "PT",
+            "subAcountId": "PTODBELLAGUNTHA"
+        },
+        {
+            "tenantId": "od.belpahar",
+            "module": "PT",
+            "subAcountId": "PTODBELPAHAR"
+        },
+        {
+            "tenantId": "od.berhampur",
+            "module": "PT",
+            "subAcountId": "PTODBERHAMPUR"
+        },
+        {
+            "tenantId": "od.bhadrak",
+            "module": "PT",
+            "subAcountId": "PTODBHADRAK"
+        },
+        {
+            "tenantId": "od.bhanjanagar",
+            "module": "PT",
+            "subAcountId": "PTODBHANJANAGAR"
+        },
+        {
+            "tenantId": "od.bhawanipatna",
+            "module": "PT",
+            "subAcountId": "PTODBHAWANIPATNA"
+        },
+        {
+            "tenantId": "od.bhuban",
+            "module": "PT",
+            "subAcountId": "PTODBHUBAN"
+        },
+        {
+            "tenantId": "od.bhubaneswar",
+            "module": "PT",
+            "subAcountId": "PTODBHUBANESWAR"
+        },
+        {
+            "tenantId": "od.bijepur",
+            "module": "PT",
+            "subAcountId": "PTODBIJEPUR"
+        },
+        {
+            "tenantId": "od.binka",
+            "module": "PT",
+            "subAcountId": "PTODBINKA"
+        },
+        {
+            "tenantId": "od.birmitrapur",
+            "module": "PT",
+            "subAcountId": "PTODBIRMITRAPUR"
+        },
+        {
+            "tenantId": "od.boudhgarh",
+            "module": "PT",
+            "subAcountId": "PTODBOUDHGARH"
+        },
+        {
+            "tenantId": "od.brajrajnagar",
+            "module": "PT",
+            "subAcountId": "PTODBRAJRAJNAGAR"
+        },
+        {
+            "tenantId": "od.buguda",
+            "module": "PT",
+            "subAcountId": "PTODBUGUDA"
+        },
+        {
+            "tenantId": "od.champua",
+            "module": "PT",
+            "subAcountId": "PTODCHAMPUA"
+        },
+        {
+            "tenantId": "od.chandbali",
+            "module": "PT",
+            "subAcountId": "PTODCHANDBALI"
+        },
+        {
+            "tenantId": "od.chatrapur",
+            "module": "PT",
+            "subAcountId": "PTODCHATRAPUR"
+        },
+        {
+            "tenantId": "od.chikiti",
+            "module": "PT",
+            "subAcountId": "PTODCHIKITI"
+        },
+        {
+            "tenantId": "od.choudwar",
+            "module": "PT",
+            "subAcountId": "PTODCHOUDWAR"
+        },
+        {
+            "tenantId": "od.cuttack",
+            "module": "PT",
+            "subAcountId": "PTODCUTTACK"
+        },
+        {
+            "tenantId": "od.daspalla",
+            "module": "PT",
+            "subAcountId": "PTODDASPALLA"
+        },
+        {
+            "tenantId": "od.deogarh",
+            "module": "PT",
+            "subAcountId": "PTODDEOGARH"
+        },
+        {
+            "tenantId": "od.dhamnagar",
+            "module": "PT",
+            "subAcountId": "PTODDHAMNAGAR"
+        },
+        {
+            "tenantId": "od.dharamgarh",
+            "module": "PT",
+            "subAcountId": "PTODDHARAMGARH"
+        },
+        {
+            "tenantId": "od.dhenkanal",
+            "module": "PT",
+            "subAcountId": "PTODDHENKANAL"
+        },
+        {
+            "tenantId": "od.digapahandi",
+            "module": "PT",
+            "subAcountId": "PTODDIGAPAHANDI"
+        },
+        {
+            "tenantId": "od.ganjam",
+            "module": "PT",
+            "subAcountId": "PTODGANJAM"
+        },
+        {
+            "tenantId": "od.gopalpur",
+            "module": "PT",
+            "subAcountId": "PTODGOPALPUR"
+        },
+        {
+            "tenantId": "od.gudari",
+            "module": "PT",
+            "subAcountId": "PTODGUDARI"
+        },
+        {
+            "tenantId": "od.g.udayagiri",
+            "module": "PT",
+            "subAcountId": "PTODGUDAYAGIRI"
+        },
+        {
+            "tenantId": "od.gunupur",
+            "module": "PT",
+            "subAcountId": "PTODGUNUPUR"
+        },
+        {
+            "tenantId": "od.hindol",
+            "module": "PT",
+            "subAcountId": "PTODHINDOL"
+        },
+        {
+            "tenantId": "od.hinjilicut",
+            "module": "PT",
+            "subAcountId": "PTODHINJILICUT"
+        },
+        {
+            "tenantId": "od.jagatsinghpur",
+            "module": "PT",
+            "subAcountId": "PTODJAGATSINGHPUR"
+        },
+        {
+            "tenantId": "od.jajpur",
+            "module": "PT",
+            "subAcountId": "PTODJAJPUR"
+        },
+        {
+            "tenantId": "od.jaleswar",
+            "module": "PT",
+            "subAcountId": "PTODJALESWAR"
+        },
+        {
+            "tenantId": "od.jatni",
+            "module": "PT",
+            "subAcountId": "PTODJATNI"
+        },
+        {
+            "tenantId": "od.jeypore",
+            "module": "PT",
+            "subAcountId": "PTODJEYPORE"
+        },
+        {
+            "tenantId": "od.jharsuguda",
+            "module": "PT",
+            "subAcountId": "PTODJHARSUGUDA"
+        },
+        {
+            "tenantId": "od.joda",
+            "module": "PT",
+            "subAcountId": "PTODJODA"
+        },
+        {
+            "tenantId": "od.junagarh",
+            "module": "PT",
+            "subAcountId": "PTODJUNAGARH"
+        },
+        {
+            "tenantId": "od.kabisuryanagar",
+            "module": "PT",
+            "subAcountId": "PTODKABISURYANAGAR"
+        },
+        {
+            "tenantId": "od.kamakhyanagar",
+            "module": "PT",
+            "subAcountId": "PTODKAMAKHYANAGAR"
+        },
+        {
+            "tenantId": "od.kantabanji",
+            "module": "PT",
+            "subAcountId": "PTODKANTABANJI"
+        },
+        {
+            "tenantId": "od.karanjia",
+            "module": "PT",
+            "subAcountId": "PTODKARANJIA"
+        },
+        {
+            "tenantId": "od.kashinagar",
+            "module": "PT",
+            "subAcountId": "PTODKASHINAGAR"
+        },
+        {
+            "tenantId": "od.kendrapara",
+            "module": "PT",
+            "subAcountId": "PTODKENDRAPARA"
+        },
+        {
+            "tenantId": "od.keonjhargarh",
+            "module": "PT",
+            "subAcountId": "PTODKEONJHARGARH"
+        },
+        {
+            "tenantId": "od.kesinga",
+            "module": "PT",
+            "subAcountId": "PTODKESINGA"
+        },
+        {
+            "tenantId": "od.khallikote",
+            "module": "PT",
+            "subAcountId": "PTODKHALLIKOTE"
+        },
+        {
+            "tenantId": "od.khandapada",
+            "module": "PT",
+            "subAcountId": "PTODKHANDAPADA"
+        },
+        {
+            "tenantId": "od.khariar",
+            "module": "PT",
+            "subAcountId": "PTODKHARIAR"
+        },
+        {
+            "tenantId": "od.khariarroad",
+            "module": "PT",
+            "subAcountId": "PTODKHARIARROAD"
+        },
+        {
+            "tenantId": "od.khordha",
+            "module": "PT",
+            "subAcountId": "PTODKHORDHA"
+        },
+        {
+            "tenantId": "od.kodala",
+            "module": "PT",
+            "subAcountId": "PTODKODALA"
+        },
+        {
+            "tenantId": "od.konark",
+            "module": "PT",
+            "subAcountId": "PTODKONARK"
+        },
+        {
+            "tenantId": "od.koraput",
+            "module": "PT",
+            "subAcountId": "PTODKORAPUT"
+        },
+        {
+            "tenantId": "od.kotpad",
+            "module": "PT",
+            "subAcountId": "PTODKOTPAD"
+        },
+        {
+            "tenantId": "od.kuchinda",
+            "module": "PT",
+            "subAcountId": "PTODKUCHINDA"
+        },
+        {
+            "tenantId": "od.malkangiri",
+            "module": "PT",
+            "subAcountId": "PTODMALKANGIRI"
+        },
+        {
+            "tenantId": "od.nabarangpur",
+            "module": "PT",
+            "subAcountId": "PTODNABARANGPUR"
+        },
+        {
+            "tenantId": "od.nayagarh",
+            "module": "PT",
+            "subAcountId": "PTODNAYAGARH"
+        },
+        {
+            "tenantId": "od.nilgiri",
+            "module": "PT",
+            "subAcountId": "PTODNILGIRI"
+        },
+        {
+            "tenantId": "od.nimapara",
+            "module": "PT",
+            "subAcountId": "PTODNIMAPARA"
+        },
+        {
+            "tenantId": "od.nuapada",
+            "module": "PT",
+            "subAcountId": "PTODNUAPADA"
+        },
+        {
+            "tenantId": "od.odagaon",
+            "module": "PT",
+            "subAcountId": "PTODODAGAON"
+        },
+        {
+            "tenantId": "od.padampur",
+            "module": "PT",
+            "subAcountId": "PTODPADAMPUR"
+        },
+        {
+            "tenantId": "od.paradeep",
+            "module": "PT",
+            "subAcountId": "PTODPARADEEP"
+        },
+        {
+            "tenantId": "od.paralakhemundi",
+            "module": "PT",
+            "subAcountId": "PTODPARALAKHEMUNDI"
+        },
+        {
+            "tenantId": "od.patnagarh",
+            "module": "PT",
+            "subAcountId": "PTODPATNAGARH"
+        },
+        {
+            "tenantId": "od.pattamundai",
+            "module": "PT",
+            "subAcountId": "PTODPATTAMUNDAI"
+        },
+        {
+            "tenantId": "od.phulbani",
+            "module": "PT",
+            "subAcountId": "PTODPHULBANI"
+        },
+        {
+            "tenantId": "od.pipli",
+            "module": "PT",
+            "subAcountId": "PTODPIPLI"
+        },
+        {
+            "tenantId": "od.polasara",
+            "module": "PT",
+            "subAcountId": "PTODPOLASARA"
+        },
+        {
+            "tenantId": "od.puri",
+            "module": "PT",
+            "subAcountId": "PTODPURI"
+        },
+        {
+            "tenantId": "od.purushottampur",
+            "module": "PT",
+            "subAcountId": "PTODPURUSHOTTAMPUR"
+        },
+        {
+            "tenantId": "od.rairangpur",
+            "module": "PT",
+            "subAcountId": "PTODRAIRANGPUR"
+        },
+        {
+            "tenantId": "od.rajgangpur",
+            "module": "PT",
+            "subAcountId": "PTODRAJGANGPUR"
+        },
+        {
+            "tenantId": "od.rambha",
+            "module": "PT",
+            "subAcountId": "PTODRAMBHA"
+        },
+        {
+            "tenantId": "od.ranpur",
+            "module": "PT",
+            "subAcountId": "PTODRANPUR"
+        },
+        {
+            "tenantId": "od.rayagada",
+            "module": "PT",
+            "subAcountId": "PTODRAYAGADA"
+        },
+        {
+            "tenantId": "od.redhakhol",
+            "module": "PT",
+            "subAcountId": "PTODREDHAKHOL"
+        },
+        {
+            "tenantId": "od.rourkela",
+            "module": "PT",
+            "subAcountId": "PTODROURKELA"
+        },
+        {
+            "tenantId": "od.sambalpur",
+            "module": "PT",
+            "subAcountId": "PTODSAMBALPUR"
+        },
+        {
+            "tenantId": "od.sonepur",
+            "module": "PT",
+            "subAcountId": "PTODSONEPUR"
+        },
+        {
+            "tenantId": "od.soro",
+            "module": "PT",
+            "subAcountId": "PTODSORO"
+        },
+        {
+            "tenantId": "od.sunabeda",
+            "module": "PT",
+            "subAcountId": "PTODSUNABEDA"
+        },
+        {
+            "tenantId": "od.sundargarh",
+            "module": "PT",
+            "subAcountId": "PTODSUNDARGARH"
+        },
+        {
+            "tenantId": "od.surada",
+            "module": "PT",
+            "subAcountId": "PTODSURADA"
+        },
+        {
+            "tenantId": "od.talcher",
+            "module": "PT",
+            "subAcountId": "PTODTALCHER"
+        },
+        {
+            "tenantId": "od.tarbha",
+            "module": "PT",
+            "subAcountId": "PTODTARBHA"
+        },
+        {
+            "tenantId": "od.titilagarh",
+            "module": "PT",
+            "subAcountId": "PTODTITILAGARH"
+        },
+        {
+            "tenantId": "od.tusura",
+            "module": "PT",
+            "subAcountId": "PTODTUSURA"
+        },
+        {
+            "tenantId": "od.udala",
+            "module": "PT",
+            "subAcountId": "PTODUDALA"
+        },
+        {
+            "tenantId": "od.umerkote",
+            "module": "PT",
+            "subAcountId": "PTODUMERKOTE"
+        },
+        {
+            "tenantId": "od.vyasanagar",
+            "module": "PT",
+            "subAcountId": "PTODVYASANAGAR"
+        },
+        {
+            "tenantId": "od.remuna",
+            "module": "PT",
+            "subAcountId": "PTODREMUNA"
+        },
+        {
+            "tenantId": "od.testing",
+            "module": "PT",
+            "subAcountId": "PTODTESTING"
+        },
+        {
+            "tenantId": "od.anandapur",
+            "module": "TL",
+            "subAcountId": "TLODANANDAPUR"
+        },
+        {
+            "tenantId": "od.angul",
+            "module": "TL",
+            "subAcountId": "TLODANGUL"
+        },
+        {
+            "tenantId": "od.aska",
+            "module": "TL",
+            "subAcountId": "TLODASKA"
+        },
+        {
+            "tenantId": "od.athagarh",
+            "module": "TL",
+            "subAcountId": "TLODATHAGARH"
+        },
+        {
+            "tenantId": "od.athmallik",
+            "module": "TL",
+            "subAcountId": "TLODATHMALLIK"
+        },
+        {
+            "tenantId": "od.attabira",
+            "module": "TL",
+            "subAcountId": "TLODATTABIRA"
+        },
+        {
+            "tenantId": "od.balangir",
+            "module": "TL",
+            "subAcountId": "TLODBALANGIR"
+        },
+        {
+            "tenantId": "od.balasore",
+            "module": "TL",
+            "subAcountId": "TLODBALASORE"
+        },
+        {
+            "tenantId": "od.balimela",
+            "module": "TL",
+            "subAcountId": "TLODBALIMELA"
+        },
+        {
+            "tenantId": "od.balliguda",
+            "module": "TL",
+            "subAcountId": "TLODBALLIGUDA"
+        },
+        {
+            "tenantId": "od.balugaon",
+            "module": "TL",
+            "subAcountId": "TLODBALUGAON"
+        },
+        {
+            "tenantId": "od.banki",
+            "module": "TL",
+            "subAcountId": "TLODBANKI"
+        },
+        {
+            "tenantId": "od.banpur",
+            "module": "TL",
+            "subAcountId": "TLODBANPUR"
+        },
+        {
+            "tenantId": "od.barbil",
+            "module": "TL",
+            "subAcountId": "TLODBARBIL"
+        },
+        {
+            "tenantId": "od.bargarh",
+            "module": "TL",
+            "subAcountId": "TLODBARGARH"
+        },
+        {
+            "tenantId": "od.baripada",
+            "module": "TL",
+            "subAcountId": "TLODBARIPADA"
+        },
+        {
+            "tenantId": "od.barpali",
+            "module": "TL",
+            "subAcountId": "TLODBARPALI"
+        },
+        {
+            "tenantId": "od.basudevpur",
+            "module": "TL",
+            "subAcountId": "TLODBASUDEVPUR"
+        },
+        {
+            "tenantId": "od.bellaguntha",
+            "module": "TL",
+            "subAcountId": "TLODBELLAGUNTHA"
+        },
+        {
+            "tenantId": "od.belpahar",
+            "module": "TL",
+            "subAcountId": "TLODBELPAHAR"
+        },
+        {
+            "tenantId": "od.berhampur",
+            "module": "TL",
+            "subAcountId": "TLODBERHAMPUR"
+        },
+        {
+            "tenantId": "od.bhadrak",
+            "module": "TL",
+            "subAcountId": "TLODBHADRAK"
+        },
+        {
+            "tenantId": "od.bhanjanagar",
+            "module": "TL",
+            "subAcountId": "TLODBHANJANAGAR"
+        },
+        {
+            "tenantId": "od.bhawanipatna",
+            "module": "TL",
+            "subAcountId": "TLODBHAWANIPATNA"
+        },
+        {
+            "tenantId": "od.bhuban",
+            "module": "TL",
+            "subAcountId": "TLODBHUBAN"
+        },
+        {
+            "tenantId": "od.bhubaneswar",
+            "module": "TL",
+            "subAcountId": "TLODBHUBANESWAR"
+        },
+        {
+            "tenantId": "od.bijepur",
+            "module": "TL",
+            "subAcountId": "TLODBIJEPUR"
+        },
+        {
+            "tenantId": "od.binka",
+            "module": "TL",
+            "subAcountId": "TLODBINKA"
+        },
+        {
+            "tenantId": "od.birmitrapur",
+            "module": "TL",
+            "subAcountId": "TLODBIRMITRAPUR"
+        },
+        {
+            "tenantId": "od.boudhgarh",
+            "module": "TL",
+            "subAcountId": "TLODBOUDHGARH"
+        },
+        {
+            "tenantId": "od.brajrajnagar",
+            "module": "TL",
+            "subAcountId": "TLODBRAJRAJNAGAR"
+        },
+        {
+            "tenantId": "od.buguda",
+            "module": "TL",
+            "subAcountId": "TLODBUGUDA"
+        },
+        {
+            "tenantId": "od.champua",
+            "module": "TL",
+            "subAcountId": "TLODCHAMPUA"
+        },
+        {
+            "tenantId": "od.chandbali",
+            "module": "TL",
+            "subAcountId": "TLODCHANDBALI"
+        },
+        {
+            "tenantId": "od.chatrapur",
+            "module": "TL",
+            "subAcountId": "TLODCHATRAPUR"
+        },
+        {
+            "tenantId": "od.chikiti",
+            "module": "TL",
+            "subAcountId": "TLODCHIKITI"
+        },
+        {
+            "tenantId": "od.choudwar",
+            "module": "TL",
+            "subAcountId": "TLODCHOUDWAR"
+        },
+        {
+            "tenantId": "od.cuttack",
+            "module": "TL",
+            "subAcountId": "TLODCUTTACK"
+        },
+        {
+            "tenantId": "od.daspalla",
+            "module": "TL",
+            "subAcountId": "TLODDASPALLA"
+        },
+        {
+            "tenantId": "od.deogarh",
+            "module": "TL",
+            "subAcountId": "TLODDEOGARH"
+        },
+        {
+            "tenantId": "od.dhamnagar",
+            "module": "TL",
+            "subAcountId": "TLODDHAMNAGAR"
+        },
+        {
+            "tenantId": "od.dharamgarh",
+            "module": "TL",
+            "subAcountId": "TLODDHARAMGARH"
+        },
+        {
+            "tenantId": "od.dhenkanal",
+            "module": "TL",
+            "subAcountId": "TLODDHENKANAL"
+        },
+        {
+            "tenantId": "od.digapahandi",
+            "module": "TL",
+            "subAcountId": "TLODDIGAPAHANDI"
+        },
+        {
+            "tenantId": "od.ganjam",
+            "module": "TL",
+            "subAcountId": "TLODGANJAM"
+        },
+        {
+            "tenantId": "od.gopalpur",
+            "module": "TL",
+            "subAcountId": "TLODGOPALPUR"
+        },
+        {
+            "tenantId": "od.gudari",
+            "module": "TL",
+            "subAcountId": "TLODGUDARI"
+        },
+        {
+            "tenantId": "od.g.udayagiri",
+            "module": "TL",
+            "subAcountId": "TLODGUDAYAGIRI"
+        },
+        {
+            "tenantId": "od.gunupur",
+            "module": "TL",
+            "subAcountId": "TLODGUNUPUR"
+        },
+        {
+            "tenantId": "od.hindol",
+            "module": "TL",
+            "subAcountId": "TLODHINDOL"
+        },
+        {
+            "tenantId": "od.hinjilicut",
+            "module": "TL",
+            "subAcountId": "TLODHINJILICUT"
+        },
+        {
+            "tenantId": "od.jagatsinghpur",
+            "module": "TL",
+            "subAcountId": "TLODJAGATSINGHPUR"
+        },
+        {
+            "tenantId": "od.jajpur",
+            "module": "TL",
+            "subAcountId": "TLODJAJPUR"
+        },
+        {
+            "tenantId": "od.jaleswar",
+            "module": "TL",
+            "subAcountId": "TLODJALESWAR"
+        },
+        {
+            "tenantId": "od.jatni",
+            "module": "TL",
+            "subAcountId": "TLODJATNI"
+        },
+        {
+            "tenantId": "od.jeypore",
+            "module": "TL",
+            "subAcountId": "TLODJEYPORE"
+        },
+        {
+            "tenantId": "od.jharsuguda",
+            "module": "TL",
+            "subAcountId": "TLODJHARSUGUDA"
+        },
+        {
+            "tenantId": "od.joda",
+            "module": "TL",
+            "subAcountId": "TLODJODA"
+        },
+        {
+            "tenantId": "od.junagarh",
+            "module": "TL",
+            "subAcountId": "TLODJUNAGARH"
+        },
+        {
+            "tenantId": "od.kabisuryanagar",
+            "module": "TL",
+            "subAcountId": "TLODKABISURYANAGAR"
+        },
+        {
+            "tenantId": "od.kamakhyanagar",
+            "module": "TL",
+            "subAcountId": "TLODKAMAKHYANAGAR"
+        },
+        {
+            "tenantId": "od.kantabanji",
+            "module": "TL",
+            "subAcountId": "TLODKANTABANJI"
+        },
+        {
+            "tenantId": "od.karanjia",
+            "module": "TL",
+            "subAcountId": "TLODKARANJIA"
+        },
+        {
+            "tenantId": "od.kashinagar",
+            "module": "TL",
+            "subAcountId": "TLODKASHINAGAR"
+        },
+        {
+            "tenantId": "od.kendrapara",
+            "module": "TL",
+            "subAcountId": "TLODKENDRAPARA"
+        },
+        {
+            "tenantId": "od.keonjhargarh",
+            "module": "TL",
+            "subAcountId": "TLODKEONJHARGARH"
+        },
+        {
+            "tenantId": "od.kesinga",
+            "module": "TL",
+            "subAcountId": "TLODKESINGA"
+        },
+        {
+            "tenantId": "od.khallikote",
+            "module": "TL",
+            "subAcountId": "TLODKHALLIKOTE"
+        },
+        {
+            "tenantId": "od.khandapada",
+            "module": "TL",
+            "subAcountId": "TLODKHANDAPADA"
+        },
+        {
+            "tenantId": "od.khariar",
+            "module": "TL",
+            "subAcountId": "TLODKHARIAR"
+        },
+        {
+            "tenantId": "od.khariarroad",
+            "module": "TL",
+            "subAcountId": "TLODKHARIARROAD"
+        },
+        {
+            "tenantId": "od.khordha",
+            "module": "TL",
+            "subAcountId": "TLODKHORDHA"
+        },
+        {
+            "tenantId": "od.kodala",
+            "module": "TL",
+            "subAcountId": "TLODKODALA"
+        },
+        {
+            "tenantId": "od.konark",
+            "module": "TL",
+            "subAcountId": "TLODKONARK"
+        },
+        {
+            "tenantId": "od.koraput",
+            "module": "TL",
+            "subAcountId": "TLODKORAPUT"
+        },
+        {
+            "tenantId": "od.kotpad",
+            "module": "TL",
+            "subAcountId": "TLODKOTPAD"
+        },
+        {
+            "tenantId": "od.kuchinda",
+            "module": "TL",
+            "subAcountId": "TLODKUCHINDA"
+        },
+        {
+            "tenantId": "od.malkangiri",
+            "module": "TL",
+            "subAcountId": "TLODMALKANGIRI"
+        },
+        {
+            "tenantId": "od.nabarangpur",
+            "module": "TL",
+            "subAcountId": "TLODNABARANGPUR"
+        },
+        {
+            "tenantId": "od.nayagarh",
+            "module": "TL",
+            "subAcountId": "TLODNAYAGARH"
+        },
+        {
+            "tenantId": "od.nilgiri",
+            "module": "TL",
+            "subAcountId": "TLODNILGIRI"
+        },
+        {
+            "tenantId": "od.nimapara",
+            "module": "TL",
+            "subAcountId": "TLODNIMAPARA"
+        },
+        {
+            "tenantId": "od.nuapada",
+            "module": "TL",
+            "subAcountId": "TLODNUAPADA"
+        },
+        {
+            "tenantId": "od.odagaon",
+            "module": "TL",
+            "subAcountId": "TLODODAGAON"
+        },
+        {
+            "tenantId": "od.padampur",
+            "module": "TL",
+            "subAcountId": "TLODPADAMPUR"
+        },
+        {
+            "tenantId": "od.paradeep",
+            "module": "TL",
+            "subAcountId": "TLODPARADEEP"
+        },
+        {
+            "tenantId": "od.paralakhemundi",
+            "module": "TL",
+            "subAcountId": "TLODPARALAKHEMUNDI"
+        },
+        {
+            "tenantId": "od.patnagarh",
+            "module": "TL",
+            "subAcountId": "TLODPATNAGARH"
+        },
+        {
+            "tenantId": "od.pattamundai",
+            "module": "TL",
+            "subAcountId": "TLODPATTAMUNDAI"
+        },
+        {
+            "tenantId": "od.phulbani",
+            "module": "TL",
+            "subAcountId": "TLODPHULBANI"
+        },
+        {
+            "tenantId": "od.pipli",
+            "module": "TL",
+            "subAcountId": "TLODPIPLI"
+        },
+        {
+            "tenantId": "od.polasara",
+            "module": "TL",
+            "subAcountId": "TLODPOLASARA"
+        },
+        {
+            "tenantId": "od.puri",
+            "module": "TL",
+            "subAcountId": "TLODPURI"
+        },
+        {
+            "tenantId": "od.purushottampur",
+            "module": "TL",
+            "subAcountId": "TLODPURUSHOTTAMPUR"
+        },
+        {
+            "tenantId": "od.rairangpur",
+            "module": "TL",
+            "subAcountId": "TLODRAIRANGPUR"
+        },
+        {
+            "tenantId": "od.rajgangpur",
+            "module": "TL",
+            "subAcountId": "TLODRAJGANGPUR"
+        },
+        {
+            "tenantId": "od.rambha",
+            "module": "TL",
+            "subAcountId": "TLODRAMBHA"
+        },
+        {
+            "tenantId": "od.ranpur",
+            "module": "TL",
+            "subAcountId": "TLODRANPUR"
+        },
+        {
+            "tenantId": "od.rayagada",
+            "module": "TL",
+            "subAcountId": "TLODRAYAGADA"
+        },
+        {
+            "tenantId": "od.redhakhol",
+            "module": "TL",
+            "subAcountId": "TLODREDHAKHOL"
+        },
+        {
+            "tenantId": "od.rourkela",
+            "module": "TL",
+            "subAcountId": "TLODROURKELA"
+        },
+        {
+            "tenantId": "od.sambalpur",
+            "module": "TL",
+            "subAcountId": "TLODSAMBALPUR"
+        },
+        {
+            "tenantId": "od.sonepur",
+            "module": "TL",
+            "subAcountId": "TLODSONEPUR"
+        },
+        {
+            "tenantId": "od.soro",
+            "module": "TL",
+            "subAcountId": "TLODSORO"
+        },
+        {
+            "tenantId": "od.sunabeda",
+            "module": "TL",
+            "subAcountId": "TLODSUNABEDA"
+        },
+        {
+            "tenantId": "od.sundargarh",
+            "module": "TL",
+            "subAcountId": "TLODSUNDARGARH"
+        },
+        {
+            "tenantId": "od.surada",
+            "module": "TL",
+            "subAcountId": "TLODSURADA"
+        },
+        {
+            "tenantId": "od.talcher",
+            "module": "TL",
+            "subAcountId": "TLODTALCHER"
+        },
+        {
+            "tenantId": "od.tarbha",
+            "module": "TL",
+            "subAcountId": "TLODTARBHA"
+        },
+        {
+            "tenantId": "od.titilagarh",
+            "module": "TL",
+            "subAcountId": "TLODTITILAGARH"
+        },
+        {
+            "tenantId": "od.tusura",
+            "module": "TL",
+            "subAcountId": "TLODTUSURA"
+        },
+        {
+            "tenantId": "od.udala",
+            "module": "TL",
+            "subAcountId": "TLODUDALA"
+        },
+        {
+            "tenantId": "od.umerkote",
+            "module": "TL",
+            "subAcountId": "TLODUMERKOTE"
+        },
+        {
+            "tenantId": "od.vyasanagar",
+            "module": "TL",
+            "subAcountId": "TLODVYASANAGAR"
+        },
+        {
+            "tenantId": "od.remuna",
+            "module": "TL",
+            "subAcountId": "TLODREMUNA"
+        },
+        {
+            "tenantId": "od.testing",
+            "module": "TL",
+            "subAcountId": "TLODTESTING"
+        },
+        {
+            "tenantId": "od.anandapur",
+            "module": "MR",
+            "subAcountId": "MRODANANDAPUR"
+        },
+        {
+            "tenantId": "od.angul",
+            "module": "MR",
+            "subAcountId": "MRODANGUL"
+        },
+        {
+            "tenantId": "od.aska",
+            "module": "MR",
+            "subAcountId": "MRODASKA"
+        },
+        {
+            "tenantId": "od.athagarh",
+            "module": "MR",
+            "subAcountId": "MRODATHAGARH"
+        },
+        {
+            "tenantId": "od.athmallik",
+            "module": "MR",
+            "subAcountId": "MRODATHMALLIK"
+        },
+        {
+            "tenantId": "od.attabira",
+            "module": "MR",
+            "subAcountId": "MRODATTABIRA"
+        },
+        {
+            "tenantId": "od.balangir",
+            "module": "MR",
+            "subAcountId": "MRODBALANGIR"
+        },
+        {
+            "tenantId": "od.balasore",
+            "module": "MR",
+            "subAcountId": "MRODBALASORE"
+        },
+        {
+            "tenantId": "od.balimela",
+            "module": "MR",
+            "subAcountId": "MRODBALIMELA"
+        },
+        {
+            "tenantId": "od.balliguda",
+            "module": "MR",
+            "subAcountId": "MRODBALLIGUDA"
+        },
+        {
+            "tenantId": "od.balugaon",
+            "module": "MR",
+            "subAcountId": "MRODBALUGAON"
+        },
+        {
+            "tenantId": "od.banki",
+            "module": "MR",
+            "subAcountId": "MRODBANKI"
+        },
+        {
+            "tenantId": "od.banpur",
+            "module": "MR",
+            "subAcountId": "MRODBANPUR"
+        },
+        {
+            "tenantId": "od.barbil",
+            "module": "MR",
+            "subAcountId": "MRODBARBIL"
+        },
+        {
+            "tenantId": "od.bargarh",
+            "module": "MR",
+            "subAcountId": "MRODBARGARH"
+        },
+        {
+            "tenantId": "od.baripada",
+            "module": "MR",
+            "subAcountId": "MRODBARIPADA"
+        },
+        {
+            "tenantId": "od.barpali",
+            "module": "MR",
+            "subAcountId": "MRODBARPALI"
+        },
+        {
+            "tenantId": "od.basudevpur",
+            "module": "MR",
+            "subAcountId": "MRODBASUDEVPUR"
+        },
+        {
+            "tenantId": "od.bellaguntha",
+            "module": "MR",
+            "subAcountId": "MRODBELLAGUNTHA"
+        },
+        {
+            "tenantId": "od.belpahar",
+            "module": "MR",
+            "subAcountId": "MRODBELPAHAR"
+        },
+        {
+            "tenantId": "od.berhampur",
+            "module": "MR",
+            "subAcountId": "MRODBERHAMPUR"
+        },
+        {
+            "tenantId": "od.bhadrak",
+            "module": "MR",
+            "subAcountId": "MRODBHADRAK"
+        },
+        {
+            "tenantId": "od.bhanjanagar",
+            "module": "MR",
+            "subAcountId": "MRODBHANJANAGAR"
+        },
+        {
+            "tenantId": "od.bhawanipatna",
+            "module": "MR",
+            "subAcountId": "MRODBHAWANIPATNA"
+        },
+        {
+            "tenantId": "od.bhuban",
+            "module": "MR",
+            "subAcountId": "MRODBHUBAN"
+        },
+        {
+            "tenantId": "od.bhubaneswar",
+            "module": "MR",
+            "subAcountId": "MRODBHUBANESWAR"
+        },
+        {
+            "tenantId": "od.bijepur",
+            "module": "MR",
+            "subAcountId": "MRODBIJEPUR"
+        },
+        {
+            "tenantId": "od.binka",
+            "module": "MR",
+            "subAcountId": "MRODBINKA"
+        },
+        {
+            "tenantId": "od.birmitrapur",
+            "module": "MR",
+            "subAcountId": "MRODBIRMITRAPUR"
+        },
+        {
+            "tenantId": "od.boudhgarh",
+            "module": "MR",
+            "subAcountId": "MRODBOUDHGARH"
+        },
+        {
+            "tenantId": "od.brajrajnagar",
+            "module": "MR",
+            "subAcountId": "MRODBRAJRAJNAGAR"
+        },
+        {
+            "tenantId": "od.buguda",
+            "module": "MR",
+            "subAcountId": "MRODBUGUDA"
+        },
+        {
+            "tenantId": "od.champua",
+            "module": "MR",
+            "subAcountId": "MRODCHAMPUA"
+        },
+        {
+            "tenantId": "od.chandbali",
+            "module": "MR",
+            "subAcountId": "MRODCHANDBALI"
+        },
+        {
+            "tenantId": "od.chatrapur",
+            "module": "MR",
+            "subAcountId": "MRODCHATRAPUR"
+        },
+        {
+            "tenantId": "od.chikiti",
+            "module": "MR",
+            "subAcountId": "MRODCHIKITI"
+        },
+        {
+            "tenantId": "od.choudwar",
+            "module": "MR",
+            "subAcountId": "MRODCHOUDWAR"
+        },
+        {
+            "tenantId": "od.cuttack",
+            "module": "MR",
+            "subAcountId": "MRODCUTTACK"
+        },
+        {
+            "tenantId": "od.daspalla",
+            "module": "MR",
+            "subAcountId": "MRODDASPALLA"
+        },
+        {
+            "tenantId": "od.deogarh",
+            "module": "MR",
+            "subAcountId": "MRODDEOGARH"
+        },
+        {
+            "tenantId": "od.dhamnagar",
+            "module": "MR",
+            "subAcountId": "MRODDHAMNAGAR"
+        },
+        {
+            "tenantId": "od.dharamgarh",
+            "module": "MR",
+            "subAcountId": "MRODDHARAMGARH"
+        },
+        {
+            "tenantId": "od.dhenkanal",
+            "module": "MR",
+            "subAcountId": "MRODDHENKANAL"
+        },
+        {
+            "tenantId": "od.digapahandi",
+            "module": "MR",
+            "subAcountId": "MRODDIGAPAHANDI"
+        },
+        {
+            "tenantId": "od.ganjam",
+            "module": "MR",
+            "subAcountId": "MRODGANJAM"
+        },
+        {
+            "tenantId": "od.gopalpur",
+            "module": "MR",
+            "subAcountId": "MRODGOPALPUR"
+        },
+        {
+            "tenantId": "od.gudari",
+            "module": "MR",
+            "subAcountId": "MRODGUDARI"
+        },
+        {
+            "tenantId": "od.g.udayagiri",
+            "module": "MR",
+            "subAcountId": "MRODGUDAYAGIRI"
+        },
+        {
+            "tenantId": "od.gunupur",
+            "module": "MR",
+            "subAcountId": "MRODGUNUPUR"
+        },
+        {
+            "tenantId": "od.hindol",
+            "module": "MR",
+            "subAcountId": "MRODHINDOL"
+        },
+        {
+            "tenantId": "od.hinjilicut",
+            "module": "MR",
+            "subAcountId": "MRODHINJILICUT"
+        },
+        {
+            "tenantId": "od.jagatsinghpur",
+            "module": "MR",
+            "subAcountId": "MRODJAGATSINGHPUR"
+        },
+        {
+            "tenantId": "od.jajpur",
+            "module": "MR",
+            "subAcountId": "MRODJAJPUR"
+        },
+        {
+            "tenantId": "od.jaleswar",
+            "module": "MR",
+            "subAcountId": "MRODJALESWAR"
+        },
+        {
+            "tenantId": "od.jatni",
+            "module": "MR",
+            "subAcountId": "MRODJATNI"
+        },
+        {
+            "tenantId": "od.jeypore",
+            "module": "MR",
+            "subAcountId": "MRODJEYPORE"
+        },
+        {
+            "tenantId": "od.jharsuguda",
+            "module": "MR",
+            "subAcountId": "MRODJHARSUGUDA"
+        },
+        {
+            "tenantId": "od.joda",
+            "module": "MR",
+            "subAcountId": "MRODJODA"
+        },
+        {
+            "tenantId": "od.junagarh",
+            "module": "MR",
+            "subAcountId": "MRODJUNAGARH"
+        },
+        {
+            "tenantId": "od.kabisuryanagar",
+            "module": "MR",
+            "subAcountId": "MRODKABISURYANAGAR"
+        },
+        {
+            "tenantId": "od.kamakhyanagar",
+            "module": "MR",
+            "subAcountId": "MRODKAMAKHYANAGAR"
+        },
+        {
+            "tenantId": "od.kantabanji",
+            "module": "MR",
+            "subAcountId": "MRODKANTABANJI"
+        },
+        {
+            "tenantId": "od.karanjia",
+            "module": "MR",
+            "subAcountId": "MRODKARANJIA"
+        },
+        {
+            "tenantId": "od.kashinagar",
+            "module": "MR",
+            "subAcountId": "MRODKASHINAGAR"
+        },
+        {
+            "tenantId": "od.kendrapara",
+            "module": "MR",
+            "subAcountId": "MRODKENDRAPARA"
+        },
+        {
+            "tenantId": "od.keonjhargarh",
+            "module": "MR",
+            "subAcountId": "MRODKEONJHARGARH"
+        },
+        {
+            "tenantId": "od.kesinga",
+            "module": "MR",
+            "subAcountId": "MRODKESINGA"
+        },
+        {
+            "tenantId": "od.khallikote",
+            "module": "MR",
+            "subAcountId": "MRODKHALLIKOTE"
+        },
+        {
+            "tenantId": "od.khandapada",
+            "module": "MR",
+            "subAcountId": "MRODKHANDAPADA"
+        },
+        {
+            "tenantId": "od.khariar",
+            "module": "MR",
+            "subAcountId": "MRODKHARIAR"
+        },
+        {
+            "tenantId": "od.khariarroad",
+            "module": "MR",
+            "subAcountId": "MRODKHARIARROAD"
+        },
+        {
+            "tenantId": "od.khordha",
+            "module": "MR",
+            "subAcountId": "MRODKHORDHA"
+        },
+        {
+            "tenantId": "od.kodala",
+            "module": "MR",
+            "subAcountId": "MRODKODALA"
+        },
+        {
+            "tenantId": "od.konark",
+            "module": "MR",
+            "subAcountId": "MRODKONARK"
+        },
+        {
+            "tenantId": "od.koraput",
+            "module": "MR",
+            "subAcountId": "MRODKORAPUT"
+        },
+        {
+            "tenantId": "od.kotpad",
+            "module": "MR",
+            "subAcountId": "MRODKOTPAD"
+        },
+        {
+            "tenantId": "od.kuchinda",
+            "module": "MR",
+            "subAcountId": "MRODKUCHINDA"
+        },
+        {
+            "tenantId": "od.malkangiri",
+            "module": "MR",
+            "subAcountId": "MRODMALKANGIRI"
+        },
+        {
+            "tenantId": "od.nabarangpur",
+            "module": "MR",
+            "subAcountId": "MRODNABARANGPUR"
+        },
+        {
+            "tenantId": "od.nayagarh",
+            "module": "MR",
+            "subAcountId": "MRODNAYAGARH"
+        },
+        {
+            "tenantId": "od.nilgiri",
+            "module": "MR",
+            "subAcountId": "MRODNILGIRI"
+        },
+        {
+            "tenantId": "od.nimapara",
+            "module": "MR",
+            "subAcountId": "MRODNIMAPARA"
+        },
+        {
+            "tenantId": "od.nuapada",
+            "module": "MR",
+            "subAcountId": "MRODNUAPADA"
+        },
+        {
+            "tenantId": "od.odagaon",
+            "module": "MR",
+            "subAcountId": "MRODODAGAON"
+        },
+        {
+            "tenantId": "od.padampur",
+            "module": "MR",
+            "subAcountId": "MRODPADAMPUR"
+        },
+        {
+            "tenantId": "od.paradeep",
+            "module": "MR",
+            "subAcountId": "MRODPARADEEP"
+        },
+        {
+            "tenantId": "od.paralakhemundi",
+            "module": "MR",
+            "subAcountId": "MRODPARALAKHEMUNDI"
+        },
+        {
+            "tenantId": "od.patnagarh",
+            "module": "MR",
+            "subAcountId": "MRODPATNAGARH"
+        },
+        {
+            "tenantId": "od.pattamundai",
+            "module": "MR",
+            "subAcountId": "MRODPATTAMUNDAI"
+        },
+        {
+            "tenantId": "od.phulbani",
+            "module": "MR",
+            "subAcountId": "MRODPHULBANI"
+        },
+        {
+            "tenantId": "od.pipli",
+            "module": "MR",
+            "subAcountId": "MRODPIPLI"
+        },
+        {
+            "tenantId": "od.polasara",
+            "module": "MR",
+            "subAcountId": "MRODPOLASARA"
+        },
+        {
+            "tenantId": "od.puri",
+            "module": "MR",
+            "subAcountId": "MRODPURI"
+        },
+        {
+            "tenantId": "od.purushottampur",
+            "module": "MR",
+            "subAcountId": "MRODPURUSHOTTAMPUR"
+        },
+        {
+            "tenantId": "od.rairangpur",
+            "module": "MR",
+            "subAcountId": "MRODRAIRANGPUR"
+        },
+        {
+            "tenantId": "od.rajgangpur",
+            "module": "MR",
+            "subAcountId": "MRODRAJGANGPUR"
+        },
+        {
+            "tenantId": "od.rambha",
+            "module": "MR",
+            "subAcountId": "MRODRAMBHA"
+        },
+        {
+            "tenantId": "od.ranpur",
+            "module": "MR",
+            "subAcountId": "MRODRANPUR"
+        },
+        {
+            "tenantId": "od.rayagada",
+            "module": "MR",
+            "subAcountId": "MRODRAYAGADA"
+        },
+        {
+            "tenantId": "od.redhakhol",
+            "module": "MR",
+            "subAcountId": "MRODREDHAKHOL"
+        },
+        {
+            "tenantId": "od.rourkela",
+            "module": "MR",
+            "subAcountId": "MRODROURKELA"
+        },
+        {
+            "tenantId": "od.sambalpur",
+            "module": "MR",
+            "subAcountId": "MRODSAMBALPUR"
+        },
+        {
+            "tenantId": "od.sonepur",
+            "module": "MR",
+            "subAcountId": "MRODSONEPUR"
+        },
+        {
+            "tenantId": "od.soro",
+            "module": "MR",
+            "subAcountId": "MRODSORO"
+        },
+        {
+            "tenantId": "od.sunabeda",
+            "module": "MR",
+            "subAcountId": "MRODSUNABEDA"
+        },
+        {
+            "tenantId": "od.sundargarh",
+            "module": "MR",
+            "subAcountId": "MRODSUNDARGARH"
+        },
+        {
+            "tenantId": "od.surada",
+            "module": "MR",
+            "subAcountId": "MRODSURADA"
+        },
+        {
+            "tenantId": "od.talcher",
+            "module": "MR",
+            "subAcountId": "MRODTALCHER"
+        },
+        {
+            "tenantId": "od.tarbha",
+            "module": "MR",
+            "subAcountId": "MRODTARBHA"
+        },
+        {
+            "tenantId": "od.titilagarh",
+            "module": "MR",
+            "subAcountId": "MRODTITILAGARH"
+        },
+        {
+            "tenantId": "od.tusura",
+            "module": "MR",
+            "subAcountId": "MRODTUSURA"
+        },
+        {
+            "tenantId": "od.udala",
+            "module": "MR",
+            "subAcountId": "MRODUDALA"
+        },
+        {
+            "tenantId": "od.umerkote",
+            "module": "MR",
+            "subAcountId": "MRODUMERKOTE"
+        },
+        {
+            "tenantId": "od.vyasanagar",
+            "module": "MR",
+            "subAcountId": "MRODVYASANAGAR"
+        },
+        {
+            "tenantId": "od.remuna",
+            "module": "MR",
+            "subAcountId": "MRODREMUNA"
+        },
+        {
+            "tenantId": "od.testing",
+            "module": "MR",
+            "subAcountId": "MRODTESTING"
+        },
+        {
+            "tenantId": "od.anandapur",
+            "module": "WS",
+            "subAcountId": "WSODANANDAPUR"
+        },
+        {
+            "tenantId": "od.angul",
+            "module": "WS",
+            "subAcountId": "WSODANGUL"
+        },
+        {
+            "tenantId": "od.aska",
+            "module": "WS",
+            "subAcountId": "WSODASKA"
+        },
+        {
+            "tenantId": "od.athagarh",
+            "module": "WS",
+            "subAcountId": "WSODATHAGARH"
+        },
+        {
+            "tenantId": "od.athmallik",
+            "module": "WS",
+            "subAcountId": "WSODATHMALLIK"
+        },
+        {
+            "tenantId": "od.attabira",
+            "module": "WS",
+            "subAcountId": "WSODATTABIRA"
+        },
+        {
+            "tenantId": "od.balangir",
+            "module": "WS",
+            "subAcountId": "WSODBALANGIR"
+        },
+        {
+            "tenantId": "od.balasore",
+            "module": "WS",
+            "subAcountId": "WSODBALASORE"
+        },
+        {
+            "tenantId": "od.balimela",
+            "module": "WS",
+            "subAcountId": "WSODBALIMELA"
+        },
+        {
+            "tenantId": "od.balliguda",
+            "module": "WS",
+            "subAcountId": "WSODBALLIGUDA"
+        },
+        {
+            "tenantId": "od.balugaon",
+            "module": "WS",
+            "subAcountId": "WSODBALUGAON"
+        },
+        {
+            "tenantId": "od.banki",
+            "module": "WS",
+            "subAcountId": "WSODBANKI"
+        },
+        {
+            "tenantId": "od.banpur",
+            "module": "WS",
+            "subAcountId": "WSODBANPUR"
+        },
+        {
+            "tenantId": "od.barbil",
+            "module": "WS",
+            "subAcountId": "WSODBARBIL"
+        },
+        {
+            "tenantId": "od.bargarh",
+            "module": "WS",
+            "subAcountId": "WSODBARGARH"
+        },
+        {
+            "tenantId": "od.baripada",
+            "module": "WS",
+            "subAcountId": "WSODBARIPADA"
+        },
+        {
+            "tenantId": "od.barpali",
+            "module": "WS",
+            "subAcountId": "WSODBARPALI"
+        },
+        {
+            "tenantId": "od.basudevpur",
+            "module": "WS",
+            "subAcountId": "WSODBASUDEVPUR"
+        },
+        {
+            "tenantId": "od.bellaguntha",
+            "module": "WS",
+            "subAcountId": "WSODBELLAGUNTHA"
+        },
+        {
+            "tenantId": "od.belpahar",
+            "module": "WS",
+            "subAcountId": "WSODBELPAHAR"
+        },
+        {
+            "tenantId": "od.berhampur",
+            "module": "WS",
+            "subAcountId": "WSODBERHAMPUR"
+        },
+        {
+            "tenantId": "od.bhadrak",
+            "module": "WS",
+            "subAcountId": "WSODBHADRAK"
+        },
+        {
+            "tenantId": "od.bhanjanagar",
+            "module": "WS",
+            "subAcountId": "WSODBHANJANAGAR"
+        },
+        {
+            "tenantId": "od.bhawanipatna",
+            "module": "WS",
+            "subAcountId": "WSODBHAWANIPATNA"
+        },
+        {
+            "tenantId": "od.bhuban",
+            "module": "WS",
+            "subAcountId": "WSODBHUBAN"
+        },
+        {
+            "tenantId": "od.bhubaneswar",
+            "module": "WS",
+            "subAcountId": "WSODBHUBANESWAR"
+        },
+        {
+            "tenantId": "od.bijepur",
+            "module": "WS",
+            "subAcountId": "WSODBIJEPUR"
+        },
+        {
+            "tenantId": "od.binka",
+            "module": "WS",
+            "subAcountId": "WSODBINKA"
+        },
+        {
+            "tenantId": "od.birmitrapur",
+            "module": "WS",
+            "subAcountId": "WSODBIRMITRAPUR"
+        },
+        {
+            "tenantId": "od.boudhgarh",
+            "module": "WS",
+            "subAcountId": "WSODBOUDHGARH"
+        },
+        {
+            "tenantId": "od.brajrajnagar",
+            "module": "WS",
+            "subAcountId": "WSODBRAJRAJNAGAR"
+        },
+        {
+            "tenantId": "od.buguda",
+            "module": "WS",
+            "subAcountId": "WSODBUGUDA"
+        },
+        {
+            "tenantId": "od.champua",
+            "module": "WS",
+            "subAcountId": "WSODCHAMPUA"
+        },
+        {
+            "tenantId": "od.chandbali",
+            "module": "WS",
+            "subAcountId": "WSODCHANDBALI"
+        },
+        {
+            "tenantId": "od.chatrapur",
+            "module": "WS",
+            "subAcountId": "WSODCHATRAPUR"
+        },
+        {
+            "tenantId": "od.chikiti",
+            "module": "WS",
+            "subAcountId": "WSODCHIKITI"
+        },
+        {
+            "tenantId": "od.choudwar",
+            "module": "WS",
+            "subAcountId": "WSODCHOUDWAR"
+        },
+        {
+            "tenantId": "od.cuttack",
+            "module": "WS",
+            "subAcountId": "WSODCUTTACK"
+        },
+        {
+            "tenantId": "od.daspalla",
+            "module": "WS",
+            "subAcountId": "WSODDASPALLA"
+        },
+        {
+            "tenantId": "od.deogarh",
+            "module": "WS",
+            "subAcountId": "WSODDEOGARH"
+        },
+        {
+            "tenantId": "od.dhamnagar",
+            "module": "WS",
+            "subAcountId": "WSODDHAMNAGAR"
+        },
+        {
+            "tenantId": "od.dharamgarh",
+            "module": "WS",
+            "subAcountId": "WSODDHARAMGARH"
+        },
+        {
+            "tenantId": "od.dhenkanal",
+            "module": "WS",
+            "subAcountId": "WSODDHENKANAL"
+        },
+        {
+            "tenantId": "od.digapahandi",
+            "module": "WS",
+            "subAcountId": "WSODDIGAPAHANDI"
+        },
+        {
+            "tenantId": "od.ganjam",
+            "module": "WS",
+            "subAcountId": "WSODGANJAM"
+        },
+        {
+            "tenantId": "od.gopalpur",
+            "module": "WS",
+            "subAcountId": "WSODGOPALPUR"
+        },
+        {
+            "tenantId": "od.gudari",
+            "module": "WS",
+            "subAcountId": "WSODGUDARI"
+        },
+        {
+            "tenantId": "od.g.udayagiri",
+            "module": "WS",
+            "subAcountId": "WSODGUDAYAGIRI"
+        },
+        {
+            "tenantId": "od.gunupur",
+            "module": "WS",
+            "subAcountId": "WSODGUNUPUR"
+        },
+        {
+            "tenantId": "od.hindol",
+            "module": "WS",
+            "subAcountId": "WSODHINDOL"
+        },
+        {
+            "tenantId": "od.hinjilicut",
+            "module": "WS",
+            "subAcountId": "WSODHINJILICUT"
+        },
+        {
+            "tenantId": "od.jagatsinghpur",
+            "module": "WS",
+            "subAcountId": "WSODJAGATSINGHPUR"
+        },
+        {
+            "tenantId": "od.jajpur",
+            "module": "WS",
+            "subAcountId": "WSODJAJPUR"
+        },
+        {
+            "tenantId": "od.jaleswar",
+            "module": "WS",
+            "subAcountId": "WSODJALESWAR"
+        },
+        {
+            "tenantId": "od.jatni",
+            "module": "WS",
+            "subAcountId": "WSODJATNI"
+        },
+        {
+            "tenantId": "od.jeypore",
+            "module": "WS",
+            "subAcountId": "WSODJEYPORE"
+        },
+        {
+            "tenantId": "od.jharsuguda",
+            "module": "WS",
+            "subAcountId": "WSODJHARSUGUDA"
+        },
+        {
+            "tenantId": "od.joda",
+            "module": "WS",
+            "subAcountId": "WSODJODA"
+        },
+        {
+            "tenantId": "od.junagarh",
+            "module": "WS",
+            "subAcountId": "WSODJUNAGARH"
+        },
+        {
+            "tenantId": "od.kabisuryanagar",
+            "module": "WS",
+            "subAcountId": "WSODKABISURYANAGAR"
+        },
+        {
+            "tenantId": "od.kamakhyanagar",
+            "module": "WS",
+            "subAcountId": "WSODKAMAKHYANAGAR"
+        },
+        {
+            "tenantId": "od.kantabanji",
+            "module": "WS",
+            "subAcountId": "WSODKANTABANJI"
+        },
+        {
+            "tenantId": "od.karanjia",
+            "module": "WS",
+            "subAcountId": "WSODKARANJIA"
+        },
+        {
+            "tenantId": "od.kashinagar",
+            "module": "WS",
+            "subAcountId": "WSODKASHINAGAR"
+        },
+        {
+            "tenantId": "od.kendrapara",
+            "module": "WS",
+            "subAcountId": "WSODKENDRAPARA"
+        },
+        {
+            "tenantId": "od.keonjhargarh",
+            "module": "WS",
+            "subAcountId": "WSODKEONJHARGARH"
+        },
+        {
+            "tenantId": "od.kesinga",
+            "module": "WS",
+            "subAcountId": "WSODKESINGA"
+        },
+        {
+            "tenantId": "od.khallikote",
+            "module": "WS",
+            "subAcountId": "WSODKHALLIKOTE"
+        },
+        {
+            "tenantId": "od.khandapada",
+            "module": "WS",
+            "subAcountId": "WSODKHANDAPADA"
+        },
+        {
+            "tenantId": "od.khariar",
+            "module": "WS",
+            "subAcountId": "WSODKHARIAR"
+        },
+        {
+            "tenantId": "od.khariarroad",
+            "module": "WS",
+            "subAcountId": "WSODKHARIARROAD"
+        },
+        {
+            "tenantId": "od.khordha",
+            "module": "WS",
+            "subAcountId": "WSODKHORDHA"
+        },
+        {
+            "tenantId": "od.kodala",
+            "module": "WS",
+            "subAcountId": "WSODKODALA"
+        },
+        {
+            "tenantId": "od.konark",
+            "module": "WS",
+            "subAcountId": "WSODKONARK"
+        },
+        {
+            "tenantId": "od.koraput",
+            "module": "WS",
+            "subAcountId": "WSODKORAPUT"
+        },
+        {
+            "tenantId": "od.kotpad",
+            "module": "WS",
+            "subAcountId": "WSODKOTPAD"
+        },
+        {
+            "tenantId": "od.kuchinda",
+            "module": "WS",
+            "subAcountId": "WSODKUCHINDA"
+        },
+        {
+            "tenantId": "od.malkangiri",
+            "module": "WS",
+            "subAcountId": "WSODMALKANGIRI"
+        },
+        {
+            "tenantId": "od.nabarangpur",
+            "module": "WS",
+            "subAcountId": "WSODNABARANGPUR"
+        },
+        {
+            "tenantId": "od.nayagarh",
+            "module": "WS",
+            "subAcountId": "WSODNAYAGARH"
+        },
+        {
+            "tenantId": "od.nilgiri",
+            "module": "WS",
+            "subAcountId": "WSODNILGIRI"
+        },
+        {
+            "tenantId": "od.nimapara",
+            "module": "WS",
+            "subAcountId": "WSODNIMAPARA"
+        },
+        {
+            "tenantId": "od.nuapada",
+            "module": "WS",
+            "subAcountId": "WSODNUAPADA"
+        },
+        {
+            "tenantId": "od.odagaon",
+            "module": "WS",
+            "subAcountId": "WSODODAGAON"
+        },
+        {
+            "tenantId": "od.padampur",
+            "module": "WS",
+            "subAcountId": "WSODPADAMPUR"
+        },
+        {
+            "tenantId": "od.paradeep",
+            "module": "WS",
+            "subAcountId": "WSODPARADEEP"
+        },
+        {
+            "tenantId": "od.paralakhemundi",
+            "module": "WS",
+            "subAcountId": "WSODPARALAKHEMUNDI"
+        },
+        {
+            "tenantId": "od.patnagarh",
+            "module": "WS",
+            "subAcountId": "WSODPATNAGARH"
+        },
+        {
+            "tenantId": "od.pattamundai",
+            "module": "WS",
+            "subAcountId": "WSODPATTAMUNDAI"
+        },
+        {
+            "tenantId": "od.phulbani",
+            "module": "WS",
+            "subAcountId": "WSODPHULBANI"
+        },
+        {
+            "tenantId": "od.pipli",
+            "module": "WS",
+            "subAcountId": "WSODPIPLI"
+        },
+        {
+            "tenantId": "od.polasara",
+            "module": "WS",
+            "subAcountId": "WSODPOLASARA"
+        },
+        {
+            "tenantId": "od.puri",
+            "module": "WS",
+            "subAcountId": "WSODPURI"
+        },
+        {
+            "tenantId": "od.purushottampur",
+            "module": "WS",
+            "subAcountId": "WSODPURUSHOTTAMPUR"
+        },
+        {
+            "tenantId": "od.rairangpur",
+            "module": "WS",
+            "subAcountId": "WSODRAIRANGPUR"
+        },
+        {
+            "tenantId": "od.rajgangpur",
+            "module": "WS",
+            "subAcountId": "WSODRAJGANGPUR"
+        },
+        {
+            "tenantId": "od.rambha",
+            "module": "WS",
+            "subAcountId": "WSODRAMBHA"
+        },
+        {
+            "tenantId": "od.ranpur",
+            "module": "WS",
+            "subAcountId": "WSODRANPUR"
+        },
+        {
+            "tenantId": "od.rayagada",
+            "module": "WS",
+            "subAcountId": "WSODRAYAGADA"
+        },
+        {
+            "tenantId": "od.redhakhol",
+            "module": "WS",
+            "subAcountId": "WSODREDHAKHOL"
+        },
+        {
+            "tenantId": "od.rourkela",
+            "module": "WS",
+            "subAcountId": "WSODROURKELA"
+        },
+        {
+            "tenantId": "od.sambalpur",
+            "module": "WS",
+            "subAcountId": "WSODSAMBALPUR"
+        },
+        {
+            "tenantId": "od.sonepur",
+            "module": "WS",
+            "subAcountId": "WSODSONEPUR"
+        },
+        {
+            "tenantId": "od.soro",
+            "module": "WS",
+            "subAcountId": "WSODSORO"
+        },
+        {
+            "tenantId": "od.sunabeda",
+            "module": "WS",
+            "subAcountId": "WSODSUNABEDA"
+        },
+        {
+            "tenantId": "od.sundargarh",
+            "module": "WS",
+            "subAcountId": "WSODSUNDARGARH"
+        },
+        {
+            "tenantId": "od.surada",
+            "module": "WS",
+            "subAcountId": "WSODSURADA"
+        },
+        {
+            "tenantId": "od.talcher",
+            "module": "WS",
+            "subAcountId": "WSODTALCHER"
+        },
+        {
+            "tenantId": "od.tarbha",
+            "module": "WS",
+            "subAcountId": "WSODTARBHA"
+        },
+        {
+            "tenantId": "od.titilagarh",
+            "module": "WS",
+            "subAcountId": "WSODTITILAGARH"
+        },
+        {
+            "tenantId": "od.tusura",
+            "module": "WS",
+            "subAcountId": "WSODTUSURA"
+        },
+        {
+            "tenantId": "od.udala",
+            "module": "WS",
+            "subAcountId": "WSODUDALA"
+        },
+        {
+            "tenantId": "od.umerkote",
+            "module": "WS",
+            "subAcountId": "WSODUMERKOTE"
+        },
+        {
+            "tenantId": "od.vyasanagar",
+            "module": "WS",
+            "subAcountId": "WSODVYASANAGAR"
+        },
+        {
+            "tenantId": "od.remuna",
+            "module": "WS",
+            "subAcountId": "WSODREMUNA"
+        },
+        {
+            "tenantId": "od.testing",
+            "module": "WS",
+            "subAcountId": "WSODTESTING"
+        },
+        {
+            "tenantId": "od.anandapur",
+            "module": "FSM",
+            "subAcountId": "FSMODANANDAPUR"
+        },
+        {
+            "tenantId": "od.angul",
+            "module": "FSM",
+            "subAcountId": "FSMODANGUL"
+        },
+        {
+            "tenantId": "od.aska",
+            "module": "FSM",
+            "subAcountId": "FSMODASKA"
+        },
+        {
+            "tenantId": "od.athagarh",
+            "module": "FSM",
+            "subAcountId": "FSMODATHAGARH"
+        },
+        {
+            "tenantId": "od.athmallik",
+            "module": "FSM",
+            "subAcountId": "FSMODATHMALLIK"
+        },
+        {
+            "tenantId": "od.attabira",
+            "module": "FSM",
+            "subAcountId": "FSMODATTABIRA"
+        },
+        {
+            "tenantId": "od.balangir",
+            "module": "FSM",
+            "subAcountId": "FSMODBALANGIR"
+        },
+        {
+            "tenantId": "od.balasore",
+            "module": "FSM",
+            "subAcountId": "FSMODBALASORE"
+        },
+        {
+            "tenantId": "od.balimela",
+            "module": "FSM",
+            "subAcountId": "FSMODBALIMELA"
+        },
+        {
+            "tenantId": "od.balliguda",
+            "module": "FSM",
+            "subAcountId": "FSMODBALLIGUDA"
+        },
+        {
+            "tenantId": "od.balugaon",
+            "module": "FSM",
+            "subAcountId": "FSMODBALUGAON"
+        },
+        {
+            "tenantId": "od.banki",
+            "module": "FSM",
+            "subAcountId": "FSMODBANKI"
+        },
+        {
+            "tenantId": "od.banpur",
+            "module": "FSM",
+            "subAcountId": "FSMODBANPUR"
+        },
+        {
+            "tenantId": "od.barbil",
+            "module": "FSM",
+            "subAcountId": "FSMODBARBIL"
+        },
+        {
+            "tenantId": "od.bargarh",
+            "module": "FSM",
+            "subAcountId": "FSMODBARGARH"
+        },
+        {
+            "tenantId": "od.baripada",
+            "module": "FSM",
+            "subAcountId": "FSMODBARIPADA"
+        },
+        {
+            "tenantId": "od.barpali",
+            "module": "FSM",
+            "subAcountId": "FSMODBARPALI"
+        },
+        {
+            "tenantId": "od.basudevpur",
+            "module": "FSM",
+            "subAcountId": "FSMODBASUDEVPUR"
+        },
+        {
+            "tenantId": "od.bellaguntha",
+            "module": "FSM",
+            "subAcountId": "FSMODBELLAGUNTHA"
+        },
+        {
+            "tenantId": "od.belpahar",
+            "module": "FSM",
+            "subAcountId": "FSMODBELPAHAR"
+        },
+        {
+            "tenantId": "od.berhampur",
+            "module": "FSM",
+            "subAcountId": "FSMODBERHAMPUR"
+        },
+        {
+            "tenantId": "od.bhadrak",
+            "module": "FSM",
+            "subAcountId": "FSMODBHADRAK"
+        },
+        {
+            "tenantId": "od.bhanjanagar",
+            "module": "FSM",
+            "subAcountId": "FSMODBHANJANAGAR"
+        },
+        {
+            "tenantId": "od.bhawanipatna",
+            "module": "FSM",
+            "subAcountId": "FSMODBHAWANIPATNA"
+        },
+        {
+            "tenantId": "od.bhuban",
+            "module": "FSM",
+            "subAcountId": "FSMODBHUBAN"
+        },
+        {
+            "tenantId": "od.bhubaneswar",
+            "module": "FSM",
+            "subAcountId": "FSMODBHUBANESWAR"
+        },
+        {
+            "tenantId": "od.bijepur",
+            "module": "FSM",
+            "subAcountId": "FSMODBIJEPUR"
+        },
+        {
+            "tenantId": "od.binka",
+            "module": "FSM",
+            "subAcountId": "FSMODBINKA"
+        },
+        {
+            "tenantId": "od.birmitrapur",
+            "module": "FSM",
+            "subAcountId": "FSMODBIRMITRAPUR"
+        },
+        {
+            "tenantId": "od.boudhgarh",
+            "module": "FSM",
+            "subAcountId": "FSMODBOUDHGARH"
+        },
+        {
+            "tenantId": "od.brajrajnagar",
+            "module": "FSM",
+            "subAcountId": "FSMODBRAJRAJNAGAR"
+        },
+        {
+            "tenantId": "od.buguda",
+            "module": "FSM",
+            "subAcountId": "FSMODBUGUDA"
+        },
+        {
+            "tenantId": "od.champua",
+            "module": "FSM",
+            "subAcountId": "FSMODCHAMPUA"
+        },
+        {
+            "tenantId": "od.chandbali",
+            "module": "FSM",
+            "subAcountId": "FSMODCHANDBALI"
+        },
+        {
+            "tenantId": "od.chatrapur",
+            "module": "FSM",
+            "subAcountId": "FSMODCHATRAPUR"
+        },
+        {
+            "tenantId": "od.chikiti",
+            "module": "FSM",
+            "subAcountId": "FSMODCHIKITI"
+        },
+        {
+            "tenantId": "od.choudwar",
+            "module": "FSM",
+            "subAcountId": "FSMODCHOUDWAR"
+        },
+        {
+            "tenantId": "od.cuttack",
+            "module": "FSM",
+            "subAcountId": "FSMODCUTTACK"
+        },
+        {
+            "tenantId": "od.daspalla",
+            "module": "FSM",
+            "subAcountId": "FSMODDASPALLA"
+        },
+        {
+            "tenantId": "od.deogarh",
+            "module": "FSM",
+            "subAcountId": "FSMODDEOGARH"
+        },
+        {
+            "tenantId": "od.dhamnagar",
+            "module": "FSM",
+            "subAcountId": "FSMODDHAMNAGAR"
+        },
+        {
+            "tenantId": "od.dharamgarh",
+            "module": "FSM",
+            "subAcountId": "FSMODDHARAMGARH"
+        },
+        {
+            "tenantId": "od.dhenkanal",
+            "module": "FSM",
+            "subAcountId": "FSMODDHENKANAL"
+        },
+        {
+            "tenantId": "od.digapahandi",
+            "module": "FSM",
+            "subAcountId": "FSMODDIGAPAHANDI"
+        },
+        {
+            "tenantId": "od.ganjam",
+            "module": "FSM",
+            "subAcountId": "FSMODGANJAM"
+        },
+        {
+            "tenantId": "od.gopalpur",
+            "module": "FSM",
+            "subAcountId": "FSMODGOPALPUR"
+        },
+        {
+            "tenantId": "od.gudari",
+            "module": "FSM",
+            "subAcountId": "FSMODGUDARI"
+        },
+        {
+            "tenantId": "od.g.udayagiri",
+            "module": "FSM",
+            "subAcountId": "FSMODGUDAYAGIRI"
+        },
+        {
+            "tenantId": "od.gunupur",
+            "module": "FSM",
+            "subAcountId": "FSMODGUNUPUR"
+        },
+        {
+            "tenantId": "od.hindol",
+            "module": "FSM",
+            "subAcountId": "FSMODHINDOL"
+        },
+        {
+            "tenantId": "od.hinjilicut",
+            "module": "FSM",
+            "subAcountId": "FSMODHINJILICUT"
+        },
+        {
+            "tenantId": "od.jagatsinghpur",
+            "module": "FSM",
+            "subAcountId": "FSMODJAGATSINGHPUR"
+        },
+        {
+            "tenantId": "od.jajpur",
+            "module": "FSM",
+            "subAcountId": "FSMODJAJPUR"
+        },
+        {
+            "tenantId": "od.jaleswar",
+            "module": "FSM",
+            "subAcountId": "FSMODJALESWAR"
+        },
+        {
+            "tenantId": "od.jatni",
+            "module": "FSM",
+            "subAcountId": "FSMODJATNI"
+        },
+        {
+            "tenantId": "od.jeypore",
+            "module": "FSM",
+            "subAcountId": "FSMODJEYPORE"
+        },
+        {
+            "tenantId": "od.jharsuguda",
+            "module": "FSM",
+            "subAcountId": "FSMODJHARSUGUDA"
+        },
+        {
+            "tenantId": "od.joda",
+            "module": "FSM",
+            "subAcountId": "FSMODJODA"
+        },
+        {
+            "tenantId": "od.junagarh",
+            "module": "FSM",
+            "subAcountId": "FSMODJUNAGARH"
+        },
+        {
+            "tenantId": "od.kabisuryanagar",
+            "module": "FSM",
+            "subAcountId": "FSMODKABISURYANAGAR"
+        },
+        {
+            "tenantId": "od.kamakhyanagar",
+            "module": "FSM",
+            "subAcountId": "FSMODKAMAKHYANAGAR"
+        },
+        {
+            "tenantId": "od.kantabanji",
+            "module": "FSM",
+            "subAcountId": "FSMODKANTABANJI"
+        },
+        {
+            "tenantId": "od.karanjia",
+            "module": "FSM",
+            "subAcountId": "FSMODKARANJIA"
+        },
+        {
+            "tenantId": "od.kashinagar",
+            "module": "FSM",
+            "subAcountId": "FSMODKASHINAGAR"
+        },
+        {
+            "tenantId": "od.kendrapara",
+            "module": "FSM",
+            "subAcountId": "FSMODKENDRAPARA"
+        },
+        {
+            "tenantId": "od.keonjhargarh",
+            "module": "FSM",
+            "subAcountId": "FSMODKEONJHARGARH"
+        },
+        {
+            "tenantId": "od.kesinga",
+            "module": "FSM",
+            "subAcountId": "FSMODKESINGA"
+        },
+        {
+            "tenantId": "od.khallikote",
+            "module": "FSM",
+            "subAcountId": "FSMODKHALLIKOTE"
+        },
+        {
+            "tenantId": "od.khandapada",
+            "module": "FSM",
+            "subAcountId": "FSMODKHANDAPADA"
+        },
+        {
+            "tenantId": "od.khariar",
+            "module": "FSM",
+            "subAcountId": "FSMODKHARIAR"
+        },
+        {
+            "tenantId": "od.khariarroad",
+            "module": "FSM",
+            "subAcountId": "FSMODKHARIARROAD"
+        },
+        {
+            "tenantId": "od.khordha",
+            "module": "FSM",
+            "subAcountId": "FSMODKHORDHA"
+        },
+        {
+            "tenantId": "od.kodala",
+            "module": "FSM",
+            "subAcountId": "FSMODKODALA"
+        },
+        {
+            "tenantId": "od.konark",
+            "module": "FSM",
+            "subAcountId": "FSMODKONARK"
+        },
+        {
+            "tenantId": "od.koraput",
+            "module": "FSM",
+            "subAcountId": "FSMODKORAPUT"
+        },
+        {
+            "tenantId": "od.kotpad",
+            "module": "FSM",
+            "subAcountId": "FSMODKOTPAD"
+        },
+        {
+            "tenantId": "od.kuchinda",
+            "module": "FSM",
+            "subAcountId": "FSMODKUCHINDA"
+        },
+        {
+            "tenantId": "od.malkangiri",
+            "module": "FSM",
+            "subAcountId": "FSMODMALKANGIRI"
+        },
+        {
+            "tenantId": "od.nabarangpur",
+            "module": "FSM",
+            "subAcountId": "FSMODNABARANGPUR"
+        },
+        {
+            "tenantId": "od.nayagarh",
+            "module": "FSM",
+            "subAcountId": "FSMODNAYAGARH"
+        },
+        {
+            "tenantId": "od.nilgiri",
+            "module": "FSM",
+            "subAcountId": "FSMODNILGIRI"
+        },
+        {
+            "tenantId": "od.nimapara",
+            "module": "FSM",
+            "subAcountId": "FSMODNIMAPARA"
+        },
+        {
+            "tenantId": "od.nuapada",
+            "module": "FSM",
+            "subAcountId": "FSMODNUAPADA"
+        },
+        {
+            "tenantId": "od.odagaon",
+            "module": "FSM",
+            "subAcountId": "FSMODODAGAON"
+        },
+        {
+            "tenantId": "od.padampur",
+            "module": "FSM",
+            "subAcountId": "FSMODPADAMPUR"
+        },
+        {
+            "tenantId": "od.paradeep",
+            "module": "FSM",
+            "subAcountId": "FSMODPARADEEP"
+        },
+        {
+            "tenantId": "od.paralakhemundi",
+            "module": "FSM",
+            "subAcountId": "FSMODPARALAKHEMUNDI"
+        },
+        {
+            "tenantId": "od.patnagarh",
+            "module": "FSM",
+            "subAcountId": "FSMODPATNAGARH"
+        },
+        {
+            "tenantId": "od.pattamundai",
+            "module": "FSM",
+            "subAcountId": "FSMODPATTAMUNDAI"
+        },
+        {
+            "tenantId": "od.phulbani",
+            "module": "FSM",
+            "subAcountId": "FSMODPHULBANI"
+        },
+        {
+            "tenantId": "od.pipli",
+            "module": "FSM",
+            "subAcountId": "FSMODPIPLI"
+        },
+        {
+            "tenantId": "od.polasara",
+            "module": "FSM",
+            "subAcountId": "FSMODPOLASARA"
+        },
+        {
+            "tenantId": "od.puri",
+            "module": "FSM",
+            "subAcountId": "FSMODPURI"
+        },
+        {
+            "tenantId": "od.purushottampur",
+            "module": "FSM",
+            "subAcountId": "FSMODPURUSHOTTAMPUR"
+        },
+        {
+            "tenantId": "od.rairangpur",
+            "module": "FSM",
+            "subAcountId": "FSMODRAIRANGPUR"
+        },
+        {
+            "tenantId": "od.rajgangpur",
+            "module": "FSM",
+            "subAcountId": "FSMODRAJGANGPUR"
+        },
+        {
+            "tenantId": "od.rambha",
+            "module": "FSM",
+            "subAcountId": "FSMODRAMBHA"
+        },
+        {
+            "tenantId": "od.ranpur",
+            "module": "FSM",
+            "subAcountId": "FSMODRANPUR"
+        },
+        {
+            "tenantId": "od.rayagada",
+            "module": "FSM",
+            "subAcountId": "FSMODRAYAGADA"
+        },
+        {
+            "tenantId": "od.redhakhol",
+            "module": "FSM",
+            "subAcountId": "FSMODREDHAKHOL"
+        },
+        {
+            "tenantId": "od.rourkela",
+            "module": "FSM",
+            "subAcountId": "FSMODROURKELA"
+        },
+        {
+            "tenantId": "od.sambalpur",
+            "module": "FSM",
+            "subAcountId": "FSMODSAMBALPUR"
+        },
+        {
+            "tenantId": "od.sonepur",
+            "module": "FSM",
+            "subAcountId": "FSMODSONEPUR"
+        },
+        {
+            "tenantId": "od.soro",
+            "module": "FSM",
+            "subAcountId": "FSMODSORO"
+        },
+        {
+            "tenantId": "od.sunabeda",
+            "module": "FSM",
+            "subAcountId": "FSMODSUNABEDA"
+        },
+        {
+            "tenantId": "od.sundargarh",
+            "module": "FSM",
+            "subAcountId": "FSMODSUNDARGARH"
+        },
+        {
+            "tenantId": "od.surada",
+            "module": "FSM",
+            "subAcountId": "FSMODSURADA"
+        },
+        {
+            "tenantId": "od.talcher",
+            "module": "FSM",
+            "subAcountId": "FSMODTALCHER"
+        },
+        {
+            "tenantId": "od.tarbha",
+            "module": "FSM",
+            "subAcountId": "FSMODTARBHA"
+        },
+        {
+            "tenantId": "od.titilagarh",
+            "module": "FSM",
+            "subAcountId": "FSMODTITILAGARH"
+        },
+        {
+            "tenantId": "od.tusura",
+            "module": "FSM",
+            "subAcountId": "FSMODTUSURA"
+        },
+        {
+            "tenantId": "od.udala",
+            "module": "FSM",
+            "subAcountId": "FSMODUDALA"
+        },
+        {
+            "tenantId": "od.umerkote",
+            "module": "FSM",
+            "subAcountId": "FSMODUMERKOTE"
+        },
+        {
+            "tenantId": "od.vyasanagar",
+            "module": "FSM",
+            "subAcountId": "FSMODVYASANAGAR"
+        },
+        {
+            "tenantId": "od.remuna",
+            "module": "FSM",
+            "subAcountId": "FSMODREMUNA"
+        },
+        {
+            "tenantId": "od.testing",
+            "module": "FSM",
+            "subAcountId": "FSMODTESTING"
+        }
+    ]
+}

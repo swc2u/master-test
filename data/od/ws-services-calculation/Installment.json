@@ -1,0 +1,54 @@
+{
+    "tenantId": "od",
+    "moduleName": "ws-services-calculation",
+    "Installment": [
+        {
+            "usageCategory": "DOMESTIC",
+            "feeType": "WS_SCRUTINY_FEE",
+            "totalAmount": 3000,
+            "noOfInstallment": 36,
+            "installmentAmount": 100,
+            "effectiveFrom": "01/04/2021"
+        },
+        {
+            "usageCategory": "DOMESTIC",
+            "feeType": "WS_SCRUTINY_FEE",
+            "totalAmount": 3000,
+            "noOfInstallment": 24,
+            "installmentAmount": 150,
+            "effectiveFrom": "01/04/2021"
+        },
+        {
+            "usageCategory": "DOMESTIC",
+            "feeType": "WS_SCRUTINY_FEE",
+            "totalAmount": 3000,
+            "noOfInstallment": 12,
+            "installmentAmount": 270,
+            "effectiveFrom": "01/04/2021"
+        },
+        {
+            "usageCategory": "DOMESTIC",
+            "feeType": "WS_LABOUR_FEE",
+            "totalAmount": 3600,
+            "noOfInstallment": 36,
+            "installmentAmount": 100,
+            "effectiveFrom": "01/04/2021"
+        },
+        {
+            "usageCategory": "BPL",
+            "feeType": "WS_LABOUR_FEE",
+            "totalAmount": 3600,
+            "noOfInstallment": 36,
+            "installmentAmount": 100,
+            "effectiveFrom": "01/04/2021"
+        },
+        {
+            "usageCategory": "ROADSIDEEATERS",
+            "feeType": "WS_LABOUR_FEE",
+            "totalAmount": 3600,
+            "noOfInstallment": 36,
+            "installmentAmount": 100,
+            "effectiveFrom": "01/04/2021"
+        }
+    ]
+}

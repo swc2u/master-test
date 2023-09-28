@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.surada",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

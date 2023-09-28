@@ -1,0 +1,138 @@
+{
+    "tenantId": "od.anandapur",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Birbal Kolha Sahi",
+            "active": true,
+            "code": "ANAN001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dehury Sahi",
+            "active": true,
+            "code": "ANAN002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Panda Sahi",
+            "active": true,
+            "code": "ANAN003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bauti Sahi",
+            "active": true,
+            "code": "ANAN004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dahanibania Sahi",
+            "active": true,
+            "code": "ANAN005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bandirigadia Harijan Sahi",
+            "active": true,
+            "code": "ANAN006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mukhi Sahi",
+            "active": true,
+            "code": "ANAN007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Majhi Harijan Sahi",
+            "active": true,
+            "code": "ANAN008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Hadi Sahi",
+            "active": true,
+            "code": "ANAN009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gouda Sahi",
+            "active": true,
+            "code": "ANAN010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kolha Sahi",
+            "active": true,
+            "code": "ANAN011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Badaharijan Sahi",
+            "active": true,
+            "code": "ANAN012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Indira Colony",
+            "active": true,
+            "code": "ANAN013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Saunti Sahi",
+            "active": true,
+            "code": "ANAN014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Janara Harijan Sahi",
+            "active": true,
+            "code": "ANAN015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nala Sahi",
+            "active": true,
+            "code": "ANAN016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Harijan Sahi near Gotha",
+            "active": true,
+            "code": "ANAN017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Adibasi Sahi(Poda khaman)",
+            "active": true,
+            "code": "ANAN018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dehury Sahi (Podakhaman)",
+            "active": true,
+            "code": "ANAN019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mukhi Sahi (Podakhaman)",
+            "active": true,
+            "code": "ANAN020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Deury Sahi, Sailong",
+            "active": true,
+            "code": "ANAN021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sarat Kumar Sahoo",
+            "active": true,
+            "code": "ANAN022",
+            "locality": "VIL1"
+        }
+    ]
+}

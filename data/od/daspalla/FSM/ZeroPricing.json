@@ -1,0 +1,9 @@
+{
+    "tenantId": "od.daspalla",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": false
+        }
+    ]
+}

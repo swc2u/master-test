@@ -1,0 +1,139 @@
+{
+    "tenantId": "od.gunupur",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Amedkar Nagar",
+            "ward": "07",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Back Side New Venketeswar Temple",
+            "ward": "02",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Housing Board",
+            "ward": "01",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Jagannathguda/ Colony",
+            "ward": "11",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Jlt Road",
+            "ward": "09",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Kalinga Nagar",
+            "ward": "03",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Karnaguda",
+            "ward": "10",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Korabanka Colony",
+            "ward": "16",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Kotwaluguda",
+            "ward": "04",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Leprocy Colony",
+            "ward": "07",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Mahima Nagar",
+            "ward": "01",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Metakarnaguda",
+            "ward": "10",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Motilalnagar",
+            "ward": "10",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Near Block Office Marathiguda",
+            "ward": "01",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Near Phd Office Marathiguda",
+            "ward": "01",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Pania Kota Street",
+            "ward": "02",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Sabar Bihar",
+            "ward": "01",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Sana Arsingguda",
+            "ward": "17",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Uppar Soura Pradhaniguda",
+            "ward": "16",
+            "code": "SLM19",
+            "isActive": true
+        }
+    ]
+}

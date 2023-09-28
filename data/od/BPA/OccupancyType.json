@@ -1,0 +1,116 @@
+{
+  "tenantId": "od",
+  "moduleName": "BPA",
+  "OccupancyType": [
+      {
+         "name":"Residential",
+         "code":"A",
+         "active":true,
+         "maxCoverage":"65",
+         "minFar":"2",
+         "maxFar":"3",
+         "orderNumber":"1",
+         "description":"Residential",
+         "colorCode":null
+      },
+      {
+         "name":"Commercial",
+         "code":"B",
+         "active":true,
+         "maxCoverage":"66",
+         "minFar":"3",
+         "maxFar":"4",
+         "orderNumber":"2",
+         "description":"Commercial",
+         "colorCode":null
+      },
+      {
+         "name":"Public-semi",
+         "code":"C",
+         "active":true,
+         "maxCoverage":"67",
+         "minFar":"4",
+         "maxFar":"5",
+         "orderNumber":"3",
+         "description":"Public-Semi Public/Institutional",
+         "colorCode":null
+      },
+      {
+         "name":"Public Utility",
+         "code":"D",
+         "active":true,
+         "maxCoverage":"68",
+         "minFar":"5",
+         "maxFar":"6",
+         "orderNumber":"4",
+         "description":"Public Utility",
+         "colorCode":null
+      },
+      {
+         "name":"Industrial Zone",
+         "code":"E",
+         "active":true,
+         "maxCoverage":"69",
+         "minFar":"6",
+         "maxFar":"7",
+         "orderNumber":"5",
+         "description":"Industrial Zone",
+         "colorCode":null
+      },
+      {
+         "name":"Education",
+         "code":"F",
+         "active":true,
+         "maxCoverage":"70",
+         "minFar":"7",
+         "maxFar":"8",
+         "orderNumber":"6",
+         "description":"Education",
+         "colorCode":null
+      },
+      {
+         "name":"Transportation",
+         "code":"G",
+         "active":true,
+         "maxCoverage":"71",
+         "minFar":"8",
+         "maxFar":"9",
+         "orderNumber":"7",
+         "description":"Transportation",
+         "colorCode":null
+      },
+      {
+         "name":"Agriculture",
+         "code":"H",
+         "active":true,
+         "maxCoverage":"72",
+         "minFar":"9",
+         "maxFar":"10",
+         "orderNumber":"8",
+         "description":"Agriculture",
+         "colorCode":null
+      },
+	   {
+         "name":"Additional Feature",
+         "code":"AF",
+         "active":true,
+         "maxCoverage":"72",
+         "minFar":"9",
+         "maxFar":"10",
+         "orderNumber":"9",
+         "description":"Additional Feature",
+         "colorCode":null
+      },
+      {
+         "name":"Mixed Use",
+         "code":"M",
+         "active":true,
+         "maxCoverage":"72",
+         "minFar":"9",
+         "maxFar":"10",
+         "orderNumber":"10",
+         "description":"Mixed Use",
+         "colorCode":null
+      }
+   ]
+}

@@ -1,0 +1,452 @@
+{
+  "tenantId": "od.jharsuguda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jharsuguda",
+        "localname": "Jharsuguda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.jharsuguda",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Ekatali - Jharsuguda Town Unit-1",
+            "localname": "Ekatali - Jharsuguda Town Unit-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Balijori- Jharsuguda Town Unit-2",
+            "localname": "Balijori- Jharsuguda Town Unit-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Debadihi - Jharsuguda Town Unit-3",
+            "localname": "Debadihi - Jharsuguda Town Unit-3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chituapada, Jharsuguda Town Unit-4",
+            "localname": "Chituapada, Jharsuguda Town Unit-4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Jharsuguda TownUnit-5",
+            "localname": "Jharsuguda TownUnit-5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Jharsuguda New Town Unit-6",
+            "localname": "Jharsuguda New Town Unit-6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Sarbahal, Jharsuguda Town Unit-7",
+            "localname": "Sarbahal, Jharsuguda Town Unit-7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Malimunda, Jharsuguda Town Unit -8",
+            "localname": "Malimunda, Jharsuguda Town Unit -8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Panchpada, Jharsuguda Town Unit-9",
+            "localname": "Panchpada, Jharsuguda Town Unit-9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          },
+		  {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL10"
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Arda",
+            "localname": "Arda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR1",
+            "children": []
+        },
+        {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Badamal",
+            "localname": "Badamal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR2",
+            "children": []
+        },
+        {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Bandhapali",
+            "localname": "Bandhapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR3",
+            "children": []
+        },
+        {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Dalki",
+            "localname": "Dalki",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR4",
+            "children": []
+        },
+        {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Durlaga",
+            "localname": "Durlaga",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR5",
+            "children": []
+        },
+        {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "G Panpali",
+            "localname": "G Panpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR6",
+            "children": []
+        },
+        {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "H Katapali",
+            "localname": "H Katapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR7",
+            "children": []
+        },
+        {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Hirma",
+            "localname": "Hirma",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR8",
+            "children": []
+        },
+        {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Jamera",
+            "localname": "Jamera",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR9",
+            "children": []
+        },
+        {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Katikela",
+            "localname": "Katikela",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR10",
+            "children": []
+        },
+        {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Keldamal",
+            "localname": "Keldamal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR11",
+            "children": []
+        },
+        {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Kirmira",
+            "localname": "Kirmira",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR12",
+            "children": []
+        },
+        {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Kolabira",
+            "localname": "Kolabira",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR13",
+            "children": []
+        },
+        {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Marhakuta",
+            "localname": "Marhakuta",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR14",
+            "children": []
+        },
+        {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Parmanpur",
+            "localname": "Parmanpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR15",
+            "children": []
+        },
+        {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Raghunathpali",
+            "localname": "Raghunathpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR16",
+            "children": []
+        },
+        {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Sripura",
+            "localname": "Sripura",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR17",
+            "children": []
+        },
+        {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Sulehi",
+            "localname": "Sulehi",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR18",
+            "children": []
+        },
+        {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Talpatia",
+            "localname": "Talpatia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR19",
+            "children": []
+        },
+        {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "JHR20",
+            "children": []
+        }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jharsuguda",
+        "localname": "Jharsuguda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.jharsuguda",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Ekatali - Jharsuguda Town Unit-1",
+            "localname": "Ekatali - Jharsuguda Town Unit-1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Balijori- Jharsuguda Town Unit-2",
+            "localname": "Balijori- Jharsuguda Town Unit-2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Debadihi - Jharsuguda Town Unit-3",
+            "localname": "Debadihi - Jharsuguda Town Unit-3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Chituapada, Jharsuguda Town Unit-4",
+            "localname": "Chituapada, Jharsuguda Town Unit-4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Jharsuguda TownUnit-5",
+            "localname": "Jharsuguda TownUnit-5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Jharsuguda New Town Unit-6",
+            "localname": "Jharsuguda New Town Unit-6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Sarbahal, Jharsuguda Town Unit-7",
+            "localname": "Sarbahal, Jharsuguda Town Unit-7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+          {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Malimunda, Jharsuguda Town Unit -8",
+            "localname": "Malimunda, Jharsuguda Town Unit -8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Panchpada, Jharsuguda Town Unit-9",
+            "localname": "Panchpada, Jharsuguda Town Unit-9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL9"
+          }
+        ]
+      }
+    }
+  ]
+}

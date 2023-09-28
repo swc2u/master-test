@@ -1,0 +1,384 @@
+{
+   "tenantId":"od",
+   "moduleName":"common-masters",
+   "Designation":[
+      {
+         "code":"DESIG_01",
+         "name":"Superintending Engineer",
+         "description":"Superintending Engineer",
+         "active":true
+      },
+      {
+         "code":"DESIG_02",
+         "name":"Corporation Engineer",
+         "description":"Corporation Engineer",
+         "active":true
+      },
+      {
+         "code":"DESIG_03",
+         "name":"Assistant Engineer",
+         "description":"Assistant Engineer",
+         "active":true
+      },
+      {
+         "code":"DESIG_04",
+         "name":"Junior Engineer",
+         "description":"Junior Engineer",
+         "active":true
+      },
+      {
+         "code":"DESIG_05",
+         "name":"Land Scape Officer",
+         "description":"Land Scape Officer",
+         "active":true
+      },
+      {
+         "code":"DESIG_06",
+         "name":"Superintending Engineer ( O&M)",
+         "description":"Superintending Engineer ( O&M)",
+         "active":true
+      },
+      {
+         "code":"DESIG_07",
+         "name":"Corporation Engineer (O&M)",
+         "description":"Corporation Engineer (O&M)",
+         "active":true
+      },
+      {
+         "code":"DESIG_08",
+         "name":"Asst. Engineer ( O&M)",
+         "description":"Asst. Engineer ( O&M)",
+         "active":true
+      },
+      {
+         "code":"DESIG_09",
+         "name":"Junior Engineer ( O&M)",
+         "description":"Junior Engineer ( O&M)",
+         "active":true
+      },
+      {
+         "code":"DESIG_10",
+         "name":"Superintending Engineer ( Light)",
+         "description":"Superintending Engineer ( Light)",
+         "active":true
+      },
+      {
+         "code":"DESIG_11",
+         "name":"Corporation Engineer (Light)",
+         "description":"Corporation Engineer (Light)",
+         "active":true
+      },
+      {
+         "code":"DESIG_12",
+         "name":"Junior Engineer ( Light)",
+         "description":"Junior Engineer ( Light)",
+         "active":true
+      },
+      {
+         "code":"DESIG_13",
+         "name":"City Health Officer",
+         "description":"Health Officer",
+         "active":true
+      },
+      {
+         "code":"DESIG_14",
+         "name":"Medical Officer",
+         "description":"Medical Officer",
+         "active":true
+      },
+      {
+         "code":"DESIG_15",
+         "name":"Chief Sanitary Inspector",
+         "description":"Mechanical Oversear",
+         "active":true
+      },
+      {
+         "code":"DESIG_16",
+         "name":"Sainitary Inspector",
+         "description":"Clerk",
+         "active":true
+      },
+      {
+         "code":"DESIG_17",
+         "name":"Sainitary Supervisor",
+         "description":"Accountant",
+         "active":true
+      },
+      {
+         "code":"DESIG_18",
+         "name":"Senior Town Planner",
+         "description":"Senior Town Planner",
+         "active":true
+      },
+      {
+         "code":"DESIG_19",
+         "name":"Municipal Town Planner",
+         "description":"Municipal Town Planner",
+         "active":true
+      },
+      {
+         "code":"DESIG_20",
+         "name":"Assistant Town Planner",
+         "description":"Assistant Town Planner",
+         "active":true
+      },
+      {
+         "code":"DESIG_21",
+         "name":"Building Inspector",
+         "description":"Building Inspector",
+         "active":true
+      },
+      {
+         "code":"DESIG_22",
+         "name":"Junior Assistant",
+         "description":"Junior Assistant",
+         "active":true
+      },
+      {
+         "code":"DESIG_23",
+         "name":"Citizen service representative",
+         "description":"Citizen service representative",
+         "active":true
+      },
+      {
+         "name":"Deputy Controller Finance and Accounts",
+         "description":"Deputy Controller Finance and Accounts",
+         "code":"DESIG_1001",
+         "active":true
+      },
+      {
+         "name":"Accountant",
+         "description":"Accountant",
+         "code":"DESIG_58",
+         "active":true
+      },
+      {
+         "code":"DESIG_24",
+         "name":"Assistant Commissioner",
+         "description":"Assistant Commissioner",
+         "active":true
+      },
+      {
+         "name":"Superintendent",
+         "description":"Superintendent",
+         "code":"DESIG_47",
+         "active":true
+      },
+      {
+         "code":"DESIG_201",
+         "name":"Planning Assistant",
+         "description":"Planning Assistant",
+         "active":true
+      },
+      {
+         "code":"DESIG_202",
+         "name":"Planning Officer",
+         "description":"Planning Officer",
+         "active":true
+      },
+      {
+         "code":"DESIG_203",
+         "name":"Planning Member",
+         "description":"Planning Member",
+         "active":true
+      },
+      {
+         "code":"DESIG_204",
+         "name":"DP&BP Committee",
+         "description":"DP&BP Committee",
+         "active":true
+      },
+      {
+         "code":"DESIG_205",
+         "name":"Assoc. City Planner",
+         "description":"Assoc. City Planner",
+         "active":true
+      },
+      {
+         "code":"DESIG_206",
+         "name":"Amin",
+         "description":"Amin",
+         "active":true
+      },
+      {
+         "code":"DESIG_207",
+         "name":"Accounts/Finance Officer",
+         "description":"Accounts Officer",
+         "active":true
+      },
+      {
+         "code":"DESIG_208",
+         "name":"Additional Commissioner",
+         "description":"Additional Commissioner",
+         "active":true
+      },
+      {
+         "code":"DESIG_209",
+         "name":"Administrator",
+         "description":"Administrator",
+         "active":true
+      },
+      {
+         "code":"DESIG_210",
+         "name":"Executive Officer",
+         "description":"Executive Officer",
+         "active":true
+      },
+      {
+         "code":"DESIG_211",
+         "name":"Bill Clerk/DEO",
+         "description":"Bill Clerk",
+         "active":true
+      },
+      {
+         "code":"DESIG_212",
+         "name":"Auditor",
+         "description":"Auditor",
+         "active":true
+      },
+      {
+         "code":"DESIG_213",
+         "name":"Assistant Executive Engineer",
+         "description":"Assistant Executive Engineer",
+         "active":true
+      },
+      {
+         "code":"DESIG_214",
+         "name":"Cashier",
+         "description":"Cashier",
+         "active":true
+      },
+      {
+         "code":"DESIG_215",
+         "name":"Chairman",
+         "description":"Chairman",
+         "active":true
+      },
+      {
+         "code":"DESIG_216",
+         "name":"Chief Auditor",
+         "description":"Chief Auditor",
+         "active":true
+      },
+      {
+         "code":"DESIG_217",
+         "name":"City Engineer",
+         "description":"City Engineer",
+         "active":true
+      },
+      {
+         "code":"DESIG_218",
+         "name":"Commissioner",
+         "description":"Commissioner",
+         "active":true
+      },
+      {
+         "code":"DESIG_219",
+         "name":"Deputy Commissioner",
+         "description":"Deputy Commissioner",
+         "active":true
+      },
+      {
+         "code":"DESIG_220",
+         "name":"Environment Officer",
+         "description":"Environment Officer",
+         "active":true
+      },
+      {
+         "code":"DESIG_221",
+         "name":"Head Assistant",
+         "description":"Head Assistant",
+         "active":true
+      },
+      {
+         "code":"DESIG_222",
+         "name":"Executive Engineer",
+         "description":"Executive Engineer",
+         "active":true
+      },
+      {
+         "code":"DESIG_223",
+         "name":"License Inspector",
+         "description":"License Inspector",
+         "active":true
+      },
+      {
+         "code":"DESIG_224",
+         "name":"Mayor",
+         "description":"Mayor",
+         "active":true
+      },
+      {
+         "code":"DESIG_225",
+         "name":"Senior Assistant",
+         "description":"Senior Assistant",
+         "active":true
+      },
+      {
+         "code":"DESIG_226",
+         "name":"Tax Collector",
+         "description":"Tax Collector",
+         "active":true
+      },
+      {
+         "code":"DESIG_227",
+         "name":"Municipal Engineer",
+         "description":"Municipal Engineerr",
+         "active":true
+      },
+      {
+         "code":"DESIG_228",
+         "name":"Nodal Officer",
+         "description":"Nodal Officer",
+         "active":true
+      },
+      {
+         "code":"DESIG_229",
+         "name":"ULB Officer",
+         "description":"ULB Officer",
+         "active":true
+      },
+      {
+         "code":"DESIG_230",
+         "name":"Collector",
+         "description":"Collector",
+         "active":true
+      },
+      {
+         "code":"DESIG_231",
+         "name":"District Magistrate",
+         "description":"District Magistrate",
+         "active":true
+      },
+      {
+         "code":"DESIG_232",
+         "name":"H&UDD Official",
+         "description":"H&UDD Official",
+         "active":true
+      },
+      {
+         "code":"DESIG_233",
+         "name":"PHEO Official",
+         "description":"PHEO Official",
+         "active":true
+      },
+      {
+         "code":"DESIG_234",
+         "name":"Project Director",
+         "description":"Project Director",
+         "active":true
+      },
+      {
+         "code":"DESIG_235",
+         "name":"WATCO Official",
+         "description":"WATCO Official",
+         "active":true
+      },
+      {
+         "name": "FSM Executive",
+         "description": "FSM Executive",
+         "code": "DESIG_200",
+         "active": true
+      }
+   ]
+}

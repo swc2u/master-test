@@ -1,0 +1,307 @@
+{
+    "tenantId": "od.dhenkanal",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Kathagada Juanga Sahi",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Kathagada Parbatia Sahi",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Colony Sahi",
+            "ward": "10",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Bankual Sahi",
+            "ward": "08",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Chandia Sahi",
+            "ward": "03",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Refugee Colony",
+            "ward": "02",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Chandamari Sahi",
+            "ward": "05",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Silimia Saar Sahi",
+            "ward": "19",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Danda Sahi",
+            "ward": "07",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Hataroad Dama Sahi",
+            "ward": "22",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Sai Ganesh",
+            "ward": "01",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Mali Sahi",
+            "ward": "06",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Durga Bazar",
+            "ward": "06",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Kununia Nua Sahi",
+            "ward": "09",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Sarjang Sahi",
+            "ward": "10",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Bhagabanpur Sabar Sahi",
+            "ward": "18",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Murdangia Sahi",
+            "ward": "07",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Bhagabanpur Juanga Sahi",
+            "ward": "18",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Kalaragarh",
+            "ward": "06",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Mahinsapata Harijana & Khaira Sahi",
+            "ward": "08",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Kathagada Nua Sahi",
+            "ward": "01",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Bila Sahi",
+            "ward": "10",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Mahisapata Dalei Sahi",
+            "ward": "08",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Kutunia Juanga Sahi",
+            "ward": "09",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Korian Puruna Sahi",
+            "ward": "23",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Kantanali Kandha Sahi",
+            "ward": "09",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Phatabandha Harijan Sahi",
+            "ward": "09",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Phatabandha Juanga Sahi",
+            "ward": "09",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Banamali Prasad Juanga Sahi",
+            "ward": "09",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Dhankunia Harijan Sahi",
+            "ward": "21",
+            "code": "SLM30",
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "Shyamacharanpur Harijan Sahi",
+            "ward": "01",
+            "code": "SLM31",
+            "isActive": true
+        },
+        {
+            "id": 32,
+            "name": "Shyamacharanpur Sabar Sahi",
+            "ward": "01",
+            "code": "SLM32",
+            "isActive": true
+        },
+        {
+            "id": 33,
+            "name": "Sanjay Colony",
+            "ward": "21",
+            "code": "SLM33",
+            "isActive": true
+        },
+        {
+            "id": 34,
+            "name": "Balaram Bihar",
+            "ward": "09",
+            "code": "SLM34",
+            "isActive": true
+        },
+        {
+            "id": 35,
+            "name": "Alasua Sabar Sahi",
+            "ward": "21",
+            "code": "SLM35",
+            "isActive": true
+        },
+        {
+            "id": 36,
+            "name": "Rengali Colony",
+            "ward": "08",
+            "code": "SLM36",
+            "isActive": true
+        },
+        {
+            "id": 37,
+            "name": "Baunsa Patna",
+            "ward": "10",
+            "code": "SLM37",
+            "isActive": true
+        },
+        {
+            "id": 38,
+            "name": "Similia Masani Sahi",
+            "ward": "19",
+            "code": "SLM38",
+            "isActive": true
+        },
+        {
+            "id": 39,
+            "name": "Gajamarajuanga Sahi",
+            "ward": "08",
+            "code": "SLM39",
+            "isActive": true
+        },
+        {
+            "id": 40,
+            "name": "Korian Juanga Sahi",
+            "ward": "23",
+            "code": "SLM40",
+            "isActive": true
+        },
+        {
+            "id": 41,
+            "name": "Korian Sabar And Harijan Sahi",
+            "ward": "23",
+            "code": "SLM41",
+            "isActive": true
+        },
+        {
+            "id": 42,
+            "name": "Rameswarpur Mochi Sahi",
+            "ward": "18",
+            "code": "SLM42",
+            "isActive": true
+        },
+        {
+            "id": 43,
+            "name": "Hata Road Harijan Sahi",
+            "ward": "22",
+            "code": "SLM43",
+            "isActive": true
+        }
+    ]
+}

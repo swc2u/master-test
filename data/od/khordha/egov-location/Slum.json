@@ -1,0 +1,167 @@
+{
+    "tenantId": "od.khordha",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Chacharasahi labour Colony",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Tala Chachara & Uppara Chacharasahi",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Gobardhanpadia",
+            "ward": "02",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Badha Sabarasahi",
+            "ward": "03",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Gada Khordha Hanumanbasti",
+            "ward": "04",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Sanapalla Damasahi",
+            "ward": "05",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Hatapokharibasti",
+            "ward": "05",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Jatrinibas Padia",
+            "ward": "05",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Gadadwara Baurisahi",
+            "ward": "06",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Samantarapur Jabardastpur",
+            "ward": "06",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Kamanabara Harijansahi",
+            "ward": "08",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Bhaliabadi Baurisahi",
+            "ward": "09",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Lokeswar Temple Basti",
+            "ward": "09",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "DAV School Back Site",
+            "ward": "09",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Bhaliabadi Nuasahi",
+            "ward": "10",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Bhaliabadi Saarasahi",
+            "ward": "10",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Nuasundarasahi",
+            "ward": "10",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Santidan Colony (Leporsy Colony)",
+            "ward": "10",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "RWSS Basti",
+            "ward": "11",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Sri Ram Nagar Ghasibaurisahi",
+            "ward": "12",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Gurujanga Baurisahi",
+            "ward": "16",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Tangisahi Kochilakanasahi",
+            "ward": "17",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Dwarika Nagar Jabardastpur",
+            "ward": "18",
+            "code": "SLM23",
+            "isActive": true
+        }
+    ]
+}

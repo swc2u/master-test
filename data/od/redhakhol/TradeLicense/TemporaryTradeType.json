@@ -1,0 +1,23 @@
+{
+  "tenantId": "od.redhakhol",
+  "moduleName": "TradeLicense",
+  "TemporaryTradeType": [
+    {
+  "code" : "FLAMABLES.TST7",
+  "name" : "FLAMABLES.TST7",
+  "uom" : "NUMBEROFDAYS",
+  "uomDescription" : "Number of Days",
+  "applicationDocument" : [ {
+    "applicationType" : "NEW",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO" ]
+  }, {
+    "applicationType" : "RENEWAL",
+    "documentList" : [ "OWNERIDPROOF", "OWNERSHIPPROOF", "OWNERPHOTO", "OLDLICENCENO" ]
+  } ],
+  "verificationDocument" : [ ],
+  "active" : true,
+  "type" : "TL",
+  "validityPeriod" : null
+}  
+  ]
+}

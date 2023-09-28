@@ -1,0 +1,57 @@
+{
+  "tenantId": "od",
+  "moduleName": "BPA",
+  "PreApprovedDocTypeMapping": [
+    {
+		
+	  "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "INITIATED",
+      "docTypes": [
+             
+        {  
+	      "code": "PAP.PREAPPROVED_ALLOTMENTLETTER",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "PAP.PREAPPROVED_SCHEMEDRAWING",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "PAP.PREAPPROVED_LAYOUTAPPROVELLETTER",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "PAP.PREAPPROVED_APPROVEDLAYOUTDRAWING",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+		{
+          "code": "PAP.PREAPPROVED_GIFTDEEDDOCUMENT",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+		{
+          "code": "PAP.PREAPPROVED_OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 6
+        }
+		
+	
+	
+	]
+	
+	
+}
+]
+}

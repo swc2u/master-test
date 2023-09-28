@@ -1,0 +1,137 @@
+{
+    "tenantId": "od.patnagarh",
+    "moduleName": "FSM",
+    "Slum": [
+    {
+        "name": "Bhatisal Pada",
+        "active": true,
+        "code": "PTSL001",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gardvitarpada",
+        "active": true,
+        "code": "PTSL002",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kolpada",
+        "active": true,
+        "code": "PTSL003",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Badpada",
+        "active": true,
+        "code": "PTSL004",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gandhipada",
+        "active": true,
+        "code": "PTSL005",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Jaganathapada",
+        "active": true,
+        "code": "PTSL006",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sanharapada",
+        "active": true,
+        "code": "PTSL007",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Badaharijanpada",
+        "active": true,
+        "code": "PTSL008",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Rampali",
+        "active": true,
+        "code": "PTSL009",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Sanharapada",
+        "active": true,
+        "code": "PTSL010",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kadopada",
+        "active": true,
+        "code": "PTSL011",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hirasagarpada",
+        "active": true,
+        "code": "PTSL012",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Hirasagarpada",
+        "active": true,
+        "code": "PTSL013",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tikapali",
+        "active": true,
+        "code": "PTSL014",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gandapada",
+        "active": true,
+        "code": "PTSL015",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Laltikrapada",
+        "active": true,
+        "code": "PTSL016",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Chamarpada",
+        "active": true,
+        "code": "PTSL017",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Harijanpada",
+        "active": true,
+        "code": "PTSL018",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Budhabandh",
+        "active": true,
+        "code": "PTSL019",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Tianpali",
+        "active": true,
+        "code": "PTSL020",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Gandapada",
+        "active": true,
+        "code": "PTSL021",
+        "locality": "VIL1"
+    },
+    {
+        "name": "Kukurmunda",
+        "active": true,
+        "code": "PTSL022",
+        "locality": "VIL1"
+    }]
+}

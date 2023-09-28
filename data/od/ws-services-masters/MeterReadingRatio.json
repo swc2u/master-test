@@ -1,0 +1,26 @@
+{
+  "tenantId": "od",
+  "moduleName": "ws-services-masters",
+  "MeterReadingRatio": [
+    {
+      "id": 1,
+      "code": "1:1",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "1:5",
+      "active": true
+    },
+    {
+      "id": 3,
+      "code": "1:10",
+      "active": true
+    },
+    {
+      "id": 4,
+      "code": "1:100",
+      "active": true
+    }
+  ]
+}

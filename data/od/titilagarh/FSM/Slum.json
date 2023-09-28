@@ -1,0 +1,228 @@
+{
+    "tenantId": "od.titilagarh",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Titidunguri",
+            "active": true,
+            "code": "TITI001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Teneri silpada",
+            "active": true,
+            "code": "TITI002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "New Teneri silpada",
+            "active": true,
+            "code": "TITI003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Silpada",
+            "active": true,
+            "code": "TITI004",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Madanjal Chowk",
+            "active": true,
+            "code": "TITI005",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Chamara pada",
+            "active": true,
+            "code": "TITI006",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Ashok nagar",
+            "active": true,
+            "code": "TITI007",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Swdhin pada",
+            "active": true,
+            "code": "TITI008",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nehuru nagar",
+            "active": true,
+            "code": "TITI009",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Harijan Pada",
+            "active": true,
+            "code": "TITI010",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Adibasi Pada",
+            "active": true,
+            "code": "TITI011",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Titidunguri Pada",
+            "active": true,
+            "code": "TITI012",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Kindan gali",
+            "active": true,
+            "code": "TITI013",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Mausi Maa Mandir",
+            "active": true,
+            "code": "TITI014",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jagannath Pada",
+            "active": true,
+            "code": "TITI015",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Thikadar Pada",
+            "active": true,
+            "code": "TITI016",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Nilachkarara Pada",
+            "active": true,
+            "code": "TITI017",
+            "locality": "VIL1"
+        },
+        {
+            "name": "High School Pada",
+            "active": true,
+            "code": "TITI018",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Girls Highschool Pada",
+            "active": true,
+            "code": "TITI019",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Wirehouse Pada",
+            "active": true,
+            "code": "TITI020",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sirbhta Pada",
+            "active": true,
+            "code": "TITI021",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Block pada",
+            "active": true,
+            "code": "TITI022",
+            "locality": "VIL1"
+        },
+        {
+            "name": "old Tennery pada",
+            "active": true,
+            "code": "TITI023",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Gouda pada",
+            "active": true,
+            "code": "TITI024",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jhankar Pada",
+            "active": true,
+            "code": "TITI025",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Padasmanabha Pada",
+            "active": true,
+            "code": "TITI026",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Masjid Pada",
+            "active": true,
+            "code": "TITI027",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Rammandir Pada",
+            "active": true,
+            "code": "TITI028",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Sweeper pada",
+            "active": true,
+            "code": "TITI029",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Deobandha Pada",
+            "active": true,
+            "code": "TITI030",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Deobandha Pada 2",
+            "active": true,
+            "code": "TITI031",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tangara Pada",
+            "active": true,
+            "code": "TITI032",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Tangra pada 2",
+            "active": true,
+            "code": "TITI033",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Amanbandha Pada",
+            "active": true,
+            "code": "TITI034",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Deabanbandha Pada",
+            "active": true,
+            "code": "TITI035",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Check gate pada",
+            "active": true,
+            "code": "TITI036",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Bahidar Pada",
+            "active": true,
+            "code": "TITI037",
+            "locality": "VIL1"
+        }
+    ]
+}

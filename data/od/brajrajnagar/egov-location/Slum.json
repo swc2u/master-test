@@ -1,0 +1,475 @@
+{
+    "tenantId": "od.brajrajnagar",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Stadium Pada ",
+            "ward": "01",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Adibasi Colony",
+            "ward": "01",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Ramgarh",
+            "ward": "02",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "ThurSDAy Market Pada",
+            "ward": "02",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Ghasiapada",
+            "ward": "03",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Budhijam Mundapada",
+            "ward": "03",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Near Orient School Budhijampada",
+            "ward": "03",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Abhaypur",
+            "ward": "03",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Abhaypur Mundapada",
+            "ward": "03",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Ganga Nagar",
+            "ward": "04",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Lajkura",
+            "ward": "05",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Thakurpada",
+            "ward": "05",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Fatakpada",
+            "ward": "05",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Kultapada Kumbharpada",
+            "ward": "05",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Rampur Harijanpada,Itavata",
+            "ward": "06",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Bhoipada",
+            "ward": "06",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Binasipada",
+            "ward": "06",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Punjabidhouda",
+            "ward": "06",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Kartikpada",
+            "ward": "07",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Loharpada",
+            "ward": "07",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Rohidaspada",
+            "ward": "07",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Baidhapada",
+            "ward": "08",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Katabaga",
+            "ward": "08",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Ratakhandi",
+            "ward": "08",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Tangarghat Biswalpada",
+            "ward": "08",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Station Pada",
+            "ward": "09",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Malikram Dhouda",
+            "ward": "09",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Mandirpada",
+            "ward": "09",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Bahadurpada",
+            "ward": "10",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Tinaline",
+            "ward": "10",
+            "code": "SLM30",
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "Bus Stand Pada",
+            "ward": "10",
+            "code": "SLM31",
+            "isActive": true
+        },
+        {
+            "id": 32,
+            "name": "Dhobipada",
+            "ward": "10",
+            "code": "SLM32",
+            "isActive": true
+        },
+        {
+            "id": 33,
+            "name": "Ghasibari Nuapada",
+            "ward": "12",
+            "code": "SLM33",
+            "isActive": true
+        },
+        {
+            "id": 34,
+            "name": "Gayatrinagar Churchpada",
+            "ward": "12",
+            "code": "SLM34",
+            "isActive": true
+        },
+        {
+            "id": 35,
+            "name": "Bugudapada",
+            "ward": "12",
+            "code": "SLM35",
+            "isActive": true
+        },
+        {
+            "id": 36,
+            "name": "Lamtibahal Gwalpada",
+            "ward": "12",
+            "code": "SLM36",
+            "isActive": true
+        },
+        {
+            "id": 37,
+            "name": "Lamtibahal Nuapada",
+            "ward": "12",
+            "code": "SLM37",
+            "isActive": true
+        },
+        {
+            "id": 38,
+            "name": "Hanuman Nagar",
+            "ward": "13",
+            "code": "SLM38",
+            "isActive": true
+        },
+        {
+            "id": 39,
+            "name": "Madhuban Nagar",
+            "ward": "13",
+            "code": "SLM39",
+            "isActive": true
+        },
+        {
+            "id": 40,
+            "name": "Sanjobe",
+            "ward": "13",
+            "code": "SLM40",
+            "isActive": true
+        },
+        {
+            "id": 41,
+            "name": "Dhauda Mundapada",
+            "ward": "14",
+            "code": "SLM41",
+            "isActive": true
+        },
+        {
+            "id": 42,
+            "name": "Ittavata",
+            "ward": "16",
+            "code": "SLM42",
+            "isActive": true
+        },
+        {
+            "id": 43,
+            "name": "Old Chunabhata",
+            "ward": "16",
+            "code": "SLM43",
+            "isActive": true
+        },
+        {
+            "id": 44,
+            "name": "Esi Nuapada",
+            "ward": "17",
+            "code": "SLM44",
+            "isActive": true
+        },
+        {
+            "id": 45,
+            "name": "Hariom Bihar Part 1",
+            "ward": "17",
+            "code": "SLM45",
+            "isActive": true
+        },
+        {
+            "id": 46,
+            "name": "Hariom Bihar Part 2",
+            "ward": "17",
+            "code": "SLM46",
+            "isActive": true
+        },
+        {
+            "id": 47,
+            "name": "Birapada",
+            "ward": "17",
+            "code": "SLM47",
+            "isActive": true
+        },
+        {
+            "id": 48,
+            "name": "Sastrinagar Gajapati Nagar",
+            "ward": "17",
+            "code": "SLM48",
+            "isActive": true
+        },
+        {
+            "id": 49,
+            "name": "Sahupada",
+            "ward": "18",
+            "code": "SLM49",
+            "isActive": true
+        },
+        {
+            "id": 50,
+            "name": "Khanpada",
+            "ward": "18",
+            "code": "SLM50",
+            "isActive": true
+        },
+        {
+            "id": 51,
+            "name": "Sastrinagar 1",
+            "ward": "19",
+            "code": "SLM51",
+            "isActive": true
+        },
+        {
+            "id": 52,
+            "name": "Sastrinagar 2",
+            "ward": "19",
+            "code": "SLM52",
+            "isActive": true
+        },
+        {
+            "id": 53,
+            "name": "Ganesh Nagar",
+            "ward": "19",
+            "code": "SLM53",
+            "isActive": true
+        },
+        {
+            "id": 54,
+            "name": "Remja",
+            "ward": "20",
+            "code": "SLM54",
+            "isActive": true
+        },
+        {
+            "id": 55,
+            "name": "College Pada",
+            "ward": "20",
+            "code": "SLM55",
+            "isActive": true
+        },
+        {
+            "id": 56,
+            "name": "Power Housepada",
+            "ward": "20",
+            "code": "SLM56",
+            "isActive": true
+        },
+        {
+            "id": 57,
+            "name": "Leprocy Pada",
+            "ward": "20",
+            "code": "SLM57",
+            "isActive": true
+        },
+        {
+            "id": 58,
+            "name": "Nuadihi",
+            "ward": "22",
+            "code": "SLM58",
+            "isActive": true
+        },
+        {
+            "id": 59,
+            "name": "Gandhichawk ",
+            "ward": "22",
+            "code": "SLM59",
+            "isActive": true
+        },
+        {
+            "id": 60,
+            "name": "9Th Incline Pada",
+            "ward": "22",
+            "code": "SLM60",
+            "isActive": true
+        },
+        {
+            "id": 61,
+            "name": "Gandhi Chhak Gandhi Chhack Petrole Pump Back Side Pada",
+            "ward": "22",
+            "code": "SLM61",
+            "isActive": true
+        },
+        {
+            "id": 62,
+            "name": "Khadiapada",
+            "ward": "22",
+            "code": "SLM62",
+            "isActive": true
+        },
+        {
+            "id": 63,
+            "name": "Kusamunda Kishanpada",
+            "ward": "22",
+            "code": "SLM63",
+            "isActive": true
+        },
+        {
+            "id": 64,
+            "name": "Khaliamal",
+            "ward": "22",
+            "code": "SLM64",
+            "isActive": true
+        },
+        {
+            "id": 65,
+            "name": "Khaliakani",
+            "ward": "23",
+            "code": "SLM65",
+            "isActive": true
+        },
+        {
+            "id": 66,
+            "name": "Badheikanta Road Side",
+            "ward": "23",
+            "code": "SLM66",
+            "isActive": true
+        },
+        {
+            "id": 67,
+            "name": "Old Gonda Ghora",
+            "ward": "23",
+            "code": "SLM67",
+            "isActive": true
+        }
+    ]
+}

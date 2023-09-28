@@ -1,0 +1,30 @@
+{
+    "tenantId": "od.odagaon",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Jaringi New Sahi",
+            "active": true,
+            "code": "ODAG001",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Jaringi kalyan Sahi",
+            "active": true,
+            "code": "ODAG002",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Dalak kalyani Sahi",
+            "active": true,
+            "code": "ODAG003",
+            "locality": "VIL1"
+        },
+        {
+            "name": "Puruna Jaringi",
+            "active": true,
+            "code": "ODAG004",
+            "locality": "VIL1"
+        }
+    ]
+}

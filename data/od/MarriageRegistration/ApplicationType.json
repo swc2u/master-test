@@ -1,0 +1,14 @@
+{
+    "tenantId": "od",
+    "moduleName": "MarriageRegistration",
+    "ApplicationType": [
+        {
+            "code": "APPLICATIONTYPE.NEW",
+            "active": true
+        },
+        {
+            "code": "APPLICATIONTYPE.CORRECTION",
+            "active": true
+        }
+    ]
+}

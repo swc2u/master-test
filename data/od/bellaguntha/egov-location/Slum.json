@@ -1,0 +1,27 @@
+{
+    "tenantId": "od.bellaguntha",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Mediri Sahi",
+            "ward": "05",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Harijan Sahi",
+            "ward": "05",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Bhagabat Patna",
+            "ward": "12",
+            "code": "SLM3",
+            "isActive": true
+        }
+    ]
+}

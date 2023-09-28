@@ -1,0 +1,34 @@
+{
+    "tenantId": "od.baguda",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Shakti Nagar Main Road",
+            "ward": "02",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Byghradebi Sahi",
+            "ward": "12",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Mochi Sahi",
+            "ward": "04",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Shakti Nagar Hadi Sahi",
+            "ward": "02",
+            "code": "SLM4",
+            "isActive": true
+        }
+    ]
+}

@@ -1,0 +1,743 @@
+{
+  "tenantId": "od.balangir",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Balangir",
+        "localname": "Balangir",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.balangir",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bijakhaman",
+            "localname": "Bijakhaman",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Larkipalli",
+            "localname": "Larkipalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Salepalli",
+            "localname": "Salepalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Bishnumunda",
+            "localname": "Bishnumunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Balangir Ka",
+            "localname": "Balangir Ka",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Balangir Kha",
+            "localname": "Balangir Kha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Balangir Ga",
+            "localname": "Balangir Ga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          },
+		  {
+            "id": "9",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL8"
+          },
+          {
+            "id": "10",
+            "boundaryNum": 1,
+            "name": "Baidipali",
+            "localname": "Baidipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG1",
+            "children": []
+          },
+          {
+            "id": "11",
+            "boundaryNum": 1,
+            "name": "Chandanbhati",
+            "localname": "Chandanbhati",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG2",
+            "children": []
+          },
+          {
+            "id": "12",
+            "boundaryNum": 1,
+            "name": "Khujenpali",
+            "localname": "Khujenpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG3",
+            "children": []
+          },
+          {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Madhiapali",
+            "localname": "Madhiapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG4",
+            "children": []
+          },
+          {
+            "id": "14",
+            "boundaryNum": 1,
+            "name": "Mirdhapali",
+            "localname": "Mirdhapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG5",
+            "children": []
+          },
+          {
+            "id": "15",
+            "boundaryNum": 1,
+            "name": "Sadeipali",
+            "localname": "Sadeipali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG6",
+            "children": []
+          },
+          {
+            "id": "16",
+            "boundaryNum": 1,
+            "name": "Barkani",
+            "localname": "Barkani",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG7",
+            "children": []
+          },
+          {
+            "id": "17",
+            "boundaryNum": 1,
+            "name": "Bidighat",
+            "localname": "Bidighat",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG8",
+            "children": []
+          },
+          {
+            "id": "18",
+            "boundaryNum": 1,
+            "name": "Jhankarpali",
+            "localname": "Jhankarpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG9",
+            "children": []
+          },
+          {
+            "id": "19",
+            "boundaryNum": 1,
+            "name": "Sakma",
+            "localname": "Sakma",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG10",
+            "children": []
+          },
+          {
+            "id": "20",
+            "boundaryNum": 1,
+            "name": "Barapudgia",
+            "localname": "Barapudgia",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG11",
+            "children": []
+          },
+          {
+            "id": "21",
+            "boundaryNum": 1,
+            "name": "Chikalbahal",
+            "localname": "Chikalbahal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG12",
+            "children": []
+          },
+          {
+            "id": "22",
+            "boundaryNum": 1,
+            "name": "Khaliapali",
+            "localname": "Khaliapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG13",
+            "children": []
+          },
+          {
+            "id": "23",
+            "boundaryNum": 1,
+            "name": "Khuntpali",
+            "localname": "Khuntpali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG14",
+            "children": []
+          },
+          {
+            "id": "24",
+            "boundaryNum": 1,
+            "name": "Kudasingha",
+            "localname": "Kudasingha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG15",
+            "children": []
+          },
+          {
+            "id": "25",
+            "boundaryNum": 1,
+            "name": "Kutumdola",
+            "localname": "Kutumdola",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG16",
+            "children": []
+          },
+          {
+            "id": "26",
+            "boundaryNum": 1,
+            "name": "Manhira",
+            "localname": "Manhira",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG17",
+            "children": []
+          },
+          {
+            "id": "27",
+            "boundaryNum": 1,
+            "name": "Sikachhida",
+            "localname": "Sikachhida",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG18",
+            "children": []
+          },
+          {
+            "id": "28",
+            "boundaryNum": 1,
+            "name": "Ainlasari",
+            "localname": "Ainlasari",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG19",
+            "children": []
+          },
+          {
+            "id": "29",
+            "boundaryNum": 1,
+            "name": "Atgaon",
+            "localname": "Atgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG20",
+            "children": []
+          },
+          {
+            "id": "30",
+            "boundaryNum": 1,
+            "name": "Bhaler",
+            "localname": "Bhaler",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG21",
+            "children": []
+          },
+          {
+            "id": "31",
+            "boundaryNum": 1,
+            "name": "Chhatamakhna",
+            "localname": "Chhatamakhna",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG22",
+            "children": []
+          },
+          {
+            "id": "32",
+            "boundaryNum": 1,
+            "name": "Gaintala",
+            "localname": "Gaintala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG23",
+            "children": []
+          },
+          {
+            "id": "33",
+            "boundaryNum": 1,
+            "name": "Kurul",
+            "localname": "Kurul",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG24",
+            "children": []
+          },
+          {
+            "id": "34",
+            "boundaryNum": 1,
+            "name": "Malmunda",
+            "localname": "Malmunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG25",
+            "children": []
+          },
+          {
+            "id": "35",
+            "boundaryNum": 1,
+            "name": "Puintala",
+            "localname": "Puintala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG26",
+            "children": []
+          },
+          {
+            "id": "36",
+            "boundaryNum": 1,
+            "name": "Randa",
+            "localname": "Randa",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG27",
+            "children": []
+          },
+          {
+            "id": "37",
+            "boundaryNum": 1,
+            "name": "Sauntpur",
+            "localname": "Sauntpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG28",
+            "children": []
+          },
+          {
+            "id": "38",
+            "boundaryNum": 1,
+            "name": "Bubel",
+            "localname": "Bubel",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG29",
+            "children": []
+          },
+          {
+            "id": "39",
+            "boundaryNum": 1,
+            "name": "Durgapali",
+            "localname": "Durgapali",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG30",
+            "children": []
+          },
+          {
+            "id": "40",
+            "boundaryNum": 1,
+            "name": "Mahimunda",
+            "localname": "Mahimunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG31",
+            "children": []
+          },
+          {
+            "id": "41",
+            "boundaryNum": 1,
+            "name": "Pipirda",
+            "localname": "Pipirda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG32",
+            "children": []
+          },
+          {
+            "id": "42",
+            "boundaryNum": 1,
+            "name": "Ankiriapadar",
+            "localname": "Ankiriapadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG33",
+            "children": []
+          },
+          {
+            "id": "43",
+            "boundaryNum": 1,
+            "name": "Bahalpadar",
+            "localname": "Bahalpadar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG34",
+            "children": []
+          },
+          {
+            "id": "44",
+            "boundaryNum": 1,
+            "name": "Bileisarda",
+            "localname": "Bileisarda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG35",
+            "children": []
+          },
+          {
+            "id": "45",
+            "boundaryNum": 1,
+            "name": "Chhatapipal",
+            "localname": "Chhatapipal",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG36",
+            "children": []
+          },
+          {
+            "id": "46",
+            "boundaryNum": 1,
+            "name": "Duspur",
+            "localname": "Duspur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG37",
+            "children": []
+          },
+          {
+            "id": "47",
+            "boundaryNum": 1,
+            "name": "Jamgaon",
+            "localname": "Jamgaon",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG38",
+            "children": []
+          },
+          {
+            "id": "48",
+            "boundaryNum": 1,
+            "name": "Patharala",
+            "localname": "Patharala",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG39",
+            "children": []
+          },
+          {
+            "id": "49",
+            "boundaryNum": 1,
+            "name": "Kusmel",
+            "localname": "Kusmel",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG40",
+            "children": []
+          },
+          {
+            "id": "50",
+            "boundaryNum": 1,
+            "name": "Burda",
+            "localname": "Burda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG41",
+            "children": []
+          },
+          {
+            "id": "51",
+            "boundaryNum": 1,
+            "name": "Hirapur",
+            "localname": "Hirapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG42",
+            "children": []
+          },
+          {
+            "id": "52",
+            "boundaryNum": 1,
+            "name": "Kusang",
+            "localname": "Kusang",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG43",
+            "children": []
+          },
+          {
+            "id": "53",
+            "boundaryNum": 1,
+            "name": "Loisingha",
+            "localname": "Loisingha",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG44",
+            "children": []
+          },
+          {
+            "id": "54",
+            "boundaryNum": 1,
+            "name": "Magurbeda",
+            "localname": "Magurbeda",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG45",
+            "children": []
+          },
+          {
+            "id": "55",
+            "boundaryNum": 1,
+            "name": "Taliudar",
+            "localname": "Taliudar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG46",
+            "children": []
+          },
+          {
+            "id": "56",
+            "boundaryNum": 1,
+            "name": "Makundpur",
+            "localname": "Makundpur",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG47",
+            "children": []
+          },
+          {
+            "id": "57",
+            "boundaryNum": 1,
+            "name": "Udar",
+            "localname": "Udar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG48",
+            "children": []
+          },
+          {
+            "id": "58",
+            "boundaryNum": 1,
+            "name": "Uparjhar",
+            "localname": "Uparjhar",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG49",
+            "children": []
+          },
+          {
+            "id": "59",
+            "boundaryNum": 1,
+            "name": "Other",
+            "localname": "Other",
+            "longitude": null,
+            "latitude": null,
+            "label": "GP",
+            "code": "BLG50",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Balangir",
+        "localname": "Balangir",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "od.balangir",
+        "children": [
+          {
+            "id": "2",
+            "boundaryNum": 1,
+            "name": "Bijakhaman",
+            "localname": "Bijakhaman",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL1"
+          },
+          {
+            "id": "3",
+            "boundaryNum": 1,
+            "name": "Larkipalli",
+            "localname": "Larkipalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL2"
+          },
+          {
+            "id": "4",
+            "boundaryNum": 1,
+            "name": "Salepalli",
+            "localname": "Salepalli",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL3"
+          },
+          {
+            "id": "5",
+            "boundaryNum": 1,
+            "name": "Bishnumunda",
+            "localname": "Bishnumunda",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL4"
+          },
+          {
+            "id": "6",
+            "boundaryNum": 1,
+            "name": "Balangir Ka",
+            "localname": "Balangir Ka",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL5"
+          },
+          {
+            "id": "7",
+            "boundaryNum": 1,
+            "name": "Balangir Kha",
+            "localname": "Balangir Kha",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL6"
+          },
+          {
+            "id": "8",
+            "boundaryNum": 1,
+            "name": "Balangir Ga",
+            "localname": "Balangir Ga",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL7"
+          }
+          
+        ]
+      }
+    }
+  ]
+}

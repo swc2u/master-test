@@ -1,0 +1,370 @@
+{
+    "tenantId": "od.puri",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Dhoba Sahi",
+            "ward": "25",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Tridev Nagar",
+            "ward": "05",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Balimochi Sahi",
+            "ward": "10",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Bali Nolia Sahi",
+            "ward": "11",
+            "code": "SLM4",
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Banki Muhana Nala Basti",
+            "ward": "19",
+            "code": "SLM5",
+            "isActive": true
+        },
+        {
+            "id": 6,
+            "name": "Bnki Muhana Nua Sahi",
+            "ward": "19",
+            "code": "SLM6",
+            "isActive": true
+        },
+        {
+            "id": 7,
+            "name": "Bankimuhan VIP Road Basti",
+            "ward": "19",
+            "code": "SLM7",
+            "isActive": true
+        },
+        {
+            "id": 8,
+            "name": "Binoba nagar",
+            "ward": "30",
+            "code": "SLM8",
+            "isActive": true
+        },
+        {
+            "id": 9,
+            "name": "Chakrathirth Nua Sahi",
+            "ward": "26",
+            "code": "SLM9",
+            "isActive": true
+        },
+        {
+            "id": 10,
+            "name": "Chamara sahi",
+            "ward": "30",
+            "code": "SLM10",
+            "isActive": true
+        },
+        {
+            "id": 11,
+            "name": "Gora Kabar",
+            "ward": "25",
+            "code": "SLM11",
+            "isActive": true
+        },
+        {
+            "id": 12,
+            "name": "Jagannath basti",
+            "ward": "01",
+            "code": "SLM12",
+            "isActive": true
+        },
+        {
+            "id": 13,
+            "name": "Jali Sahi A (Telugu Sahi)",
+            "ward": "25",
+            "code": "SLM13",
+            "isActive": true
+        },
+        {
+            "id": 14,
+            "name": "Mangala sahi (NS Depot)",
+            "ward": "21,01,",
+            "code": "SLM14",
+            "isActive": true
+        },
+        {
+            "id": 15,
+            "name": "Narendrakona Harijan Basti",
+            "ward": "21",
+            "code": "SLM15",
+            "isActive": true
+        },
+        {
+            "id": 16,
+            "name": "Sahajoga Sahi",
+            "ward": "25",
+            "code": "SLM16",
+            "isActive": true
+        },
+        {
+            "id": 17,
+            "name": "Youth Hostel Back side",
+            "ward": "25",
+            "code": "SLM17",
+            "isActive": true
+        },
+        {
+            "id": 18,
+            "name": "Penthakata A",
+            "ward": "26,27,",
+            "code": "SLM18",
+            "isActive": true
+        },
+        {
+            "id": 19,
+            "name": "Matitota",
+            "ward": "01",
+            "code": "SLM19",
+            "isActive": true
+        },
+        {
+            "id": 20,
+            "name": "Markandeswara Sahi Harijan Basti",
+            "ward": "01,02,",
+            "code": "SLM20",
+            "isActive": true
+        },
+        {
+            "id": 21,
+            "name": "Para Nolia Sahi",
+            "ward": "06",
+            "code": "SLM21",
+            "isActive": true
+        },
+        {
+            "id": 22,
+            "name": "Mangala Sahi",
+            "ward": "25",
+            "code": "SLM22",
+            "isActive": true
+        },
+        {
+            "id": 23,
+            "name": "Bijayananda Nagar",
+            "ward": "27",
+            "code": "SLM23",
+            "isActive": true
+        },
+        {
+            "id": 24,
+            "name": "Bali Harijan Sahi",
+            "ward": "09,10,11,",
+            "code": "SLM24",
+            "isActive": true
+        },
+        {
+            "id": 25,
+            "name": "Gopabandhu Colony",
+            "ward": "21",
+            "code": "SLM25",
+            "isActive": true
+        },
+        {
+            "id": 26,
+            "name": "Akshya Dham Basti",
+            "ward": "08",
+            "code": "SLM26",
+            "isActive": true
+        },
+        {
+            "id": 27,
+            "name": "Gola Pucca Basti",
+            "ward": "20",
+            "code": "SLM27",
+            "isActive": true
+        },
+        {
+            "id": 28,
+            "name": "Ramchandi Balikuda",
+            "ward": "23",
+            "code": "SLM28",
+            "isActive": true
+        },
+        {
+            "id": 29,
+            "name": "Mahabir Nagar",
+            "ward": "27",
+            "code": "SLM29",
+            "isActive": true
+        },
+        {
+            "id": 30,
+            "name": "Matiapara",
+            "ward": "28,29,30,",
+            "code": "SLM30",
+            "isActive": true
+        },
+        {
+            "id": 31,
+            "name": "Indiramarg Colony",
+            "ward": "14",
+            "code": "SLM31",
+            "isActive": true
+        },
+        {
+            "id": 32,
+            "name": "Leprocy Colony",
+            "ward": "05",
+            "code": "SLM32",
+            "isActive": true
+        },
+        {
+            "id": 33,
+            "name": "Goranga Khuntia Basti",
+            "ward": "06",
+            "code": "SLM33",
+            "isActive": true
+        },
+        {
+            "id": 34,
+            "name": "Panchabati Sriram Nagar",
+            "ward": "06",
+            "code": "SLM34",
+            "isActive": true
+        },
+        {
+            "id": 35,
+            "name": "Jali Sahi (B) Ram Mandir",
+            "ward": "27",
+            "code": "SLM35",
+            "isActive": true
+        },
+        {
+            "id": 36,
+            "name": "Bhagabati Nagar",
+            "ward": "05",
+            "code": "SLM36",
+            "isActive": true
+        },
+        {
+            "id": 37,
+            "name": "Ghoada Bazar",
+            "ward": "24",
+            "code": "SLM37",
+            "isActive": true
+        },
+        {
+            "id": 38,
+            "name": "Railway Adibasi Basti",
+            "ward": "27",
+            "code": "SLM38",
+            "isActive": true
+        },
+        {
+            "id": 39,
+            "name": "Rama Ballabha Colony",
+            "ward": "14",
+            "code": "SLM39",
+            "isActive": true
+        },
+        {
+            "id": 40,
+            "name": "Mangala Patna",
+            "ward": "31",
+            "code": "SLM40",
+            "isActive": true
+        },
+        {
+            "id": 41,
+            "name": "Gokha Sahi",
+            "ward": "01",
+            "code": "SLM41",
+            "isActive": true
+        },
+        {
+            "id": 42,
+            "name": "Manibaba colony",
+            "ward": "25",
+            "code": "SLM42",
+            "isActive": true
+        },
+        {
+            "id": 43,
+            "name": "Masanichandi",
+            "ward": "01",
+            "code": "SLM43",
+            "isActive": true
+        },
+        {
+            "id": 44,
+            "name": "Penthakota B",
+            "ward": "26,27,",
+            "code": "SLM44",
+            "isActive": true
+        },
+        {
+            "id": 45,
+            "name": "Zilla School Front",
+            "ward": "19",
+            "code": "SLM45",
+            "isActive": true
+        },
+        {
+            "id": 46,
+            "name": "Gouda Bada Malik Sahi",
+            "ward": "07",
+            "code": "SLM46",
+            "isActive": true
+        },
+        {
+            "id": 47,
+            "name": "Khuntia Bagicha Bhoi Basti",
+            "ward": "01",
+            "code": "SLM47",
+            "isActive": true
+        },
+        {
+            "id": 48,
+            "name": "Maheswar Nagar",
+            "ward": "07",
+            "code": "SLM48",
+            "isActive": true
+        },
+        {
+            "id": 49,
+            "name": "Gangamata Bhoi Sahi",
+            "ward": "29",
+            "code": "SLM49",
+            "isActive": true
+        },
+        {
+            "id": 50,
+            "name": "BaliaPanda(Bijaya Nagar)",
+            "ward": "07",
+            "code": "SLM50",
+            "isActive": true
+        },
+        {
+            "id": 51,
+            "name": "Mangala Ghat",
+            "ward": "01",
+            "code": "SLM51",
+            "isActive": true
+        },
+        {
+            "id": 52,
+            "name": "KUMBHARAPADA",
+            "ward": "21,22,",
+            "code": "SLM52",
+            "isActive": true
+        }
+    ]
+}

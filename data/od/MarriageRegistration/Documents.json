@@ -1,0 +1,106 @@
+{
+    "tenantId": "od",
+    "moduleName": "MarriageRegistration",
+    "Documents": [
+        {
+            "code": "IDPROOF",
+            "documentType": "IDPROOF",
+            "required": true,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "VOTERID",
+                    "active": true
+                },
+                {
+                    "code": "DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "DRIVING",
+                    "active": true
+                },
+                {
+                    "code": "PAN",
+                    "active": true
+                },
+                {
+                    "code": "PASSPORT",
+                    "active": true
+                }				
+            ],
+            "description": "IDPROOF.IDPROOF_DESCRIPTION"
+        },
+        {
+            "code": "RESIDENTIALPROOF",
+            "documentType": "RESIDENTIALPROOF",
+            "required": true,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "HOLDINGTAXRECEIPT",
+                    "active": true
+                }				
+            ],
+            "description": "RESIDENTIALPROOF.RESIDENTIALPROOF_DESCRIPTION"
+        },		
+        {
+            "code": "INVITATIONCARD",
+            "documentType": "INVITATIONCARD",
+            "required": true,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "INVITATIONCARD",
+                    "active": true
+                }				
+            ],
+            "description": "INVITATIONCARD.INVITATIONCARD_DESCRIPTION"
+        },
+        {
+            "code": "DIVYANGPROOF",
+            "documentType": "DIVYANGPROOF",
+            "required": false,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "DIVYANGPROOF",
+                    "active": true
+                }				
+            ],
+            "description": "DIVYANGPROOF.DIVYANGPROOF_DESCRIPTION"
+        },
+        {
+            "code": "JOINTPHOTO",
+            "documentType": "JOINTPHOTO",
+            "required": true,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "JOINTPHOTO",
+                    "active": true
+                }				
+            ],
+            "description": "JOINTPHOTO.JOINTPHOTO_DESCRIPTION"
+        },
+        {
+            "code": "JOINTAFFIDAVIT",
+            "documentType": "JOINTAFFIDAVIT",
+            "required": true,
+            "active": true,
+            "hasDropdown": true,
+            "dropdownData": [
+                {
+                    "code": "JOINTAFFIDAVIT",
+                    "active": true
+                }				
+            ],
+            "description": "JOINTAFFIDAVIT.JOINTAFFIDAVIT_DESCRIPTION"
+        }		
+    ]
+}

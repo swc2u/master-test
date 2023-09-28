@@ -1,0 +1,1987 @@
+{
+    "tenantId": "od",
+    "moduleName": "sr-services-master",
+    "ServiceType": [
+        {
+            "name": "Architect/Technical Person Registration",
+            "code": "ARCH_TECH_REG",
+            "active": true,
+            "service": "OBPAS",
+            "ServiceType": null
+        },
+        {
+            "name": "Application Creation related",
+            "code": "ARCH_TECH_REG.SR1",
+            "active": true,
+            "service": "OBPAS",
+            "ServiceType": "ARCH_TECH_REG"
+        },
+        {
+            "name": "Document Upload related",
+            "code": "ARCH_TECH_REG.SR2",
+            "active": true,
+            "service": "OBPAS",
+            "ServiceType": "ARCH_TECH_REG"
+        },
+        {
+            "name": "Application submission related",
+            "code": "ARCH_TECH_REG.SR3",
+            "active": true,
+            "service": "OBPAS",
+            "ServiceType": "ARCH_TECH_REG"
+        },
+        {
+            "name": "Registration Renewal related",
+            "code": "ARCH_TECH_REG.SR4",
+            "active": true,
+            "service": "OBPAS",
+            "ServiceType": "ARCH_TECH_REG"
+        },
+        {
+            "name": "Any other issue",
+            "code": "ARCH_TECH_REG.SR5",
+            "active": true,
+            "service": "OBPAS",
+            "ServiceType": "ARCH_TECH_REG"
+        },
+        {
+            "name": "Building Permit - New Construction",
+            "code": "BUILD_PRMT_NEW",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": null
+        },
+        {
+            "name": "OBPAS Drawing creation related",
+            "code": "BUILD_PRMT_NEW.SR1",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Drawing Auto scrutiny related",
+            "code": "BUILD_PRMT_NEW.SR2",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Application creation related",
+            "code": "BUILD_PRMT_NEW.SR3",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Citizen Approval related",
+            "code": "BUILD_PRMT_NEW.SR4",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Fee Calculation related",
+            "code": "BUILD_PRMT_NEW.SR5",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Payment related",
+            "code": "BUILD_PRMT_NEW.SR6",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Send Back to Citizen related",
+            "code": "BUILD_PRMT_NEW.SR7",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Drawing Correction/Rework related",
+            "code": "BUILD_PRMT_NEW.SR8",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Show Cause Notice Related",
+            "code": "BUILD_PRMT_NEW.SR9",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Application Auto Escalation related (Department officials)",
+            "code": "BUILD_PRMT_NEW.SR10",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Application Processing related",
+            "code": "BUILD_PRMT_NEW.SR11",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Permit letter related",
+            "code": "BUILD_PRMT_NEW.SR12",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Building Plan Layout related",
+            "code": "BUILD_PRMT_NEW.SR13",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Digitally Signature related",
+            "code": "BUILD_PRMT_NEW.SR14",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "NOC related",
+            "code": "BUILD_PRMT_NEW.SR15",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "GIS related",
+            "code": "BUILD_PRMT_NEW.SR16",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Any other issue",
+            "code": "BUILD_PRMT_NEW.SR17",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_NEW"
+        },
+        {
+            "name": "Building Permit - Addition & Alteration",
+            "code": "BUILD_PRMT_ALT",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": null
+        },
+        {
+            "name": "OBPAS Drawing creation related",
+            "code": "BUILD_PRMT_ALT.SR1",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Drawing Auto scrutiny related",
+            "code": "BUILD_PRMT_ALT.SR2",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Application creation related",
+            "code": "BUILD_PRMT_ALT.SR3",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Citizen Approval related",
+            "code": "BUILD_PRMT_ALT.SR4",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Fee Calculation related",
+            "code": "BUILD_PRMT_ALT.SR5",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Payment related",
+            "code": "BUILD_PRMT_ALT.SR6",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Send Back to Citizen related",
+            "code": "BUILD_PRMT_ALT.SR7",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Drawing Correction/Rework related",
+            "code": "BUILD_PRMT_ALT.SR8",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Show Cause Notice Related",
+            "code": "BUILD_PRMT_ALT.SR9",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Application Auto Escalation related (Department officials)",
+            "code": "BUILD_PRMT_ALT.SR10",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Application Processing related",
+            "code": "BUILD_PRMT_ALT.SR11",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Permit letter related",
+            "code": "BUILD_PRMT_ALT.SR12",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Building Plan Layout related",
+            "code": "BUILD_PRMT_ALT.SR13",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Digitally Signature related",
+            "code": "BUILD_PRMT_ALT.SR14",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "NOC related",
+            "code": "BUILD_PRMT_ALT.SR15",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "GIS related",
+            "code": "BUILD_PRMT_ALT.SR16",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Any other issue",
+            "code": "BUILD_PRMT_ALT.SR17",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BUILD_PRMT_ALT"
+        },
+        {
+            "name": "Building Permit - Accredited Person",
+            "code": "BPA5",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": null
+        },
+        {
+            "name": "Assigning Accredited Person related",
+            "code": "BPA5.SR1",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Application not showing to Accredited Person",
+            "code": "BPA5.SR2",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Field Inspection by Accredited person related",
+            "code": "BPA5.SR3",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Drawing Auto scrutiny related",
+            "code": "BPA5.SR4",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Application creation related",
+            "code": "BPA5.SR5",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Payment related",
+            "code": "BPA5.SR6",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Send Back to Citizen related",
+            "code": "BPA5.SR7",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Application Processing related",
+            "code": "BPA5.SR8",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Permit letter related",
+            "code": "BPA5.SR9",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Building Plan Layout related",
+            "code": "BPA5.SR10",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Digitally Signature related",
+            "code": "BPA5.SR11",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Any other issue",
+            "code": "BPA5.SR12",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA5"
+        },
+        {
+            "name": "Building Permit - Pre Approved Plans",
+            "code": "BPA6",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": null
+        },
+        {
+            "name": "Pre Approved Plans selection related",
+            "code": "BPA6.SR1",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA6"
+        },
+        {
+            "name": "Pre Approved Plans creation related",
+            "code": "BPA6.SR2",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA6"
+        },
+        {
+            "name": "Application creation related",
+            "code": "BPA6.SR3",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA6"
+        },
+        {
+            "name": "Payment related",
+            "code": "BPA6.SR4",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA6"
+        },
+        {
+            "name": "Send Back to Citizen related",
+            "code": "BPA6.SR5",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA6"
+        },
+        {
+            "name": "Application Processing related",
+            "code": "BPA6.SR6",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA6"
+        },
+        {
+            "name": "Permit letter related",
+            "code": "BPA6.SR7",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA6"
+        },
+        {
+            "name": "Building Plan Layout related",
+            "code": "BPA6.SR8",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA6"
+        },
+        {
+            "name": "Digitally Signature related",
+            "code": "BPA6.SR9",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA6"
+        },
+        {
+            "name": "Any other issue",
+            "code": "BPA6.SR10",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA6"
+        },
+        {
+            "name": "Occupancy Certificate",
+            "code": "BPA_OCC_CERT",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": null
+        },
+        {
+            "name": "OC Drawing creation related",
+            "code": "BPA_OCC_CERT.SR1",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Drawing Auto scrutiny related",
+            "code": "BPA_OCC_CERT.SR2",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Application creation related",
+            "code": "BPA_OCC_CERT.SR3",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Citizen Approval related",
+            "code": "BPA_OCC_CERT.SR4",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Fee Calculation related",
+            "code": "BPA_OCC_CERT.SR5",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Payment related",
+            "code": "BPA_OCC_CERT.SR6",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Send Back to Citizen related",
+            "code": "BPA_OCC_CERT.SR7",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Drawing Correction/Rework related",
+            "code": "BPA_OCC_CERT.SR8",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Show Cause Notice Related",
+            "code": "BPA_OCC_CERT.SR9",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Application Auto Escalation related (Department officials)",
+            "code": "BPA_OCC_CERT.SR10",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Application Processing related",
+            "code": "BPA_OCC_CERT.SR11",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Permit letter related",
+            "code": "BPA_OCC_CERT.SR12",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Building Plan Layout related",
+            "code": "BPA_OCC_CERT.SR13",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Digitally Signature related",
+            "code": "BPA_OCC_CERT.SR14",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "NOC related",
+            "code": "BPA_OCC_CERT.SR15",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "GIS related",
+            "code": "BPA_OCC_CERT.SR16",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Any other issue",
+            "code": "BPA_OCC_CERT.SR17",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_OCC_CERT"
+        },
+        {
+            "name": "Regular Support",
+            "code": "BPA_REG_SPRT",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": null
+        },
+        {
+            "name": "Query Clarification",
+            "code": "BPA_REG_SPRT.SR1",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_REG_SPRT"
+        },
+        {
+            "name": "Back-end support request",
+            "code": "BPA_REG_SPRT.SR2",
+            "active": "true",
+            "service": "OBPAS",
+            "ServiceType": "BPA_REG_SPRT"
+        },
+        {
+            "name": "New Property Registration",
+            "code": "NEW_PT",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": null
+        },
+        {
+            "name": "After Approval still showing in workflow",
+            "code": "NEW_PT.SR1",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "NEW_PT"
+        },
+        {
+            "name": "Application not visible at next level after forwarding",
+            "code": "NEW_PT.SR2",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "NEW_PT"
+        },
+        {
+            "name": "Unable to upload/download documents",
+            "code": "NEW_PT.SR3",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "NEW_PT"
+        },
+        {
+            "name": "Property Reassessment",
+            "code": "PT_REASMT",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": null
+        },
+        {
+            "name": "After Approval still showing in workflow",
+            "code": "PT_REASMT.SR1",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REASMT"
+        },
+        {
+            "name": "New Demand not showing after reassessment",
+            "code": "PT_REASMT.SR2",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REASMT"
+        },
+        {
+            "name": "Take Action option not showing",
+            "code": "PT_REASMT.SR3",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REASMT"
+        },
+        {
+            "name": "Application not visible at next level after forwarding",
+            "code": "PT_REASMT.SR4",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REASMT"
+        },
+        {
+            "name": "Unable to upload/download documents",
+            "code": "PT_REASMT.SR5",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REASMT"
+        },
+        {
+            "name": "Reassessment application submission failed",
+            "code": "PT_REASMT.SR6",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REASMT"
+        },
+        {
+            "name": "Transfer/Mutation of Property",
+            "code": "PT_MUTATION",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": null
+        },
+        {
+            "name": "After Approval still showing in workflow",
+            "code": "PT_MUTATION.SR1",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_MUTATION"
+        },
+        {
+            "name": "Transfer Ownership option is not reflecting",
+            "code": "PT_MUTATION.SR2",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_MUTATION"
+        },
+        {
+            "name": "Unable to process application",
+            "code": "PT_MUTATION.SR3",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_MUTATION"
+        },
+        {
+            "name": "Mutation fee not showing",
+            "code": "PT_MUTATION.SR4",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_MUTATION"
+        },
+        {
+            "name": "Application not visible at next level after forwarding",
+            "code": "PT_MUTATION.SR5",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_MUTATION"
+        },
+        {
+            "name": "Unable to upload/download documents",
+            "code": "PT_MUTATION.SR6",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_MUTATION"
+        },
+        {
+            "name": "Old owner name is showing after mutation",
+            "code": "PT_MUTATION.SR7",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_MUTATION"
+        },
+        {
+            "name": "Old owner name is reflecting in receipt as payer",
+            "code": "PT_MUTATION.SR8",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_MUTATION"
+        },
+        {
+            "name": "Update the Property",
+            "code": "PT_UPDATE",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": null
+        },
+        {
+            "name": "Unable to process application",
+            "code": "PT_UPDATE.SR1",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_UPDATE"
+        },
+        {
+            "name": "After Approval still showing in workflow",
+            "code": "PT_UPDATE.SR2",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_UPDATE"
+        },
+        {
+            "name": "Application not visible at next level after forwarding",
+            "code": "PT_UPDATE.SR3",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_UPDATE"
+        },
+        {
+            "name": "Unable to upload/download documents",
+            "code": "PT_UPDATE.SR4",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_UPDATE"
+        },
+        {
+            "name": "Demand & Collection",
+            "code": "PT_DEMAND",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": null
+        },
+        {
+            "name": "Demand of property not generated",
+            "code": "PT_DEMAND.SR1",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_DEMAND"
+        },
+        {
+            "name": "Demand not updated after collection",
+            "code": "PT_DEMAND.SR2",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_DEMAND"
+        },
+        {
+            "name": "Wrong Amount collected",
+            "code": "PT_DEMAND.SR3",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_DEMAND"
+        },
+        {
+            "name": "Unable to do collection entry",
+            "code": "PT_DEMAND.SR4",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_DEMAND"
+        },
+        {
+            "name": "Unable to cancel the receipt",
+            "code": "PT_DEMAND.SR5",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_DEMAND"
+        },
+        {
+            "name": "Original Demand not reverted after cancellation",
+            "code": "PT_DEMAND.SR6",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_DEMAND"
+        },
+        {
+            "name": "Demand due not matching with record",
+            "code": "PT_DEMAND.SR7",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_DEMAND"
+        },
+        {
+            "name": "Wrong demand period is showing in receipt",
+            "code": "PT_DEMAND.SR8",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_DEMAND"
+        },
+        {
+            "name": "Due history error found after exess amount paid",
+            "code": "PT_DEMAND.SR9",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_DEMAND"
+        },
+        {
+            "name": "Unable to adjust arrear demand",
+            "code": "PT_DEMAND.SR10",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_DEMAND"
+        },
+        {
+            "name": "Rebate/ Penalty",
+            "code": "PT_REBATE",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": null
+        },
+        {
+            "name": "Wrong rebate amount showing",
+            "code": "PT_REBATE.SR1",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REBATE"
+        },
+        {
+            "name": "Rebate showing after rebate period",
+            "code": "PT_REBATE.SR2",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REBATE"
+        },
+        {
+            "name": "Rebate amount showing as due even after full payment",
+            "code": "PT_REBATE.SR3",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REBATE"
+        },
+        {
+            "name": "Wrong penalty showing",
+            "code": "PT_REBATE.SR4",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REBATE"
+        },
+        {
+            "name": "Penalty showing as due even after full payment",
+            "code": "PT_REBATE.SR5",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REBATE"
+        },
+        {
+            "name": "Reports",
+            "code": "PT_REPORT",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": null
+        },
+        {
+            "name": "Mismatch of figures",
+            "code": "PT_REPORT.SR1",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REPORT"
+        },
+        {
+            "name": "Not able to extract report",
+            "code": "PT_REPORT.SR2",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REPORT"
+        },
+        {
+            "name": "Regular Support",
+            "code": "PT_REG_SPRT",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": null
+        },
+        {
+            "name": "Query Clarification",
+            "code": "PT_REG_SPRT.SR1",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REG_SPRT"
+        },
+        {
+            "name": "Back-end support request",
+            "code": "PT_REG_SPRT.SR2",
+            "active": "true",
+            "service": "PT",
+            "ServiceType": "PT_REG_SPRT"
+        },
+        {
+            "name": "Regular Support",
+            "code": "TL_REG_SPRT",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": null
+        },
+        {
+            "name": "Query Clarification",
+            "code": "TL_REG_SPRT.SR1",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_REG_SPRT"
+        },
+        {
+            "name": "Back-end support request",
+            "code": "TL_REG_SPRT.SR2",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_REG_SPRT"
+        },
+        {
+            "name": "Support in Trade Tariff Requests",
+            "code": "TL_REG_SPRT.SR3",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_REG_SPRT"
+        },
+        {
+            "name": "New Application",
+            "code": "TL_NEW",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": null
+        },
+        {
+            "name": "Unable to process application",
+            "code": "TL_NEW.SR1",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_NEW"
+        },
+        {
+            "name": "Multiple Billing slab issue",
+            "code": "TL_NEW.SR2",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_NEW"
+        },
+        {
+            "name": "Unable to re-submit application after application is sent back to Citizen from employee",
+            "code": "TL_NEW.SR3",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_NEW"
+        },
+        {
+            "name": "Payment not reflecting",
+            "code": "TL_NEW.SR4",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_NEW"
+        },
+        {
+            "name": "Corrupt PDF issue",
+            "code": "TL_NEW.SR5",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_NEW"
+        },
+        {
+            "name": "Call post pdf sign error",
+            "code": "TL_NEW.SR6",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_NEW"
+        },
+        {
+            "name": "Renewal License Application",
+            "code": "TL_RENEW",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": null
+        },
+        {
+            "name": "Renewal Option not showing",
+            "code": "TL_RENEW.SR1",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_RENEW"
+        },
+        {
+            "name": "Unable to process application",
+            "code": "TL_RENEW.SR2",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_RENEW"
+        },
+        {
+            "name": "Multiple Billing slab issue",
+            "code": "TL_RENEW.SR3",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_RENEW"
+        },
+        {
+            "name": "Unable to re-submit application after application is sent back to Citizen from employee",
+            "code": "TL_RENEW.SR4",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_RENEW"
+        },
+        {
+            "name": "Payment not reflecting",
+            "code": "TL_RENEW.SR5",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_RENEW"
+        },
+        {
+            "name": "Corrupt PDF issue",
+            "code": "TL_RENEW.SR6",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_RENEW"
+        },
+        {
+            "name": "Call post pdf sign error",
+            "code": "TL_RENEW.SR7",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_RENEW"
+        },
+        {
+            "name": "Temporary License Application",
+            "code": "TL_TEMP_LIC",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": null
+        },
+        {
+            "name": "Unable to process application",
+            "code": "TL_TEMP_LIC.SR1",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_TEMP_LIC"
+        },
+        {
+            "name": "Multiple Billing slab issue",
+            "code": "TL_TEMP_LIC.SR2",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_TEMP_LIC"
+        },
+        {
+            "name": "Unable to re-submit application after application is sent back to Citizen from employee",
+            "code": "TL_TEMP_LIC.SR3",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_TEMP_LIC"
+        },
+        {
+            "name": "Payment not reflecting",
+            "code": "TL_TEMP_LIC.SR4",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_TEMP_LIC"
+        },
+        {
+            "name": "Corrupt PDF issue",
+            "code": "TL_TEMP_LIC.SR5",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_TEMP_LIC"
+        },
+        {
+            "name": "Call post pdf sign error",
+            "code": "TL_TEMP_LIC.SR6",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_TEMP_LIC"
+        },
+        {
+            "name": "Trade License Correction Application",
+            "code": "TL_CORRECTION",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": null
+        },
+        {
+            "name": "Correction Option not showing",
+            "code": "TL_CORRECTION.SR1",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_CORRECTION"
+        },
+        {
+            "name": "Unable to process application",
+            "code": "TL_CORRECTION.SR2",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_CORRECTION"
+        },
+        {
+            "name": "Multiple Billing slab issue",
+            "code": "TL_CORRECTION.SR3",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_CORRECTION"
+        },
+        {
+            "name": "Unable to re-submit application after application is sent back to Citizen from employee",
+            "code": "TL_CORRECTION.SR4",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_CORRECTION"
+        },
+        {
+            "name": "Payment not reflecting",
+            "code": "TL_CORRECTION.SR5",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_CORRECTION"
+        },
+        {
+            "name": "Corrupt PDF issue",
+            "code": "TL_CORRECTION.SR6",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_CORRECTION"
+        },
+        {
+            "name": "Call post pdf sign error",
+            "code": "TL_CORRECTION.SR7",
+            "active": "true",
+            "service": "TL",
+            "ServiceType": "TL_CORRECTION"
+        },
+        {
+            "name": "Regular Support",
+            "code": "MR_REG_SPRT",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": null
+        },
+        {
+            "name": "Query Clarification",
+            "code": "MR_REG_SPRT.SR1",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_REG_SPRT"
+        },
+        {
+            "name": "Back-end support request",
+            "code": "MR_REG_SPRT.SR2",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_REG_SPRT"
+        },
+        {
+            "name": "New Marriage Application",
+            "code": "MR_NEW",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": null
+        },
+        {
+            "name": "Unable to process application",
+            "code": "MR_NEW.SR1",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_NEW"
+        },
+        {
+            "name": "Payment not reflecting",
+            "code": "MR_NEW.SR2",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_NEW"
+        },
+        {
+            "name": "Corrupt PDF issue",
+            "code": "MR_NEW.SR3",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_NEW"
+        },
+        {
+            "name": "Calendar Issue",
+            "code": "MR_NEW.SR4",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_NEW"
+        },
+        {
+            "name": "Tatkal Marriage Application",
+            "code": "MR_TATKAL",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": null
+        },
+        {
+            "name": "Unable to process application",
+            "code": "MR_TATKAL.SR1",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_TATKAL"
+        },
+        {
+            "name": "Payment not reflecting",
+            "code": "MR_TATKAL.SR2",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_TATKAL"
+        },
+        {
+            "name": "Corrupt PDF issue",
+            "code": "MR_TATKAL.SR3",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_TATKAL"
+        },
+        {
+            "name": "SLA not showing",
+            "code": "MR_TATKAL.SR4",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_TATKAL"
+        },
+        {
+            "name": "Marriage Correction Application",
+            "code": "MR_CORRECTION",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": null
+        },
+        {
+            "name": "Correction Option not showing",
+            "code": "MR_CORRECTION.SR1",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_CORRECTION"
+        },
+        {
+            "name": "Unable to process application",
+            "code": "MR_CORRECTION.SR2",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_CORRECTION"
+        },
+        {
+            "name": "Payment not reflecting",
+            "code": "MR_CORRECTION.SR3",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_CORRECTION"
+        },
+        {
+            "name": "Corrupt PDF issue",
+            "code": "MR_CORRECTION.SR4",
+            "active": "true",
+            "service": "MR",
+            "ServiceType": "MR_CORRECTION"
+        },
+        {
+            "name": "New Compliant",
+            "code": "PGR_NEW",
+            "active": "true",
+            "service": "PGR",
+            "ServiceType": null
+        },
+        {
+            "name": "Complaint not getting submitted",
+            "code": "PGR_NEW.SR1",
+            "active": "true",
+            "service": "PGR",
+            "ServiceType": "PGR_NEW"
+        },
+        {
+            "name": "Not able to upload photo",
+            "code": "PGR_NEW.SR2",
+            "active": "true",
+            "service": "PGR",
+            "ServiceType": "PGR_NEW"
+        },
+        {
+            "name": "Not able to track status compliant",
+            "code": "PGR_NEW.SR3",
+            "active": "true",
+            "service": "PGR",
+            "ServiceType": "PGR_NEW"
+        },
+        {
+            "name": "Unable to Assign or Re-assign compliant",
+            "code": "PGR_NEW.SR4",
+            "active": "true",
+            "service": "PGR",
+            "ServiceType": "PGR_NEW"
+        },
+        {
+            "name": "Unable to mark compliant as resolved",
+            "code": "PGR_NEW.SR5",
+            "active": "true",
+            "service": "PGR",
+            "ServiceType": "PGR_NEW"
+        },
+        {
+            "name": "Unable to reject compliant",
+            "code": "PGR_NEW.SR6",
+            "active": "true",
+            "service": "PGR",
+            "ServiceType": "PGR_NEW"
+        },
+        {
+            "name": "Regular Support",
+            "code": "PGR_REG_SPRT",
+            "active": "true",
+            "service": "PGR",
+            "ServiceType": null
+        },
+        {
+            "name": "Query Clarification",
+            "code": "PGR_REG_SPRT.SR1",
+            "active": "true",
+            "service": "PGR",
+            "ServiceType": "PGR_REG_SPRT"
+        },
+        {
+            "name": "Back-end support request",
+            "code": "PGR_REG_SPRT.SR2",
+            "active": "true",
+            "service": "PGR",
+            "ServiceType": "PGR_REG_SPRT"
+        },
+        {
+            "name": "New Connection Application Related\n",
+            "code": "WNS_NEW",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": null
+        },
+        {
+            "name": "Application not getting submitted",
+            "code": "WNS_NEW.SR1",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_NEW"
+        },
+        {
+            "name": "Application fee not getting paid/not showing correctly/Application fee receipt not getting generated",
+            "code": "WNS_NEW.SR2",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_NEW"
+        },
+        {
+            "name": "Document Upload showing issue",
+            "code": "WNS_NEW.SR3",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_NEW"
+        },
+        {
+            "name": "Meter Details for new meter connection not getting captured",
+            "code": "WNS_NEW.SR4",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_NEW"
+        },
+        {
+            "name": "Sanction Letter Download issue",
+            "code": "WNS_NEW.SR5",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_NEW"
+        },
+        {
+            "name": "Demand and arrears related\n",
+            "code": "WNS_DEMAND",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": null
+        },
+        {
+            "name": "Wrong demand generated issue",
+            "code": "WNS_DEMAND.SR1",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_DEMAND"
+        },
+        {
+            "name": "Manage demand option not working",
+            "code": "WNS_DEMAND.SR2",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_DEMAND"
+        },
+        {
+            "name": "Bill not generated for consumers",
+            "code": "WNS_DEMAND.SR3",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_DEMAND"
+        },
+        {
+            "name": "Modify Connection Application Related",
+            "code": "WNS_MODIFY",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": null
+        },
+        {
+            "name": "Modify connection option not showing",
+            "code": "WNS_MODIFY.SR1",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_MODIFY"
+        },
+        {
+            "name": "Conversion of Nonmeter to Meter not showing",
+            "code": "WNS_MODIFY.SR2",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_MODIFY"
+        },
+        {
+            "name": "Modify Application not getting submitted",
+            "code": "WNS_MODIFY.SR3",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_MODIFY"
+        },
+        {
+            "name": "After modify the consumer not getting searched ",
+            "code": "WNS_MODIFY.SR4",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_MODIFY"
+        },
+        {
+            "name": "Ownership Change Application Related",
+            "code": "WNS_OWN",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": null
+        },
+        {
+            "name": "Ownership change option not showing",
+            "code": "WNS_OWN.SR1",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_OWN"
+        },
+        {
+            "name": "After ownsership change the old consumer name is still reflecting in bill",
+            "code": "WNS_OWN.SR2",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_OWN"
+        },
+        {
+            "name": "Ownership application fee not showing correctly",
+            "code": "WNS_OWN.SR3",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_OWN"
+        },
+        {
+            "name": "Reconnection Application Related",
+            "code": "WNS_RECON",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": null
+        },
+        {
+            "name": "Reconnection option not showing",
+            "code": "WNS_RECON.SR1",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_RECON"
+        },
+        {
+            "name": "Reconnection fee is not showing correctly",
+            "code": "WNS_RECON.SR2",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_RECON"
+        },
+        {
+            "name": "After reconnection is approved bill not generating",
+            "code": "WNS_RECON.SR3",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_RECON"
+        },
+        {
+            "name": "Disconnection/Close Connection Application Related",
+            "code": "WNS_CLOSE",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": null
+        },
+        {
+            "name": "Disconnection/Close Application Option is not showing",
+            "code": "WNS_CLOSE.SR1",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_CLOSE"
+        },
+        {
+            "name": "Pending dues not showing correctly while close connection submission",
+            "code": "WNS_CLOSE.SR2",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_CLOSE"
+        },
+        {
+            "name": "After close connection approval bill is still generating issue",
+            "code": "WNS_CLOSE.SR3",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_CLOSE"
+        },
+        {
+            "name": "Payment Related",
+            "code": "WNS_PAY",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": null
+        },
+        {
+            "name": "Posting Failure while Mpos/PG payment",
+            "code": "WNS_PAY.SR1",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_PAY"
+        },
+        {
+            "name": "Dues still showing after successful payment",
+            "code": "WNS_PAY.SR2",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_PAY"
+        },
+        {
+            "name": "Payment option is not showing for consumer",
+            "code": "WNS_PAY.SR3",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_PAY"
+        },
+        {
+            "name": "Regular Support",
+            "code": "WNS_REG_SPRT",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": null
+        },
+        {
+            "name": "Query Clarification",
+            "code": "WNS_REG_SPRT.SR1",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_REG_SPRT"
+        },
+        {
+            "name": "Back-end support request",
+            "code": "WNS_REG_SPRT.SR2",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_REG_SPRT"
+        },
+        {
+            "name": "Training Required for any Particular Flow",
+            "code": "WNS_REG_SPRT.SR3",
+            "active": "true",
+            "service": "WS",
+            "ServiceType": "WNS_REG_SPRT"
+        },
+        {
+            "name": "Master related",
+            "code": "FIN_MAS",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": null
+        },
+        {
+            "name": "New Bank Account creation issue",
+            "code": "FIN_MAS.SR1",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_MAS"
+        },
+        {
+            "name": "New GL codes to be added",
+            "code": "FIN_MAS.SR2",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_MAS"
+        },
+        {
+            "name": "Other masters related issue",
+            "code": "FIN_MAS.SR3",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_MAS"
+        },
+        {
+            "name": "Transaction related",
+            "code": "FIN_TRANS",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": null
+        },
+        {
+            "name": "Journal voucher creation related issue",
+            "code": "FIN_TRANS.SR1",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_TRANS"
+        },
+        {
+            "name": "Bill accounting related issue",
+            "code": "FIN_TRANS.SR2",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_TRANS"
+        },
+        {
+            "name": "Bank reconciliation related issue",
+            "code": "FIN_TRANS.SR3",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_TRANS"
+        },
+        {
+            "name": "Contra entry related issue",
+            "code": "FIN_TRANS.SR4",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_TRANS"
+        },
+        {
+            "name": "Direct Bank Payment related issue",
+            "code": "FIN_TRANS.SR5",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_TRANS"
+        },
+        {
+            "name": "Deduction related issue",
+            "code": "FIN_TRANS.SR6",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_TRANS"
+        },
+        {
+            "name": "View voucher related issue",
+            "code": "FIN_TRANS.SR7",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_TRANS"
+        },
+        {
+            "name": "Revenue/Collection related",
+            "code": "FIN_REVENUE",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": null
+        },
+        {
+            "name": "Revenue/Collection related issue",
+            "code": "FIN_REVENUE.SR1",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_REVENUE"
+        },
+        {
+            "name": "Remittance related issue",
+            "code": "FIN_REVENUE.SR2",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_REVENUE"
+        },
+        {
+            "name": "Report related",
+            "code": "FIN_REPORT",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": null
+        },
+        {
+            "name": "Financial statement related issue",
+            "code": "FIN_REPORT.SR1",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_REPORT"
+        },
+        {
+            "name": "Accounting record related issue",
+            "code": "FIN_REPORT.SR2",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_REPORT"
+        },
+        {
+            "name": "MIS report related issue",
+            "code": "FIN_REPORT.SR3",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_REPORT"
+        },
+        {
+            "name": "Deduction report related issue",
+            "code": "FIN_REPORT.SR4",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_REPORT"
+        },
+        {
+            "name": "Other report related issue",
+            "code": "FIN_REPORT.SR5",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_REPORT"
+        },
+        {
+            "name": "Asset related",
+            "code": "FIN_ASSET",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": null
+        },
+        {
+            "name": "Asset master related issue",
+            "code": "FIN_ASSET.SR1",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_ASSET"
+        },
+        {
+            "name": "Asset transaction related issue",
+            "code": "FIN_ASSET.SR2",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_ASSET"
+        },
+        {
+            "name": "Asset report related issue",
+            "code": "FIN_ASSET.SR3",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_ASSET"
+        },
+        {
+            "name": "Budgeting related",
+            "code": "FIN_BUDGET",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": null
+        },
+        {
+            "name": "Upload budget related issue",
+            "code": "FIN_BUDGET.SR1",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_BUDGET"
+        },
+        {
+            "name": "Budget additional appropriation related issue",
+            "code": "FIN_BUDGET.SR2",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_BUDGET"
+        },
+        {
+            "name": "Other Budget related issue",
+            "code": "FIN_BUDGET.SR3",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_BUDGET"
+        },
+        {
+            "name": "Period ended activity related",
+            "code": "FIN_PER",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": null
+        },
+        {
+            "name": "Financial year related issue",
+            "code": "FIN_PER.SR1",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_PER"
+        },
+        {
+            "name": "Other period ended activity issue",
+            "code": "FIN_PER.SR2",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_PER"
+        },
+        {
+            "name": "Administration related",
+            "code": "FIN_ADMIN",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": null
+        },
+        {
+            "name": "Cancel voucher related issue",
+            "code": "FIN_ADMIN.SR1",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_ADMIN"
+        },
+        {
+            "name": "Cancel bill related issue",
+            "code": "FIN_ADMIN.SR2",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_ADMIN"
+        },
+        {
+            "name": "Dishonour cheque/DD related issue",
+            "code": "FIN_ADMIN.SR3",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_ADMIN"
+        },
+        {
+            "name": "Regular Support",
+            "code": "FIN_REG_SPRT",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": null
+        },
+        {
+            "name": "Query Clarification",
+            "code": "FIN_REG_SPRT.SR1",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_REG_SPRT"
+        },
+        {
+            "name": "Back-end support request",
+            "code": "FIN_REG_SPRT.SR2",
+            "active": "true",
+            "service": "FIN",
+            "ServiceType": "FIN_REG_SPRT"
+        },
+        {
+            "name": "DSC Deletion Request",
+            "code": "DSC_DEL",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": null
+        },
+        {
+            "name": "DSC Certificate to be deleted",
+            "code": "DSC_DEL.SR1",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": "DSC_DEL"
+        },
+        {
+            "name": "e7044 exception while saving in database",
+            "code": "DSC_DEL.SR2",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": "DSC_DEL"
+        },
+        {
+            "name": "Not technical issue",
+            "code": "DSC_NON_TECH",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": null
+        },
+        {
+            "name": "DSC Certificate details not visible",
+            "code": "DSC_NON_TECH.SR1",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": "DSC_NON_TECH"
+        },
+        {
+            "name": "Blank error",
+            "code": "DSC_NON_TECH.SR2",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": "DSC_NON_TECH"
+        },
+        {
+            "name": "EMB-125 User pin change error",
+            "code": "DSC_NON_TECH.SR3",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": "DSC_NON_TECH"
+        },
+        {
+            "name": "e90018 Customer does not exist",
+            "code": "DSC_NON_TECH.SR4",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": "DSC_NON_TECH"
+        },
+        {
+            "name": "e9006 Authentication failed during extracting details",
+            "code": "DSC_NON_TECH.SR5",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": "DSC_NON_TECH"
+        },
+        {
+            "name": "e9002 Authentication failed during sign and certificate verification",
+            "code": "DSC_NON_TECH.SR6",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": "DSC_NON_TECH"
+        },
+        {
+            "name": "Error in detecting hardware",
+            "code": "DSC_NON_TECH.SR7",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": "DSC_NON_TECH"
+        },
+        {
+            "name": "Other DSC error",
+            "code": "DSC_NON_TECH.SR8",
+            "active": "true",
+            "service": "DS",
+            "ServiceType": "DSC_NON_TECH"
+        }
+    ]
+}

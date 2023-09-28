@@ -1,0 +1,2127 @@
+{
+  "tenantId": "od",
+  "moduleName": "RAINMAKER-PGR",
+  "ServiceDefs": [
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "Accounts",
+    "serviceCode": "MaintenanceOfallMunicipalAccount",
+    "department": "DEPT_25"
+  },
+  {
+    "menuPath": "Accounts",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PaymentofBills",
+    "department": "DEPT_25"
+  },
+  {
+    "menuPath": "Accounts",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RegardingPayment",
+    "department": "DEPT_25"
+  },
+  {
+    "menuPath": "Accounts",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AccountsAnyothergrievance",
+    "department": "DEPT_25"
+  },
+  {
+    "menuPath": "BirthDeathCertificates",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Delayinissuanceofcertificate",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "BirthDeathCertificates",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DelayinRegistration",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "BirthDeathCertificates",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ExcessLeavyofcharges",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "BirthDeathCertificates",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssuanceofBirthandDeathCertificates",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "BirthDeathCertificates",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RectificationofBirthandDeathcertificate",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "BirthDeathCertificates",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RegistrationofBirthandDeathCertificate",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "BirthDeathCertificates",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "BirthDeathCertificatesAnyothergrievance",
+    "department": "DEPT_71"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "BuildingPermission",
+    "serviceCode": "BuildingPlanApproval",
+    "department": "DEPT_63"
+  },
+  {
+    "menuPath": "BuildingPermission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "CertifiedCopyofBuildingPlanApproval",
+    "department": "DEPT_63"
+  },
+  {
+    "menuPath": "BuildingPermission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssuanceofNOC",
+    "department": "DEPT_63"
+  },
+  {
+    "menuPath": "BuildingPermission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssueofNoDueCertificate",
+    "department": "DEPT_63"
+  },
+  {
+    "menuPath": "BuildingPermission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssueofOccupancyCertificate",
+    "department": "DEPT_63"
+  },
+  {
+    "menuPath": "BuildingPermission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "LandUseInformation",
+    "department": "DEPT_63"
+  },
+  {
+    "menuPath": "BuildingPermission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Permissionnotbeinggranteddespiteofbeingappliedinthesystem",
+    "department": "DEPT_63"
+  },
+  {
+    "menuPath": "BuildingPermission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "BuildingPermissionAnyothergrievance",
+    "department": "DEPT_63"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "BusinessTradeLicense",
+    "serviceCode": "TradewithoutLicense",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Advertisement",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Amountdebitedfrombankbutitsnotupdatedonpaymentscreenofportalpage",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Appliedforchangeofitemandamountbutitsnotupdated",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssuanceofFreshorRenewalTradeLicense",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Paidreceiptdetailsisnotreflected",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Reflectedwrongamountontradelicencecertificate",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unabletoaccesspaymentgatewaypage",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unabletoapplyforrenewaloftradelicenceduetopreviousapplicationstatus",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "unabletodownloadtheduplicatetradelicencecertificate",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "BusinessTradeLicenseUnabletodownloadthereceiptafterpayment",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "UnabletogettheTradeLicencedetailsinportalpage",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unauthorisedstorageofexplosives",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unauthorizedstockofmaterial",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "BusinessTradeLicense",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "BusinessTradeLicenseAnyothergrievance",
+    "department": "DEPT_73"
+  },
+  {
+    "menuPath": "DevelopmentWorks",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ConstructionofCommunityCentre",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "DevelopmentWorks",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DevelopmentofcremationGround",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "DevelopmentWorks",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DevelopmentWorksAnyothergrievance",
+    "department": "DEPT_53"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "Drainage(OpenSurface)",
+    "serviceCode": "ConstructionofDrain",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Drainage(OpenSurface)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Drainchocking",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Drainage(OpenSurface)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IllegalDrainingofSewagetoPublicDrainsorRoadsOpenSitesetc",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Drainage(OpenSurface)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "LiftingofDrainSoilSilt",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Drainage(OpenSurface)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Odoursmellfromroadsideguttersorfootpathgutters",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Drainage(OpenSurface)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "OpenGutterChockupsoroverflowing",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Drainage(OpenSurface)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RepairingofDrainwithCoverSlab",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Drainage(OpenSurface)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Replacementofmissingdamagedcoversonroadsideorfootpathgutters",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Drainage(OpenSurface)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "septictankorcontainmentconnectedtoopendrain",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Drainage(OpenSurface)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Toiletconnectedtoopendrain",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Drainage(OpenSurface)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DrainageOpenSurfaceAnyothergrievance",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "ElectricalWorks",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "electricalinconvenienceinOfficeCompound",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "ElectricalWorks",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "InstallationofelectricalPole",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "ElectricalWorks",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ElectricalWorksAnyothergrievance",
+    "department": "DEPT_74"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "Encroachmentonroadfootpathotherpublicspaces",
+    "serviceCode": "Unauthorisedhoardingsboardsbanners",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Encroachmentonroadfootpathotherpublicspaces",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Materialkeptonroadsfootpath",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Encroachmentonroadfootpathotherpublicspaces",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "UnauthorisedHawkers",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Encroachmentonroadfootpathotherpublicspaces",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "UnauthorisedstallsonroadsfootpathsSWDdrain",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Encroachmentonroadfootpathotherpublicspaces",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RemovalofEncroachmentcausingobstructiontoTraffic",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Encroachmentonroadfootpathotherpublicspaces",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "UnauthorisedencroachmentonanyotherMunicipalLand",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Encroachmentonroadfootpathotherpublicspaces",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "EncroachmentonroadfootpathotherpublicspacesAnyothergrievance",
+    "department": "DEPT_66"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "Establishmentrelated",
+    "serviceCode": "DelayinLeaveSanction",
+    "department": "DEPT_54"
+  },
+  {
+    "menuPath": "Establishmentrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PersonalFilerelated",
+    "department": "DEPT_54"
+  },
+  {
+    "menuPath": "Establishmentrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "OtherServiceaffairs",
+    "department": "DEPT_54"
+  },
+  {
+    "menuPath": "Establishmentrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PendingofArrearDues",
+    "department": "DEPT_54"
+  },
+  {
+    "menuPath": "Establishmentrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RegardingPension",
+    "department": "DEPT_54"
+  },
+  {
+    "menuPath": "Establishmentrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "EstablishmentrelatedAnyothergrievance",
+    "department": "DEPT_54"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "Footpathrelated",
+    "serviceCode": "Damageoffootpath",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Footpathrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Materialonfootpathcausinghindrancetopublic",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Footpathrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Repairoffootpathnotdoneproperly",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Footpathrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "FootpathrelatedAnyothergrievance",
+    "department": "DEPT_53"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "HousingSchemesRelated",
+    "serviceCode": "AvailingbenefitsunderPMAYUschemeInSituSlumRedevelopmentISSR",
+    "department": "DEPT_75"
+  },
+  {
+    "menuPath": "HousingSchemesRelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderPMAYUschemeCreditLinkedSubsidySchemeCLSS",
+    "department": "DEPT_75"
+  },
+  {
+    "menuPath": "HousingSchemesRelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderPMAYUschemeAffordableHousinginPartnership",
+    "department": "DEPT_75"
+  },
+  {
+    "menuPath": "HousingSchemesRelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderPMAYUschemeBeneficiaryledconstruction",
+    "department": "DEPT_75"
+  },
+  {
+    "menuPath": "HousingSchemesRelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderRAYscheme",
+    "department": "DEPT_75"
+  },
+  {
+    "menuPath": "HousingSchemesRelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderIHSDP",
+    "department": "DEPT_75"
+  },
+  {
+    "menuPath": "HousingSchemesRelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderBSUPscheme",
+    "department": "DEPT_75"
+  },
+  {
+    "menuPath": "HousingSchemesRelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderJAGAMission",
+    "department": "DEPT_67"
+  },
+  {
+    "menuPath": "HousingSchemesRelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "LabourTenementrelatedissues",
+    "department": "DEPT_75"
+  },
+  {
+    "menuPath": "HousingSchemesRelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "HousingSchemesRelatedAnyothergrievance",
+    "department": "DEPT_75"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "Marriagerelated",
+    "serviceCode": "IrregularityinBookingofKalyanMandaporYatriNiwasorConferenceHall",
+    "department": "DEPT_76"
+  },
+  {
+    "menuPath": "Marriagerelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DelayinIssuanceofMarriageCertificate",
+    "department": "DEPT_76"
+  },
+  {
+    "menuPath": "Marriagerelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DelayinMarriageRegistration",
+    "department": "DEPT_76"
+  },
+  {
+    "menuPath": "Marriagerelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DelayinRectificationinMarriageRegistration",
+    "department": "DEPT_76"
+  },
+  {
+    "menuPath": "Marriagerelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DelayinRectificationofMarriageCertificate",
+    "department": "DEPT_76"
+  },
+  {
+    "menuPath": "Marriagerelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "MarriagerelatedAnyothergrievance",
+    "department": "DEPT_76"
+  },
+  {
+    "menuPath": "Miscellaneous",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DelayirregularityinBookingofCessPollVehicle",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "Miscellaneous",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DelayirregularityinBookingofKalyanMandapParkTownHallCommunityHallDharmsalaConferenceHall",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "Miscellaneous",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DisposalofUnclaimedDeadbodies",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "Miscellaneous",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RemovalofDeadAnimalsCarcases",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "Miscellaneous",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DelayirregularityinsupplyofSludgePumpAsperavailabilityonSpot",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "Miscellaneous",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "VehiclerelatedIssues",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "Miscellaneous",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssueofPensionandArrearPayment",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "Miscellaneous",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "MiscellaneousAnyothergrievance",
+    "department": "DEPT_77"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "NationalUrbanLivelihoodMission",
+    "serviceCode": "AssistancetoofSHG",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "NationalUrbanLivelihoodMission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "NationalUrbanLivelihoodMissionSupplyandacceptanceofRFtoSHGs",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "NationalUrbanLivelihoodMission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Supplyandacceptanceoftrainingtoeligiblecandidates",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "NationalUrbanLivelihoodMission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Supplyofformandacceptanceforimpartingtrainingtoeligiblecandidate",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "NationalUrbanLivelihoodMission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Supplyofformandacceptanceofselfemploymentscheme",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "NationalUrbanLivelihoodMission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "NationalUrbanLivelihoodMissionAnyothergrievance",
+    "department": "DEPT_64"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "NoisePollutionrelated",
+    "serviceCode": "LoudnoiseduetoFireCrackers",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "NoisePollutionrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "LoudnoiseduetoHornsGeneratorsLoudspeakersetc",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "NoisePollutionrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Loudnoiseduetoevents",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "NoisePollutionrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "NoisePollutionrelatedAnyothergrievance",
+    "department": "DEPT_77"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "PlaygroundsGardens",
+    "serviceCode": "Notmaintainedproperly",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "PlaygroundsGardens",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Wrongusageofplayground",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "PlaygroundsGardens",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Wrongusageofgarden",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "PlaygroundsGardens",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "TreesPlantsnotwateredproperly",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "PlaygroundsGardens",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Accessnotavailable",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "PlaygroundsGardens",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RepairingofcivilworkinGarden",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "PlaygroundsGardens",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RepairingofJoggingtrack",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "PlaygroundsGardens",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Repairingofplayequipment",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "PlaygroundsGardens",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Lightsnotfunctioning",
+    "department": "DEPT_77"
+  },
+  {
+    "menuPath": "PlaygroundsGardens",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PlaygroundsGardensAnyothergrievance",
+    "department": "DEPT_77"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "PrivateHospitalsClinics",
+    "serviceCode": "PrivateHospitalsClinicsUnhygienicUncleanliness",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "PrivateHospitalsClinics",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PrivateHospitalsClinicsAnyothergrievance",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "OwnershiptransfernotreflectedinthePropertyMaster",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DelayinIssuanceofCertificate",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PropertyNotAssessed",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Areanotassessedproperly",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Disputerelatedtobills",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RectificationOfNameAddress",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "WronginformationinPropertyTaxassessment",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Billsnotreceived",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Delayinpaymentofrefund",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Assessmentorderfornewimprovementtotheexistingbuilding",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Paidreceiptdetailsnotreflected",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "InformationregardingtheAssessmentofHoldingTax",
+    "department": "DEPT_78"
+  },
+  {
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PropertyTaxHoldingTaxrelatedUnabletodownloadthereceiptafterpayment",
+    "department": "DEPT_78"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "PropertyTaxHoldingTaxrelated",
+    "serviceCode": "PropertyTaxHoldingTaxrelatedAnyothergrievance",
+    "department": "DEPT_78"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "PublicDistributionSystem",
+    "serviceCode": "IssueofBPLCard",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "PublicDistributionSystem",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssueofAPLCard",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "PublicDistributionSystem",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderAAYScheme",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "PublicDistributionSystem",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderAPLScheme",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "PublicDistributionSystem",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "CorrectioninRationCard",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "PublicDistributionSystem",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "StorageAgentrelated",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "PublicDistributionSystem",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "StockAllottedrelated",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "PublicDistributionSystem",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RLACTLACrelated",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "PublicDistributionSystem",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PublicDistributionSystemAnyothergrievance",
+    "department": "DEPT_64"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "PublicHealth",
+    "serviceCode": "SymptomsofCommunalDisease",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicHealth",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "UnauthorisedSlaughteringofAnimals",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicHealth",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "litteringatpublicplaceopenplot",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicHealth",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "NuisanceduetoVagrantsonMunicipalRoadsfootpathorgardens",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicHealth",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Endemicdisease",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicHealth",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Epidemicdisease",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicHealth",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AntiMalariaLarvaOperation",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicHealth",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "MosquitoNuisance",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicHealth",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Nuisanceduetostraydogs",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicHealth",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Nuisanceduetostrayanimalsotherthandogs",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicHealth",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PublicHealthAnyothergrievance",
+    "department": "DEPT_72"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "PublicToilets",
+    "serviceCode": "CleaningofPublicToilet",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicToilets",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ConstructionOfPublicToilet",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicToilets",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ConstructionofPublicToiletComplexatBusStop",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicToilets",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DamagesinthePublicToilet",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicToilets",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Insecureplace",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicToilets",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Noattendant",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicToilets",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "NoelectricityinthePublicToilet",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicToilets",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "NowaterinadequatewaterinthePublicToilet",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicToilets",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Requirementofamobiletoilet",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicToilets",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RequirementofPublicToilet",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "PublicToilets",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PublicToiletsAnyothergrievance",
+    "department": "DEPT_72"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "RepairsToMunicipalProperties",
+    "serviceCode": "DangerousStructure",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RepairsToMunicipalProperties",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "DamagetothepropertyNotmaintainedproperly",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RepairsToMunicipalProperties",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Propertybeingwronglyused",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RepairsToMunicipalProperties",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Propertyunused",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RepairsToMunicipalProperties",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Notcleanedproperly",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RepairsToMunicipalProperties",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RepairsToMunicipalPropertiesAnyothergrievance",
+    "department": "DEPT_53"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "RestaurantFoodstallsrelated",
+    "serviceCode": "Adulterationoffood",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RestaurantFoodstallsrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Businessconductedwithoutvalidfoodlicense",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RestaurantFoodstallsrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "HazardousfoodFoodPoisoning",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RestaurantFoodstallsrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssuanceofFreshorRenewalFoodLicense",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RestaurantFoodstallsrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "OperatingwithoutLicense",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RestaurantFoodstallsrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PollutionduetosmokeUnbearablesmellnoise",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RestaurantFoodstallsrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Preparingsellingoffoodoutsideauthorisedpremises",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RestaurantFoodstallsrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unhygienicconditioninfoodpremises",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RestaurantFoodstallsrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Wrongissuanceofthelicense",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RestaurantFoodstallsrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RestaurantFoodstallsrelatedAnyothergrievance",
+    "department": "DEPT_53"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "RoadsTrafficrelated",
+    "serviceCode": "Lanepaintinghasgonedullisnotvisible",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Reinstatementoftrenches",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Providingsignages",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unauthorisedparkingofvehiclesontheroad",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Parkingmarkingsrequired",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Speedbreakerishigh",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Constructionrepairresurfacingofroadrequired",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "PotholesBadpatchesontheroad",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RoadsTrafficrelatedRoadsideParkingorParkingIssue",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Trafficissuesduetostraycattle",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Speedbreakerrequired",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Speedbreakernotrequired",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ClearingWaterLoggingonRoad",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Providingnewsignals",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Signalnotfunctioning",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Zebracrossingmarkingrequired",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "StoplinemarkingrequiredatSignalbeforeZebraCrossing",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unauthoriseddiggingofroad",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Pavementdamage",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Islandneedsarepair",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RemovalofobstaclesonRoadlikesuddentreefallingetc",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "RoadsTrafficrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RoadsTrafficrelatedAnyothergrievance",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "Shelterrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RAYPMAYrelated",
+    "department": "DEPT_75"
+  },
+  {
+    "menuPath": "Shelterrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Grievanceonsanctionofhouse",
+    "department": "DEPT_75"
+  },
+  {
+    "menuPath": "Shelterrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ShelterrelatedAnyothergrievance",
+    "department": "DEPT_75"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "SocialSecurity",
+    "serviceCode": "SocialSecurityAssistanceinformationofSHG",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderMBPYorIGNOP",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderNFBS",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderNSAP",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ApplicationBanishreeScholarshipforPWD",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderAnnapurnaAnnaYojana",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "AvailingbenefitsunderBalikaSamurdhiYojanaBSY",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "CorrectioninAadharCard",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "HarishchandraSahayataYojana",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Aaharprogramme",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssueofAadharCard",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "SanctionOfBPLLoan",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "SanctionofDRILoan",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "SanctionSCorSTorScavengerLoanbothIndividualandGroups",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssueofNewRationCard",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssueofNFSACard",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IssueofVoterCard",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RegardingSlowprocessofdisposalofGrievancePetitions",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "SanctionofBeneficiaryunderSubsidyProgramme",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "SanctionSCSTScavengerLoanbothIndividualandGroupsUnderOSFDC",
+    "department": "DEPT_64"
+  },
+  {
+    "menuPath": "SocialSecurity",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "SocialSecurityAnyothergrievance",
+    "department": "DEPT_64"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "serviceCode": "Absenteeismofdoortodoorgarbagecollector",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "CleaningofPSCblockchannels",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Dustbinnotcleanedproperly",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Garbagebinoverflowing",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "GarbagenotliftedfromMunicipalMarket",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Garbagenotliftedfromroadauthorisedcollectionpoint",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "NuisancebyGarbageTractorsorTrucks",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Providingnewdustbin",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Removalofdeadanimal",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RemovalofDebrisandConstructionWasteMaterialCostInvolved",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Removaloftheconstructiondebris",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Removingdustbin",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Replacingdamageddustbin",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Sweepingofroadnotdonenotdoneproperly",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "SWMvehiclesnotcomingregularlyforpickupofthegarbage",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SolidWasteManagement(Garbage)",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "SolidWasteManagementGarbageAnyothergrievance",
+    "department": "DEPT_72"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "StreetLights",
+    "serviceCode": "Streetlightsnotfunctioning",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "StreetLights",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Areanotcoveredwithstreetlightsrequestfornewstreetlights",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "StreetLights",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Lightingschedulenotfollowed",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "StreetLights",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Poledamagedreplacementrequired",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "StreetLights",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "LightsbeingkeptONformoretime",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "StreetLights",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Lightpoleisobstructingthetraffic",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "StreetLights",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Electrocutionshock",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "StreetLights",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ElectricalPanelsareopen",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "StreetLights",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RepairingofStreetLightsotherthanmainroads",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "StreetLights",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Treeoranyotherobstructionstostreetlightorelectricwire",
+    "department": "DEPT_74"
+  },
+  {
+    "menuPath": "StreetLights",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "StreetLightsAnyothergrievance",
+    "department": "DEPT_74"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "StromWaterDrainage",
+    "serviceCode": "CleaningofopenSWD",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "StromWaterDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Cleaningofwaterentrancearea",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "StromWaterDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Floodingduringmonsoon",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "StromWaterDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RemovalofsiltfromNala",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "StromWaterDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RepairtodamagedSWDpipeofcloseddrain",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "StromWaterDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RepairstodamagedopenSWD",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "StromWaterDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RepairstodamagedNala",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "StromWaterDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "StromWaterDrainageAnyothergrievance",
+    "department": "DEPT_53"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "SwachhBharatMission",
+    "serviceCode": "RegardingDisbursement",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SwachhBharatMission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ConstructionofNewCTPT",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SwachhBharatMission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "MaintenanceofCTPT",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SwachhBharatMission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "IHHLIncentiveRelease",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "SwachhBharatMission",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "SwachhBharatMissionAnyothergrievance",
+    "department": "DEPT_72"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "Tree(s)related",
+    "serviceCode": "Dangeroustreemaycausedamagetothepropertylife",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "Tree(s)related",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unauthorisedtreecutting",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "Tree(s)related",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Trimmingoftreerequired",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "Tree(s)related",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Liftingoffallencuttree",
+    "department": "DEPT_72"
+  },
+  {
+    "menuPath": "Tree(s)related",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "TreesrelatedAnyothergrievance",
+    "department": "DEPT_72"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "Unauthorisedconstruction",
+    "serviceCode": "Illegalreligiousstructuresonroadfootpath",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Unauthorisedconstruction",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Illegalslumhutments",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Unauthorisedconstruction",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unauthorisedalterationrenovation",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Unauthorisedconstruction",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "UnauthorisedConstructiononofGovtLand",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Unauthorisedconstruction",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unauthorisedexpansionofroads",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Unauthorisedconstruction",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Unauthorisednewconstruction",
+    "department": "DEPT_66"
+  },
+  {
+    "menuPath": "Unauthorisedconstruction",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "UnauthorisedconstructionAnyothergrievance",
+    "department": "DEPT_66"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "UndergroundDrainage",
+    "serviceCode": "Chockupofundergrounddrainage",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "UndergroundDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Overflowingofundergrounddrainmanholes",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "UndergroundDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "OdourFoulsmellfromdrains",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "UndergroundDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Raisingofundergrounddrainagemanholechambers",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "UndergroundDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "SoakpitfilleduporNotCleaned",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "UndergroundDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Replacementofmissingordamagedundergroundpipes",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "UndergroundDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Replacementofmissingdamagedcovers",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "UndergroundDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Seweragetreatmentplantnonfunctionalnotfunctioningoptimally",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "UndergroundDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Cleaningofseptictank",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "UndergroundDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Inspectionchamberchoked",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "UndergroundDrainage",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "UndergroundDrainageAnyothergrievance",
+    "department": "DEPT_53"
+  },
+  {
+    "menuPath": "WaterBillrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Disputerelatedtoarrearspenaltycharged",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterBillrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Disputerelatedtometerreading",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterBillrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "FaultyMeter",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterBillrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Nonreceiptofbills",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterBillrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Rectificationinnameandaddress",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterBillrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Theftofmeter",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterBillrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Delayinrefundofsecuritydeposit",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterBillrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Delayinconversionofconnectiontype",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterBillrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "WaterBillrelatedAnyothergrievance",
+    "department": "DEPT_71"
+  },
+  {
+    "active": true,
+    "slaHours": 48,
+    "menuPath": "WaterSupplyrelated",
+    "serviceCode": "WaterSupplyDefunctTubewell",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterSupplyrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "InstallationofWatersupplystreetPost",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterSupplyrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Installationoftubewells",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterSupplyrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ProvidingofPipeWater",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterSupplyrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "ClearanceofPipeLine",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterSupplyrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RepairingofPipeline",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterSupplyrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Lesswatercomingwithlowpressure",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterSupplyrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "Requestingofwatertanker",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterSupplyrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "RequisitionforWaterPumpAsperavailabilityonSpot",
+    "department": "DEPT_71"
+  },
+  {
+    "menuPath": "WaterSupplyrelated",
+    "active": true,
+    "slaHours": 48,
+    "serviceCode": "WaterSupplyrelatedAnyothergrievance",
+    "department": "DEPT_71"
+  }
+]
+}

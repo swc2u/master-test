@@ -1,0 +1,27 @@
+{
+    "tenantId": "od.dharamgarh",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Gopabandhu Nagar",
+            "ward": "13",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Back Side Town Hall",
+            "ward": "06",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "High School Pada",
+            "ward": "06",
+            "code": "SLM3",
+            "isActive": true
+        }
+    ]
+}

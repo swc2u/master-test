@@ -1,0 +1,34 @@
+{
+    "tenantId": "od.rajgangpur",
+    "moduleName": "egov-location",
+    "Slum": [
+        {
+            "id": 1,
+            "name": "Jhumpudipada",
+            "ward": "06",
+            "code": "SLM1",
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "Bagichapada",
+            "ward": "10",
+            "code": "SLM2",
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Kundupada",
+            "ward": "07",
+            "code": "SLM3",
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Ranibandh",
+            "ward": "14",
+            "code": "SLM4",
+            "isActive": true
+        }
+    ]
+}
